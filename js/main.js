@@ -263,11 +263,20 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function openGuide(guide) {
         currentGuide = guide;
+        let imagesHTML = '';
+        if (guide.images && guide.images.length) {
+            imagesHTML = '<div class="guide-images">' +
+                guide.images.map(url =>
+                    `<img src="${url}" alt="${guide.title}" loading="lazy">`
+                ).join('') +
+            '</div>';
+        }
         guideModalBody.innerHTML = `
             <h2>${guide.title}</h2>
             <div class="guide-meta">
                 <span><i class="fas fa-tag"></i> ${guide.category}</span>
             </div>
+            ${imagesHTML}
             ${guide.content}
         `;
         guideModal.classList.add('open');

@@ -228,12 +228,17 @@ async function updateGuides(message) {
       guides = JSON.parse(Buffer.from(file.content, 'base64').toString());
     }
 
+    const images = message.attachments
+      .filter(a => /\.(jpg|jpeg|png|gif|webp)$/i.test(a.name))
+      .map(a => a.url);
+
     guides.unshift({
       id,
       title,
       description,
       category,
       icon,
+      images,
       content: contentHTML,
     });
 
