@@ -193,26 +193,19 @@ function slugify(text) {
 
 async function updateGuides(message) {
   try {
-    const lines = message.content.split('\n');
-    const title = lines[0].trim() || 'Гайд';
-    const bodyLines = lines.slice(1);
-    const hashtags = [];
-    const contentLines = [];
-
     const hashtagRe = /#[^\s#]+/g;
-    for (const line of bodyLines) {
-      const tags = line.match(hashtagRe);
-      if (tags) {
-        hashtags.push(...tags.map(t => t.slice(1).toLowerCase()));
-      }
-      contentLines.push(line.replace(hashtagRe, '').trim());
-    }
+    const allTags = message.content.match(hashtagRe) || [];
+    const hashtags = allTags.map(t => t.slice(1).toLowerCase());
+
+    const raw = message.content.replace(hashtagRe, '').trim();
+    const lines = raw.split('\n').filter(l => l.trim());
+    const title = lines[0]?.trim() || 'Гайд';
+    const cleanBody = lines.slice(1).join('\n') || title;
 
     const rawCategory = hashtags.find(t => CATEGORY_MAP[t]) || 'гайд';
     const category = CATEGORY_MAP[rawCategory] || rawCategory;
     const icon = CATEGORY_ICONS[category] || CATEGORY_ICONS['гайд'];
 
-    const cleanBody = contentLines.filter(l => l).join('\n');
     const paragraphs = cleanBody.split('\n').filter(l => l.trim());
     const contentHTML = paragraphs.map(p => `<p>${p.trim()}</p>`).join('');
 
