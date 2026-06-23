@@ -97,7 +97,7 @@ client.on('guildMemberAdd', async (member) => {
       `🏝️ **Добро пожаловать на AMURKA PVE!**\n\n` +
       `Привет, ${member}! Добро пожаловать на сервер.\n\n` +
       `📜 Ознакомься с правилами в канале #правила\n` +
-      `📥 Скачай лаунчер: https://disk.yandex.ru/d/GFBxfdeUMHA8mA\n` +
+      `📥 Скачай лаунчер: https://disk.yandex.ru/d/D6CmsoUppAPJXw\n` +
        `🌐 Наш сайт: https://amurka-pve-scum.github.io/\n` +
       `🎮 IP сервера: **85.88.179.207:7004**\n\n` +
       `Используй \`!help\` для списка команд`
