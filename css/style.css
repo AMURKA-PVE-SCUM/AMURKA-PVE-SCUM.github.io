@@ -1216,6 +1216,8 @@ body {
     position: relative;
     overflow: hidden;
     cursor: pointer;
+    display: flex;
+    flex-direction: column;
 }
 
 .guide-card::before {
@@ -1271,6 +1273,7 @@ body {
     font-size: 0.85rem;
     line-height: 1.6;
     margin-bottom: 16px;
+    flex: 1;
 }
 
 .guide-card-tag {
@@ -1283,6 +1286,7 @@ body {
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 1px;
+    margin-top: auto;
 }
 
 .guide-card.hidden {
