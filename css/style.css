@@ -1364,6 +1364,235 @@ body {
     margin: 0;
 }
 
+/* ── STREAMER EMBED ── */
+.streamer-card {
+    flex-direction: column;
+    padding: 0;
+    overflow: hidden;
+    align-items: stretch;
+}
+
+.streamer-embed {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    background: #000;
+    border-radius: 16px 16px 0 0;
+    overflow: hidden;
+}
+
+.streamer-embed iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+.streamer-card .streamer-info {
+    padding: 16px 20px 20px;
+}
+
+/* ── VOTE ── */
+.vote-section {
+    background: var(--bg-secondary);
+}
+
+.vote-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 24px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.vote-card {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 16px;
+    padding: 28px;
+    text-decoration: none;
+    color: var(--text-primary);
+    transition: var(--transition);
+    position: relative;
+    overflow: hidden;
+}
+
+.vote-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    transition: var(--transition);
+}
+
+.vote-card.wargm::before { background: var(--accent-orange); }
+.vote-card.battlemetrics::before { background: var(--accent-blue); }
+
+.vote-card:hover {
+    transform: translateY(-5px);
+    border-color: var(--border-glow);
+    box-shadow: var(--shadow-neon);
+}
+
+.vote-icon {
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+    font-size: 1.5rem;
+    flex-shrink: 0;
+}
+
+.vote-card.wargm .vote-icon {
+    background: rgba(255, 107, 53, 0.1);
+    color: var(--accent-orange);
+}
+
+.vote-card.battlemetrics .vote-icon {
+    background: rgba(0, 212, 255, 0.1);
+    color: var(--accent-blue);
+}
+
+.vote-info h3 {
+    font-family: var(--font-heading);
+    font-size: 1.1rem;
+    margin-bottom: 6px;
+}
+
+.vote-info p {
+    color: var(--text-secondary);
+    font-size: 0.85rem;
+    margin-bottom: 12px;
+    line-height: 1.5;
+}
+
+.vote-btn {
+    color: var(--accent-green);
+    font-weight: 600;
+    font-size: 0.9rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    transition: var(--transition);
+}
+
+.vote-card:hover .vote-btn { gap: 10px; }
+
+/* ── DONATE ── */
+.donate-section {
+    background: var(--bg-primary);
+}
+
+.donate-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 24px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.donate-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 20px;
+    padding: 36px 28px;
+    text-align: center;
+    transition: var(--transition);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.donate-card:hover {
+    border-color: var(--border-glow);
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-neon);
+}
+
+.donate-card.featured {
+    border-color: var(--accent-green);
+    box-shadow: 0 0 30px rgba(0, 255, 136, 0.15);
+    transform: scale(1.05);
+}
+
+.donate-card.featured:hover {
+    transform: scale(1.05) translateY(-5px);
+}
+
+.donate-badge {
+    position: absolute;
+    top: -12px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: linear-gradient(135deg, var(--accent-green), #00cc6e);
+    color: #000;
+    padding: 4px 20px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.donate-header {
+    margin-bottom: 24px;
+}
+
+.donate-tier {
+    display: block;
+    font-family: var(--font-heading);
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+    margin-bottom: 8px;
+}
+
+.donate-price {
+    display: block;
+    font-family: var(--font-heading);
+    font-size: 2.5rem;
+    font-weight: 900;
+    color: var(--accent-green);
+    text-shadow: 0 0 20px rgba(0, 255, 136, 0.4);
+}
+
+.donate-perks {
+    list-style: none;
+    text-align: left;
+    flex: 1;
+    margin-bottom: 24px;
+}
+
+.donate-perks li {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--border-color);
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+}
+
+.donate-perks li:last-child { border-bottom: none; }
+
+.donate-perks li i {
+    color: var(--accent-green);
+    font-size: 0.8rem;
+}
+
+.donate-btn {
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+}
+
 /* ── TOAST ── */
 .toast {
     position: fixed;
@@ -1480,7 +1709,9 @@ body {
     .advantages-grid,
     .commands-grid,
     .streamers-grid,
-    .news-grid {
+    .news-grid,
+    .vote-grid,
+    .donate-grid {
         grid-template-columns: 1fr;
     }
 
@@ -1548,5 +1779,24 @@ body {
     .gallery-grid {
         grid-template-columns: repeat(2, 1fr);
         gap: 10px;
+    }
+
+    .donate-card.featured {
+        transform: none;
+    }
+
+    .donate-card.featured:hover {
+        transform: translateY(-5px);
+    }
+
+    .vote-card {
+        flex-direction: column;
+        text-align: center;
+        padding: 24px;
+    }
+
+    .vote-card::before {
+        width: 100%;
+        height: 4px;
     }
 }
