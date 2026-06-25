@@ -119,12 +119,33 @@ async function updateScreenshots(message, attachments) {
     }
 
     for (const [, att] of attachments) {
-      screenshots.unshift({
-        url: att.url,
-        author: message.author.username,
-        date: new Date().toISOString(),
-        message: message.content || '',
-      });
+      const ext = att.name.includes('.') ? att.name.split('.').pop() : 'webp';
+      const ts = Date.now();
+      const imgPath = `data/screenshots/${ts}.${ext}`;
+
+      const imgRes = await fetch(att.url);
+      const imgBuf = Buffer.from(await imgRes.arrayBuffer());
+      const b64 = imgBuf.toString('base64');
+
+      try {
+        await octokit.repos.createOrUpdateFileContents({
+          owner, repo, path: imgPath,
+          message: `Screenshot from ${message.author.username}`,
+          content: b64,
+          sha: undefined,
+        });
+
+        const rawUrl = `https://raw.githubusercontent.com/${owner}/${repo}/main/${imgPath}`;
+
+        screenshots.unshift({
+          url: rawUrl,
+          author: message.author.username,
+          date: new Date().toISOString(),
+          message: message.content || '',
+        });
+      } catch (uploadErr) {
+        console.error('❌ Upload error:', uploadErr.message);
+      }
     }
 
     screenshots = screenshots.slice(0, 50);
