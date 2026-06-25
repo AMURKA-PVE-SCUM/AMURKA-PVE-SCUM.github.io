@@ -243,17 +243,23 @@ document.addEventListener('DOMContentLoaded', () => {
                     `;
                     newsGrid.appendChild(article);
                 });
+                initGLightbox();
             })
-            .catch(() => {});
+            .catch(() => { initGLightbox(); });
+    } else {
+        initGLightbox();
     }
 
-    // ── GLightbox ──
-    if (typeof GLightbox !== 'undefined') {
-        GLightbox({
-            selector: '.gallery-item',
-            touchNavigation: true,
-            loop: true
-        });
+    function initGLightbox() {
+        if (typeof GLightbox !== 'undefined') {
+            GLightbox({
+                selector: '.gallery-item',
+                touchNavigation: true,
+                loop: true,
+                closeButton: true,
+                closeOnOverlay: true,
+            });
+        }
     }
 
     // ── Guides from JSON ──
