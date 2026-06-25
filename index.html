@@ -45,7 +45,6 @@
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nicbarker/glightbox@master/dist/css/glightbox.min.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -725,7 +724,14 @@
     </div>
 
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/nicbarker/glightbox@master/dist/js/glightbox.min.js"></script>
     <script src="js/main.js"></script>
+
+    <div class="screenshot-modal" id="screenshotModal">
+        <div class="screenshot-modal-backdrop" id="screenshotModalBackdrop"></div>
+        <div class="screenshot-modal-content">
+            <button class="screenshot-modal-close" id="screenshotModalClose"><i class="fas fa-times"></i></button>
+            <img id="screenshotModalImg" src="" alt="">
+        </div>
+    </div>
 </body>
 </html>

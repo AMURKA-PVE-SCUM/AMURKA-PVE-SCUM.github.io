@@ -243,24 +243,38 @@ document.addEventListener('DOMContentLoaded', () => {
                     `;
                     newsGrid.appendChild(article);
                 });
-                initGLightbox();
             })
-            .catch(() => { initGLightbox(); });
-    } else {
-        initGLightbox();
+            .catch(() => {});
     }
 
-    function initGLightbox() {
-        if (typeof GLightbox !== 'undefined') {
-            GLightbox({
-                selector: '.gallery-item',
-                touchNavigation: true,
-                loop: true,
-                closeButton: true,
-                closeOnOverlay: true,
-            });
+    // ── Simple screenshot lightbox ──
+    const screenshotModal = document.getElementById('screenshotModal');
+    const screenshotModalImg = document.getElementById('screenshotModalImg');
+    const screenshotModalClose = document.getElementById('screenshotModalClose');
+    const screenshotModalBackdrop = document.getElementById('screenshotModalBackdrop');
+
+    document.addEventListener('click', (e) => {
+        const item = e.target.closest('.gallery-item');
+        if (!item || !screenshotModal) return;
+        e.preventDefault();
+        const img = item.querySelector('img');
+        if (img) {
+            screenshotModalImg.src = img.src;
+            screenshotModal.classList.add('open');
+            document.body.style.overflow = 'hidden';
         }
+    });
+
+    function closeScreenshotModal() {
+        screenshotModal.classList.remove('open');
+        document.body.style.overflow = '';
     }
+
+    if (screenshotModalClose) screenshotModalClose.addEventListener('click', closeScreenshotModal);
+    if (screenshotModalBackdrop) screenshotModalBackdrop.addEventListener('click', closeScreenshotModal);
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') closeScreenshotModal();
+    });
 
     // ── Guides from JSON ──
     const guidesGrid = document.getElementById('guidesGrid');
