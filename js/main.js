@@ -196,7 +196,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     async function fetchWargmRating() {
         try {
-            const res = await fetch('https://api.allorigins.win/raw?url=https://wargm.ru/server/77385', { signal: AbortSignal.timeout(8000) });
+            const url = 'https://corsproxy.io/?url=' + encodeURIComponent('https://wargm.ru/server/77385');
+            const res = await fetch(url, { signal: AbortSignal.timeout(8000) });
             const html = await res.text();
             const match = html.match(/В рейтинге\s+(\d+)/);
             if (match && wargmRating) wargmRating.textContent = match[1];
