@@ -160,6 +160,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const serverVersion = document.getElementById('serverVersion');
     const serverTime = document.getElementById('serverTime');
     const heroOnline = document.querySelector('.hero-stats .stat-number[data-count]');
+    const bmRating = document.getElementById('bmRating');
+    const wargmRating = document.getElementById('wargmRating');
 
     async function fetchServerStatus() {
         try {
@@ -183,14 +185,28 @@ document.addEventListener('DOMContentLoaded', () => {
             if (heroOnline) {
                 heroOnline.textContent = attrs.players;
             }
+            if (bmRating) {
+                bmRating.textContent = attrs.rank;
+            }
         } catch (e) {
             statusDot.classList.remove('online');
             statusText.textContent = 'Ошибка';
         }
     }
 
+    async function fetchWargmRating() {
+        try {
+            const res = await fetch('https://api.allorigins.win/raw?url=https://wargm.ru/server/77385', { signal: AbortSignal.timeout(8000) });
+            const html = await res.text();
+            const match = html.match(/В рейтинге\s+(\d+)/);
+            if (match && wargmRating) wargmRating.textContent = match[1];
+        } catch {}
+    }
+
     fetchServerStatus();
     setInterval(fetchServerStatus, 30000);
+    fetchWargmRating();
+    setInterval(fetchWargmRating, 600000);
 
     // ── Load screenshots from bot ──
     const galleryGrid = document.querySelector('.gallery-grid');
