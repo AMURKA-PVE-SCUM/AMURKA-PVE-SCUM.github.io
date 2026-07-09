@@ -7,32 +7,34 @@ document.addEventListener('DOMContentLoaded', () => {
         offset: 50
     });
 
-    // ── Streamers ──
-    const streamers = [
-        { name: 'netrezvbii_kot', slug: 'netrezvbii_kot', title: 'SCUM PVE' },
-        { name: 'vita_min_ka', slug: 'vita_min_ka', title: 'SCUM PVE' },
-        { name: 'gatu', slug: 'gatu', title: 'SCUM PVE' },
-        { name: 'domo', slug: 'domo', title: 'SCUM PVE' },
-    ];
-
+    // ── Streamers (из JSON) ──
     const grid = document.getElementById('streamersGrid');
     if (grid) {
-        streamers.forEach((s, i) => {
-            const card = document.createElement('div');
-            card.className = 'streamer-card';
-            card.setAttribute('data-aos', 'fade-up');
-            card.setAttribute('data-aos-delay', String(100 + i * 100));
-            card.innerHTML = `
-                <div class="streamer-info">
-                    <h3>${s.name}</h3>
-                    <p>${s.title}</p>
-                    <a href="https://live.vkvideo.ru/${s.slug}" class="streamer-link" target="_blank">
-                        <i class="fab fa-vk"></i> VK Видео Live
-                    </a>
-                </div>
-            `;
-            grid.appendChild(card);
-        });
+        fetch('data/streamers.json')
+            .then(r => r.json())
+            .then(streamers => {
+                if (!streamers.length) return;
+                grid.innerHTML = '';
+                streamers.forEach((s, i) => {
+                    const card = document.createElement('div');
+                    card.className = 'streamer-card';
+                    card.setAttribute('data-aos', 'fade-up');
+                    card.setAttribute('data-aos-delay', String(100 + i * 100));
+                    const platformIcon = s.platform === 'youtube' ? 'fab fa-youtube' : s.platform === 'twitch' ? 'fab fa-twitch' : 'fab fa-vk';
+                    const platformName = s.platform === 'youtube' ? 'YouTube' : s.platform === 'twitch' ? 'Twitch' : 'VK Видео Live';
+                    card.innerHTML = `
+                        <div class="streamer-info">
+                            <h3>${s.name}</h3>
+                            <p>SCUM PVE</p>
+                            <a href="${s.url}" class="streamer-link" target="_blank">
+                                <i class="${platformIcon}"></i> ${platformName}
+                            </a>
+                        </div>
+                    `;
+                    grid.appendChild(card);
+                });
+            })
+            .catch(() => {});
     }
 
     // ── Particles ──
