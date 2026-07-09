@@ -364,7 +364,7 @@ client.once('ready', (c) => {
   console.log(`✅ Бот запущен: ${c.user.tag}`);
 
   if (CHANNEL_VOTES) {
-    setInterval(() => {
+    const sendVoteReminder = () => {
       const ch = client.channels.cache.get(CHANNEL_VOTES);
       if (!ch) return;
       ch.send(
@@ -372,7 +372,9 @@ client.once('ready', (c) => {
         `За голоса можно покупать предметы на сервере.\n` +
         `<https://wargm.ru/server/77385/votes>`
       ).catch(() => {});
-    }, 4 * 60 * 60 * 1000); // каждые 4 часа
+    };
+    sendVoteReminder();
+    setInterval(sendVoteReminder, 4 * 60 * 60 * 1000); // каждые 4 часа
   }
 });
 
