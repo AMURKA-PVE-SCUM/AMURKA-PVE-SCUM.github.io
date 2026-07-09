@@ -16,6 +16,7 @@ const CHANNEL_SCREENSHOTS = process.env.CHANNEL_SCREENSHOTS || '';
 const CHANNEL_NEWS = process.env.CHANNEL_NEWS || '';
 const CHANNEL_GUIDES = process.env.CHANNEL_GUIDES || '';
 const CHANNEL_WELCOME = process.env.CHANNEL_WELCOME || '';
+const CHANNEL_VOTES = process.env.CHANNEL_VOTES || '';
 const GUILD_ID = process.env.GUILD_ID || '';
 const ROLE_PLAYERS = process.env.ROLE_PLAYERS || '';
 
@@ -97,8 +98,9 @@ client.on('guildMemberAdd', async (member) => {
       `🏝️ **Добро пожаловать на AMURKA PVE!**\n\n` +
       `Привет, ${member}! Добро пожаловать на сервер.\n\n` +
       `📜 Ознакомься с правилами в канале #правила\n` +
-      `📥 Скачай лаунчер: https://disk.yandex.ru/d/D6CmsoUppAPJXw\n` +
-       `🌐 Наш сайт: https://amurka-pve-scum.github.io/\n` +
+      `📥 [Скачать лаунчер](https://github.com/AMURKA-PVE-SCUM/AMURKA-PVE-Launcher/releases/download/v2.0.0/AMURKA.PVE.Launcher.Setup.2.0.0.exe)\n` +
+      `🗳 [Проголосовать за сервер](https://wargm.ru/server/77385/votes)\n` +
+      `🌐 [Наш сайт](https://amurka-pve-scum.github.io/)\n` +
       `🎮 IP сервера: **85.88.179.207:7004**\n\n` +
       `Используй \`!help\` для списка команд`
     );
@@ -198,13 +200,15 @@ async function updateNews(message) {
 }
 
 function slugify(text) {
-  const ru = 'а б в г д е ё ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я'.split(' ');
-  const en = 'a b v g d e yo zh z i y k l m n o p r s t u f kh ts ch sh shch y y e yu ya'.split(' ');
+  const map = {
+    'а': 'a', 'б': 'b', 'в': 'v', 'г': 'g', 'д': 'd', 'е': 'e', 'ё': 'yo',
+    'ж': 'zh', 'з': 'z', 'и': 'i', 'й': 'y', 'к': 'k', 'л': 'l', 'м': 'm',
+    'н': 'n', 'о': 'o', 'п': 'p', 'р': 'r', 'с': 's', 'т': 't', 'у': 'u',
+    'ф': 'f', 'х': 'kh', 'ц': 'ts', 'ч': 'ch', 'ш': 'sh', 'щ': 'shch',
+    'ъ': 'y', 'ы': 'y', 'ь': 'e', 'э': 'e', 'ю': 'yu', 'я': 'ya',
+  };
   return text.toLowerCase()
-    .replace(/[а-яё]/g, (c) => {
-      const i = ru.indexOf(c);
-      return i >= 0 ? en[i] : c;
-    })
+    .replace(/[а-яё]/g, (c) => map[c] || c)
     .replace(/[^a-z0-9\s-]/g, '')
     .replace(/\s+/g, '-')
     .replace(/-+/g, '-')
@@ -358,6 +362,18 @@ async function sendServerInfo(channel) {
 
 client.once('ready', (c) => {
   console.log(`✅ Бот запущен: ${c.user.tag}`);
+
+  if (CHANNEL_VOTES) {
+    setInterval(() => {
+      const ch = client.channels.cache.get(CHANNEL_VOTES);
+      if (!ch) return;
+      ch.send(
+        `🗳 Голосуй за сервер — это помогает привлечь новых игроков!\n` +
+        `За голоса можно покупать предметы на сервере.\n` +
+        `<https://wargm.ru/server/77385/votes>`
+      ).catch(() => {});
+    }, 4 * 60 * 60 * 1000); // каждые 4 часа
+  }
 });
 
 process.on('uncaughtException', (e) => console.error('💥', e.message));
