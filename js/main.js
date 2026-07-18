@@ -167,7 +167,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     async function fetchServerStatus() {
         try {
-            const res = await fetch('https://api.battlemetrics.com/servers/38990087');
+            const res = await fetch('https://api.battlemetrics.com/servers/40071766');
             const data = await res.json();
             const attrs = data.data.attributes;
 
