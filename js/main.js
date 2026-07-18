@@ -122,7 +122,7 @@ document.addEventListener('DOMContentLoaded', () => {
     counters.forEach(c => counterObserver.observe(c));
 
     // ── Copy IP ──
-    const serverIp = '85.88.179.207:7004';
+    const serverIp = '212.22.93.89:20022';
     const toast = document.getElementById('toast');
     const toastText = document.getElementById('toastText');
 
