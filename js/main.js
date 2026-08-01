@@ -154,24 +154,22 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // ── Server status from BattleMetrics API ──
+    // ── Server status from data/server-status.json (обновляет бот через Wargm) ──
     const statusDot = document.querySelector('.status-dot');
     const statusText = document.getElementById('statusText');
     const onlineCount = document.getElementById('onlineCount');
     const maxPlayers = document.getElementById('maxPlayers');
     const serverVersion = document.getElementById('serverVersion');
-    const serverTime = document.getElementById('serverTime');
     const heroOnline = document.querySelector('.hero-stats .stat-number[data-count]');
-    const bmRating = document.getElementById('bmRating');
     const wargmRating = document.getElementById('wargmRating');
+    const uptimeValue = document.getElementById('uptimeValue');
 
     async function fetchServerStatus() {
         try {
-            const res = await fetch('https://api.battlemetrics.com/servers/40071766');
+            const res = await fetch('data/server-status.json', { cache: 'no-store' });
             const data = await res.json();
-            const attrs = data.data.attributes;
 
-            if (attrs.status === 'online') {
+            if (data.online) {
                 statusDot.classList.add('online');
                 statusText.textContent = 'Онлайн';
             } else {
@@ -179,37 +177,20 @@ document.addEventListener('DOMContentLoaded', () => {
                 statusText.textContent = 'Офлайн';
             }
 
-            if (onlineCount) onlineCount.textContent = attrs.players;
-            if (maxPlayers) maxPlayers.textContent = attrs.maxPlayers;
-            if (serverVersion) serverVersion.textContent = attrs.details.version.substring(0, 11);
-            if (serverTime) serverTime.textContent = attrs.details.time || '—';
-
-            if (heroOnline) {
-                heroOnline.textContent = attrs.players;
-            }
-            if (bmRating) {
-                bmRating.textContent = attrs.rank;
-            }
+            if (onlineCount) onlineCount.textContent = data.players;
+            if (maxPlayers) maxPlayers.textContent = data.maxPlayers;
+            if (serverVersion) serverVersion.textContent = String(data.version || '').substring(0, 11);
+            if (heroOnline) heroOnline.textContent = data.players;
+            if (wargmRating) wargmRating.textContent = data.rating;
+            if (uptimeValue) uptimeValue.textContent = data.uptime != null ? data.uptime + '%' : '—';
         } catch (e) {
             statusDot.classList.remove('online');
             statusText.textContent = 'Ошибка';
         }
     }
 
-    async function fetchWargmRating() {
-        try {
-            const url = 'https://corsproxy.io/?url=' + encodeURIComponent('https://wargm.ru/server/77385');
-            const res = await fetch(url, { signal: AbortSignal.timeout(8000) });
-            const html = await res.text();
-            const match = html.match(/В рейтинге\s+(\d+)/);
-            if (match && wargmRating) wargmRating.textContent = match[1];
-        } catch {}
-    }
-
     fetchServerStatus();
-    setInterval(fetchServerStatus, 30000);
-    fetchWargmRating();
-    setInterval(fetchWargmRating, 600000);
+    setInterval(fetchServerStatus, 60000);
 
     // ── Load screenshots from bot ──
     const galleryGrid = document.querySelector('.gallery-grid');
