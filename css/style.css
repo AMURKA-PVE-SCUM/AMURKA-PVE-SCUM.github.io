@@ -14,8 +14,8 @@
     --border-glow: rgba(0, 255, 136, 0.15);
     --shadow-neon: 0 0 20px rgba(0, 255, 136, 0.3);
     --shadow-card: 0 4px 30px rgba(0, 0, 0, 0.5);
-    --font-heading: 'Orbitron', 'Tektur', sans-serif;
-    --font-body: 'Orbitron', 'Tektur', sans-serif;
+    --font-heading: 'Exo 2', sans-serif;
+    --font-body: 'Exo 2', sans-serif;
     --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
