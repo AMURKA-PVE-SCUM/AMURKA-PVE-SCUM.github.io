@@ -1774,6 +1774,37 @@ body {
     gap: 24px;
 }
 
+.advantage-callout {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    background: rgba(0, 255, 136, 0.06);
+    border: 1px solid var(--border-glow);
+    border-radius: 14px;
+    padding: 24px 28px;
+    margin-bottom: 40px;
+}
+
+.advantage-callout > i {
+    font-size: 1.6rem;
+    color: var(--accent-green);
+    flex-shrink: 0;
+}
+
+.advantage-callout p {
+    flex: 1;
+    min-width: 240px;
+    margin: 0;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    font-size: 0.95rem;
+}
+
+.advantage-callout strong {
+    color: var(--accent-green);
+}
+
 .advantage-card {
     background: var(--bg-card);
     border: 1px solid var(--border-color);
