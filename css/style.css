@@ -784,6 +784,51 @@ body {
     flex-direction: column;
 }
 
+.mods-cat-title {
+    font-family: var(--font-heading);
+    font-size: 1.1rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--text-primary);
+    margin: 48px 0 24px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.mods-cat-title:first-of-type {
+    margin-top: 8px;
+}
+
+.mods-cat-title i {
+    color: var(--accent-green);
+}
+
+.cat-count {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 34px;
+    height: 26px;
+    padding: 0 10px;
+    border-radius: 13px;
+    background: rgba(0, 255, 136, 0.12);
+    border: 1px solid var(--border-glow);
+    color: var(--accent-green);
+    font-size: 0.8rem;
+}
+
+.mods-more-note {
+    margin-top: 40px;
+    text-align: center;
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+}
+
+.mods-more-note a {
+    color: var(--accent-green);
+}
+
 .mod-card-more .btn {
     margin-top: auto;
     align-self: flex-start;
