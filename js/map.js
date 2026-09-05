@@ -16,7 +16,7 @@
   const bounds = [[0, 0], [MAX_COORD, MAX_COORD]];
   L.imageOverlay('map.jpg', bounds).addTo(map);
   map.fitBounds(bounds);
-  map.setZoom(-1);
+  map.setZoom(1);
 
   function gameToLatLng(x, y) {
     return [(WORLD - y) / (2 * WORLD) * MAX_COORD, (x + WORLD) / (2 * WORLD) * MAX_COORD];
