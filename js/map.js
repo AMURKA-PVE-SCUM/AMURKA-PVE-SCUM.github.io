@@ -1,7 +1,12 @@
 (() => {
   'use strict';
 
-  const WORLD = 619200;
+  // SCUM expanded island coordinate extents.
+  // The map is not centered at (0, 0): X/Y use an asymmetric world range.
+  const X_MIN = -905369.0266;
+  const X_MAX =  619646.8573;
+  const Y_MIN = -904357.5270;
+  const Y_MAX =  619659.7258;
   const MAX_COORD = 320;
 
   const map = L.map('map', {
@@ -14,18 +19,22 @@
   L.control.zoom({ position: 'topright' }).addTo(map);
 
   const bounds = [[0, 0], [MAX_COORD, MAX_COORD]];
-  L.imageOverlay('map.jpg', bounds).addTo(map);
+  L.imageOverlay('map.jpg', bounds, { crossOrigin: true }).addTo(map);
   map.fitBounds(bounds);
-  map.setZoom(1);
 
   function gameToLatLng(x, y) {
-    return [(WORLD - y) / (2 * WORLD) * MAX_COORD, (x + WORLD) / (2 * WORLD) * MAX_COORD];
+    // Leaflet Simple: lat grows downward on the image, lng grows right.
+    const lat = (Y_MAX - y) / (Y_MAX - Y_MIN) * MAX_COORD;
+    const lng = (X_MAX - x) / (X_MAX - X_MIN) * MAX_COORD;
+    return [lat, lng];
   }
   function latLngToGame(lat, lng) {
-    return [lng / MAX_COORD * (2 * WORLD) - WORLD, WORLD - lat / MAX_COORD * (2 * WORLD)];
+    const x = X_MAX - (lng / MAX_COORD) * (X_MAX - X_MIN);
+    const y = Y_MAX - (lat / MAX_COORD) * (Y_MAX - Y_MIN);
+    return [x, y];
   }
 
-  const coordsEl = document.getElementById('coords');
+  const coordsEl = document.getElementById('coordValue');
   map.on('mousemove', (e) => {
     const [x, y] = latLngToGame(e.latlng.lat, e.latlng.lng);
     coordsEl.textContent = `X: ${Math.round(x)}   Y: ${Math.round(y)}`;
@@ -59,6 +68,8 @@
     buildMarkers(pois);
     document.getElementById('status').innerHTML =
       `<i class="fas fa-check-circle"></i> Загружено <b>${pois.length.toLocaleString('ru-RU')}</b> POI в <b>${cats.length}</b> категориях`;
+    document.getElementById('poiTotal').textContent = pois.length.toLocaleString('ru-RU');
+    document.getElementById('catTotal').textContent = cats.length;
     showKey();
   }).catch(err => {
     document.getElementById('status').textContent = '⚠ Ошибка: ' + err.message;
@@ -112,8 +123,8 @@
         const icon = L.divIcon({
           className: 'amr-marker-wrap',
           html: `<div class="amr-marker" style="--clr:${color}"><span class="amr-glyph"><i class="fas ${faClass(p.i)}"></i></span></div>`,
-          iconSize: [26, 26],
-          iconAnchor: [13, 13],
+          iconSize: [27, 27],
+          iconAnchor: [13.5, 13.5],
         });
         const marker = L.marker(gameToLatLng(p.x, p.y), { icon, title: p.n });
         marker.bindPopup(`
@@ -170,6 +181,8 @@
   function updateStatus() {
     let active = 0;
     Object.values(categoryLayers).forEach(l => { if (map.hasLayer(l)) active++; });
+    const activeEl = document.getElementById('activeCount');
+    if (activeEl) activeEl.textContent = `${active} АКТИВНО`;
     document.getElementById('status').innerHTML =
       `<i class="fas fa-layer-group"></i> Активно категорий: <b>${active}</b> / ${Object.keys(categoryLayers).length}`;
   }
@@ -206,6 +219,17 @@
   document.getElementById('btnAll').addEventListener('click', () => setAll(true));
   document.getElementById('btnNone').addEventListener('click', () => setAll(false));
   document.getElementById('btnKey').addEventListener('click', showKey);
+  document.getElementById('btnResetView').addEventListener('click', () => map.fitBounds(bounds, { padding: [18, 18] }));
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === '/' && document.activeElement !== document.getElementById('search')) {
+      e.preventDefault();
+      document.getElementById('search').focus();
+    }
+    if (e.key === 'Escape' && document.activeElement === document.getElementById('search')) {
+      document.getElementById('search').blur();
+    }
+  });
 
   function faClass(faName) {
     if (!faName) return 'fa-circle';
