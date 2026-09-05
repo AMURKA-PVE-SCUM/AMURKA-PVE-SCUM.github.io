@@ -19,8 +19,21 @@
   L.control.zoom({ position: 'topright' }).addTo(map);
 
   const bounds = [[0, 0], [MAX_COORD, MAX_COORD]];
-  L.imageOverlay('map.jpg', bounds, { crossOrigin: true }).addTo(map);
-  map.fitBounds(bounds);
+
+  // Explicit panes: the map image MUST stay below all POI markers.
+  // Leaflet normally does this automatically, but we make it explicit so
+  // no site/CSS layer can accidentally put the image above the markers.
+  map.createPane('amurkaMapPane');
+  map.getPane('amurkaMapPane').style.zIndex = 200;
+  map.createPane('amurkaMarkerPane');
+  map.getPane('amurkaMarkerPane').style.zIndex = 700;
+
+  L.imageOverlay('map.jpg', bounds, {
+    crossOrigin: true,
+    pane: 'amurkaMapPane',
+    interactive: false
+  }).addTo(map);
+  map.fitBounds(bounds, { padding: [0, 0] });
 
   function gameToLatLng(x, y) {
     // Leaflet Simple: lat grows downward on the image, lng grows right.
@@ -126,7 +139,7 @@
           iconSize: [27, 27],
           iconAnchor: [13.5, 13.5],
         });
-        const marker = L.marker(gameToLatLng(p.x, p.y), { icon, title: p.n });
+        const marker = L.marker(gameToLatLng(p.x, p.y), { icon, title: p.n, pane: 'amurkaMarkerPane', zIndexOffset: 1000 });
         marker.bindPopup(`
           <div class="popup-title">${escapeHtml(p.n)}</div>
           <div class="popup-category">${escapeHtml(p.c)}</div>
