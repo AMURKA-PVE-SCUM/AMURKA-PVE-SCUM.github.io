@@ -56,6 +56,42 @@
   let allPois = [];
   let categoryLayers = {};
 
+  const RU = {
+    'Bunkers': 'Бункеры', 'Secret Bunkers': 'Секретные бункеры', 'Abandoned bunkers': 'Заброшенные бункеры', 'WW2 bunkers': 'Бункеры WWII',
+    'Bunker Hatch Doors': 'Люки бункеров', 'Killboxes': 'Киллбоксы', 'Hazmat Suit Lockers': 'Шкафы ХОЗ костюмов',
+    'Depleted Uranium Crates': 'Ящики обеднённого урана', 'Radiation Equipment Lockers': 'Шкафы радиационного снаряжения',
+    'Gas stations': 'Заправки', 'Propane Tank': 'Пропановые баки', 'Vehicle spawns': 'Спаун транспорта',
+    'Motorbike & bicycle spawns': 'Мотоциклы и велосипеды', 'Boat spawns': 'Лодки', 'Paddle spawns': 'Вёсла',
+    'RIB spawns': 'Надувные лодки', 'Wheelbarrow spawns': 'Тачки', 'Aircraft spawns': 'Авиатехника',
+    'Vehicle repair shops': 'Ремонт транспорта', 'Car garages': 'Гаражи',
+    'Villages': 'Деревни', 'Outposts': 'Аванпосты', 'Krsko POIs': 'Крско', 'Samobor POIs': 'Самобор',
+    'Novigrad POIs': 'Новиград', 'Points of interest': 'Точки интереса', 'Police stations': 'Полицейские участки',
+    'Schools': 'Школы', 'Hospital': 'Больница', 'Pharmacies': 'Аптеки', 'Medical Containers': 'Мед контейнеры',
+    'Workshops': 'Мастерские', 'Warehouses': 'Склады', 'Military Hangars': 'Военные ангары',
+    'Military Warehouses': 'Военные склады', 'Armory': 'Оружейные', 'Drill press / Lathe': 'Дрель / Токарный',
+    'Lockers': 'Шкафы', 'Red Toolboxes': 'Красные ящики с инструментами', 'Bookshelves': 'Книжные полки',
+    'Storage shed': 'Сарай для хранения', 'Log Cabin': 'Бревенчатый домик', 'Pile of planks': 'Штабель досок',
+    'Bricks': 'Кирпичи', 'Cement bags': 'Мешки цемента', 'Gravel bags': 'Мешки гравия',
+    'Graphite': 'Графит', 'Logs': 'Брёвна', 'Industrial storage silos': 'Промышленные силосы', 'Mine entrances': 'Входы в шахты',
+    'Food Shop': 'Продуктовый', 'Gun Shops': 'Оружейные магазины', 'Fishing Supplies': 'Рыболовный магазин',
+    'General Goods': 'Общий магазин', 'Mechanic': 'Механик', 'Hairdresser': 'Парикмахерская', "Hunter's Grotto": 'Охотничья гrotto',
+    'Hunting Towers': 'Охотничьи вышки', 'Hunting Camps': 'Охотничьи лагеря', 'Hunting Shops': 'Охотничьи магазины',
+    'Animal feeders': 'Кормушки для животных',
+    'Bars': 'Бары', 'Pubs': 'Пабы', 'Clubs': 'Клубы', 'Restaurants': 'Рестораны', 'Saloon': 'Салун',
+    'Caves': 'Пещеры', 'Underwater Caves': 'Подводные пещеры', 'Big Shipwrecks': 'Крупные кораблекрушения',
+    'Small Shipwrecks': 'Малые кораблекрушения', 'Lighthouses': 'Маяки', 'Churches': 'Церкви', 'Research Facilities': 'Научные учреждения',
+    'Quest books': 'Книги квестов', 'Quest Boards': 'Доски квестов', 'Quest Mailboxes': 'Почтовые ящики квестов',
+    'Fishing spots': 'Рыбные места', 'Wells': 'Колодцы', 'Hand water pumps': 'Ручные водяные насосы',
+    'Natural springs': 'Природные родники', 'Water dispensers': 'Водоёмы', 'Fountains': 'Фонтаны',
+    'Decorative fountains': 'Декоративные фонтаны', 'Small Docks': 'Малые причалы', 'Sardines': 'Сардины',
+    'ATM': 'Банкоматы', 'Phone Booths': 'Телефонные будки',
+    'Apple trees': 'Яблони', 'Cherry trees': 'Вишни', 'Pear trees': 'Груши', 'Fig trees': 'Инжир',
+    'Olive trees': 'Оливы', 'Date palms': 'Финиковые пальмы', 'Rose hip / dog rose': 'Шиповник', 'Grapevines': 'Виноградники',
+    'Strawberries': 'Клубника', 'Corn fields': 'Кукуруза', 'Potatoes': 'Картофель', 'Cabbages': 'Капуста',
+    'Carrots': 'Морковь', 'Broccoli': 'Брокколи', 'Onions': 'Лук', 'Parsnip': 'Пастернак',
+    'Watermelons': 'Арбузы', 'Sunflower fields': 'Подсолнухи',
+  };
+
   const sections = {
     'Бункеры': ['Bunkers', 'Secret Bunkers', 'Abandoned bunkers', 'WW2 bunkers', 'Bunker Hatch Doors', 'Killboxes', 'Hazmat Suit Lockers', 'Depleted Uranium Crates', 'Radiation Equipment Lockers'],
     'Заправки и транспорт': ['Gas stations', 'Propane Tank', 'Vehicle spawns', 'Motorbike & bicycle spawns', 'Boat spawns', 'Paddle spawns', 'RIB spawns', 'Wheelbarrow spawns', 'Aircraft spawns', 'Vehicle repair shops', 'Car garages'],
@@ -71,6 +107,8 @@
     'Растения': ['Apple trees', 'Cherry trees', 'Pear trees', 'Fig trees', 'Olive trees', 'Date palms', 'Rose hip / dog rose', 'Grapevines'],
     'Поля': ['Strawberries', 'Corn fields', 'Potatoes', 'Cabbages', 'Carrots', 'Broccoli', 'Onions', 'Parsnip', 'Watermelons', 'Sunflower fields'],
   };
+
+  function ru(name) { return RU[name] || name; }
 
   Promise.all([
     fetch('pois.json').then(r => r.json()),
@@ -119,7 +157,7 @@
     const color = brandColor(c.name);
     return `<div class="category-row" data-category="${escapeAttr(c.name)}">
       <span class="category-icon" style="--clr:${color}"><i class="fas ${faClass(c.icon)}"></i></span>
-      <span class="category-name">${escapeHtml(c.name)}</span>
+      <span class="category-name">${escapeHtml(ru(c.name))}</span>
       <span class="category-count">${c.count}</span>
     </div>`;
   }
@@ -142,7 +180,7 @@
         const marker = L.marker(gameToLatLng(p.x, p.y), { icon, title: p.n, pane: 'amurkaMarkerPane', zIndexOffset: 1000 });
         marker.bindPopup(`
           <div class="popup-title">${escapeHtml(p.n)}</div>
-          <div class="popup-category">${escapeHtml(p.c)}</div>
+          <div class="popup-category">${escapeHtml(ru(p.c))}</div>
           <div class="popup-coords">X: ${p.x.toFixed(0)}   Y: ${p.y.toFixed(0)}</div>
           ${p.d ? `<div class="popup-desc">${escapeHtml(p.d)}</div>` : ''}
           <button class="popup-teleport" data-copy="#Teleport ${p.x.toFixed(0)} ${p.y.toFixed(0)} 0">
