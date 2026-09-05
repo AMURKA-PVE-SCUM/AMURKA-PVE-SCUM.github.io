@@ -384,7 +384,7 @@
     buildMarkers(pois);
     document.getElementById('status').innerHTML =
       `<i class="fas fa-check-circle"></i> Загружено <b>${pois.length.toLocaleString('ru-RU')}</b> POI в <b>${cats.length}</b> категориях`;
-    showKey();
+    setAll(false);
   }).catch(err => {
     document.getElementById('status').textContent = '⚠ Ошибка: ' + err.message;
   });
@@ -472,7 +472,6 @@
       });
       categoryLayers[cat] = layer;
     }
-    cluster.addLayers(allMarkers);
 
     map.on('popupopen', () => {
       document.querySelectorAll('.popup-teleport').forEach(btn => {
