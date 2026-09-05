@@ -315,6 +315,49 @@ html, body {
     background: transparent !important;
     border: none !important;
 }
+
+/* ── Кластеры ── */
+.marker-cluster {
+    background: transparent !important;
+    border: none !important;
+}
+.leaflet-marker-icon .amr-cluster,
+.marker-cluster .amr-cluster {
+    width: 40px;
+    height: 40px;
+    margin: 0;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: radial-gradient(circle at 32% 30%, #1b1f2b, #0a0a0f 70%);
+    border: 2px solid var(--accent-green);
+    box-shadow: 0 0 14px rgba(0, 255, 136, 0.4), 0 2px 6px rgba(0, 0, 0, 0.6);
+    color: var(--accent-green);
+    font-weight: 800;
+    font-size: 12px;
+    font-family: var(--font-heading);
+    transition: transform 0.15s ease;
+}
+.leaflet-marker-icon .amr-cluster:hover {
+    transform: scale(1.12);
+    box-shadow: 0 0 22px rgba(0, 255, 136, 0.65), 0 2px 6px rgba(0, 0, 0, 0.6);
+}
+.marker-cluster .amr-cluster.medium {
+    border-color: var(--accent-blue);
+    color: var(--accent-blue);
+    box-shadow: 0 0 14px rgba(0, 212, 255, 0.4), 0 2px 6px rgba(0, 0, 0, 0.6);
+}
+.marker-cluster .amr-cluster.large {
+    border-color: var(--accent-orange);
+    color: var(--accent-orange);
+    box-shadow: 0 0 16px rgba(255, 107, 53, 0.5), 0 2px 6px rgba(0, 0, 0, 0.6);
+}
+.amr-cluster span {
+    line-height: 1;
+    text-shadow: 0 0 8px currentColor;
+}
+
 .amr-marker {
     width: 26px; height: 26px;
     border-radius: 50%;

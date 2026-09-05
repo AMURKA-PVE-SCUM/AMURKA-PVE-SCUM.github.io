@@ -322,6 +322,25 @@
   L.imageOverlay('map.jpg', bounds).addTo(map);
   map.fitBounds(bounds);
 
+  // Маркеры собираем в кластеры, чтобы не перекрывались на обзоре
+  const cluster = L.markerClusterGroup({
+    maxClusterRadius: 46,
+    disableClusteringAtZoom: 3,
+    spiderfyOnMaxZoom: true,
+    showCoverageOnHover: false,
+    zoomToBoundsOnClick: true,
+    iconCreateFunction(c) {
+      const n = c.getChildCount();
+      const tier = n < 50 ? 'small' : n < 200 ? 'medium' : 'large';
+      return L.divIcon({
+        html: `<div class="amr-cluster ${tier}"><span>${n}</span></div>`,
+        className: 'amr-marker-wrap',
+        iconSize: [40, 40],
+      });
+    },
+  });
+  cluster.addTo(map);
+
   function gameToLatLng(x, y) {
     return [(WORLD - y) / (2 * WORLD) * MAX_COORD, (x + WORLD) / (2 * WORLD) * MAX_COORD];
   }
@@ -337,6 +356,8 @@
 
   // ===== Данные =====
   let allPois = [];
+  const allMarkers = [];
+  const activeCats = new Set();
   let categoryLayers = {};
   const sections = {
     'Бункеры': ['Bunkers', 'Secret Bunkers', 'Abandoned bunkers', 'WW2 bunkers', 'Bunker Hatch Doors', 'Killboxes', 'Hazmat Suit Lockers', 'Depleted Uranium Crates', 'Radiation Equipment Lockers'],
@@ -447,9 +468,11 @@
           </button>
         `);
         layer.addLayer(marker);
+        allMarkers.push(marker);
       });
       categoryLayers[cat] = layer;
     }
+    cluster.addLayers(allMarkers);
 
     map.on('popupopen', () => {
       document.querySelectorAll('.popup-teleport').forEach(btn => {
@@ -458,19 +481,27 @@
     });
   }
 
-  // ===== Переключение категорий =====
+  // ===== Показ/скрытие категорий =====
+  function setCatOn(name) {
+    if (activeCats.has(name)) return;
+    const l = categoryLayers[name];
+    if (l) { cluster.addLayers(l.getLayers()); activeCats.add(name); }
+  }
+  function setCatOff(name) {
+    if (!activeCats.has(name)) return;
+    const l = categoryLayers[name];
+    if (l) { cluster.removeLayers(l.getLayers()); activeCats.delete(name); }
+  }
+
   function toggleCategory(name, el) {
-    const layer = categoryLayers[name];
-    if (!layer) return;
-    if (map.hasLayer(layer)) { map.removeLayer(layer); el.classList.add('disabled'); }
-    else { map.addLayer(layer); el.classList.remove('disabled'); }
+    if (activeCats.has(name)) { setCatOff(name); el.classList.add('disabled'); }
+    else { setCatOn(name); el.classList.remove('disabled'); }
     updateStatus();
   }
 
   function setAll(show) {
-    for (const [name, layer] of Object.entries(categoryLayers)) {
-      if (show && !map.hasLayer(layer)) map.addLayer(layer);
-      if (!show && map.hasLayer(layer)) map.removeLayer(layer);
+    for (const name of Object.keys(categoryLayers)) {
+      show ? setCatOn(name) : setCatOff(name);
     }
     document.querySelectorAll('.category-row').forEach(el => {
       el.classList.toggle('disabled', !show);
@@ -480,9 +511,8 @@
 
   function showKey() {
     const keep = new Set(['Bunkers', 'Bunker Hatch Doors', 'Secret Bunkers', 'Gas stations']);
-    for (const [name, layer] of Object.entries(categoryLayers)) {
-      if (keep.has(name)) { if (!map.hasLayer(layer)) map.addLayer(layer); }
-      else if (map.hasLayer(layer)) map.removeLayer(layer);
+    for (const name of Object.keys(categoryLayers)) {
+      keep.has(name) ? setCatOn(name) : setCatOff(name);
     }
     document.querySelectorAll('.category-row').forEach(el => {
       el.classList.toggle('disabled', !keep.has(el.dataset.category));
@@ -491,36 +521,31 @@
   }
 
   function updateStatus() {
-    let active = 0;
-    Object.values(categoryLayers).forEach(l => { if (map.hasLayer(l)) active++; });
     document.getElementById('status').innerHTML =
-      `<i class="fas fa-layer-group"></i> Активно категорий: <b>${active}</b> / ${Object.keys(categoryLayers).length}`;
+      `<i class="fas fa-layer-group"></i> Активно категорий: <b>${activeCats.size}</b> / ${Object.keys(categoryLayers).length}`;
   }
 
   // ===== Поиск =====
   const searchEl = document.getElementById('search');
   searchEl.addEventListener('input', (e) => {
     const q = e.target.value.trim().toLowerCase();
-    document.querySelectorAll('.amr-marker.highlighted').forEach(el => el.classList.remove('highlighted'));
     if (!q) return;
-    const matches = allPois.filter(p =>
+    const idx = allPois.findIndex(p =>
       p.n.toLowerCase().includes(q) || (p.c && p.c.toLowerCase().includes(q))
-    ).slice(0, 30);
-    matches.forEach(p => {
-      const layer = categoryLayers[p.c];
-      if (!layer || !map.hasLayer(layer)) return;
-      layer.eachLayer(m => {
-        if (m.options.title === p.n) {
-          const el = m.getElement();
-          if (el) {
-            const icon = el.querySelector('.amr-marker');
-            if (icon) icon.classList.add('highlighted');
-          }
-        }
-      });
-    });
-    if (matches.length) {
-      map.setView(gameToLatLng(matches[0].x, matches[0].y), 2);
+    );
+    if (idx === -1) return;
+    const p = allPois[idx];
+    const marker = allMarkers[idx];
+    // Включаем категорию, если скрыта
+    if (!activeCats.has(p.c)) {
+      setCatOn(p.c);
+      const row = document.querySelector(`[data-category="${CSS.escape(p.c)}"]`);
+      if (row) row.classList.remove('disabled');
+      updateStatus();
+    }
+    if (marker) {
+      map.setView(marker.getLatLng(), 3);
+      marker.openPopup();
     }
   });
 
