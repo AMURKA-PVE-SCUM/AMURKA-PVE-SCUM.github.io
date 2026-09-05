@@ -37,13 +37,13 @@
 
   function gameToLatLng(x, y) {
     // Leaflet Simple: lat grows downward on the image, lng grows right.
-    const lat = (Y_MAX - y) / (Y_MAX - Y_MIN) * MAX_COORD;
+    const lat = (y - Y_MIN) / (Y_MAX - Y_MIN) * MAX_COORD;
     const lng = (X_MAX - x) / (X_MAX - X_MIN) * MAX_COORD;
     return [lat, lng];
   }
   function latLngToGame(lat, lng) {
     const x = X_MAX - (lng / MAX_COORD) * (X_MAX - X_MIN);
-    const y = Y_MAX - (lat / MAX_COORD) * (Y_MAX - Y_MIN);
+    const y = Y_MIN + (lat / MAX_COORD) * (Y_MAX - Y_MIN);
     return [x, y];
   }
 
