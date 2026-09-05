@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Карта AMURKA PVE — Интерактивная карта SCUM</title>
+    <meta name="description" content="Интерактивная карта сервера AMURKA PVE MOD для SCUM: бункеры, заправки, магазины, NPC, луты, вода и многое другое. Все 7986 точек POI на одной карте.">
+    <meta property="og:title" content="Карта AMURKA PVE — Интерактивная карта SCUM">
+    <meta property="og:description" content="Все 7986 POI сервера AMURKA PVE MOD: бункеры, заправки, магазины, луты, вода. Ищи локации и копируй телепорт!">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://amurka-pve-scum.github.io/map/">
+    <link rel="canonical" href="https://amurka-pve-scum.github.io/map/">
+    <link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+    <link rel="stylesheet" href="../css/map.css">
+</head>
+<body>
+
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="../index.html#hero" class="nav-logo">
+                <span class="logo-icon"><i class="fas fa-skull-crossbones"></i></span>
+                <span class="logo-text">AMURKA <span class="accent">PVE</span></span>
+            </a>
+            <button class="nav-toggle" id="navToggle" aria-label="Toggle menu">
+                <span></span><span></span><span></span>
+            </button>
+            <ul class="nav-menu" id="navMenu">
+                <li><a href="../index.html#about" class="nav-link">О сервере</a></li>
+                <li><a href="../index.html#status" class="nav-link">Статус</a></li>
+                <li><a href="#" class="nav-link active"><i class="fas fa-map-location-dot"></i> Карта</a></li>
+                <li><a href="../index.html#rules" class="nav-link">Правила</a></li>
+                <li><a href="../index.html#mods" class="nav-link">Моды</a></li>
+                <li><a href="../index.html#commands" class="nav-link">Бот</a></li>
+                <li><a href="../index.html#news" class="nav-link">Новости</a></li>
+                <li><a href="../index.html#streamers" class="nav-link">Стримеры</a></li>
+                <li><a href="../index.html#guides" class="nav-link">Гайд</a></li>
+                <li><a href="../index.html#vote" class="nav-link">Голосование</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div id="mapWrap">
+        <div id="sidebar">
+            <div id="sidebar-header">
+                <h1><i class="fas fa-map-location-dot"></i> Карта AMURKA PVE</h1>
+                <div class="subtitle">Бункеры • Заправки • Все POI острова</div>
+            </div>
+            <div class="search-box">
+                <input type="text" id="search" placeholder="Поиск POI (например: Z2 Bunker)" autocomplete="off" />
+            </div>
+            <div class="toggle-all">
+                <button id="btnAll"><i class="fas fa-check"></i> Все</button>
+                <button id="btnNone"><i class="fas fa-times"></i> Снять</button>
+                <button id="btnKey"><i class="fas fa-shield-halved"></i> Ключевые</button>
+            </div>
+            <div id="category-list"></div>
+        </div>
+        <button id="toggle-sidebar" title="Скрыть/показать меню">
+            <i class="fas fa-chevron-left"></i>
+        </button>
+        <div id="map"></div>
+        <div id="status"><i class="fas fa-spinner fa-spin"></i> Загрузка...</div>
+        <div id="coords">X: 0   Y: 0</div>
+        <div class="toast" id="toast">
+            <i class="fas fa-check-circle"></i>
+            <span id="toastText">Скопировано</span>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="../js/map.js"></script>
+</body>
+</html>
