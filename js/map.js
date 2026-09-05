@@ -311,16 +311,22 @@
   // ===== Карта =====
   const map = L.map('map', {
     crs: L.CRS.Simple,
-    minZoom: -2,
+    minZoom: -1,
     maxZoom: 4,
     zoomControl: false,
     attributionControl: true,
   });
   L.control.zoom({ position: 'topright' }).addTo(map);
 
-  const bounds = [[0, 0], [MAX_COORD, MAX_COORD]];
-  L.imageOverlay('map.jpg', bounds).addTo(map);
-  map.fitBounds(bounds);
+  const imgBounds = [[0, 0], [MAX_COORD, MAX_COORD]];
+  let imageLayer = null;
+  function placeImage() {
+    const lo = map.getMinZoom();
+    map.setMinZoom(-10);                  // снимаем ограничение, чтобы стартовый зум не резался
+    if (!imageLayer) imageLayer = L.imageOverlay('map.jpg', imgBounds).addTo(map);
+    map.setView([MAX_COORD / 2, MAX_COORD / 2], 1, { animate: false }); // остров крупно, 640px
+    map.setMinZoom(lo);
+  }
 
   // Маркеры собираем в кластеры, чтобы не перекрывались на обзоре
   const cluster = L.markerClusterGroup({
@@ -341,11 +347,16 @@
   });
   cluster.addTo(map);
 
+  const bounds = [[0, 0], [MAX_COORD, MAX_COORD]];
+
+  // Игровые координаты, ложащиеся на картинку (та же сетка, что у референса scum-map)
+  let wx0 = -WORLD, wx1 = WORLD, wy0 = -WORLD, wy1 = WORLD;
+
   function gameToLatLng(x, y) {
-    return [(WORLD - y) / (2 * WORLD) * MAX_COORD, (x + WORLD) / (2 * WORLD) * MAX_COORD];
+    return [(wy1 - y) / (wy1 - wy0) * MAX_COORD, (x - wx0) / (wx1 - wx0) * MAX_COORD];
   }
   function latLngToGame(lat, lng) {
-    return [lng / MAX_COORD * (2 * WORLD) - WORLD, WORLD - lat / MAX_COORD * (2 * WORLD)];
+    return [wx0 + lng / MAX_COORD * (wx1 - wx0), wy1 - lat / MAX_COORD * (wy1 - wy0)];
   }
 
   const coordsEl = document.getElementById('coords');
@@ -359,6 +370,19 @@
   const allMarkers = [];
   const activeCats = new Set();
   let categoryLayers = {};
+
+  // Определяем диапазон игровых координат так, чтобы все POI легли на картинку.
+  // Координаты пишем с симметричным запасом вокруг центра, сохраняя квадрат (без искажений).
+  function computeWorldExtent(pois) {
+    let span = 2000;
+    pois.forEach(p => {
+      const d = Math.max(Math.abs(p.x), Math.abs(p.y));
+      if (d > span) span = d;
+    });
+    const pad = span * 0.02;
+    wx0 = -span - pad; wx1 = span + pad;
+    wy0 = -span - pad; wy1 = span + pad;
+  }
   const sections = {
     'Бункеры': ['Bunkers', 'Secret Bunkers', 'Abandoned bunkers', 'WW2 bunkers', 'Bunker Hatch Doors', 'Killboxes', 'Hazmat Suit Lockers', 'Depleted Uranium Crates', 'Radiation Equipment Lockers'],
     'Заправки и транспорт': ['Gas stations', 'Propane Tank', 'Vehicle spawns', 'Motorbike & bicycle spawns', 'Boat spawns', 'Paddle spawns', 'RIB spawns', 'Wheelbarrow spawns', 'Aircraft spawns', 'Vehicle repair shops', 'Car garages'],
@@ -380,11 +404,16 @@
     fetch('categories.json').then(r => r.json()),
   ]).then(([pois, cats]) => {
     allPois = pois;
+    computeWorldExtent(pois);            // растягиваем картинку на реальный разброс
+    placeImage();
     renderSidebar(cats.map(c => ({ ...c, color: brandColor(c.name) })));
     buildMarkers(pois);
     document.getElementById('status').innerHTML =
       `<i class="fas fa-check-circle"></i> Загружено <b>${pois.length.toLocaleString('ru-RU')}</b> POI в <b>${cats.length}</b> категориях`;
-    setAll(false);
+    const AUTO = new URLSearchParams(location.search).get('enable');
+    if (AUTO === 'all') setAll(true);
+    else if (AUTO === 'key') showKey();
+    else setAll(false);
   }).catch(err => {
     document.getElementById('status').textContent = '⚠ Ошибка: ' + err.message;
   });
