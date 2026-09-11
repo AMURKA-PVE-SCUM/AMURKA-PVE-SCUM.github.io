@@ -101,6 +101,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 countersAnimated = true;
                 counters.forEach(counter => {
                     const target = parseFloat(counter.dataset.count);
+                    const suffix = counter.dataset.suffix || '';
                     const isDecimal = target % 1 !== 0;
                     const duration = 2000;
                     const step = target / (duration / 16);
@@ -112,7 +113,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             current = target;
                             clearInterval(timer);
                         }
-                        counter.textContent = isDecimal ? current.toFixed(1) : Math.floor(current);
+                        counter.textContent = (isDecimal ? current.toFixed(1) : Math.floor(current)) + suffix;
                     }, 16);
                 });
             }
