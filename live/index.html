@@ -221,44 +221,11 @@
                     <div class="live-panel">
                         <div class="live-panel-header">
                             <div class="live-panel-title"><i class="fas fa-bolt"></i> Активные события</div>
-                            <span class="live-panel-badge live">● LIVE</span>
                         </div>
                         <div id="liveEvents">
-                            <div class="live-event-card">
-                                <div class="live-event-icon" style="background: rgba(239, 68, 68, 0.1); color: #EF4444"><i class="fas fa-crosshairs"></i></div>
-                                <div class="live-event-body">
-                                    <div class="live-event-title">Охота на роботов</div>
-                                    <div class="live-event-desc">Сектор D4 — усиленные бункерные роботы</div>
-                                </div>
-                                <div class="live-event-timer" id="eventTimer1">01:24:36</div>
-                            </div>
-                            <div class="live-event-card">
-                                <div class="live-event-icon" style="background: rgba(255, 211, 77, 0.1); color: #ffd34d"><i class="fas fa-box-open"></i></div>
-                                <div class="live-event-body">
-                                    <div class="live-event-title">Air Drop</div>
-                                    <div class="live-event-desc">Следующий сброс припасов</div>
-                                </div>
-                                <div class="live-event-timer" id="eventTimer2">00:45:12</div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="live-panel">
-                        <div class="live-panel-header">
-                            <div class="live-panel-title"><i class="fas fa-robot"></i> Состояние роботов</div>
-                        </div>
-                        <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:var(--sp-md)">
-                            <div style="text-align:center;padding:var(--sp-md);border:1px solid var(--border);border-radius:var(--radius-md);background:var(--panel-2)">
-                                <div style="font-family:var(--mono);font-size:var(--fs-xl);font-weight:800;color:#EF4444">53</div>
-                                <div style="font-size:var(--fs-xs);color:var(--text-dim);font-weight:600">Бункеры</div>
-                            </div>
-                            <div style="text-align:center;padding:var(--sp-md);border:1px solid var(--border);border-radius:var(--radius-md);background:var(--panel-2)">
-                                <div style="font-family:var(--mono);font-size:var(--fs-xl);font-weight:800;color:#ff8a3d">12</div>
-                                <div style="font-size:var(--fs-xs);color:var(--text-dim);font-weight:600">Киллбоксы</div>
-                            </div>
-                            <div style="text-align:center;padding:var(--sp-md);border:1px solid var(--border);border-radius:var(--radius-md);background:var(--panel-2)">
-                                <div style="font-family:var(--mono);font-size:var(--fs-xl);font-weight:800;color:var(--green)">30</div>
-                                <div style="font-size:var(--fs-xs);color:var(--text-dim);font-weight:600">Военные</div>
+                            <div style="text-align:center;padding:var(--sp-xl);color:var(--muted);font-family:var(--mono);font-size:var(--fs-sm)">
+                                <i class="fas fa-calendar-xmark" style="font-size:1.5rem;display:block;margin-bottom:var(--sp-sm);opacity:0.3"></i>
+                                Нет активных событий
                             </div>
                         </div>
                     </div>
@@ -277,34 +244,6 @@
                             </div>
                         </div>
                     </div>
-
-                    <div class="live-panel">
-                        <div class="live-panel-header">
-                            <div class="live-panel-title"><i class="fas fa-stream"></i> Активность</div>
-                        </div>
-                        <div id="liveFeed">
-                            <div class="live-feed-item">
-                                <span class="live-feed-time">12:34</span>
-                                <span class="live-feed-text"><span class="text-green">Survivor</span> подключился к серверу</span>
-                            </div>
-                            <div class="live-feed-item">
-                                <span class="live-feed-time">12:31</span>
-                                <span class="live-feed-text"><span class="text-red">Hunter</span> уничтожил бункерного робота</span>
-                            </div>
-                            <div class="live-feed-item">
-                                <span class="live-feed-time">12:28</span>
-                                <span class="live-feed-text"><span class="text-green">Builder</span> построил базу в секторе B3</span>
-                            </div>
-                            <div class="live-feed-item">
-                                <span class="live-feed-time">12:25</span>
-                                <span class="live-feed-text">Событие <span class="text-green">Air Drop</span> завершено</span>
-                            </div>
-                            <div class="live-feed-item">
-                                <span class="live-feed-time">12:20</span>
-                                <span class="live-feed-text"><span class="text-green">Scavenger</span> нашёл секретный бункер</span>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
 
@@ -312,22 +251,22 @@
                 <div class="live-panel-header">
                     <div class="live-panel-title"><i class="fas fa-info-circle"></i> Информация о сервере</div>
                 </div>
-                <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:var(--sp-lg)">
+                <div id="liveServerInfo" style="display:grid;grid-template-columns:repeat(4,1fr);gap:var(--sp-lg)">
                     <div>
-                        <div style="font-size:var(--fs-xs);color:var(--text-dim);font-weight:700;letter-spacing:1px;margin-bottom:4px">ВЕРСИЯ</div>
-                        <div style="font-family:var(--mono);font-size:var(--fs-base);color:var(--text)">SCUM 0.9</div>
+                        <div style="font-size:var(--fs-xs);color:var(--text-dim);font-weight:700;letter-spacing:1px;margin-bottom:4px">СТАТУС</div>
+                        <div id="liveInfoStatus" style="font-family:var(--mono);font-size:var(--fs-base);color:var(--green)">—</div>
                     </div>
                     <div>
-                        <div style="font-size:var(--fs-xs);color:var(--text-dim);font-weight:700;letter-spacing:1px;margin-bottom:4px">МАПА</div>
-                        <div style="font-family:var(--mono);font-size:var(--fs-base);color:var(--text)">4×4 km</div>
+                        <div style="font-size:var(--fs-xs);color:var(--text-dim);font-weight:700;letter-spacing:1px;margin-bottom:4px">ИГРОКОВ</div>
+                        <div id="liveInfoPlayers" style="font-family:var(--mono);font-size:var(--fs-base);color:var(--text)">—</div>
                     </div>
                     <div>
-                        <div style="font-size:var(--fs-xs);color:var(--text-dim);font-weight:700;letter-spacing:1px;margin-bottom:4px">СЛОТЫ</div>
-                        <div style="font-family:var(--mono);font-size:var(--fs-base);color:var(--text)">100</div>
+                        <div style="font-size:var(--fs-xs);color:var(--text-dim);font-weight:700;letter-spacing:1px;margin-bottom:4px">АПТАЙМ</div>
+                        <div id="liveInfoUptime" style="font-family:var(--mono);font-size:var(--fs-base);color:var(--text)">—</div>
                     </div>
                     <div>
-                        <div style="font-size:var(--fs-xs);color:var(--text-dim);font-weight:700;letter-spacing:1px;margin-bottom:4px">РЕСТАРТ</div>
-                        <div style="font-family:var(--mono);font-size:var(--fs-base);color:var(--text)">Каждые 4ч</div>
+                        <div style="font-size:var(--fs-xs);color:var(--text-dim);font-weight:700;letter-spacing:1px;margin-bottom:4px">ПАМЯТЬ</div>
+                        <div id="liveInfoMemory" style="font-family:var(--mono);font-size:var(--fs-base);color:var(--text)">—</div>
                     </div>
                 </div>
             </div>
@@ -379,9 +318,17 @@
                 if (onlineEl) onlineEl.textContent = status.players + ' игроков';
             } else {
                 if (statusEl) { statusEl.className = 'live-stat-status offline'; statusEl.innerHTML = '<span class="pulse-dot"></span> OFFLINE'; }
-                if (playersEl) playersEl.textContent = '0 / 100';
+                if (playersEl) playersEl.textContent = '—';
                 if (onlineEl) onlineEl.textContent = '0 игроков';
             }
+
+            document.getElementById('liveInfoStatus').textContent = status.online ? 'ONLINE' : 'OFFLINE';
+            document.getElementById('liveInfoStatus').style.color = status.online ? 'var(--green)' : '#EF4444';
+            document.getElementById('liveInfoPlayers').textContent = status.online ? status.players + ' / ' + status.maxPlayers : '—';
+            const uptimeH = Math.floor((status.uptime || 0) / 3600);
+            const uptimeM = Math.floor(((status.uptime || 0) % 3600) / 60);
+            document.getElementById('liveInfoUptime').textContent = status.uptime ? uptimeH + 'ч ' + uptimeM + 'м' : '—';
+            document.getElementById('liveInfoMemory').textContent = status.memoryUsage ? status.memoryUsage + ' МБ' : '—';
 
             const playersData = await window.AmurkaAPI.getOnlinePlayers();
             const listEl = document.getElementById('livePlayerList');
@@ -396,25 +343,11 @@
                     '<span class="live-player-status online">ONLINE</span>' +
                     '</div>'
                 ).join('');
+            } else if (listEl) {
+                listEl.innerHTML = '<div style="text-align:center;padding:var(--sp-xl);color:var(--muted);font-family:var(--mono);font-size:var(--fs-sm)"><i class="fas fa-user-slash" style="font-size:1.5rem;display:block;margin-bottom:var(--sp-sm);opacity:0.3"></i>Сейчас никто не онлайн</div>';
             }
         }
         loadLiveData();
-
-        function countdown(id, seconds) {
-            const el = document.getElementById(id);
-            if (!el) return;
-            let remaining = seconds;
-            function update() {
-                const h = Math.floor(remaining / 3600);
-                const m = Math.floor((remaining % 3600) / 60);
-                const s = remaining % 60;
-                el.textContent = String(h).padStart(2, '0') + ':' + String(m).padStart(2, '0') + ':' + String(s).padStart(2, '0');
-                if (remaining > 0) { remaining--; setTimeout(update, 1000); }
-            }
-            update();
-        }
-        countdown('eventTimer1', 5076);
-        countdown('eventTimer2', 2712);
     });
     </script>
 </body>

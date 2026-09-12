@@ -172,16 +172,16 @@
                 <p>Игровой помощник сервера AMURKA PVE</p>
                 <div class="domo-status-bar">
                     <div class="domo-status-item">
-                        <span class="dot"></span>
-                        STATUS: ONLINE
+                        <span class="dot" id="botDot"></span>
+                        STATUS: <span id="botStatus">ПРОВЕРКА...</span>
                     </div>
                     <div class="domo-status-item">
-                        <span class="dot"></span>
-                        RESPONSE: &lt;100MS
+                        <span class="dot" style="background:var(--green)"></span>
+                        СИНХРОНИЗАЦИЯ: SSM
                     </div>
                     <div class="domo-status-item">
-                        <span class="dot"></span>
-                        COMMANDS: 20+
+                        <span class="dot" style="background:var(--green)"></span>
+                        КОМАНДЫ: !онлайн !баланс !кто !телепорт
                     </div>
                 </div>
             </div>
@@ -194,20 +194,14 @@
                     <div class="domo-window-title">domo@amurka ~ /chat</div>
                 </div>
                 <div class="domo-window-body">
-                    <div><span class="prompt">&gt;</span> <span class="cmd">!стартпак</span></div>
-                    <div class="output">✓ Стартпак выдан! Получи набор на складе.</div>
+                    <div><span class="prompt">&gt;</span> <span class="cmd">!дomo понг</span></div>
+                    <div class="output">✓ pong</div>
                     <br>
                     <div><span class="prompt">&gt;</span> <span class="cmd">!дом</span></div>
-                    <div class="output">✓ Дом TP activated. Координаты: D4-287</div>
+                    <div class="output">✓ Дом TP activated. Координаты: запроси в игре</div>
                     <br>
-                    <div><span class="prompt">&gt;</span> <span class="cmd">!телепорт D4</span></div>
-                    <div class="output">✓ Телепорт в сектор D4. Задержка — 3 сек.</div>
-                    <br>
-                    <div><span class="prompt">&gt;</span> <span class="cmd">!машины</span></div>
-                    <div class="output">✓ Доступные машины: UAZ (45%), BTR (23%), Tank (12%)</div>
-                    <br>
-                    <div><span class="prompt">&gt;</span> <span class="cmd">!погода</span></div>
-                    <div class="output">✓ Погода: Облачно, 18°C, ветер 12 км/ч</div>
+                    <div><span class="prompt">&gt;</span> <span class="cmd">!помощь</span></div>
+                    <div class="output">✓ Команды: !стартпак, !дом, !машины, !погода, !онлайн</div>
                     <br>
                     <div><span class="prompt">&gt;</span> <span class="cursor"></span></div>
                 </div>
@@ -342,5 +336,15 @@
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="../js/api.js"></script>
     <script src="../js/main.js"></script>
+    <script>
+    document.addEventListener('DOMContentLoaded', () => {
+        window.AmurkaAPI.getBotStatus().then(s => {
+            const title = document.getElementById('botStatus');
+            const dot = document.getElementById('botDot');
+            if (title) title.textContent = s.running ? 'ONLINE' : 'OFFLINE';
+            if (dot) dot.style.background = s.running ? 'var(--green)' : '#EF4444';
+        });
+    });
+    </script>
 </body>
 </html>

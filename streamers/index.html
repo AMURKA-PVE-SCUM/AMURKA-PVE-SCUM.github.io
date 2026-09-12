@@ -165,62 +165,10 @@
     <!-- STREAMERS PAGE -->
     <section class="streamers-page">
         <div class="container">
-            <div class="streamers-grid" data-aos="fade-up">
-                <!-- Streamer 1 -->
-                <div class="streamer-card">
-                    <div class="streamer-avatar" style="background:rgba(0,200,120,.1)"><i class="fas fa-skull"></i></div>
-                    <h3>GameSurvivor</h3>
-                    <div class="streamer-status live"><span class="dot"></span> LIVE</div>
-                    <div class="streamer-platforms">
-                        <span class="streamer-platform"><i class="fab fa-youtube"></i> YouTube</span>
-                        <span class="streamer-platform"><i class="fab fa-twitch"></i> Twitch</span>
-                    </div>
-                    <a href="#" class="streamer-watch"><i class="fas fa-play"></i> Смотреть</a>
-                </div>
-
-                <!-- Streamer 2 -->
-                <div class="streamer-card">
-                    <div class="streamer-avatar" style="background:rgba(255,100,50,.1)"><i class="fas fa-tower-broadcast"></i></div>
-                    <h3>Амурка ТВ</h3>
-                    <div class="streamer-status offline"><span class="dot"></span> OFFLINE</div>
-                    <div class="streamer-platforms">
-                        <span class="streamer-platform"><i class="fab fa-youtube"></i> YouTube</span>
-                    </div>
-                    <a href="#" class="streamer-watch"><i class="fas fa-play"></i> Смотреть</a>
-                </div>
-
-                <!-- Streamer 3 -->
-                <div class="streamer-card">
-                    <div class="streamer-avatar" style="background:rgba(100,150,255,.1)"><i class="fas fa-bolt"></i></div>
-                    <h3>SCUM Master</h3>
-                    <div class="streamer-status live"><span class="dot"></span> LIVE</div>
-                    <div class="streamer-platforms">
-                        <span class="streamer-platform"><i class="fab fa-twitch"></i> Twitch</span>
-                    </div>
-                    <a href="#" class="streamer-watch"><i class="fas fa-play"></i> Смотреть</a>
-                </div>
-
-                <!-- Streamer 4 -->
-                <div class="streamer-card">
-                    <div class="streamer-avatar" style="background:rgba(255,200,50,.1)"><i class="fas fa-shield"></i></div>
-                    <h3>ВыжившийПро</h3>
-                    <div class="streamer-status offline"><span class="dot"></span> OFFLINE</div>
-                    <div class="streamer-platforms">
-                        <span class="streamer-platform"><i class="fab fa-vk"></i> VK Video</span>
-                    </div>
-                    <a href="#" class="streamer-watch"><i class="fas fa-play"></i> Смотреть</a>
-                </div>
-
-                <!-- Streamer 5 -->
-                <div class="streamer-card">
-                    <div class="streamer-avatar" style="background:rgba(180,100,255,.1)"><i class="fas fa-gamepad"></i></div>
-                    <h3>PVE Player</h3>
-                    <div class="streamer-status offline"><span class="dot"></span> OFFLINE</div>
-                    <div class="streamer-platforms">
-                        <span class="streamer-platform"><i class="fab fa-youtube"></i> YouTube</span>
-                        <span class="streamer-platform"><i class="fab fa-vk"></i> VK</span>
-                    </div>
-                    <a href="#" class="streamer-watch"><i class="fas fa-play"></i> Смотреть</a>
+            <div class="streamers-grid" id="streamersGrid" data-aos="fade-up">
+                <div style="text-align:center;padding:var(--sp-2xl);color:var(--muted);font-family:var(--mono);font-size:var(--fs-sm);grid-column:1/-1">
+                    <i class="fas fa-spinner fa-spin" style="font-size:1.5rem;display:block;margin-bottom:var(--sp-sm)"></i>
+                    Загрузка стримеров...
                 </div>
             </div>
         </div>
@@ -299,5 +247,39 @@
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="../js/api.js"></script>
     <script src="../js/main.js"></script>
+    <script>
+    document.addEventListener('DOMContentLoaded', () => {
+        async function loadStreamers() {
+            const grid = document.getElementById('streamersGrid');
+            const platforms = {
+                vk: {icon: 'fab fa-vk', name: 'VK Video'},
+                youtube: {icon: 'fab fa-youtube', name: 'YouTube'},
+                twitch: {icon: 'fab fa-twitch', name: 'Twitch'}
+            };
+            const avatarIcons = ['fa-skull','fa-tower-broadcast','fa-bolt','fa-shield','fa-gamepad','fa-fire'];
+            try {
+                const res = await fetch('../data/streamers.json');
+                const streamers = await res.json();
+                if (!streamers.length) {
+                    grid.innerHTML = '<div style="text-align:center;padding:var(--sp-2xl);color:var(--muted);font-family:var(--mono);font-size:var(--fs-sm);grid-column:1/-1"><i class="fas fa-video" style="font-size:2rem;display:block;margin-bottom:var(--sp-sm);opacity:0.3"></i>Стримеры пока не добавили</div>';
+                    return;
+                }
+                grid.innerHTML = streamers.map((s, i) => {
+                    const p = platforms[s.platform] || platforms.vk;
+                    const icon = avatarIcons[i % avatarIcons.length];
+                    return '<div class="streamer-card">' +
+                        '<div class="streamer-avatar" style="background:rgba(0,200,120,.1)"><i class="fas ' + icon + '"></i></div>' +
+                        '<h3>' + s.name + '</h3>' +
+                        '<div class="streamer-platforms"><span class="streamer-platform"><i class="' + p.icon + '"></i> ' + p.name + '</span></div>' +
+                        '<a href="' + s.url + '" target="_blank" class="streamer-watch"><i class="fas fa-play"></i> Смотреть</a>' +
+                        '</div>';
+                }).join('');
+            } catch(e) {
+                grid.innerHTML = '<div style="text-align:center;padding:var(--sp-2xl);color:var(--muted);font-family:var(--mono);font-size:var(--fs-sm);grid-column:1/-1"><i class="fas fa-video" style="font-size:2rem;display:block;margin-bottom:var(--sp-sm);opacity:0.3"></i>Стримеры пока не добавили</div>';
+            }
+        }
+        loadStreamers();
+    });
+    </script>
 </body>
 </html>

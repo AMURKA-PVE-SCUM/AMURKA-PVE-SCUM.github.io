@@ -171,76 +171,24 @@
     <section class="section">
         <div class="container">
             <div class="event-active" data-aos="fade-up">
-                <div class="event-active-badge"><span class="pulse-dot"></span> ACTIVE</div>
-                <h2 class="event-active-title">Охота на роботов</h2>
-                <p class="event-active-desc">Массовая охота на бункерных роботов в секторе D4. Уничтожьте роботов и получите уникальные награды.</p>
-                <div class="event-active-timer" id="activeTimer">01:24:36</div>
-                <div class="event-active-meta">
-                    <div class="event-active-meta-item">
-                        <span class="event-active-meta-label">СЕКТОР</span>
-                        <span class="event-active-meta-value">D4</span>
-                    </div>
-                    <div class="event-active-meta-item">
-                        <span class="event-active-meta-label">НАГРАДА</span>
-                        <span class="event-active-meta-value">???</span>
-                    </div>
-                    <div class="event-active-meta-item">
-                        <span class="event-active-meta-label">УЧАСТНИКИ</span>
-                        <span class="event-active-meta-value">12</span>
-                    </div>
-                </div>
+                <div class="event-active-badge" style="background:var(--panel-2);color:var(--muted)"><span class="dot" style="background:var(--muted)"></span> НЕТ АКТИВНЫХ</div>
+                <h2 class="event-active-title">Сейчас событий нет</h2>
+                <p class="event-active-desc">Следи за обновлениями — события появятся здесь автоматически.</p>
             </div>
 
             <h3 class="event-section-title" data-aos="fade-up"><i class="fas fa-clock"></i> Предстоящие</h3>
             <div class="event-list" data-aos="fade-up">
-                <div class="event-list-card">
-                    <div class="event-list-time">18:00</div>
-                    <div class="event-list-body">
-                        <div class="event-list-title">Air Drop</div>
-                        <div class="event-list-desc">Сброс припасов в случайных точках карты</div>
-                    </div>
-                    <span class="event-list-badge upcoming">ЧЕРЕЗ 2 Ч</span>
-                </div>
-                <div class="event-list-card">
-                    <div class="event-list-time">20:00</div>
-                    <div class="event-list-body">
-                        <div class="event-list-title">Робот-событие</div>
-                        <div class="event-list-desc">Волна роботов на военной базе</div>
-                    </div>
-                    <span class="event-list-badge upcoming">ЧЕРЕЗ 4 Ч</span>
-                </div>
-                <div class="event-list-card">
-                    <div class="event-list-time">22:00</div>
-                    <div class="event-list-body">
-                        <div class="event-list-title">Специальное событие</div>
-                        <div class="event-list-desc">Уникальное испытание с особыми наградами</div>
-                    </div>
-                    <span class="event-list-badge upcoming">ЧЕРЕЗ 6 Ч</span>
+                <div style="text-align:center;padding:var(--sp-2xl);color:var(--muted);font-family:var(--mono);font-size:var(--fs-sm)">
+                    <i class="fas fa-calendar-xmark" style="font-size:1.5rem;display:block;margin-bottom:var(--sp-sm);opacity:0.3"></i>
+                    Расписание пока не задано
                 </div>
             </div>
 
             <h3 class="event-section-title event-archive" data-aos="fade-up"><i class="fas fa-archive"></i> Архив</h3>
             <div class="event-list event-archive" data-aos="fade-up">
-                <div class="event-list-card">
-                    <div class="event-list-time">12:00</div>
-                    <div class="event-list-body">
-                        <div class="event-list-title">Утренняя охота</div>
-                        <div class="event-list-desc">Охота на роботов в секторе B2</div>
-                    </div>
-                </div>
-                <div class="event-list-card">
-                    <div class="event-list-time">10:00</div>
-                    <div class="event-list-body">
-                        <div class="event-list-title">Air Drop</div>
-                        <div class="event-list-desc">Сброс припасов</div>
-                    </div>
-                </div>
-                <div class="event-list-card">
-                    <div class="event-list-time">08:00</div>
-                    <div class="event-list-body">
-                        <div class="event-list-title">Ночной рейд</div>
-                        <div class="event-list-desc">Очистка секретного бункера</div>
-                    </div>
+                <div style="text-align:center;padding:var(--sp-2xl);color:var(--muted);font-family:var(--mono);font-size:var(--fs-sm)">
+                    <i class="fas fa-inbox" style="font-size:1.5rem;display:block;margin-bottom:var(--sp-sm);opacity:0.3"></i>
+                    Пока нет завершённых событий
                 </div>
             </div>
         </div>
@@ -271,19 +219,5 @@
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="../js/api.js"></script>
     <script src="../js/main.js"></script>
-    <script>
-    document.addEventListener('DOMContentLoaded', () => {
-        let remaining = 5076;
-        const el = document.getElementById('activeTimer');
-        function update() {
-            const h = Math.floor(remaining / 3600);
-            const m = Math.floor((remaining % 3600) / 60);
-            const s = remaining % 60;
-            if (el) el.textContent = String(h).padStart(2,'0') + ':' + String(m).padStart(2,'0') + ':' + String(s).padStart(2,'0');
-            if (remaining > 0) { remaining--; setTimeout(update, 1000); }
-        }
-        update();
-    });
-    </script>
 </body>
 </html>

@@ -1,0 +1,8 @@
+{
+  "name": "amurka-sync",
+  "version": "1.0.0",
+  "description": "AMURKA SSM to GitHub sync",
+  "scripts": {
+    "start": "node sync-github.js"
+  }
+}

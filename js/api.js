@@ -23,7 +23,7 @@ window.AmurkaAPI = (() => {
         if (ssm) return {
             online: ssm.online,
             players: ssm.players,
-            maxPlayers: ssm.maxPlayers,
+            maxPlayers: 100,
             uptime: ssm.uptime || 0,
             memoryUsage: ssm.memoryUsage || 0,
             source: 'ssm',

@@ -1,0 +1,11 @@
+{
+  "ssm": {
+    "apiUrl": "http://localhost:8080",
+    "token": "",
+    "syncIntervalSec": 60,
+    "enabled": true
+  },
+  "github": {
+    "token": "github_pat_ВСТАВЬ_СЮДА"
+  }
+}

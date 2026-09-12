@@ -170,25 +170,6 @@
 
     <section class="section">
         <div class="container">
-            <div class="stats-summary" data-aos="fade-up">
-                <div class="stats-summary-card">
-                    <div class="stats-summary-value" id="statPlayers">0</div>
-                    <div class="stats-summary-label">ИГРОКОВ ВСЕГО</div>
-                </div>
-                <div class="stats-summary-card">
-                    <div class="stats-summary-value" id="statKills">0</div>
-                    <div class="stats-summary-label">УБИЙСТВ</div>
-                </div>
-                <div class="stats-summary-card">
-                    <div class="stats-summary-value" id="statBases">0</div>
-                    <div class="stats-summary-label">БАЗ ПОСТРОЕНО</div>
-                </div>
-                <div class="stats-summary-card">
-                    <div class="stats-summary-value" id="statHours">0</div>
-                    <div class="stats-summary-label">ЧАСОВ ИГРЫ</div>
-                </div>
-            </div>
-
             <div class="stats-filters" data-aos="fade-up">
                 <button class="stats-filter-btn active" data-filter="all">ALL TIME</button>
                 <button class="stats-filter-btn" data-filter="month">MONTH</button>
@@ -202,78 +183,11 @@
                     <span>#</span>
                     <span>ИГРОК</span>
                     <span style="text-align:right">ОЧКИ</span>
-                    <span style="text-align:right">УБИЙСТВА</span>
                     <span style="text-align:right">ВРЕМЯ</span>
                 </div>
-                <div class="leaderboard-row top-3">
-                    <span class="leaderboard-rank">01</span>
-                    <div class="leaderboard-player"><div class="leaderboard-avatar"><i class="fas fa-crown"></i></div><span class="leaderboard-name">Survivor</span></div>
-                    <span class="leaderboard-stat highlight">9 284</span>
-                    <span class="leaderboard-stat">382</span>
-                    <span class="leaderboard-stat">127h</span>
-                </div>
-                <div class="leaderboard-row top-3">
-                    <span class="leaderboard-rank">02</span>
-                    <div class="leaderboard-player"><div class="leaderboard-avatar"><i class="fas fa-medal"></i></div><span class="leaderboard-name">AMURKA</span></div>
-                    <span class="leaderboard-stat highlight">8 172</span>
-                    <span class="leaderboard-stat">341</span>
-                    <span class="leaderboard-stat">115h</span>
-                </div>
-                <div class="leaderboard-row top-3">
-                    <span class="leaderboard-rank">03</span>
-                    <div class="leaderboard-player"><div class="leaderboard-avatar"><i class="fas fa-award"></i></div><span class="leaderboard-name">Hunter</span></div>
-                    <span class="leaderboard-stat highlight">7 456</span>
-                    <span class="leaderboard-stat">298</span>
-                    <span class="leaderboard-stat">98h</span>
-                </div>
-                <div class="leaderboard-row">
-                    <span class="leaderboard-rank">04</span>
-                    <div class="leaderboard-player"><div class="leaderboard-avatar"><i class="fas fa-user"></i></div><span class="leaderboard-name">Builder</span></div>
-                    <span class="leaderboard-stat">6 234</span>
-                    <span class="leaderboard-stat">156</span>
-                    <span class="leaderboard-stat">142h</span>
-                </div>
-                <div class="leaderboard-row">
-                    <span class="leaderboard-rank">05</span>
-                    <div class="leaderboard-player"><div class="leaderboard-avatar"><i class="fas fa-user"></i></div><span class="leaderboard-name">Scavenger</span></div>
-                    <span class="leaderboard-stat">5 891</span>
-                    <span class="leaderboard-stat">203</span>
-                    <span class="leaderboard-stat">89h</span>
-                </div>
-                <div class="leaderboard-row">
-                    <span class="leaderboard-rank">06</span>
-                    <div class="leaderboard-player"><div class="leaderboard-avatar"><i class="fas fa-user"></i></div><span class="leaderboard-name">Pilot</span></div>
-                    <span class="leaderboard-stat">4 567</span>
-                    <span class="leaderboard-stat">178</span>
-                    <span class="leaderboard-stat">76h</span>
-                </div>
-                <div class="leaderboard-row">
-                    <span class="leaderboard-rank">07</span>
-                    <div class="leaderboard-player"><div class="leaderboard-avatar"><i class="fas fa-user"></i></div><span class="leaderboard-name">Sniper</span></div>
-                    <span class="leaderboard-stat">3 912</span>
-                    <span class="leaderboard-stat">245</span>
-                    <span class="leaderboard-stat">64h</span>
-                </div>
-                <div class="leaderboard-row">
-                    <span class="leaderboard-rank">08</span>
-                    <div class="leaderboard-player"><div class="leaderboard-avatar"><i class="fas fa-user"></i></div><span class="leaderboard-name">Nomad</span></div>
-                    <span class="leaderboard-stat">3 456</span>
-                    <span class="leaderboard-stat">134</span>
-                    <span class="leaderboard-stat">92h</span>
-                </div>
-                <div class="leaderboard-row">
-                    <span class="leaderboard-rank">09</span>
-                    <div class="leaderboard-player"><div class="leaderboard-avatar"><i class="fas fa-user"></i></div><span class="leaderboard-name">Wanderer</span></div>
-                    <span class="leaderboard-stat">2 890</span>
-                    <span class="leaderboard-stat">98</span>
-                    <span class="leaderboard-stat">55h</span>
-                </div>
-                <div class="leaderboard-row">
-                    <span class="leaderboard-rank">10</span>
-                    <div class="leaderboard-player"><div class="leaderboard-avatar"><i class="fas fa-user"></i></div><span class="leaderboard-name">Viking</span></div>
-                    <span class="leaderboard-stat">2 345</span>
-                    <span class="leaderboard-stat">87</span>
-                    <span class="leaderboard-stat">48h</span>
+                <div style="text-align:center;padding:var(--sp-xl);color:var(--muted);font-family:var(--mono);">
+                    <i class="fas fa-spinner fa-spin" style="font-size:1.5rem;display:block;margin-bottom:var(--sp-md);"></i>
+                    Загрузка данных...
                 </div>
             </div>
             </div>
@@ -316,11 +230,17 @@
 
         async function loadRating() {
             const data = await window.AmurkaAPI.getRating();
-            if (data.leaderboard.length === 0) return;
-
             const container = document.getElementById('leaderboardContainer');
-            const header = '<div class="leaderboard-header"><span>#</span><span>ИГРОК</span><span style="text-align:right">ОЧКИ</span><span style="text-align:right">ОНЛАЙН</span></div>';
 
+            if (!data.leaderboard || data.leaderboard.length === 0) {
+                container.innerHTML = '<div class="leaderboard-header"><span>#</span><span>ИГРОК</span><span style="text-align:right">ОЧКИ</span><span style="text-align:right">ВРЕМЯ</span></div>' +
+                    '<div style="text-align:center;padding:var(--sp-xl);color:var(--muted);font-family:var(--mono);">' +
+                    '<i class="fas fa-chart-line" style="font-size:2rem;display:block;margin-bottom:var(--sp-md);opacity:0.3;"></i>' +
+                    'Рейтинг пока пуст. Начни играть — и попади в топ!</div>';
+                return;
+            }
+
+            const header = '<div class="leaderboard-header"><span>#</span><span>ИГРОК</span><span style="text-align:right">ОЧКИ</span><span style="text-align:right">ВРЕМЯ</span></div>';
             const rows = data.leaderboard.slice(0, 10).map((p, i) => {
                 const rank = String(i + 1).padStart(2, '0');
                 const rankClass = i === 0 ? 'top-3' : '';
@@ -338,20 +258,6 @@
             container.innerHTML = header + rows;
         }
         loadRating();
-
-        function animateCounter(el, target) {
-            let current = 0;
-            const step = Math.ceil(target / 40);
-            const interval = setInterval(() => {
-                current += step;
-                if (current >= target) { current = target; clearInterval(interval); }
-                el.textContent = current.toLocaleString('ru-RU');
-            }, 30);
-        }
-        animateCounter(document.getElementById('statPlayers'), 347);
-        animateCounter(document.getElementById('statKills'), 12847);
-        animateCounter(document.getElementById('statBases'), 89);
-        animateCounter(document.getElementById('statHours'), 15600);
     });
     </script>
 </body>
