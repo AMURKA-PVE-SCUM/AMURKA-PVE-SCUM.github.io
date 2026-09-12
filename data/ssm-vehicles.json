@@ -1254,9 +1254,9 @@
     {
       "entityId": 31055183,
       "asset": "BPC_WolfsWagen",
-      "x": -459993,
-      "y": -109132,
-      "z": 30795,
+      "x": -460838,
+      "y": -108991,
+      "z": 30791,
       "ownerName": "Niga",
       "customName": null
     },
@@ -1686,9 +1686,9 @@
     {
       "entityId": 32159153,
       "asset": "BPC_Dirtbike",
-      "x": 99382,
-      "y": -749782,
-      "z": 946,
+      "x": 101340,
+      "y": -756788,
+      "z": 1005,
       "ownerName": "Ольга",
       "customName": null
     },
@@ -1839,12 +1839,21 @@
     {
       "entityId": 32535063,
       "asset": "BPC_CityBike",
-      "x": -603265,
-      "y": -514025,
-      "z": 10022,
+      "x": -615364,
+      "y": -551358,
+      "z": 2247,
       "ownerName": "Alina",
+      "customName": null
+    },
+    {
+      "entityId": 32545373,
+      "asset": "BPC_Kinglet_Mariner",
+      "x": -206013,
+      "y": -27610,
+      "z": 35745,
+      "ownerName": null,
       "customName": null
     }
   ],
-  "updated": "2026-09-12T07:42:53.252Z"
+  "updated": "2026-09-12T07:43:53.256Z"
 }
