@@ -211,6 +211,9 @@
 
         async function loadPlayers() {
             const data = await window.AmurkaAPI.getOnlinePlayers();
+            const rating = await window.AmurkaAPI.getRating();
+            const playTimeBySteam = {};
+            (rating.leaderboard || []).forEach(r => { if (r.steamId) playTimeBySteam[r.steamId] = r.playTimeSeconds || 0; });
             if (data.players.length === 0) {
                 grid.innerHTML = '';
                 empty.innerHTML = '<i class="fas fa-users"></i><p>Сейчас никто не онлайн</p><p style="font-size:0.85rem;color:var(--muted);margin-top:8px">Подключись и стань первым!</p>';
@@ -219,7 +222,7 @@
             }
             empty.style.display = 'none';
             grid.innerHTML = data.players.map(p => {
-                const hours = Math.floor((p.duration || 0) / 3600);
+                const hours = Math.floor(((playTimeBySteam[p.steamId] != null ? playTimeBySteam[p.steamId] : p.duration) || 0) / 3600);
                 const loc = p.location ? `(${Math.round(p.location.x)}, ${Math.round(p.location.y)})` : '';
                 return '<div class="player-card">' +
                     '<div class="player-card-header">' +
