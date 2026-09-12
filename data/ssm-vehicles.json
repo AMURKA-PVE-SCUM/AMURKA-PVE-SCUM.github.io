@@ -219,8 +219,8 @@
     {
       "entityId": 24233970,
       "asset": "BPC_Rager",
-      "x": 313752,
-      "y": -206009,
+      "x": 313757,
+      "y": -206019,
       "z": 15250,
       "ownerName": "7_62",
       "customName": null
@@ -1245,7 +1245,7 @@
     {
       "entityId": 31055183,
       "asset": "BPC_WolfsWagen",
-      "x": -628164,
+      "x": -628165,
       "y": -474312,
       "z": 14147,
       "ownerName": "Niga",
@@ -1470,9 +1470,9 @@
     {
       "entityId": 31600733,
       "asset": "BPC_RIS",
-      "x": 235830,
-      "y": -178189,
-      "z": 21775,
+      "x": 303666,
+      "y": -215475,
+      "z": 15415,
       "ownerName": "Victor_Vilkouskas",
       "customName": null
     },
@@ -1835,7 +1835,16 @@
       "z": 21350,
       "ownerName": "Alina",
       "customName": null
+    },
+    {
+      "entityId": 32542862,
+      "asset": "BPC_Kinglet_Mariner",
+      "x": -207691,
+      "y": -27869,
+      "z": 35752,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-12T07:15:53.031Z"
+  "updated": "2026-09-12T07:16:53.033Z"
 }
