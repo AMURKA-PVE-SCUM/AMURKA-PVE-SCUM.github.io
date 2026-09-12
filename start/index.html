@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Как начать — AMURKA PVE</title>
+    <meta name="description" content="6 простых шагов до выживания на PVE-сервере AMURKA. Пошаговая инструкция по подключению к серверу SCUM.">
+    <meta property="og:title" content="Как начать — AMURKA PVE">
+    <meta property="og:description" content="6 простых шагов до выживания на PVE-сервере AMURKA.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://amurka-pve-scum.github.io/start/">
+    <link rel="canonical" href="https://amurka-pve-scum.github.io/start/">
+    <link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
+    <link rel="stylesheet" href="../css/variables.css">
+    <link rel="stylesheet" href="../css/base.css">
+    <link rel="stylesheet" href="../css/components.css">
+    <link rel="stylesheet" href="../css/navbar.css">
+    <link rel="stylesheet" href="../css/footer.css">
+    <link rel="stylesheet" href="../css/page-inner.css">
+    <link rel="stylesheet" href="../css/responsive.css">
+</head>
+<body class="page-content">
+
+    <!-- NAVBAR -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-inner">
+            <a href="/" class="nav-logo"><span class="logo-mark"><i class="fas fa-skull-crossbones"></i></span> AMURKA</a>
+            <ul class="nav-menu" id="navMenu">
+                <li class="nav-item">
+                    <a href="#" class="nav-link">ИГРА <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/server/" style="color:var(--green)"><i class="fas fa-server"></i> Сервер</a>
+                        <a href="/features/"><i class="fas fa-bolt"></i> Возможности</a>
+                        <a href="/mods/"><i class="fas fa-puzzle-piece"></i> Моды</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link">МИР <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/map/"><i class="fas fa-map"></i> Карта</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link">LIVE <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/live/"><i class="fas fa-circle"></i> Онлайн</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link">ПОМОЩЬ <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/start/" style="color:var(--green)"><i class="fas fa-play-circle"></i> Как начать</a>
+                        <a href="/rules/"><i class="fas fa-book"></i> Правила</a>
+                    </div>
+                </li>
+            </ul>
+            <div class="nav-right">
+                <div class="nav-online">
+                    <span class="status-dot online" id="navStatusDot"></span>
+                    <span>ONLINE</span>
+                    <span class="online-num" id="navOnlineNum">—</span>
+                </div>
+                <a href="/start/" class="btn btn-primary nav-play">PLAY</a>
+            </div>
+            <button class="nav-toggle" id="navToggle" aria-label="Меню"><span></span><span></span><span></span></button>
+        </div>
+    </nav>
+    <div class="nav-mobile" id="navMobile">
+        <div class="nav-mobile-group"><div class="nav-mobile-group-title">ИГРА</div><a href="/server/"><i class="fas fa-server"></i> Сервер</a><a href="/features/"><i class="fas fa-bolt"></i> Возможности</a><a href="/mods/"><i class="fas fa-puzzle-piece"></i> Моды</a></div>
+        <div class="nav-mobile-group"><div class="nav-mobile-group-title">МИР</div><a href="/map/"><i class="fas fa-map"></i> Карта</a></div>
+        <div class="nav-mobile-group"><div class="nav-mobile-group-title">ПОМОЩЬ</div><a href="/start/"><i class="fas fa-play-circle"></i> Как начать</a><a href="/rules/"><i class="fas fa-book"></i> Правила</a></div>
+    </div>
+
+    <!-- PAGE HERO -->
+    <section class="page-hero">
+        <div class="container">
+            <h1 data-aos="fade-up">КАК <span class="text-green">НАЧАТЬ</span></h1>
+            <p data-aos="fade-up" data-aos-delay="100">6 простых шагов до выживания</p>
+        </div>
+    </section>
+
+    <!-- TIMELINE -->
+    <section class="section">
+        <div class="container">
+            <div class="timeline">
+
+                <div class="timeline-step" data-aos="fade-up">
+                    <div class="step-num">01</div>
+                    <div class="step-body">
+                        <h3>Установи SCUM</h3>
+                        <p>Приобрети игру в Steam. Минимальные требования: 8GB RAM, GTX 660.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-step" data-aos="fade-up" data-aos-delay="50">
+                    <div class="step-num">02</div>
+                    <div class="step-body">
+                        <h3>Скачай лаунчер</h3>
+                        <p>Скачай и запусти установщик.</p>
+                        <a href="https://github.com/AMURKA-PVE-SCUM/AMURKA-PVE-Launcher/releases" class="btn btn-primary" target="_blank" rel="noopener"><i class="fas fa-download"></i> Скачать лаунчер</a>
+                    </div>
+                </div>
+
+                <div class="timeline-step" data-aos="fade-up" data-aos-delay="100">
+                    <div class="step-num">03</div>
+                    <div class="step-body">
+                        <h3>Укажи путь к Paks</h3>
+                        <p>В лаунчере укажи путь: <code>Steam\steamapps\common\SCUM\SCUM\Content\Paks\</code> Создать папку <code>~mods</code></p>
+                    </div>
+                </div>
+
+                <div class="timeline-step" data-aos="fade-up" data-aos-delay="150">
+                    <div class="step-num">04</div>
+                    <div class="step-body">
+                        <h3>Установи моды</h3>
+                        <p>Нажми «Установить моды». Дождись завершения.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-step" data-aos="fade-up" data-aos-delay="200">
+                    <div class="step-num">05</div>
+                    <div class="step-body">
+                        <h3>Запусти игру</h3>
+                        <p>Нажми «Запустить игру» в лаунчере. Или через Steam с параметром <code>-fileopenlog</code></p>
+                    </div>
+                </div>
+
+                <div class="timeline-step" data-aos="fade-up" data-aos-delay="250">
+                    <div class="step-num">06</div>
+                    <div class="step-body">
+                        <h3>Найди сервер</h3>
+                        <p>В главном меню выбери «Поиск серверов». Введи: <code>play.amurkapve.ru:7004</code></p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- CALLOUT -->
+    <section class="section" style="padding-top:0;">
+        <div class="container">
+            <div class="callout" data-aos="fade-up">
+                <p><strong>ВАЖНО:</strong> лаунчер не обязателен, но нужен для полной синхронизации клиентских модов.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <a href="/" class="nav-logo" style="margin-bottom:var(--sp-md);"><span class="logo-mark"><i class="fas fa-skull-crossbones"></i></span> AMURKA</a>
+                    <p>SCUM PVE сервер. Работаем с 25 июля 2025 года.</p>
+                </div>
+                <div class="footer-col"><h4>ИГРА</h4><ul><li><a href="/server/"><i class="fas fa-server"></i> Сервер</a></li><li><a href="/features/"><i class="fas fa-bolt"></i> Возможности</a></li><li><a href="/mods/"><i class="fas fa-puzzle-piece"></i> Моды</a></li><li><a href="/map/"><i class="fas fa-map"></i> Карта</a></li></ul></div>
+                <div class="footer-col"><h4>ПОМОЩЬ</h4><ul><li><a href="/start/"><i class="fas fa-play-circle"></i> Как начать</a></li><li><a href="/rules/"><i class="fas fa-book"></i> Правила</a></li><li><a href="/support/"><i class="fas fa-headset"></i> Поддержка</a></li></ul></div>
+                <div class="footer-col">
+                    <h4>ПОДКЛЮЧИТЬСЯ</h4>
+                    <div class="footer-ip"><code>play.amurkapve.ru:7004</code><button class="copy-btn" data-copy="play.amurkapve.ru:7004"><i class="fas fa-copy"></i></button></div>
+                </div>
+            </div>
+            <div class="footer-bottom"><p>&copy; 2025–2026 AMURKA PVE.</p></div>
+        </div>
+    </footer>
+
+    <div class="toast" id="toast"><i class="fas fa-check-circle"></i><span id="toastText">Скопировано!</span></div>
+    <button class="scroll-top" id="scrollTop" aria-label="Наверх"><i class="fas fa-arrow-up"></i></button>
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="../js/api.js"></script>
+    <script src="../js/main.js"></script>
+</body>
+</html>

@@ -3,17 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AMURKA PVE MOD — SCUM PVE Сервер | Игровой сервер SCUM с модами</title>
-    <meta name="description" content="SCUM PVE сервер AMURKA PVE MOD. 1000+ элементов строительства, кастомные квесты, NPC торговцы, роботы в секторах, орда зомби. Адрес: play.amurkapve.ru:7004. Заходи и выживай!">
-    <meta property="og:title" content="AMURKA PVE MOD — SCUM PVE Сервер">
-    <meta property="og:description" content="PVE-сервер SCUM: 1000 элементов строительства, кастомные квесты, роботы, орда зомби. Адрес: play.amurkapve.ru:7004">
-    <meta name="keywords" content="SCUM, PVE, сервер, AMURKA, моды, выживание, amurkapve">
+    <title>AMURKA PVE — SCUM PVE Сервер | Игровой сервер с модами</title>
+    <meta name="description" content="SCUM PVE сервер AMURKA PVE. 60+ модов, живая экономика, NPC, роботы, события. Адрес: play.amurkapve.ru:7004.">
+    <meta property="og:title" content="AMURKA PVE — SCUM PVE Сервер">
+    <meta property="og:description" content="PVE-сервер SCUM: 60+ модов, кастомное оружие, роботы, экономика. play.amurkapve.ru:7004">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://amurka-pve-scum.github.io/">
     <meta property="og:image" content="https://amurka-pve-scum.github.io/assets/images/og.png">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="yandex-verification" content="4e14d35320a529c1" />
-    <meta name="google-site-verification" content="M0jWTToZclbTTnwBrxWUy3PFClduRCqgnmRWZx1Md-w" />
+    <meta name="yandex-verification" content="4e14d35320a529c1">
+    <meta name="google-site-verification" content="M0jWTToZclbTTnwBrxWUy3PFClduRCqgnmRWZx1Md-w">
     <link rel="canonical" href="https://amurka-pve-scum.github.io/">
     <link rel="sitemap" type="application/xml" href="https://amurka-pve-scum.github.io/sitemap.xml">
     <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
@@ -21,844 +20,459 @@
     {
       "@context": "https://schema.org",
       "@type": "GameServer",
-      "name": "AMURKA PVE MOD",
-      "description": "PVE-сервер для SCUM. 1000 элементов строительства, кастомные квесты, роботы по выходным, орда зомби.",
+      "name": "AMURKA PVE",
+      "description": "PVE-сервер для SCUM. 60+ модов, кастомное оружие, роботы, экономика.",
       "gameName": "SCUM",
       "gamePlatform": "PC",
       "operatingSystem": "Windows",
       "serverAddress": "play.amurkapve.ru:7004",
       "url": "https://amurka-pve-scum.github.io/",
       "genre": ["Survival", "Open World", "PVE"],
-      "author": {
-        "@type": "Organization",
-        "name": "AMURKA PVE"
-      },
-      "offers": {
-        "@type": "Offer",
-        "price": "0",
-        "priceCurrency": "RUB",
-        "description": "Бесплатный игровой сервер SCUM PVE"
-      }
+      "author": { "@type": "Organization", "name": "AMURKA PVE" },
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "RUB" }
     }
     </script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/variables.css">
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/components.css">
+    <link rel="stylesheet" href="css/navbar.css">
+    <link rel="stylesheet" href="css/footer.css">
+    <link rel="stylesheet" href="css/page-home.css">
+    <link rel="stylesheet" href="css/responsive.css">
 </head>
-<body>
+<body class="page-content">
 
+    <!-- ═══ NAVBAR ═══ -->
     <nav class="navbar" id="navbar">
-        <div class="nav-container">
-            <a href="#hero" class="nav-logo">
-                <span class="logo-icon"><i class="fas fa-skull-crossbones"></i></span>
-                <span class="logo-text">AMURKA <span class="accent">PVE</span></span>
+        <div class="nav-inner">
+            <a href="/" class="nav-logo">
+                <span class="logo-mark"><i class="fas fa-skull-crossbones"></i></span>
+                AMURKA
             </a>
-            <button class="nav-toggle" id="navToggle" aria-label="Toggle menu">
+
+            <ul class="nav-menu" id="navMenu">
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="game">ИГРА <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/server/"><i class="fas fa-server"></i> Сервер</a>
+                        <a href="/features/"><i class="fas fa-bolt"></i> Возможности</a>
+                        <a href="/mods/"><i class="fas fa-puzzle-piece"></i> Моды</a>
+                        <a href="/domo/"><i class="fas fa-robot"></i> DOMO</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="world">МИР <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/map/"><i class="fas fa-map"></i> Карта</a>
+                        <a href="/world/#poi"><i class="fas fa-location-dot"></i> POI</a>
+                        <a href="/world/#traders"><i class="fas fa-store"></i> Торговцы</a>
+                        <a href="/events/"><i class="fas fa-calendar-star"></i> События</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="live">LIVE <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/live/"><i class="fas fa-circle"></i> Онлайн</a>
+                        <a href="/stats/"><i class="fas fa-chart-line"></i> Статистика</a>
+                        <a href="/players/"><i class="fas fa-users"></i> Игроки</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="community">COMMUNITY <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/news/"><i class="fas fa-newspaper"></i> Новости</a>
+                        <a href="/gallery/"><i class="fas fa-images"></i> Галерея</a>
+                        <a href="/streamers/"><i class="fas fa-video"></i> Стримеры</a>
+                        <a href="/vote/"><i class="fas fa-check-circle"></i> Голосование</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="help">ПОМОЩЬ <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/start/"><i class="fas fa-play-circle"></i> Как начать</a>
+                        <a href="/rules/"><i class="fas fa-book"></i> Правила</a>
+                        <a href="/support/"><i class="fas fa-headset"></i> Поддержка</a>
+                    </div>
+                </li>
+            </ul>
+
+            <div class="nav-right">
+                <div class="nav-online">
+                    <span class="status-dot online" id="navStatusDot"></span>
+                    <span>ONLINE</span>
+                    <span class="online-num" id="navOnlineNum">—</span>
+                </div>
+                <a href="/start/" class="btn btn-primary nav-play">PLAY</a>
+            </div>
+
+            <button class="nav-toggle" id="navToggle" aria-label="Меню">
                 <span></span><span></span><span></span>
             </button>
-            <ul class="nav-menu" id="navMenu">
-                <li><a href="#about" class="nav-link">О сервере</a></li>
-                <li><a href="#status" class="nav-link">Статус</a></li>
-                <li><a href="map/" class="nav-link"><i class="fas fa-map-location-dot"></i> Карта</a></li>
-                <li><a href="#rules" class="nav-link">Правила</a></li>
-                <li><a href="#mods" class="nav-link">Моды</a></li>
-                <li><a href="#compare" class="nav-link">Сравнение</a></li>
-                <li><a href="#mod-advantages" class="nav-link">Преимущества</a></li>
-                <li><a href="#commands" class="nav-link">Бот</a></li>
-                <li><a href="#news" class="nav-link">Новости</a></li>
-                <li><a href="#gallery" class="nav-link">Галерея</a></li>
-                <li><a href="#streamers" class="nav-link">Стримеры</a></li>
-                <li><a href="#guides" class="nav-link">Гайд</a></li>
-                <li><a href="#vote" class="nav-link">Голосование</a></li>
-            </ul>
         </div>
     </nav>
 
+    <!-- Mobile Menu -->
+    <div class="nav-mobile" id="navMobile">
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">ИГРА</div>
+            <a href="/server/"><i class="fas fa-server"></i> Сервер</a>
+            <a href="/features/"><i class="fas fa-bolt"></i> Возможности</a>
+            <a href="/mods/"><i class="fas fa-puzzle-piece"></i> Моды</a>
+            <a href="/domo/"><i class="fas fa-robot"></i> DOMO</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">МИР</div>
+            <a href="/map/"><i class="fas fa-map"></i> Карта</a>
+            <a href="/world/#poi"><i class="fas fa-location-dot"></i> POI</a>
+            <a href="/events/"><i class="fas fa-calendar-star"></i> События</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">LIVE</div>
+            <a href="/live/"><i class="fas fa-circle"></i> Онлайн</a>
+            <a href="/stats/"><i class="fas fa-chart-line"></i> Статистика</a>
+            <a href="/players/"><i class="fas fa-users"></i> Игроки</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">COMMUNITY</div>
+            <a href="/news/"><i class="fas fa-newspaper"></i> Новости</a>
+            <a href="/gallery/"><i class="fas fa-images"></i> Галерея</a>
+            <a href="/streamers/"><i class="fas fa-video"></i> Стримеры</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">ПОМОЩЬ</div>
+            <a href="/start/"><i class="fas fa-play-circle"></i> Как начать</a>
+            <a href="/rules/"><i class="fas fa-book"></i> Правила</a>
+            <a href="/support/"><i class="fas fa-headset"></i> Поддержка</a>
+        </div>
+        <div class="nav-mobile-ip">
+            <div class="ip-label" style="color:var(--muted);font-size:0.7rem;text-transform:uppercase;font-family:var(--font-mono);margin-bottom:6px;">IP сервера</div>
+            <div class="ip-value">play.amurkapve.ru:7004</div>
+        </div>
+    </div>
+
+    <!-- ═══ HERO ═══ -->
     <section class="hero" id="hero">
         <div class="hero-bg"></div>
-        <div class="hero-overlay"></div>
         <div class="hero-particles" id="particles"></div>
         <div class="hero-content">
-            <h1 class="hero-title" data-aos="fade-up" data-aos-delay="100">
-                AMURKA <span class="accent">PVE MOD</span>
-            </h1>
-            <p class="hero-subtitle" data-aos="fade-up" data-aos-delay="200">
-                Забудь про ванильный SCUM. Здесь целый мир пересобран нашими модами — глубже, смелее и по-настоящему живой
-            </p>
-            <div class="hero-buttons" data-aos="fade-up" data-aos-delay="300">
-                <a href="#guides" class="btn btn-primary">
-                    <i class="fas fa-play"></i> Начать играть
-                </a>
-                <a href="https://github.com/AMURKA-PVE-SCUM/AMURKA-PVE-Launcher/releases" class="btn btn-secondary" target="_blank">
-                    <i class="fas fa-download"></i> Скачать лаунчер
-                </a>
-                <a href="https://lolka.gg/xq3Mo6u" class="btn btn-secondary" target="_blank">
-                    <i class="fas fa-comments"></i> LOLKA
-                </a>
+            <div class="hero-tag">
+                <span class="tag-dot"></span>
+                SCUM PVE SERVER
             </div>
-            <div class="hero-stats" data-aos="fade-up" data-aos-delay="400">
-                <div class="stat-item">
-                    <span class="stat-number" data-count="0">—</span>
-                    <span class="stat-label">Игроков онлайн</span>
+            <h1>AMURKA <span class="accent">PVE</span></h1>
+            <p class="hero-subtitle">Другой SCUM начинается здесь. 60+ модов, живая экономика, NPC и роботы на острове.</p>
+            <div class="hero-buttons">
+                <a href="/start/" class="btn btn-primary"><i class="fas fa-play"></i> Начать играть</a>
+                <a href="/features/" class="btn btn-secondary"><i class="fas fa-compass"></i> Исследовать мир</a>
+            </div>
+            <div class="hero-stats">
+                <div class="hero-stat">
+                    <span class="hero-stat-value" id="heroOnline">—</span>
+                    <span class="hero-stat-label">Онлайн</span>
                 </div>
-                <div class="stat-item">
-                    <span class="stat-number" data-count="100">0</span>
-                    <span class="stat-label">Макс. игроков</span>
+                <div class="hero-stat">
+                    <span class="hero-stat-value">100</span>
+                    <span class="hero-stat-label">Слотов</span>
                 </div>
-                <div class="stat-item">
-                    <span class="stat-number" data-count="60" data-suffix="+">0</span>
-                    <span class="stat-label">Модов в пакете</span>
+                <div class="hero-stat">
+                    <span class="hero-stat-value">60+</span>
+                    <span class="hero-stat-label">Модов</span>
                 </div>
-                <div class="stat-item">
-                    <span class="stat-number" id="wargmRating">—</span>
-                    <span class="stat-label">Wargm рейтинг</span>
+                <div class="hero-stat">
+                    <span class="hero-stat-value">PVE</span>
+                    <span class="hero-stat-label">Игра</span>
                 </div>
             </div>
         </div>
-        <div class="scroll-indicator">
-            <div class="mouse">
-                <div class="wheel"></div>
-            </div>
-            <span>Листай вниз</span>
+        <div class="hero-scroll">
+            <span>Scroll to explore</span>
+            <div class="scroll-line"></div>
         </div>
     </section>
 
-    <section class="section about" id="about">
+    <!-- ═══ NUMBERS ═══ -->
+    <section class="numbers" data-aos="fade-up">
         <div class="container">
-            <h2 class="section-title" data-aos="fade-up">
-                <span class="accent">О сервере</span>
-            </h2>
-            <p class="section-desc" data-aos="fade-up" data-aos-delay="100">
-                Работаем с 25 июля 2025 года — больше года стабильной игры. У многих серверов «MOD» в названии — пустой звук,
-                у нас это реальный мод-пак через лаунчер: каждая механика игры — от скорости машин до электричества базы —
-                переписана под комфортное выживание.
-            </p>
-            <div class="hero-buttons about-buttons" data-aos="fade-up" data-aos-delay="200">
-                <a href="https://github.com/AMURKA-PVE-SCUM/AMURKA-PVE-Launcher/releases" class="btn btn-primary" target="_blank">
-                    <i class="fas fa-download"></i> Скачать лаунчер
-                </a>
-                <a href="https://lolka.gg/xq3Mo6u" class="btn btn-secondary" target="_blank">
-                    <i class="fas fa-comments"></i> LOLKA (Чат)
-                </a>
-            </div>
-            <div class="features-grid">
-                <div class="feature-card" data-aos="fade-up" data-aos-delay="100">
-                    <div class="feature-icon">
-                        <i class="fas fa-coins"></i>
-                    </div>
-                    <h3>Живая экономика</h3>
-                    <p>Цены подняты по заслугам: мясо, рыба, ожерелья, замки и отмычки приносят реальные деньги. Ремнаборы, сумки и цемент стали долговечнее.</p>
+            <div class="numbers-grid">
+                <div class="stat-big" data-aos="fade-up" data-aos-delay="100">
+                    <div class="stat-value" data-count="60" data-suffix="+">0</div>
+                    <div class="stat-label">MODS</div>
                 </div>
-                <div class="feature-card" data-aos="fade-up" data-aos-delay="200">
-                    <div class="feature-icon">
-                        <i class="fas fa-gauge-high"></i>
-                    </div>
-                    <h3>Транспорт без страха</h3>
-                    <p>Урон транспорта отключён, скорость авто +50 км/ч к дефолту, самолёты взлетают увереннее, грузоподъёмность увеличена. Вся карта — твоя.</p>
+                <div class="stat-big" data-aos="fade-up" data-aos-delay="200">
+                    <div class="stat-value" data-count="100">0</div>
+                    <div class="stat-label">PLAYER SLOTS</div>
                 </div>
-                <div class="feature-card" data-aos="fade-up" data-aos-delay="300">
-                    <div class="feature-icon">
-                        <i class="fas fa-person-running"></i>
-                    </div>
-                    <h3>Выживание в плюс</h3>
-                    <p>Повышен порог перегруза, выносливость и вода восстанавливаются быстрее, морская вода пригодна для питья, одежда не пачкается.</p>
+                <div class="stat-big" data-aos="fade-up" data-aos-delay="300">
+                    <div class="stat-value">PVE</div>
+                    <div class="stat-label">GAMEPLAY</div>
                 </div>
-                <div class="feature-card" data-aos="fade-up" data-aos-delay="400">
-                    <div class="feature-icon">
-                        <i class="fas fa-robot"></i>
-                    </div>
-                    <h3>Роботы в секторах</h3>
-                    <p>Постоянный спавн роботов в секторах D4, B2 и A4. Не ждёшь ивента — идёшь и фармишь, когда удобно тебе.</p>
-                </div>
-                <div class="feature-card" data-aos="fade-up" data-aos-delay="500">
-                    <div class="feature-icon">
-                        <i class="fas fa-paw"></i>
-                    </div>
-                    <h3>Мир отвечает взаимностью</h3>
-                    <p>NPC с уникальным лутом и квестами от торговцев, зомби давят числом, но не ломятся в двери, охота и ресурсы по всей карте.</p>
-                </div>
-                <div class="feature-card" data-aos="fade-up" data-aos-delay="600">
-                    <div class="feature-icon">
-                        <i class="fas fa-headset"></i>
-                    </div>
-                    <h3>Администрация всегда на связи</h3>
-                    <p>Три админа, готовые помочь в любом вопросе — всегда на связи и всегда в игре.</p>
+                <div class="stat-big" data-aos="fade-up" data-aos-delay="400">
+                    <div class="stat-value">24/7</div>
+                    <div class="stat-label">SERVER</div>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="section status-section" id="status">
+    <!-- ═══ WHY AMURKA ═══ -->
+    <section class="section" id="why">
         <div class="container">
-            <h2 class="section-title" data-aos="fade-up">
-                <span class="accent">Статус сервера</span>
-            </h2>
-            <div class="status-widget" data-aos="fade-up" data-aos-delay="100">
-                <div class="status-header">
-                    <div class="status-indicator" id="statusIndicator">
-                        <span class="status-dot"></span>
-                        <span class="status-text" id="statusText">Проверка...</span>
-                    </div>
-                    <div class="server-ip" id="copyIp">
-                        <span class="ip-label">IP:</span>
-                        <span class="ip-value" id="serverIp">play.amurkapve.ru:7004</span>
-                        <i class="fas fa-copy copy-icon"></i>
+            <div class="section-header" data-aos="fade-up">
+                <h2>Почему <span class="text-green">AMURKA</span></h2>
+                <p>Не «MOD» в названии — реальные модификации, которые меняют каждый аспект игры.</p>
+            </div>
+            <div class="why-grid">
+                <div class="why-card" data-aos="fade-up" data-aos-delay="100">
+                    <span class="why-card-num">01</span>
+                    <h3>MODDED SURVIVAL</h3>
+                    <p>60+ настоящих модов: кастомное оружие, скины, коптильня, мебель, генератор на всю базу. Каждый мод — реальный артефакт, а не «х5 лут» в конфиге.</p>
+                </div>
+                <div class="why-card" data-aos="fade-up" data-aos-delay="200">
+                    <span class="why-card-num">02</span>
+                    <h3>FREEDOM</h3>
+                    <p>Транспорт без урона, +50 км/ч к скорости, рюкзаки до 2000 кг, стаки патронов ×100. Свобода передвижения и перевозки без компромиссов.</p>
+                </div>
+                <div class="why-card" data-aos="fade-up" data-aos-delay="300">
+                    <span class="why-card-num">03</span>
+                    <h3>LIVING WORLD</h3>
+                    <p>NPC с квестами и лутом, роботы в секторах D4, B2, A4, события по расписанию, внутренняя экономика с торговцами. Мир живёт своей жизнью.</p>
+                </div>
+                <div class="why-card" data-aos="fade-up" data-aos-delay="400">
+                    <span class="why-card-num">04</span>
+                    <h3>DOMO</h3>
+                    <p>Игровой помощник прямо в чате. Стартовые наборы, телепорты, гараж, магазин, голосование за погоду — всё без выхода из игры.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══ WORLD ═══ -->
+    <section class="section world-section" id="world">
+        <div class="container">
+            <div class="world-layout">
+                <div class="world-map-preview" data-aos="fade-right">
+                    <img src="map/map.jpg" alt="Карта AMURKA">
+                    <div class="world-map-overlay">
+                        <a href="/map/" class="btn btn-primary"><i class="fas fa-map"></i> Открыть карту</a>
                     </div>
                 </div>
-                <div class="status-body">
-                    <div class="status-info">
-                        <div class="info-card">
-                            <i class="fas fa-users"></i>
-                            <div>
-                                <span class="info-label">Игроки</span>
-                                <span class="info-value"><span id="onlineCount">—</span> / <span id="maxPlayers">100</span></span>
-                            </div>
+                <div class="world-info" data-aos="fade-left">
+                    <h2>Остров <span class="text-green">AMURKA</span></h2>
+                    <p>Исследуй. Строй. Торгуй. Выживай. Остров, который живёт своей жизнью — с NPC, роботами, торговцами и событиями.</p>
+                    <div class="world-tags">
+                        <span class="tag"><i class="fas fa-location-dot"></i> POI</span>
+                        <span class="tag"><i class="fas fa-store"></i> Торговцы</span>
+                        <span class="tag tag-orange"><i class="fas fa-bolt"></i> События</span>
+                        <span class="tag tag-blue"><i class="fas fa-robot"></i> Роботы</span>
+                        <span class="tag tag-muted"><i class="fas fa-shield"></i> Безопасные зоны</span>
+                    </div>
+                    <a href="/map/" class="btn btn-secondary"><i class="fas fa-expand"></i> Открыть карту</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══ LIVE ═══ -->
+    <section class="section" id="live">
+        <div class="container">
+            <div class="section-header" data-aos="fade-up">
+                <h2>LIVE <span class="text-green">SERVER</span></h2>
+                <p>Что происходит на сервере прямо сейчас.</p>
+            </div>
+            <div class="live-grid">
+                <div class="live-status" data-aos="fade-up" data-aos-delay="100">
+                    <div class="live-status-header">
+                        <span class="status-dot online" id="liveStatusDot"></span>
+                        SERVER STATUS
+                    </div>
+                    <div class="live-stats">
+                        <div class="live-stat">
+                            <div class="value" id="liveOnline">—</div>
+                            <div class="label">Игроков</div>
                         </div>
-                        <div class="info-card">
-                            <i class="fas fa-map"></i>
-                            <div>
-                                <span class="info-label">Карта</span>
-                                <span class="info-value" id="currentMap">Islands</span>
-                            </div>
+                        <div class="live-stat">
+                            <div class="value" id="liveMax">100</div>
+                            <div class="label">Слотов</div>
                         </div>
-                        <div class="info-card">
-                            <i class="fas fa-server"></i>
-                            <div>
-                                <span class="info-label">Версия</span>
-                                <span class="info-value" id="serverVersion">0.768.541</span>
-                            </div>
+                        <div class="live-stat">
+                            <div class="value" id="liveVersion">—</div>
+                            <div class="label">Версия</div>
                         </div>
                     </div>
+                    <div style="margin-top:var(--sp-lg);">
+                        <div class="ip-block" id="copyIp">
+                            <span class="ip-label">IP</span>
+                            <span class="ip-value">play.amurkapve.ru:7004</span>
+                            <i class="fas fa-copy ip-copy"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="live-feed" data-aos="fade-up" data-aos-delay="200">
+                    <h4><i class="fas fa-stream"></i> Recent Activity</h4>
+                    <ul class="feed-list" id="feedList">
+                        <li class="feed-item">
+                            <span class="feed-time">—</span>
+                            <span class="feed-type server">SERVER</span>
+                            <span class="feed-text">Загрузка данных...</span>
+                        </li>
+                    </ul>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="section rules-section" id="rules">
+    <!-- ═══ MODS PREVIEW ═══ -->
+    <section class="section" id="mods" style="background:var(--panel);border-top:1px solid var(--border);border-bottom:1px solid var(--border);">
         <div class="container">
-            <h2 class="section-title" data-aos="fade-up">
-                <span class="accent">Правила сервера</span>
-            </h2>
-            <div class="rules-grid">
-                <div class="rule-card" data-aos="fade-up" data-aos-delay="100">
-                    <div class="rule-header">
-                        <span class="rule-number">01</span>
-                        <h3>Общие правила</h3>
-                    </div>
-                    <ul class="rule-list">
-                        <li><i class="fas fa-check"></i> Уважай других игроков и администрацию</li>
-                        <li><i class="fas fa-check"></i> Без оскорблений, спама и рекламы других серверов</li>
-                        <li><i class="fas fa-check"></i> В чате — русский или английский язык</li>
-                        <li><i class="fas fa-check"></i> Спорные ситуации решает администрация</li>
-                    </ul>
+            <div class="section-header" data-aos="fade-up">
+                <h2><span class="text-green">60+</span> MODS</h2>
+                <p>Три категории: ядро геймплея, скины и оружие. Ставь лаунчер — и играй так, как в ванили невозможно.</p>
+            </div>
+            <div class="mods-preview-grid">
+                <div class="mods-preview-stat" data-aos="fade-up" data-aos-delay="100">
+                    <div class="num">29</div>
+                    <div class="cat">CORE</div>
                 </div>
-                <div class="rule-card" data-aos="fade-up" data-aos-delay="150">
-                    <div class="rule-header">
-                        <span class="rule-number">02</span>
-                        <h3>Игровой процесс</h3>
-                    </div>
-                    <ul class="rule-list">
-                        <li><i class="fas fa-ban"></i> Кража, взлом и захват игроков запрещены (исключение — ивенты администрации)</li>
-                        <li><i class="fas fa-ban"></i> Никаких деструктивных советов другим игрокам</li>
-                        <li><i class="fas fa-check"></i> Забираешь дроп — отметься в глобальном чате по приезду</li>
-                    </ul>
+                <div class="mods-preview-stat" data-aos="fade-up" data-aos-delay="200">
+                    <div class="num">27</div>
+                    <div class="cat">SKINS</div>
                 </div>
-                <div class="rule-card" data-aos="fade-up" data-aos-delay="200">
-                    <div class="rule-header">
-                        <span class="rule-number">03</span>
-                        <h3>Читы и стороннее ПО</h3>
-                    </div>
-                    <ul class="rule-list">
-                        <li><i class="fas fa-ban"></i> Читы, баги, мультиаккаунты и VPN под запретом</li>
-                        <li><i class="fas fa-ban"></i> Стримснайпинг ради преимущества запрещён</li>
-                        <li><i class="fas fa-ban"></i> Обсуждение и распространение инфы о читах и багах — бан</li>
-                    </ul>
+                <div class="mods-preview-stat" data-aos="fade-up" data-aos-delay="300">
+                    <div class="num">3+</div>
+                    <div class="cat">WEAPONS</div>
                 </div>
-                <div class="rule-card" data-aos="fade-up" data-aos-delay="250">
-                    <div class="rule-header">
-                        <span class="rule-number">04</span>
-                        <h3>Строительство баз</h3>
-                    </div>
-                    <ul class="rule-list">
-                        <li><i class="fas fa-check"></i> Можно занимать пустующие дома вне POI, мультифлаг разрешён</li>
-                        <li><i class="fas fa-ban"></i> Не стройся у аванпостов, заводов, военки и полиции, в безопасных зонах и местах ивентов</li>
-                        <li><i class="fas fa-ban"></i> Не перекрывай дороги, мосты, подъезды к бункерам, депо, фабрике, тюрьме, заправкам и тоннелям</li>
-                        <li><i class="fas fa-ban"></i> Хранение лута и транспорта в безопасных зонах запрещено</li>
-                    </ul>
-                </div>
-                <div class="rule-card" data-aos="fade-up" data-aos-delay="300">
-                    <div class="rule-header">
-                        <span class="rule-number">05</span>
-                        <h3>Лимиты техники</h3>
-                    </div>
-                    <ul class="rule-list">
-                        <li><i class="fas fa-check"></i> На игрока: 1 машина + 1 мотоцикл или квадроцикл (соло — по одной единице)</li>
-                        <li><i class="fas fa-check"></i> На отряд: самолёты — макс. 2, трактор — 1, лодки — 2</li>
-                        <li><i class="fas fa-check"></i> Вся техника подписана никами и закрыта своими замками</li>
-                    </ul>
-                </div>
-                <div class="rule-card" data-aos="fade-up" data-aos-delay="350">
-                    <div class="rule-header">
-                        <span class="rule-number">06</span>
-                        <h3>Парковка и спавн</h3>
-                    </div>
-                    <ul class="rule-list">
-                        <li><i class="fas fa-ban"></i> Не закрывай транспорт в месте спавна — новый не появится, пока старый стоит там</li>
-                        <li><i class="fas fa-ban"></i> Аванпосты и торговые зоны: максимум 2 часа, дальше техника удаляется вместе с хабаром</li>
-                        <li><i class="fas fa-check"></i> Техника без движения 10 дней считается брошенной</li>
-                    </ul>
-                </div>
-                <div class="rule-card warning" data-aos="fade-up" data-aos-delay="400">
-                    <div class="rule-header">
-                        <span class="rule-number"><i class="fas fa-exclamation-triangle"></i></span>
-                        <h3>Ответственность</h3>
-                    </div>
-                    <ul class="rule-list">
-                        <li><i class="fas fa-times"></i> Администрация не отвечает за ваш транспорт, вещи и ящики</li>
-                        <li><i class="fas fa-times"></i> Застрял в текстурах — решение за тобой: админ может только удалить объект</li>
-                        <li><i class="fas fa-times"></i> Пропавший транспорт: заявка с моделью и ID — восстановление не гарантировано</li>
-                        <li><i class="fas fa-times"></i> Утерянные вещи и ящики не восстанавливаются («было и сплыло»)</li>
-                    </ul>
-                </div>
+            </div>
+            <div class="mods-preview-link" data-aos="fade-up">
+                <a href="/mods/" class="btn btn-secondary"><i class="fas fa-puzzle-piece"></i> Все моды <i class="fas fa-arrow-right" style="font-size:0.8em;"></i></a>
             </div>
         </div>
     </section>
 
-    <section class="section mods-section" id="mods">
+    <!-- ═══ NEWS ═══ -->
+    <section class="section" id="news">
         <div class="container">
-            <h2 class="section-title" data-aos="fade-up">
-                <span class="accent">60+ модов. Не приставка — реальность</span>
-            </h2>
-            <p class="section-desc" data-aos="fade-up" data-aos-delay="100">
-                Три категории: ядро геймплея, скины и оружие. Ставь лаунчер — и играй так, как в ванили невозможно.
-            </p>
-
-            <h3 class="mods-cat-title" data-aos="fade-up"><i class="fas fa-gears"></i> CORE — ядро геймплея <span class="cat-count">29</span></h3>
-            <div class="mods-grid">
-                <div class="mod-card" data-aos="fade-up" data-aos-delay="100">
-                    <div class="mod-icon"><i class="fas fa-boxes-stacked"></i></div>
-                    <h3>Стаки патронов ×100</h3>
-                    <p>Все патроны стакаются по 100 — инвентарь больше не кладбище обойм.</p>
-                    <span class="mod-tag">Инвентарь</span>
-                </div>
-                <div class="mod-card" data-aos="fade-up" data-aos-delay="150">
-                    <div class="mod-icon"><i class="fas fa-bag-shopping"></i></div>
-                    <h3>Рюкзаки до 2000 кг</h3>
-                    <p>Рюкзаки 12×12 слотов и грузоподъёмностью до 2000 кг. Вози базу на себе.</p>
-                    <span class="mod-tag">Инвентарь</span>
-                </div>
-                <div class="mod-card" data-aos="fade-up" data-aos-delay="200">
-                    <div class="mod-icon"><i class="fas fa-weight-hanging"></i></div>
-                    <h3>Максимальный перегруз</h3>
-                    <p>Поднятый порог переносимого веса — носи всё, что нужно.</p>
-                    <span class="mod-tag">Персонаж</span>
-                </div>
-                <div class="mod-card" data-aos="fade-up" data-aos-delay="250">
-                    <div class="mod-icon"><i class="fas fa-bolt"></i></div>
-                    <h3>Быстрая вода и стамина</h3>
-                    <p>Выносливость и жажда восполняются ускоренно.</p>
-                    <span class="mod-tag">Персонаж</span>
-                </div>
-                <div class="mod-card" data-aos="fade-up" data-aos-delay="300">
-                    <div class="mod-icon"><i class="fas fa-parachute-box"></i></div>
-                    <h3>Улучшенный десант</h3>
-                    <p>Полёт при выброске на остров стал лучше — планируй куда хочешь.</p>
-                    <span class="mod-tag">Персонаж</span>
-                </div>
-                <div class="mod-card" data-aos="fade-up" data-aos-delay="350">
-                    <div class="mod-icon"><i class="fas fa-shirt"></i></div>
-                    <h3>Одежда не пачкается</h3>
-                    <p>Плюс мгновенная сушка после дождя и воды. Забудь про мокрые штаны.</p>
-                    <span class="mod-tag">Одежда</span>
-                </div>
-                <div class="mod-card" data-aos="fade-up" data-aos-delay="100">
-                    <div class="mod-icon"><i class="fas fa-water"></i></div>
-                    <h3>Морская вода питьевая</h3>
-                    <p>Океан вокруг острова — источник воды. Пей спокойно.</p>
-                    <span class="mod-tag">Мир</span>
-                </div>
-                <div class="mod-card" data-aos="fade-up" data-aos-delay="150">
-                    <div class="mod-icon"><i class="fas fa-fire-burner"></i></div>
-                    <h3>Коптильня</h3>
-                    <p>Копти мясо и рыбу — еда хранится дольше, выживание стало глубже.</p>
-                    <span class="mod-tag">Крафт</span>
-                </div>
-                <div class="mod-card" data-aos="fade-up" data-aos-delay="200">
-                    <div class="mod-icon"><i class="fas fa-couch"></i></div>
-                    <h3>Мебель для базы</h3>
-                    <p>Крафт базовой мебели — обустрой дом мечты.</p>
-                    <span class="mod-tag">Крафт</span>
-                </div>
-                <div class="mod-card" data-aos="fade-up" data-aos-delay="250">
-                    <div class="mod-icon"><i class="fas fa-plug-circle-bolt"></i></div>
-                    <h3>Генератор Gena5000</h3>
-                    <p>Питает электричеством всю территорию под флагом, ресурс практически бесконечен.</p>
-                    <span class="mod-tag">Базы</span>
-                </div>
-                <div class="mod-card" data-aos="fade-up" data-aos-delay="300">
-                    <div class="mod-icon"><i class="fas fa-shield-halved"></i></div>
-                    <h3>Броня и экипировка</h3>
-                    <p>Дополнительные комплекты брони, новый пояс, костюм зомби и парашютный костюм заключённого.</p>
-                    <span class="mod-tag">Экипировка</span>
-                </div>
-                <div class="mod-card" data-aos="fade-up" data-aos-delay="350">
-                    <div class="mod-icon"><i class="fas fa-screwdriver-wrench"></i></div>
-                    <h3>Больше использований</h3>
-                    <p>Ремонтные наборы, отвёртки, краска, цемент — стакаются и служат в разы дольше.</p>
-                    <span class="mod-tag">Инвентарь</span>
-                </div>
-                <div class="mod-card" data-aos="fade-up" data-aos-delay="100">
-                    <div class="mod-icon"><i class="fas fa-gauge-high"></i></div>
-                    <h3>Транспорт +50 км/ч</h3>
-                    <p>Все автомобили едут заметно быстрее стока.</p>
-                    <span class="mod-tag">Транспорт</span>
-                </div>
-                <div class="mod-card" data-aos="fade-up" data-aos-delay="150">
-                    <div class="mod-icon"><i class="fas fa-plane"></i></div>
-                    <h3>Улучшенные самолёты</h3>
-                    <p>Лёгкий взлёт и увеличенная грузоподъёмность.</p>
-                    <span class="mod-tag">Транспорт</span>
-                </div>
-                <div class="mod-card" data-aos="fade-up" data-aos-delay="200">
-                    <div class="mod-icon"><i class="fas fa-map"></i></div>
-                    <h3>Карта и миникарта</h3>
-                    <p>Обновлённая карта и компактная миникарта — навигация без боли.</p>
-                    <span class="mod-tag">Интерфейс</span>
-                </div>
-                <div class="mod-card" data-aos="fade-up" data-aos-delay="250">
-                    <div class="mod-icon"><i class="fab fa-twitch"></i></div>
-                    <h3>Twitch DLC разблокирован</h3>
-                    <p>Весь эксклюзивный контент Twitch доступен всем игрокам бесплатно.</p>
-                    <span class="mod-tag">Контент</span>
-                </div>
-                <div class="mod-card" data-aos="fade-up" data-aos-delay="300">
-                    <div class="mod-icon"><i class="fas fa-image"></i></div>
-                    <h3>Новые экраны загрузки</h3>
-                    <p>Свежие загрузочные экраны AMURKA вместо стандартных.</p>
-                    <span class="mod-tag">Интерфейс</span>
-                </div>
+            <div class="section-header" data-aos="fade-up">
+                <h2>Последние <span class="text-green">новости</span></h2>
             </div>
-
-            <h3 class="mods-cat-title" data-aos="fade-up"><i class="fas fa-crosshairs"></i> WEAPONS — уникальное оружие <span class="cat-count">3</span></h3>
-            <div class="mods-grid">
-                <div class="mod-card" data-aos="fade-up" data-aos-delay="100">
-                    <div class="mod-icon"><i class="fas fa-gun"></i></div>
-                    <h3>AK-47 AMURKA</h3>
-                    <p>Легендарный автомат в фирменном исполнении сервера.</p>
-                    <span class="mod-tag">Оружие</span>
-                </div>
-                <div class="mod-card" data-aos="fade-up" data-aos-delay="150">
-                    <div class="mod-icon"><i class="fas fa-coins"></i></div>
-                    <h3>Золотые AKM и RPK</h3>
-                    <p>Золото не только блестит — оно стреляет. Статусное оружие для профи.</p>
-                    <span class="mod-tag">Оружие</span>
-                </div>
-                <div class="mod-card" data-aos="fade-up" data-aos-delay="200">
-                    <div class="mod-icon"><i class="fas fa-rocket"></i></div>
-                    <h3>RPG-7 Gold</h3>
-                    <p>Гранатомёт в золоте — для особых поводов.</p>
-                    <span class="mod-tag">Оружие</span>
-                </div>
+            <div class="news-grid" id="newsGrid" data-aos="fade-up" data-aos-delay="100">
+                <!-- Загружается из news.json -->
             </div>
-
-            <h3 class="mods-cat-title" data-aos="fade-up"><i class="fas fa-palette"></i> SKINS — скины и стиль <span class="cat-count">27</span></h3>
-            <div class="mods-grid">
-                <div class="mod-card" data-aos="fade-up" data-aos-delay="100">
-                    <div class="mod-icon"><i class="fas fa-shirt"></i></div>
-                    <h3>27 скинов одежды и оружия</h3>
-                    <p>Военные комплекты, худи, куртки, кимоно, килт, пижама Negan — плюс скины для стволов: Блок-21 и мечи.</p>
-                    <span class="mod-tag">Стиль</span>
-                </div>
-                <div class="mod-card" data-aos="fade-up" data-aos-delay="150">
-                    <div class="mod-icon"><i class="fas fa-car-side"></i></div>
-                    <h3>Хром-покраска авто</h3>
-                    <p>Хромированный тюнинг транспорта — тачка как зеркало.</p>
-                    <span class="mod-tag">Стиль</span>
-                </div>
-                <div class="mod-card" data-aos="fade-up" data-aos-delay="200">
-                    <div class="mod-icon"><i class="fas fa-vest"></i></div>
-                    <h3>Фирменная экипировка AMURKA</h3>
-                    <p>Бронежилеты полицейские и противопульные, рюкзаки и мотоброня с логотипом сервера.</p>
-                    <span class="mod-tag">Стиль</span>
-                </div>
-            </div>
-
-            <p class="mods-more-note" data-aos="fade-up">
-                И это только то, что поместилось на страницу. Моды обновляются постоянно — заходи и увидишь сам.
-            </p>
         </div>
     </section>
 
-    <section class="section compare-section" id="compare">
+    <!-- ═══ GALLERY ═══ -->
+    <section class="section" id="gallery" style="background:var(--panel);border-top:1px solid var(--border);border-bottom:1px solid var(--border);">
         <div class="container">
-            <h2 class="section-title" data-aos="fade-up">
-                <span class="accent">Обычный «PVE MOD» vs настоящий MOD-сервер</span>
-            </h2>
-            <p class="section-desc" data-aos="fade-up" data-aos-delay="100">
-                У большинства «MOD» в названии — просто маркетинг. Проверь сами:
-            </p>
-            <div class="compare-table" data-aos="fade-up" data-aos-delay="200">
-                <div class="compare-head">
-                    <div class="compare-th them">Обычный «MOD»-сервер</div>
-                    <div class="compare-th us">AMURKA PVE MOD</div>
-                </div>
-                <div class="compare-row">
-                    <div class="compare-cell them">«MOD» в названии, в игре чистая ваниль</div>
-                    <div class="compare-cell us">60+ модов: 29 core + 25 скинов + оружейные</div>
-                </div>
-                <div class="compare-row">
-                    <div class="compare-cell them">Патроны стакаются по 30, рюкзак трещит</div>
-                    <div class="compare-cell us">Стаки ×100 и рюкзаки до 2000 кг</div>
-                </div>
-                <div class="compare-row">
-                    <div class="compare-cell them">Штатные машины и самолёты</div>
-                    <div class="compare-cell us">+50 км/ч, лёгкий взлёт, транспорт без урона</div>
-                </div>
-                <div class="compare-row">
-                    <div class="compare-cell them">Генератор требует заправки каждые пару часов</div>
-                    <div class="compare-cell us">Один генератор питает всю базу почти бесконечно</div>
-                </div>
-                <div class="compare-row">
-                    <div class="compare-cell them">Ванильное оружие и никакого разнообразия</div>
-                    <div class="compare-cell us">Золотые AKM/RPK/RPG-7 и кастомный AK-47</div>
-                </div>
-                <div class="compare-row">
-                    <div class="compare-cell them">Скины — за донат или никак</div>
-                    <div class="compare-cell us">25 скинов одежды и хром-покраска доступны всем</div>
-                </div>
-                <div class="compare-row">
-                    <div class="compare-cell them">«Моды» — это Лут х5 и Скиллы х10 в конфиге сервера</div>
-                    <div class="compare-cell us">60+ настоящих модов: своё оружие, скины, коптильня, генератор на всю базу</div>
-                </div>
+            <div class="section-header" data-aos="fade-up">
+                <h2>AMURKA <span class="text-green">MOMENTS</span></h2>
+                <p>Скриншоты наших игроков. Присоединяйся!</p>
+            </div>
+            <div class="gallery-grid" id="galleryGrid" data-aos="fade-up" data-aos-delay="100">
+                <!-- Загружается из screenshots.json -->
             </div>
         </div>
     </section>
 
-    <section class="section mod-advantages" id="mod-advantages">
+    <!-- ═══ CTA ═══ -->
+    <section class="cta" id="cta">
         <div class="container">
-            <h2 class="section-title" data-aos="fade-up">
-                <span class="accent">Преимущества серверных модов</span>
-            </h2>
-            <p class="section-desc" data-aos="fade-up" data-aos-delay="100">
-                Моды работают синхронно на сервере и клиенте одновременно — это фундамент стабильного,
-                честного и постоянно развивающегося проекта.
-            </p>
-
-            <div class="advantage-callout" data-aos="fade-up" data-aos-delay="150">
-                <i class="fas fa-triangle-exclamation"></i>
-                <p>
-                    <strong>ВАЖНО:</strong> играть можно и без лаунчера — просто подключись по адресу.
-                    Но без клиентских модов не будет полной синхронизации с сервером: возможны баги рюкзаков
-                    и рассинхрон веса. Лаунчер устанавливает все моды автоматически — это ключ к комфортной игре.
-                </p>
-                <a href="https://github.com/AMURKA-PVE-SCUM/AMURKA-PVE-Launcher/releases" class="btn btn-primary btn-sm" target="_blank">
-                    <i class="fas fa-download"></i> Скачать лаунчер
-                </a>
+            <h2 data-aos="fade-up">Готов <span class="text-green">выживать</span>?</h2>
+            <div class="ip-block" data-aos="fade-up" data-aos-delay="100" id="ctaIp">
+                <span class="ip-label">SERVER</span>
+                <span class="ip-value">play.amurkapve.ru:7004</span>
+                <i class="fas fa-copy ip-copy"></i>
             </div>
-
-            <div class="advantages-grid">
-                <div class="advantage-card" data-aos="fade-up" data-aos-delay="100">
-                    <div class="advantage-icon"><i class="fas fa-check-circle"></i></div>
-                    <h3>Стабильность без багов</h3>
-                    <p>Сумки и рюкзаки больше не растягиваются на весь экран. Ёмкость и переносимый вес отображаются корректно. Нет рассинхрона между тем, что видишь, и тем, что хранится на сервере.</p>
-                </div>
-                <div class="advantage-card" data-aos="fade-up" data-aos-delay="200">
-                    <div class="advantage-icon"><i class="fas fa-cogs"></i></div>
-                    <h3>Гибкость и расширяемость</h3>
-                    <p>Кастомные рецепты крафта, уникальные предметы, балансные механики под контролем сервера — а дальше экономика, квесты, кланы и многое другое.</p>
-                </div>
-                <div class="advantage-card" data-aos="fade-up" data-aos-delay="300">
-                    <div class="advantage-icon"><i class="fas fa-globe"></i></div>
-                    <h3>Совместимость</h3>
-                    <p>Так работает большинство современных модовых серверов — это стандарт моддинг-сообщества. Подключиться просто: один раз ставишь набор модов через лаунчер и играешь.</p>
-                </div>
-                <div class="advantage-card" data-aos="fade-up" data-aos-delay="400">
-                    <div class="advantage-icon"><i class="fas fa-shield-alt"></i></div>
-                    <h3>Честная игра</h3>
-                    <p>Нельзя получить преимущество через клиентский чит-мод. Единый набор модов — единые правила для всех игроков.</p>
-                </div>
+            <div class="cta-buttons" data-aos="fade-up" data-aos-delay="200">
+                <a href="https://github.com/AMURKA-PVE-SCUM/AMURKA-PVE-Launcher/releases" class="btn btn-primary" target="_blank"><i class="fas fa-download"></i> Скачать лаунчер</a>
+                <a href="/start/" class="btn btn-secondary"><i class="fas fa-play"></i> Как начать</a>
             </div>
         </div>
     </section>
 
-    <section class="section commands-section" id="commands">
-        <div class="container">
-            <h2 class="section-title" data-aos="fade-up">
-                <span class="accent">Бот DOMO</span>
-            </h2>
-            <p class="section-desc" data-aos="fade-up" data-aos-delay="100">
-                Авторский бот сервера — DOMO. Управляй игрой прямо из чата: стартовые наборы, телепорты,
-                гараж, голосования за погоду и магазин. Без сайтов, без лишних окон — просто пишешь команду.
-            </p>
-
-            <div class="bot-groups">
-                <div class="bot-group" data-aos="fade-up" data-aos-delay="100">
-                    <div class="bot-group-head">
-                        <i class="fas fa-gift"></i>
-                        <h3>Старт и бонусы</h3>
-                    </div>
-                    <p>Быстрый старт с первого дня и бонусы каждый день.</p>
-                    <ul class="bot-cmds">
-                        <li><code>!стартпак</code><span>набор предметов для новичка</span></li>
-                        <li><code>!дейлипак</code><span>ежедневный набор предметов</span></li>
-                        <li><code>!варгм</code><span>получение покупок из магазина Wargm</span></li>
-                        <li><code>!вип</code><span>VIP-возможности сервера</span></li>
-                    </ul>
-                </div>
-
-                <div class="bot-group" data-aos="fade-up" data-aos-delay="150">
-                    <div class="bot-group-head">
-                        <i class="fas fa-house"></i>
-                        <h3>Домой за секунду</h3>
-                    </div>
-                    <p>Сохрани точку дома один раз — и возвращайся в неё когда угодно.</p>
-                    <ul class="bot-cmds">
-                        <li><code>!сохранитьдом 1</code><span>запомнить текущую локацию</span></li>
-                        <li><code>!дом</code><span>телепорт к сохранённому дому за игровую валюту</span></li>
-                        <li><code>!телепорт</code><span>быстрая телепортация по трейдерам и ивентовым локациям</span></li>
-                    </ul>
-                </div>
-
-                <div class="bot-group" data-aos="fade-up" data-aos-delay="200">
-                    <div class="bot-group-head">
-                        <i class="fas fa-car-side"></i>
-                        <h3>Гараж: транспорт всегда под рукой</h3>
-                    </div>
-                    <p>Забудь о потерянных машинах. Привяжи транспорт к аккаунту — и он больше никогда не потеряется.</p>
-                    <ul class="bot-cmds">
-                        <li><code>!привязать</code><span>покажет твои машины на сервере</span></li>
-                        <li><code>!привязать 1</code><span>привязать машину по номеру</span></li>
-                        <li><code>!машины</code><span>список привязанных машин</span></li>
-                        <li><code>!машина</code><span>координаты машины, даже если она далеко</span></li>
-                        <li><code>!отвязать N</code><span>отвязать ненужную машину</span></li>
-                        <li class="bot-paid"><code>!машина 1</code><span>телепорт прямо к машине <em>— доступ приобретается на <a href="https://wargm.ru/server/77385/shop" target="_blank">Wargm</a>: 200 ₽ или 20 бонусов</em></span></li>
-                    </ul>
-                </div>
-
-                <div class="bot-group" data-aos="fade-up" data-aos-delay="250">
-                    <div class="bot-group-head">
-                        <i class="fas fa-cloud-sun"></i>
-                        <h3>Народное голосование</h3>
-                    </div>
-                    <p>Демократия в действии: игроки сами решают, какая погода и время на острове. Сервер запускает голосование и подсчитывает голоса автоматически.</p>
-                    <ul class="bot-cmds">
-                        <li><code>!погода 0</code><span>голосование за солнечную погоду</span></li>
-                        <li><code>!погода 1</code><span>голосование за дождь</span></li>
-                        <li><code>!время 14</code><span>голосование за время суток (0–23)</span></li>
-                    </ul>
-                </div>
-
-                <div class="bot-group bot-group-wide" data-aos="fade-up" data-aos-delay="300">
-                    <div class="bot-group-head">
-                        <i class="fas fa-cart-shopping"></i>
-                        <h3>Магазин прямо в чате</h3>
-                    </div>
-                    <p>Внутриигровой магазин без выхода из игры. Каталог пополняется — от самолётов за игровые деньги до уникальных товаров.</p>
-                    <ul class="bot-cmds">
-                        <li><code>!купить</code><span>показать каталог товаров</span></li>
-                        <li><code>!купить 1 3</code><span>купить товар №1 в количестве 3 штук</span></li>
-                        <li><code>Самолёты</code><span>от 1 000 000 игровых</span></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="section news-section" id="news">
-        <div class="container">
-            <h2 class="section-title" data-aos="fade-up">
-                <span class="accent">Новости</span>
-            </h2>
-            <div class="news-grid"></div>
-        </div>
-    </section>
-
-    <section class="section gallery-section" id="gallery">
-        <div class="container">
-            <h2 class="section-title" data-aos="fade-up">
-                <span class="accent">Галерея</span>
-            </h2>
-            <div class="gallery-grid" data-aos="fade-up" data-aos-delay="100"></div>
-            <p class="gallery-note" data-aos="fade-up">Скриншоты добавляются игроками в Lolka. Присоединяйся!</p>
-        </div>
-    </section>
-
-    <section class="section streamers-section" id="streamers">
-        <div class="container">
-            <h2 class="section-title" data-aos="fade-up">
-                <span class="accent">Наши стримеры</span>
-            </h2>
-            <p class="section-desc" data-aos="fade-up" data-aos-delay="100">
-                Смотрите прямые эфиры и записи наших игроков на VK Видео Live
-            </p>
-            <div class="streamers-grid" id="streamersGrid" data-aos="fade-up" data-aos-delay="200">
-                <!-- стримеры добавляются через js/main.js -->
-            </div>
-        </div>
-    </section>
-
-    <section class="section guides-section" id="guides">
-        <div class="container">
-            <h2 class="section-title" data-aos="fade-up">
-                <span class="accent">Как начать играть</span>
-            </h2>
-            <div class="advantage-callout" data-aos="fade-up" data-aos-delay="100">
-                <i class="fas fa-triangle-exclamation"></i>
-                <p>
-                    <strong>ВАЖНО:</strong> лаунчер — не обязателен, на сервер можно зайти просто по адресу
-                    <code>play.amurkapve.ru:7004</code>. Но без него не будет полной синхронизации модов:
-                    возможны баги рюкзаков и рассинхрон веса. Лаунчер сам скачает и обновит все моды —
-                    это ключ к комфортной игре.
-                </p>
-                <a href="https://github.com/AMURKA-PVE-SCUM/AMURKA-PVE-Launcher/releases" class="btn btn-primary btn-sm" target="_blank">
-                    <i class="fas fa-download"></i> Скачать лаунчер
-                </a>
-            </div>
-            <div class="guides-timeline">
-                <div class="guide-step" data-aos="fade-right" data-aos-delay="100">
-                    <div class="step-number">01</div>
-                    <div class="step-content">
-                        <h3>Скачай SCUM</h3>
-                        <p>Приобрети игру в Steam. Минимальные системные требования: 8GB RAM, GTX 660.</p>
-                    </div>
-                </div>
-                <div class="guide-step" data-aos="fade-left" data-aos-delay="150">
-                    <div class="step-number">02</div>
-                    <div class="step-content">
-                        <h3>Скачай лаунчер</h3>
-                        <p>Скачай и запусти установщик лаунчера. <a href="https://github.com/AMURKA-PVE-SCUM/AMURKA-PVE-Launcher/releases" target="_blank" style="color: var(--accent-green);">Скачать лаунчер</a></p>
-                    </div>
-                </div>
-                <div class="guide-step" data-aos="fade-right" data-aos-delay="200">
-                    <div class="step-number">03</div>
-                    <div class="step-content">
-                        <h3>Укажи путь к Paks</h3>
-                        <p>В лаунчере укажи путь: <code>Steam\steamapps\common\SCUM\SCUM\Content\Paks\Создать папку ~mods</code></p>
-                    </div>
-                </div>
-                <div class="guide-step" data-aos="fade-left" data-aos-delay="250">
-                    <div class="step-number">04</div>
-                    <div class="step-content">
-                        <h3>Установи моды</h3>
-                        <p>Нажми «Установить моды». Дождись завершения — лаунчер автоматически скачает и установит все необходимые моды.</p>
-                    </div>
-                </div>
-                <div class="guide-step" data-aos="fade-right" data-aos-delay="300">
-                    <div class="step-number">05</div>
-                    <div class="step-content">
-                        <h3>Запусти игру</h3>
-                        <p>Нажми «Запустить игру» в лаунчере. Или через Steam с параметром запуска <code>-fileopenlog</code></p>
-                    </div>
-                </div>
-                <div class="guide-step" data-aos="fade-left" data-aos-delay="350">
-                    <div class="step-number">06</div>
-                    <div class="step-content">
-                        <h3>Подключись к серверу</h3>
-                        <p>В главном меню выбери «Поиск серверов». Введи адрес: <code id="guideIp">play.amurkapve.ru:7004</code></p>
-                    </div>
-                </div>
-                <div class="guide-step" data-aos="fade-right" data-aos-delay="400">
-                    <div class="step-number">07</div>
-                    <div class="step-content">
-                        <h3>Начни выживать!</h3>
-                        <p>Создай персонажа, изучи мир, найди ресурсы и построй свою первую базу. Добро пожаловать!</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="launcher-info" data-aos="fade-up" data-aos-delay="100">
-                <h3><i class="fas fa-info-circle"></i> Установка лаунчера не обязательна</h3>
-                <p>Можно играть на сервере и без лаунчера — просто подключись по адресу <code>play.amurkapve.ru:7004</code>.
-                Но без клиентских модов не будет полной синхронизации с сервером: возможны баги рюкзаков и рассинхрон веса.
-                Лаунчер удобнее — он автоматически скачает и обновит все моды.</p>
-            </div>
-        </div>
-    </section>
-
-    <section class="section vote-section" id="vote">
-        <div class="container">
-            <h2 class="section-title" data-aos="fade-up">
-                <span class="accent">Голосование</span>
-            </h2>
-            <p class="section-desc" data-aos="fade-up" data-aos-delay="100">
-                Проголосуй за сервер и получи бонусы в игре!
-            </p>
-            <div class="vote-grid" data-aos="fade-up" data-aos-delay="200">
-                <a href="https://wargm.ru/server/77385" target="_blank" class="vote-card wargm">
-                    <div class="vote-icon"><i class="fas fa-globe"></i></div>
-                    <div class="vote-info">
-                        <h3>Wargm</h3>
-                        <p>Голосуй раз в 12 часов — получай золото и предметы</p>
-                        <span class="vote-btn">Проголосовать <i class="fas fa-arrow-right"></i></span>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </section>
-
+    <!-- ═══ FOOTER ═══ -->
     <footer class="footer">
         <div class="container">
             <div class="footer-grid">
                 <div class="footer-brand">
-                    <a href="#hero" class="footer-logo">
-                        <span class="logo-icon"><i class="fas fa-skull-crossbones"></i></span>
-                <span class="logo-text">AMURKA <span class="accent">PVE MOD</span></span>
+                    <a href="/" class="nav-logo" style="margin-bottom:var(--sp-md);">
+                        <span class="logo-mark"><i class="fas fa-skull-crossbones"></i></span>
+                        AMURKA
                     </a>
-                    <p>SCUM PVE сервер · работаем с 25.07.2025</p>
+                    <p>SCUM PVE сервер. Работаем с 25 июля 2025 года.</p>
+                    <div class="footer-status">
+                        <span class="status-dot online" id="footerStatusDot"></span>
+                        <span>ONLINE</span>
+                        <span class="text-green" id="footerOnline">—</span>
+                    </div>
                 </div>
-                <div class="footer-links">
-                    <h4>Навигация</h4>
+                <div class="footer-col">
+                    <h4>ИГРА</h4>
                     <ul>
-                        <li><a href="#about">О сервере</a></li>
-                        <li><a href="map/">Карта</a></li>
-                        <li><a href="#rules">Правила</a></li>
-                        <li><a href="#mods">Моды</a></li>
-                        <li><a href="#commands">Бот DOMO</a></li>
-                        <li><a href="#news">Новости</a></li>
+                        <li><a href="/server/"><i class="fas fa-server"></i> Сервер</a></li>
+                        <li><a href="/features/"><i class="fas fa-bolt"></i> Возможности</a></li>
+                        <li><a href="/mods/"><i class="fas fa-puzzle-piece"></i> Моды</a></li>
+                        <li><a href="/map/"><i class="fas fa-map"></i> Карта</a></li>
                     </ul>
                 </div>
-                <div class="footer-links">
-                    <h4>Сообщество</h4>
+                <div class="footer-col">
+                    <h4>СООБЩЕСТВО</h4>
                     <ul>
-                        <li><a href="https://wargm.ru/server/77385" target="_blank"><i class="fas fa-globe"></i> Проект на Wargm</a></li>
-                        <li><a href="https://lolka.gg/xq3Mo6u" target="_blank"><i class="fas fa-comments"></i> LOLKA (Чат)</a></li>
-                        <li><a href="https://github.com/AMURKA-PVE-SCUM/AMURKA-PVE-Launcher/releases" target="_blank"><i class="fas fa-download"></i> Скачать лаунчер</a></li>
+                        <li><a href="/news/"><i class="fas fa-newspaper"></i> Новости</a></li>
+                        <li><a href="/gallery/"><i class="fas fa-images"></i> Галерея</a></li>
+                        <li><a href="/streamers/"><i class="fas fa-video"></i> Стримеры</a></li>
+                        <li><a href="https://wargm.ru/server/77385" target="_blank"><i class="fas fa-globe"></i> Wargm</a></li>
+                        <li><a href="https://lolka.gg/xq3Mo6u" target="_blank"><i class="fas fa-comments"></i> LOLKA</a></li>
                     </ul>
                 </div>
-                <div class="footer-connect">
-                    <h4>Подключиться</h4>
+                <div class="footer-col">
+                    <h4>ПОДКЛЮЧИТЬСЯ</h4>
                     <div class="footer-ip">
-                        <code id="footerIp">play.amurkapve.ru:7004</code>
-                        <button class="copy-btn" data-copy="play.amurkapve.ru:7004">
-                            <i class="fas fa-copy"></i>
-                        </button>
+                        <code>play.amurkapve.ru:7004</code>
+                        <button class="copy-btn" data-copy="play.amurkapve.ru:7004"><i class="fas fa-copy"></i></button>
+                    </div>
+                    <div style="margin-top:var(--sp-md);">
+                        <a href="https://github.com/AMURKA-PVE-SCUM/AMURKA-PVE-Launcher/releases" class="btn btn-primary btn-sm" target="_blank"><i class="fas fa-download"></i> Скачать лаунчер</a>
                     </div>
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2026 AMURKA PVE.</p>
+                <p>&copy; 2025–2026 AMURKA PVE. Все права защищены.</p>
+                <div class="footer-bottom-links">
+                    <a href="/rules/">Правила</a>
+                    <a href="/support/">Поддержка</a>
+                </div>
             </div>
         </div>
     </footer>
 
+    <!-- Toast -->
     <div class="toast" id="toast">
         <i class="fas fa-check-circle"></i>
-        <span id="toastText">IP скопирован!</span>
+        <span id="toastText">Скопировано!</span>
     </div>
+
+    <!-- Scroll to Top -->
+    <button class="scroll-top" id="scrollTop" aria-label="Наверх">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+
+    <!-- Mobile Bottom Nav -->
+    <nav class="nav-bottom" id="navBottom">
+        <div class="nav-bottom-inner">
+            <a href="/" class="active"><i class="fas fa-home"></i> Home</a>
+            <a href="/map/"><i class="fas fa-map"></i> Map</a>
+            <a href="/live/"><i class="fas fa-circle"></i> Live</a>
+            <a href="/start/" class="nav-play-mobile"><i class="fas fa-play"></i> PLAY</a>
+        </div>
+    </nav>
 
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <script src="js/smoke.js"></script>
-    <script src="js/main.js?v=20260911"></script>
-
-    <div class="screenshot-modal" id="screenshotModal">
-        <div class="screenshot-modal-backdrop" id="screenshotModalBackdrop"></div>
-        <div class="screenshot-modal-content">
-            <button class="screenshot-modal-close" id="screenshotModalClose"><i class="fas fa-times"></i></button>
-            <img id="screenshotModalImg" src="" alt="">
-        </div>
-    </div>
+    <script src="js/api.js"></script>
+    <script src="js/main.js"></script>
 </body>
 </html>

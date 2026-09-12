@@ -1,0 +1,73 @@
+/* ═══════════════════════════════════════════════
+   AMURKA 2.0 — Design System
+   ═══════════════════════════════════════════════ */
+
+:root {
+    /* ── Colors ── */
+    --bg:            #070A09;
+    --panel:         #0D1210;
+    --panel-2:       #111916;
+    --panel-3:       #161F1B;
+    --green:         #00C878;
+    --green-light:   #52E6A1;
+    --green-dim:     #009958;
+    --text:          #E7ECE9;
+    --text-dim:      #B0B8B4;
+    --muted:         #7F8B85;
+    --border:        rgba(255, 255, 255, 0.06);
+    --border-hover:  rgba(255, 255, 255, 0.10);
+    --glow:          rgba(0, 200, 120, 0.15);
+    --glow-strong:   rgba(0, 200, 120, 0.30);
+    --red:           #E05252;
+    --orange:        #E09052;
+    --blue:          #52A0E0;
+
+    /* ── Typography ── */
+    --font-body:      'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    --font-mono:      'JetBrains Mono', 'Fira Code', monospace;
+    --fs-xs:   0.75rem;   /* 12px */
+    --fs-sm:   0.8125rem; /* 13px */
+    --fs-base: 0.9375rem; /* 15px */
+    --fs-md:   1.0625rem; /* 17px */
+    --fs-lg:   1.25rem;   /* 20px */
+    --fs-xl:   1.5rem;    /* 24px */
+    --fs-2xl:  2rem;      /* 32px */
+    --fs-3xl:  2.75rem;   /* 44px */
+    --fs-4xl:  3.5rem;    /* 56px */
+    --fs-hero: clamp(3rem, 7vw, 5.5rem);
+
+    /* ── Spacing ── */
+    --sp-xs:  4px;
+    --sp-sm:  8px;
+    --sp-md:  16px;
+    --sp-lg:  24px;
+    --sp-xl:  32px;
+    --sp-2xl: 48px;
+    --sp-3xl: 64px;
+    --sp-4xl: 96px;
+
+    /* ── Radius ── */
+    --radius-sm:  6px;
+    --radius-md:  10px;
+    --radius-lg:  14px;
+    --radius-xl:  20px;
+    --radius-full: 9999px;
+
+    /* ── Shadows ── */
+    --shadow-sm:   0 2px 8px rgba(0, 0, 0, 0.3);
+    --shadow-md:   0 4px 20px rgba(0, 0, 0, 0.4);
+    --shadow-lg:   0 8px 40px rgba(0, 0, 0, 0.5);
+    --shadow-glow: 0 0 20px var(--glow);
+    --shadow-glow-strong: 0 0 30px var(--glow-strong);
+
+    /* ── Transitions ── */
+    --ease: cubic-bezier(0.4, 0, 0.2, 1);
+    --tr:   0.25s var(--ease);
+    --tr-fast: 0.15s var(--ease);
+    --tr-slow: 0.4s var(--ease);
+
+    /* ── Layout ── */
+    --max-w:  1200px;
+    --nav-h:  64px;
+    --nav-h-mobile: 56px;
+}

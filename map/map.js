@@ -349,22 +349,44 @@
     console.log(`https://scum-map.com/en/scum/island/${x.toFixed(1)},${y.toFixed(1)},1.5`);
   });
 
-  const navToggle = document.getElementById('navToggle');
-  const navMenu = document.getElementById('navMenu');
-  if (navToggle && navMenu) {
-    navToggle.addEventListener('click', () => {
-      navMenu.classList.toggle('active');
-      navToggle.classList.toggle('active');
-    });
-    navMenu.addEventListener('click', () => {
-      navMenu.classList.remove('active');
-      navToggle.classList.remove('active');
-    });
+  // Mobile nav handled by main.js
+
+  function getBase() {
+    return location.pathname.includes('/map/') ? '..' : '.';
   }
-  const navbar = document.getElementById('navbar');
-  if (navbar) {
-    window.addEventListener('scroll', () => {
-      navbar.classList.toggle('scrolled', window.scrollY > 50);
-    }, { passive: true });
+  fetch(getBase() + '/data/server-status.json')
+    .then(r => r.json())
+    .then(d => {
+      const dot = document.querySelector('.status-dot');
+      const txt = document.getElementById('navStatusText');
+      if (d.status === 'online') {
+        if (dot) dot.classList.add('online');
+        if (txt) txt.textContent = 'ONLINE';
+      }
+    }).catch(() => {});
+
+  const ip = 'play.amurkapve.ru:7004';
+  function copyIP(targetIP) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(targetIP).then(() => showToast('IP скопирован!'));
+    } else {
+      const ta = document.createElement('textarea');
+      ta.value = targetIP;
+      document.body.appendChild(ta);
+      ta.select();
+      try { document.execCommand('copy'); showToast('IP скопирован!'); } catch (_) {}
+      document.body.removeChild(ta);
+    }
   }
+  function showToast(msg) {
+    const toast = document.getElementById('toast');
+    const tt = document.getElementById('toastText');
+    if (tt && toast) { tt.textContent = msg; toast.classList.add('show'); setTimeout(() => toast.classList.remove('show'), 2200); }
+  }
+  document.querySelectorAll('#navPlay, #navMobilePlay').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      e.preventDefault();
+      copyIP(ip);
+    });
+  });
 })();

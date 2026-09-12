@@ -3,53 +3,135 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Карта AMURKA PVE — Интерактивная карта SCUM</title>
-    <meta name="description" content="Интерактивная карта сервера AMURKA PVE MOD для SCUM: бункеры, заправки, магазины, NPC, луты, вода и многое другое.">
-    <meta property="og:title" content="Карта AMURKA PVE — Интерактивная карта SCUM">
-    <meta property="og:description" content="Интерактивная карта AMURKA PVE MOD со всеми POI острова SCUM.">
+    <title>Карта AMURKA — Интерактивная карта SCUM</title>
+    <meta name="description" content="Интерактивная карта сервера AMURKA PVE для SCUM: бункеры, заправки, магазины, NPC, луты, вода и многое другое.">
+    <meta property="og:title" content="Карта AMURKA — Интерактивная карта SCUM">
+    <meta property="og:description" content="Интерактивная карта AMURKA PVE со всеми POI острова SCUM.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://amurka-pve-scum.github.io/map/">
-    <link rel="canonical" href="https://amurka-pve-scum.github.io/map/">
+    <meta property="og:url" content="https://amurkapve.ru/map/">
+    <link rel="canonical" href="https://amurkapve.ru/map/">
     <link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
     <link rel="stylesheet" href="map.css">
+    <link rel="stylesheet" href="../css/variables.css">
+    <link rel="stylesheet" href="../css/base.css">
+    <link rel="stylesheet" href="../css/components.css">
+    <link rel="stylesheet" href="../css/navbar.css">
+    <link rel="stylesheet" href="../css/footer.css">
+    <link rel="stylesheet" href="../css/responsive.css">
 </head>
 <body>
     <nav class="navbar" id="navbar">
-        <div class="nav-container">
-            <a href="../index.html#hero" class="nav-logo">
-                <span class="logo-icon"><i class="fas fa-skull-crossbones"></i></span>
-                <span class="logo-text">AMURKA <span class="accent">PVE</span></span>
+        <div class="nav-inner">
+            <a href="/" class="nav-logo">
+                <span class="logo-mark"><i class="fas fa-skull-crossbones"></i></span>
+                AMURKA
             </a>
-            <button class="nav-toggle" id="navToggle" aria-label="Toggle menu">
+            <ul class="nav-menu" id="navMenu">
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="game">ИГРА <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/server/"><i class="fas fa-server"></i> Сервер</a>
+                        <a href="/features/"><i class="fas fa-bolt"></i> Возможности</a>
+                        <a href="/mods/"><i class="fas fa-puzzle-piece"></i> Моды</a>
+                        <a href="/domo/"><i class="fas fa-robot"></i> DOMO</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="world">МИР <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/map/" class="active"><i class="fas fa-map"></i> Карта</a>
+                        <a href="/world/"><i class="fas fa-location-dot"></i> Мир</a>
+                        <a href="/events/"><i class="fas fa-calendar-star"></i> События</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="live">LIVE <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/live/"><i class="fas fa-circle"></i> Онлайн</a>
+                        <a href="/stats/"><i class="fas fa-chart-line"></i> Статистика</a>
+                        <a href="/players/"><i class="fas fa-users"></i> Игроки</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="community">COMMUNITY <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/news/"><i class="fas fa-newspaper"></i> Новости</a>
+                        <a href="/gallery/"><i class="fas fa-images"></i> Галерея</a>
+                        <a href="/streamers/"><i class="fas fa-video"></i> Стримеры</a>
+                        <a href="/vote/"><i class="fas fa-check-circle"></i> Голосование</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="help">ПОМОЩЬ <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/start/"><i class="fas fa-play-circle"></i> Как начать</a>
+                        <a href="/rules/"><i class="fas fa-book"></i> Правила</a>
+                        <a href="/support/"><i class="fas fa-headset"></i> Поддержка</a>
+                    </div>
+                </li>
+            </ul>
+            <div class="nav-right">
+                <div class="nav-online">
+                    <span class="status-dot online" id="navStatusDot"></span>
+                    <span>ONLINE</span>
+                    <span class="online-num" id="navOnlineNum">—</span>
+                </div>
+                <a href="/start/" class="btn btn-primary nav-play">PLAY</a>
+            </div>
+            <button class="nav-toggle" id="navToggle" aria-label="Меню">
                 <span></span><span></span><span></span>
             </button>
-            <ul class="nav-menu" id="navMenu">
-                <li><a href="../index.html#about" class="nav-link">О сервере</a></li>
-                <li><a href="../index.html#status" class="nav-link">Статус</a></li>
-                <li><a href="#" class="nav-link active"><i class="fas fa-map-location-dot"></i> Карта</a></li>
-                <li><a href="../index.html#rules" class="nav-link">Правила</a></li>
-                <li><a href="../index.html#mods" class="nav-link">Моды</a></li>
-                <li><a href="../index.html#compare" class="nav-link">Сравнение</a></li>
-                <li><a href="../index.html#mod-advantages" class="nav-link">Преимущества</a></li>
-                <li><a href="../index.html#commands" class="nav-link">Бот</a></li>
-                <li><a href="../index.html#news" class="nav-link">Новости</a></li>
-                <li><a href="../index.html#gallery" class="nav-link">Галерея</a></li>
-                <li><a href="../index.html#streamers" class="nav-link">Стримеры</a></li>
-                <li><a href="../index.html#guides" class="nav-link">Гайд</a></li>
-                <li><a href="../index.html#vote" class="nav-link">Голосование</a></li>
-            </ul>
         </div>
     </nav>
+    <div class="nav-mobile" id="navMobile">
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">ИГРА</div>
+            <a href="/server/"><i class="fas fa-server"></i> Сервер</a>
+            <a href="/features/"><i class="fas fa-bolt"></i> Возможности</a>
+            <a href="/mods/"><i class="fas fa-puzzle-piece"></i> Моды</a>
+            <a href="/domo/"><i class="fas fa-robot"></i> DOMO</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">МИР</div>
+            <a href="/map/" class="active"><i class="fas fa-map"></i> Карта</a>
+            <a href="/world/"><i class="fas fa-location-dot"></i> Мир</a>
+            <a href="/events/"><i class="fas fa-calendar-star"></i> События</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">LIVE</div>
+            <a href="/live/"><i class="fas fa-circle"></i> Онлайн</a>
+            <a href="/stats/"><i class="fas fa-chart-line"></i> Статистика</a>
+            <a href="/players/"><i class="fas fa-users"></i> Игроки</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">COMMUNITY</div>
+            <a href="/news/"><i class="fas fa-newspaper"></i> Новости</a>
+            <a href="/gallery/"><i class="fas fa-images"></i> Галерея</a>
+            <a href="/streamers/"><i class="fas fa-video"></i> Стримеры</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">ПОМОЩЬ</div>
+            <a href="/start/"><i class="fas fa-play-circle"></i> Как начать</a>
+            <a href="/rules/"><i class="fas fa-book"></i> Правила</a>
+            <a href="/support/"><i class="fas fa-headset"></i> Поддержка</a>
+        </div>
+        <div class="nav-mobile-ip">
+            <div class="ip-label" style="color:var(--muted);font-size:0.7rem;text-transform:uppercase;font-family:var(--font-mono);margin-bottom:6px;">IP сервера</div>
+            <div class="ip-value">play.amurkapve.ru:7004</div>
+        </div>
+    </div>
 
     <main id="mapWrap">
         <aside id="sidebar" aria-label="Фильтр POI">
             <div id="sidebar-header">
-                <h1>КАРТА <span class="accent">SCUM</span></h1>
+                <div class="sidebar-kicker"><span></span> КОМАНДНЫЙ ИНТЕРФЕЙС</div>
+                <h1>КАРТА <strong>SCUM</strong></h1>
                 <p class="subtitle">Остров под контролем. Найди нужную точку.</p>
                 <div class="sidebar-stats">
                     <div class="stat"><span id="poiTotal">—</span><small>POI</small></div>
@@ -100,7 +182,17 @@
         </div>
     </main>
 
+    <div class="nav-mobile-bar">
+        <a href="/"><i class="fas fa-home"></i><span>HOME</span></a>
+        <a href="/map/" class="active"><i class="fas fa-map"></i><span>MAP</span></a>
+        <a href="/live/"><i class="fas fa-signal"></i><span>LIVE</span></a>
+        <a href="javascript:void(0)" class="nav-mobile-play" id="navMobilePlay"><i class="fas fa-play"></i><span>PLAY</span></a>
+    </div>
+
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="../js/api.js"></script>
+    <script src="../js/main.js"></script>
     <script src="map.js"></script>
 </body>
 </html>

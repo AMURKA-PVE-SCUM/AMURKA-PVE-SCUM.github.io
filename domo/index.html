@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOMO — Игровой помощник AMURKA</title>
+    <meta name="description" content="DOMO — игровой помощник сервера AMURKA PVE. Команды для телепортов, магазина, погоды, дома и многого другого прямо в чате.">
+    <meta property="og:title" content="DOMO — Игровой помощник AMURKA">
+    <meta property="og:description" content="Игровой бот DOMO: стартпак, телепорт, магазин, погода, гараж — всё без выхода из игры.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://amurkapve.ru/domo/">
+    <link rel="canonical" href="https://amurkapve.ru/domo/">
+    <link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
+    <link rel="stylesheet" href="../css/variables.css">
+    <link rel="stylesheet" href="../css/base.css">
+    <link rel="stylesheet" href="../css/components.css">
+    <link rel="stylesheet" href="../css/navbar.css">
+    <link rel="stylesheet" href="../css/footer.css">
+    <link rel="stylesheet" href="../css/page-inner.css">
+    <link rel="stylesheet" href="../css/responsive.css">
+    <style>
+        .domo-page{padding:calc(var(--nav-h) + var(--sp-3xl)) 0 var(--sp-3xl);min-height:100vh;background:var(--bg)}
+        .domo-terminal{max-width:900px;margin:0 auto;padding:0 var(--sp-lg)}
+        .domo-header{text-align:center;margin-bottom:var(--sp-3xl)}
+        .domo-header h1{font-size:clamp(2rem,6vw,3.5rem);font-weight:300;letter-spacing:3px;margin-bottom:var(--sp-sm)}
+        .domo-header h1 strong{font-weight:900;color:var(--green)}
+        .domo-header p{color:var(--muted);font-size:var(--fs-sm);max-width:500px;margin:0 auto}
+        .domo-status-bar{display:flex;align-items:center;justify-content:center;gap:var(--sp-xl);margin-top:var(--sp-lg);flex-wrap:wrap}
+        .domo-status-item{display:flex;align-items:center;gap:var(--sp-sm);font-family:var(--font-mono);font-size:var(--fs-xs);color:var(--muted);text-transform:uppercase;letter-spacing:1px}
+        .domo-status-item .dot{width:8px;height:8px;border-radius:50%;background:var(--green);animation:pulse 2s infinite}
+        .domo-window{background:rgba(10,14,12,.95);border:1px solid rgba(0,200,120,.15);border-radius:12px;overflow:hidden;margin-bottom:var(--sp-2xl);box-shadow:0 20px 60px rgba(0,0,0,.4),0 0 1px rgba(0,200,120,.3)}
+        .domo-window-bar{display:flex;align-items:center;gap:8px;padding:12px 16px;background:rgba(0,200,120,.04);border-bottom:1px solid rgba(0,200,120,.08)}
+        .domo-window-dot{width:10px;height:10px;border-radius:50%}
+        .domo-window-dot:nth-child(1){background:#ef4444}
+        .domo-window-dot:nth-child(2){background:#eab308}
+        .domo-window-dot:nth-child(3){background:#22c55e}
+        .domo-window-title{margin-left:8px;font-family:var(--font-mono);font-size:11px;color:var(--muted);letter-spacing:1px;text-transform:uppercase}
+        .domo-window-body{padding:20px;font-family:var(--font-mono);font-size:13px;line-height:1.8;color:var(--green);max-height:400px;overflow-y:auto}
+        .domo-window-body .prompt{color:var(--muted)}
+        .domo-window-body .cmd{color:var(--green)}
+        .domo-window-body .output{color:var(--text-dim);margin-bottom:4px}
+        .domo-window-body .cursor{display:inline-block;width:8px;height:16px;background:var(--green);animation:blink 1s step-end infinite;vertical-align:middle;margin-left:2px}
+        @keyframes blink{50%{opacity:0}}
+        .domo-categories{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:var(--sp-lg);margin-bottom:var(--sp-3xl)}
+        .domo-cat{background:var(--panel);border:1px solid var(--border);border-radius:var(--radius-lg);padding:var(--sp-xl);transition:all var(--tr)}
+        .domo-cat:hover{border-color:rgba(0,200,120,.2);transform:translateY(-2px);box-shadow:0 8px 32px rgba(0,0,0,.3)}
+        .domo-cat-icon{width:48px;height:48px;border-radius:var(--radius-md);display:grid;place-items:center;background:rgba(0,200,120,.08);border:1px solid rgba(0,200,120,.12);margin-bottom:var(--sp-md);font-size:1.2rem;color:var(--green)}
+        .domo-cat h3{font-size:var(--fs-md);font-weight:700;margin-bottom:var(--sp-xs)}
+        .domo-cat p{color:var(--muted);font-size:var(--fs-sm);margin-bottom:var(--sp-md)}
+        .domo-cat-commands{display:flex;flex-wrap:wrap;gap:6px}
+        .domo-cmd-tag{padding:4px 10px;border-radius:var(--radius-full);background:rgba(0,200,120,.06);border:1px solid rgba(0,200,120,.1);font-family:var(--font-mono);font-size:11px;color:var(--green);white-space:nowrap}
+        .domo-how{max-width:900px;margin:0 auto;padding:0 var(--sp-lg)}
+        .domo-how-box{background:var(--panel);border:1px solid var(--border);border-radius:var(--radius-lg);padding:var(--sp-2xl);text-align:center}
+        .domo-how-box h2{font-size:var(--fs-xl);margin-bottom:var(--sp-md)}
+        .domo-how-box .step{font-family:var(--font-mono);font-size:var(--fs-md);margin:var(--sp-lg) 0}
+        .domo-how-box .step .char{color:var(--green);font-weight:700;font-size:1.4em}
+        .domo-how-box p{color:var(--muted);font-size:var(--fs-sm);max-width:500px;margin:var(--sp-md) auto 0;line-height:1.7}
+    </style>
+</head>
+<body>
+    <nav class="navbar" id="navbar">
+        <div class="nav-inner">
+            <a href="/" class="nav-logo">
+                <span class="logo-mark"><i class="fas fa-skull-crossbones"></i></span>
+                AMURKA
+            </a>
+            <ul class="nav-menu" id="navMenu">
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="game">ИГРА <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/server/"><i class="fas fa-server"></i> Сервер</a>
+                        <a href="/features/"><i class="fas fa-bolt"></i> Возможности</a>
+                        <a href="/mods/"><i class="fas fa-puzzle-piece"></i> Моды</a>
+                        <a href="/domo/" class="active"><i class="fas fa-robot"></i> DOMO</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="world">МИР <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/map/"><i class="fas fa-map"></i> Карта</a>
+                        <a href="/world/"><i class="fas fa-location-dot"></i> Мир</a>
+                        <a href="/events/"><i class="fas fa-calendar-star"></i> События</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="live">LIVE <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/live/"><i class="fas fa-circle"></i> Онлайн</a>
+                        <a href="/stats/"><i class="fas fa-chart-line"></i> Статистика</a>
+                        <a href="/players/"><i class="fas fa-users"></i> Игроки</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="community">COMMUNITY <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/news/"><i class="fas fa-newspaper"></i> Новости</a>
+                        <a href="/gallery/"><i class="fas fa-images"></i> Галерея</a>
+                        <a href="/streamers/"><i class="fas fa-video"></i> Стримеры</a>
+                        <a href="/vote/"><i class="fas fa-check-circle"></i> Голосование</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="help">ПОМОЩЬ <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/start/"><i class="fas fa-play-circle"></i> Как начать</a>
+                        <a href="/rules/"><i class="fas fa-book"></i> Правила</a>
+                        <a href="/support/"><i class="fas fa-headset"></i> Поддержка</a>
+                    </div>
+                </li>
+            </ul>
+            <div class="nav-right">
+                <div class="nav-online">
+                    <span class="status-dot online" id="navStatusDot"></span>
+                    <span>ONLINE</span>
+                    <span class="online-num" id="navOnlineNum">—</span>
+                </div>
+                <a href="/start/" class="btn btn-primary nav-play">PLAY</a>
+            </div>
+            <button class="nav-toggle" id="navToggle" aria-label="Меню">
+                <span></span><span></span><span></span>
+            </button>
+        </div>
+    </nav>
+
+    <div class="nav-mobile" id="navMobile">
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">ИГРА</div>
+            <a href="/server/"><i class="fas fa-server"></i> Сервер</a>
+            <a href="/features/"><i class="fas fa-bolt"></i> Возможности</a>
+            <a href="/mods/"><i class="fas fa-puzzle-piece"></i> Моды</a>
+            <a href="/domo/" class="active"><i class="fas fa-robot"></i> DOMO</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">МИР</div>
+            <a href="/map/"><i class="fas fa-map"></i> Карта</a>
+            <a href="/world/"><i class="fas fa-location-dot"></i> Мир</a>
+            <a href="/events/"><i class="fas fa-calendar-star"></i> События</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">LIVE</div>
+            <a href="/live/"><i class="fas fa-circle"></i> Онлайн</a>
+            <a href="/stats/"><i class="fas fa-chart-line"></i> Статистика</a>
+            <a href="/players/"><i class="fas fa-users"></i> Игроки</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">COMMUNITY</div>
+            <a href="/news/"><i class="fas fa-newspaper"></i> Новости</a>
+            <a href="/gallery/"><i class="fas fa-images"></i> Галерея</a>
+            <a href="/streamers/"><i class="fas fa-video"></i> Стримеры</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">ПОМОЩЬ</div>
+            <a href="/start/"><i class="fas fa-play-circle"></i> Как начать</a>
+            <a href="/rules/"><i class="fas fa-book"></i> Правила</a>
+            <a href="/support/"><i class="fas fa-headset"></i> Поддержка</a>
+        </div>
+        <div class="nav-mobile-ip">
+            <div class="ip-label" style="color:var(--muted);font-size:0.7rem;text-transform:uppercase;font-family:var(--font-mono);margin-bottom:6px;">IP сервера</div>
+            <div class="ip-value">play.amurkapve.ru:7004</div>
+        </div>
+    </div>
+
+    <main class="domo-page">
+        <div class="domo-terminal">
+            <div class="domo-header" data-aos="fade-up">
+                <h1><strong>DOMO</strong> SYSTEM</h1>
+                <p>Игровой помощник сервера AMURKA PVE</p>
+                <div class="domo-status-bar">
+                    <div class="domo-status-item">
+                        <span class="dot"></span>
+                        STATUS: ONLINE
+                    </div>
+                    <div class="domo-status-item">
+                        <span class="dot"></span>
+                        RESPONSE: &lt;100MS
+                    </div>
+                    <div class="domo-status-item">
+                        <span class="dot"></span>
+                        COMMANDS: 20+
+                    </div>
+                </div>
+            </div>
+
+            <div class="domo-window" data-aos="fade-up" data-aos-delay="100">
+                <div class="domo-window-bar">
+                    <div class="domo-window-dot"></div>
+                    <div class="domo-window-dot"></div>
+                    <div class="domo-window-dot"></div>
+                    <div class="domo-window-title">domo@amurka ~ /chat</div>
+                </div>
+                <div class="domo-window-body">
+                    <div><span class="prompt">&gt;</span> <span class="cmd">!стартпак</span></div>
+                    <div class="output">✓ Стартпак выдан! Получи набор на складе.</div>
+                    <br>
+                    <div><span class="prompt">&gt;</span> <span class="cmd">!дом</span></div>
+                    <div class="output">✓ Дом TP activated. Координаты: D4-287</div>
+                    <br>
+                    <div><span class="prompt">&gt;</span> <span class="cmd">!телепорт D4</span></div>
+                    <div class="output">✓ Телепорт в сектор D4. Задержка — 3 сек.</div>
+                    <br>
+                    <div><span class="prompt">&gt;</span> <span class="cmd">!машины</span></div>
+                    <div class="output">✓ Доступные машины: UAZ (45%), BTR (23%), Tank (12%)</div>
+                    <br>
+                    <div><span class="prompt">&gt;</span> <span class="cmd">!погода</span></div>
+                    <div class="output">✓ Погода: Облачно, 18°C, ветер 12 км/ч</div>
+                    <br>
+                    <div><span class="prompt">&gt;</span> <span class="cursor"></span></div>
+                </div>
+            </div>
+
+            <div class="domo-categories" data-aos="fade-up" data-aos-delay="200">
+                <div class="domo-cat">
+                    <div class="domo-cat-icon"><i class="fas fa-rocket"></i></div>
+                    <h3>СТАРТ</h3>
+                    <p>Получи стартовое снаряжение для новичка</p>
+                    <div class="domo-cat-commands">
+                        <span class="domo-cmd-tag">!стартпак</span>
+                        <span class="domo-cmd-tag">!новичок</span>
+                    </div>
+                </div>
+                <div class="domo-cat">
+                    <div class="domo-cat-icon"><i class="fas fa-house"></i></div>
+                    <h3>ДОМ</h3>
+                    <p>Телепорт домой и управление домом</p>
+                    <div class="domo-cat-commands">
+                        <span class="domo-cmd-tag">!дом</span>
+                        <span class="domo-cmd-tag">!дом TP</span>
+                        <span class="domo-cmd-tag">!дом удалить</span>
+                    </div>
+                </div>
+                <div class="domo-cat">
+                    <div class="domo-cat-icon"><i class="fas fa-car"></i></div>
+                    <h3>ГАРАЖ</h3>
+                    <p>Вызов и парковка транспорта</p>
+                    <div class="domo-cat-commands">
+                        <span class="domo-cmd-tag">!машины</span>
+                        <span class="domo-cmd-tag">!машина</span>
+                        <span class="domo-cmd-tag">!парковка</span>
+                    </div>
+                </div>
+                <div class="domo-cat">
+                    <div class="domo-cat-icon"><i class="fas fa-cloud"></i></div>
+                    <h3>ПОГОДА</h3>
+                    <p>Текущая погода и время в мире</p>
+                    <div class="domo-cat-commands">
+                        <span class="domo-cmd-tag">!погода</span>
+                        <span class="domo-cmd-tag">!время</span>
+                    </div>
+                </div>
+                <div class="domo-cat">
+                    <div class="domo-cat-icon"><i class="fas fa-cart-shopping"></i></div>
+                    <h3>МАГАЗИН</h3>
+                    <p>Покупка предметов и проверка инвентаря</p>
+                    <div class="domo-cat-commands">
+                        <span class="domo-cmd-tag">!магазин</span>
+                        <span class="domo-cmd-tag">!купить</span>
+                        <span class="domo-cmd-tag">!inventory</span>
+                    </div>
+                </div>
+                <div class="domo-cat">
+                    <div class="domo-cat-icon"><i class="fas fa-crown"></i></div>
+                    <h3>VIP</h3>
+                    <p>Привилегии, скины и VIP-наборы</p>
+                    <div class="domo-cat-commands">
+                        <span class="domo-cmd-tag">!vip</span>
+                        <span class="domo-cmd-tag">!скины</span>
+                        <span class="domo-cmd-tag">!набор</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="domo-how" data-aos="fade-up" data-aos-delay="300">
+                <div class="domo-how-box">
+                    <h2>Как использовать</h2>
+                    <div class="step">Набери в чате <span class="char">!</span> и название команды</div>
+                    <p>DOMO автоматически ответит в чате с результатом. Все команды работают прямо в игре — не нужно выходить из сервера.</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <a href="/" class="nav-logo" style="margin-bottom:var(--sp-md);">
+                        <span class="logo-mark"><i class="fas fa-skull-crossbones"></i></span>
+                        AMURKA
+                    </a>
+                    <p>SCUM PVE сервер. Работаем с 25 июля 2025 года.</p>
+                    <div class="footer-status">
+                        <span class="status-dot online" id="footerStatusDot"></span>
+                        <span>ONLINE</span>
+                        <span class="text-green" id="footerOnline">—</span>
+                    </div>
+                </div>
+                <div class="footer-col">
+                    <h4>ИГРА</h4>
+                    <ul>
+                        <li><a href="/server/"><i class="fas fa-server"></i> Сервер</a></li>
+                        <li><a href="/features/"><i class="fas fa-bolt"></i> Возможности</a></li>
+                        <li><a href="/mods/"><i class="fas fa-puzzle-piece"></i> Моды</a></li>
+                        <li><a href="/map/"><i class="fas fa-map"></i> Карта</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>СООБЩЕСТВО</h4>
+                    <ul>
+                        <li><a href="/news/"><i class="fas fa-newspaper"></i> Новости</a></li>
+                        <li><a href="/gallery/"><i class="fas fa-images"></i> Галерея</a></li>
+                        <li><a href="/streamers/"><i class="fas fa-video"></i> Стримеры</a></li>
+                        <li><a href="https://wargm.ru/server/77385" target="_blank"><i class="fas fa-globe"></i> Wargm</a></li>
+                        <li><a href="https://lolka.gg/xq3Mo6u" target="_blank"><i class="fas fa-comments"></i> LOLKA</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>ПОДКЛЮЧИТЬСЯ</h4>
+                    <div class="footer-ip">
+                        <code>play.amurkapve.ru:7004</code>
+                        <button class="copy-btn" data-copy="play.amurkapve.ru:7004"><i class="fas fa-copy"></i></button>
+                    </div>
+                    <div style="margin-top:var(--sp-md);">
+                        <a href="https://github.com/AMURKA-PVE-SCUM/AMURKA-PVE-Launcher/releases" class="btn btn-primary btn-sm" target="_blank"><i class="fas fa-download"></i> Скачать лаунчер</a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025–2026 AMURKA PVE. Все права защищены.</p>
+                <div class="footer-bottom-links">
+                    <a href="/rules/">Правила</a>
+                    <a href="/support/">Поддержка</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="../js/api.js"></script>
+    <script src="../js/main.js"></script>
+</body>
+</html>

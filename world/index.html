@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мир AMURKA — Энциклопедия сервера SCUM</title>
+    <meta name="description" content="Энциклопедия мира AMURKA PVE: локации, торговцы, опасные зоны, роботы, ресурсы и события на острове SCUM.">
+    <meta property="og:title" content="Мир AMURKA — Энциклопедия сервера SCUM">
+    <meta property="og:description" content="Всё об острове AMURKA: локации, POI, торговцы, опасные зоны.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://amurkapve.ru/world/">
+    <link rel="canonical" href="https://amurkapve.ru/world/">
+    <link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
+    <link rel="stylesheet" href="../css/variables.css">
+    <link rel="stylesheet" href="../css/base.css">
+    <link rel="stylesheet" href="../css/components.css">
+    <link rel="stylesheet" href="../css/navbar.css">
+    <link rel="stylesheet" href="../css/footer.css">
+    <link rel="stylesheet" href="../css/page-inner.css">
+    <link rel="stylesheet" href="../css/page-home.css">
+    <link rel="stylesheet" href="../css/responsive.css">
+</head>
+<body>
+    <nav class="navbar" id="navbar">
+        <div class="nav-inner">
+            <a href="/" class="nav-logo">
+                <span class="logo-mark"><i class="fas fa-skull-crossbones"></i></span>
+                AMURKA
+            </a>
+            <ul class="nav-menu" id="navMenu">
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="game">ИГРА <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/server/"><i class="fas fa-server"></i> Сервер</a>
+                        <a href="/features/"><i class="fas fa-bolt"></i> Возможности</a>
+                        <a href="/mods/"><i class="fas fa-puzzle-piece"></i> Моды</a>
+                        <a href="/domo/"><i class="fas fa-robot"></i> DOMO</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="world">МИР <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/map/"><i class="fas fa-map"></i> Карта</a>
+                        <a href="/world/" class="active"><i class="fas fa-location-dot"></i> Мир</a>
+                        <a href="/events/"><i class="fas fa-calendar-star"></i> События</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="live">LIVE <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/live/"><i class="fas fa-circle"></i> Онлайн</a>
+                        <a href="/stats/"><i class="fas fa-chart-line"></i> Статистика</a>
+                        <a href="/players/"><i class="fas fa-users"></i> Игроки</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="community">COMMUNITY <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/news/"><i class="fas fa-newspaper"></i> Новости</a>
+                        <a href="/gallery/"><i class="fas fa-images"></i> Галерея</a>
+                        <a href="/streamers/"><i class="fas fa-video"></i> Стримеры</a>
+                        <a href="/vote/"><i class="fas fa-check-circle"></i> Голосование</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="help">ПОМОЩЬ <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/start/"><i class="fas fa-play-circle"></i> Как начать</a>
+                        <a href="/rules/"><i class="fas fa-book"></i> Правила</a>
+                        <a href="/support/"><i class="fas fa-headset"></i> Поддержка</a>
+                    </div>
+                </li>
+            </ul>
+            <div class="nav-right">
+                <div class="nav-online">
+                    <span class="status-dot online" id="navStatusDot"></span>
+                    <span>ONLINE</span>
+                    <span class="online-num" id="navOnlineNum">—</span>
+                </div>
+                <a href="/start/" class="btn btn-primary nav-play">PLAY</a>
+            </div>
+            <button class="nav-toggle" id="navToggle" aria-label="Меню">
+                <span></span><span></span><span></span>
+            </button>
+        </div>
+    </nav>
+    <div class="nav-mobile" id="navMobile">
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">ИГРА</div>
+            <a href="/server/"><i class="fas fa-server"></i> Сервер</a>
+            <a href="/features/"><i class="fas fa-bolt"></i> Возможности</a>
+            <a href="/mods/"><i class="fas fa-puzzle-piece"></i> Моды</a>
+            <a href="/domo/"><i class="fas fa-robot"></i> DOMO</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">МИР</div>
+            <a href="/map/"><i class="fas fa-map"></i> Карта</a>
+            <a href="/world/" class="active"><i class="fas fa-location-dot"></i> Мир</a>
+            <a href="/events/"><i class="fas fa-calendar-star"></i> События</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">LIVE</div>
+            <a href="/live/"><i class="fas fa-circle"></i> Онлайн</a>
+            <a href="/stats/"><i class="fas fa-chart-line"></i> Статистика</a>
+            <a href="/players/"><i class="fas fa-users"></i> Игроки</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">COMMUNITY</div>
+            <a href="/news/"><i class="fas fa-newspaper"></i> Новости</a>
+            <a href="/gallery/"><i class="fas fa-images"></i> Галерея</a>
+            <a href="/streamers/"><i class="fas fa-video"></i> Стримеры</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">ПОМОЩЬ</div>
+            <a href="/start/"><i class="fas fa-play-circle"></i> Как начать</a>
+            <a href="/rules/"><i class="fas fa-book"></i> Правила</a>
+            <a href="/support/"><i class="fas fa-headset"></i> Поддержка</a>
+        </div>
+        <div class="nav-mobile-ip">
+            <div class="ip-label" style="color:var(--muted);font-size:0.7rem;text-transform:uppercase;font-family:var(--font-mono);margin-bottom:6px;">IP сервера</div>
+            <div class="ip-value">play.amurkapve.ru:7004</div>
+        </div>
+    </div>
+
+    <section class="page-hero page-hero-sm">
+        <div class="container">
+            <h1 class="page-hero-title" data-aos="fade-up">Мир <span class="text-green">AMURKA</span></h1>
+            <p class="page-hero-sub" data-aos="fade-up" data-aos-delay="60">Энциклопедия острова — локации, торговцы, опасные зоны и ресурсы</p>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <div class="layout-2col">
+                <aside class="sidebar" data-aos="fade-right">
+                    <h3 class="sidebar-title">Разделы</h3>
+                    <nav class="sidebar-nav">
+                        <a href="#locations" class="sidebar-link active"><i class="fas fa-location-dot"></i> Локации</a>
+                        <a href="#traders" class="sidebar-link"><i class="fas fa-store"></i> Торговцы</a>
+                        <a href="#danger" class="sidebar-link"><i class="fas fa-radiation"></i> Опасные зоны</a>
+                        <a href="#robots" class="sidebar-link"><i class="fas fa-robot"></i> Роботы</a>
+                        <a href="#resources" class="sidebar-link"><i class="fas fa-gem"></i> Ресурсы</a>
+                        <a href="#events" class="sidebar-link"><i class="fas fa-calendar-star"></i> События</a>
+                    </nav>
+                </aside>
+
+                <div class="layout-content">
+                    <div id="locations" class="world-section" data-aos="fade-up">
+                        <h2 class="section-heading"><i class="fas fa-location-dot text-green"></i> Локации</h2>
+                        <p class="section-desc">Основные населённые пункты и точки интереса острова.</p>
+                        <div class="world-cards">
+                            <a href="/map/" class="world-card">
+                                <div class="world-card-icon" style="--accent: #00C878"><i class="fas fa-building"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Деревни</h4>
+                                    <p>54 деревни и поселения на острове. Основные точки для лута и жилья.</p>
+                                </div>
+                                <span class="world-card-count">54</span>
+                            </a>
+                            <a href="/map/" class="world-card">
+                                <div class="world-card-icon" style="--accent: #00C878"><i class="fas fa-shield-halved"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Аванпосты</h4>
+                                    <p>Безопасные зоны с торговцами и точками.spawn.</p>
+                                </div>
+                                <span class="world-card-count">4</span>
+                            </a>
+                            <a href="/map/" class="world-card">
+                                <div class="world-card-icon" style="--accent: #35d9ff"><i class="fas fa-hospital"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Город Крско</h4>
+                                    <p>Крупнейший город острова. Больница, полиция, магазины.</p>
+                                </div>
+                                <span class="world-card-count">30</span>
+                            </a>
+                            <a href="/map/" class="world-card">
+                                <div class="world-card-icon" style="--accent: #35d9ff"><i class="fas fa-igloo"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Самобор</h4>
+                                    <p>Западный регион с деревнями и промышленными зонами.</p>
+                                </div>
+                                <span class="world-card-count">23</span>
+                            </a>
+                            <a href="/map/" class="world-card">
+                                <div class="world-card-icon" style="--accent: #35d9ff"><i class="fas fa-monument"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Новиград</h4>
+                                    <p>Восточный город с уникальными локациями.</p>
+                                </div>
+                                <span class="world-card-count">4</span>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div id="traders" class="world-section" data-aos="fade-up">
+                        <h2 class="section-heading"><i class="fas fa-store text-green"></i> Торговцы</h2>
+                        <p class="section-desc">Торговые автоматы и точки продаж по всему острову.</p>
+                        <div class="world-cards">
+                            <a href="/map/" class="world-card">
+                                <div class="world-card-icon" style="--accent: #35d9ff"><i class="fas fa-shopping-basket"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Продуктовые магазины</h4>
+                                    <p>Еда, вода, базовые припасы.</p>
+                                </div>
+                                <span class="world-card-count">99</span>
+                            </a>
+                            <a href="/map/" class="world-card">
+                                <div class="world-card-icon" style="--accent: #ff8a3d"><i class="fas fa-crosshairs"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Оружейные магазины</h4>
+                                    <p>Оружие, патроны, экипировка.</p>
+                                </div>
+                                <span class="world-card-count">4</span>
+                            </a>
+                            <a href="/map/" class="world-card">
+                                <div class="world-card-icon" style="--accent: #35d9ff"><i class="fas fa-car"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Механики</h4>
+                                    <p>Ремонт и тюнинг транспорта.</p>
+                                </div>
+                                <span class="world-card-count">4</span>
+                            </a>
+                            <a href="/map/" class="world-card">
+                                <div class="world-card-icon" style="--accent: #ff8a3d"><i class="fas fa-fish"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Рыболовные магазины</h4>
+                                    <p>Снасти, приманки, удочки.</p>
+                                </div>
+                                <span class="world-card-count">4</span>
+                            </a>
+                            <a href="/map/" class="world-card">
+                                <div class="world-card-icon" style="--accent: #bd78ff"><i class="fas fa-scissors"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Парикмахерские</h4>
+                                    <p>Изменение внешности персонажа.</p>
+                                </div>
+                                <span class="world-card-count">4</span>
+                            </a>
+                            <a href="/map/" class="world-card">
+                                <div class="world-card-icon" style="--accent: #35d9ff"><i class="fas fa-box"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Общие магазины</h4>
+                                    <p>Разные товары и припасы.</p>
+                                </div>
+                                <span class="world-card-count">4</span>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div id="danger" class="world-section" data-aos="fade-up">
+                        <h2 class="section-heading"><i class="fas fa-radiation text-green"></i> Опасные зоны</h2>
+                        <p class="section-desc">Территории с повышенной опасностью — бункеры, киллбоксы, зоны радиации.</p>
+                        <div class="world-cards">
+                            <a href="/map/" class="world-card world-card-danger">
+                                <div class="world-card-icon" style="--accent: #EF4444"><i class="fas fa-skull"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Бункеры</h4>
+                                    <p>Подземные комплексы с лучшим лутом и максимальной опасностью.</p>
+                                </div>
+                                <span class="world-card-count">8</span>
+                            </a>
+                            <a href="/map/" class="world-card world-card-danger">
+                                <div class="world-card-icon" style="--accent: #ffd34d"><i class="fas fa-skull-crossbones"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Секретные бункеры</h4>
+                                    <p>Скрытые входы, уникальный лут, радиация.</p>
+                                </div>
+                                <span class="world-card-count">8</span>
+                            </a>
+                            <a href="/map/" class="world-card world-card-danger">
+                                <div class="world-card-icon" style="--accent: #EF4444"><i class="fas fa-bomb"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Киллбоксы</h4>
+                                    <p>Зоны с усиленными роботами и элитным лутом.</p>
+                                </div>
+                                <span class="world-card-count">12</span>
+                            </a>
+                            <a href="/map/" class="world-card world-card-danger">
+                                <div class="world-card-icon" style="--accent: #EF4444"><i class="fas fa-radiation"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Зоны радиации</h4>
+                                    <p>Территории с обеднённым ураном. Нужен ХОЗ костюм.</p>
+                                </div>
+                                <span class="world-card-count">15</span>
+                            </a>
+                            <a href="/map/" class="world-card world-card-danger">
+                                <div class="world-card-icon" style="--accent: #bd78ff"><i class="fas fa-mountain"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Пещеры</h4>
+                                    <p>Тёмные подземные ходы с неожиданными находками.</p>
+                                </div>
+                                <span class="world-card-count">47</span>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div id="robots" class="world-section" data-aos="fade-up">
+                        <h2 class="section-heading"><i class="fas fa-robot text-green"></i> Роботы</h2>
+                        <p class="section-desc">Боевые роботы патрулируют опасные зоны. Уничтожение даёт уникальный лут.</p>
+                        <div class="world-cards">
+                            <a href="/map/" class="world-card">
+                                <div class="world-card-icon" style="--accent: #EF4444"><i class="fas fa-robot"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Бункерные роботы</h4>
+                                    <p>Патрулируют бункеры. Тяжёлая броня, высокий урон.</p>
+                                </div>
+                                <span class="world-card-count">53</span>
+                            </a>
+                            <a href="/map/" class="world-card">
+                                <div class="world-card-icon" style="--accent: #ff8a3d"><i class="fas fa-shield-halved"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Военные роботы</h4>
+                                    <p>Охраняют военные объекты и склады.</p>
+                                </div>
+                                <span class="world-card-count">30</span>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div id="resources" class="world-section" data-aos="fade-up">
+                        <h2 class="section-heading"><i class="fas fa-gem text-green"></i> Ресурсы</h2>
+                        <p class="section-desc">Природные ресурсы и материалы для крафта и строительства.</p>
+                        <div class="world-cards">
+                            <a href="/map/" class="world-card">
+                                <div class="world-card-icon" style="--accent: #ff8a3d"><i class="fas fa-hammer"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Строительные материалы</h4>
+                                    <p>Доски, кирпичи, цемент, графит, брёвна.</p>
+                                </div>
+                                <span class="world-card-count">500+</span>
+                            </a>
+                            <a href="/map/" class="world-card">
+                                <div class="world-card-icon" style="--accent: #00C878"><i class="fas fa-seedling"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Сельхозкультуры</h4>
+                                    <p>Клубника, картофель, кукуруза, морковь, брокколи.</p>
+                                </div>
+                                <span class="world-card-count">1200+</span>
+                            </a>
+                            <a href="/map/" class="world-card">
+                                <div class="world-card-icon" style="--accent: #00C878"><i class="fas fa-tree"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Фруктовые деревья</h4>
+                                    <p>Яблони, вишни, груши, оливы, финики.</p>
+                                </div>
+                                <span class="world-card-count">800+</span>
+                            </a>
+                            <a href="/map/" class="world-card">
+                                <div class="world-card-icon" style="--accent: #35d9ff"><i class="fas fa-water"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Водные ресурсы</h4>
+                                    <p>Колодцы, родники, насосы, фонтаны, рыбалка.</p>
+                                </div>
+                                <span class="world-card-count">700+</span>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div id="events" class="world-section" data-aos="fade-up">
+                        <h2 class="section-heading"><i class="fas fa-calendar-star text-green"></i> События</h2>
+                        <p class="section-desc">Регулярные события на сервере — охота за роботами, сбросы, специальные миссии.</p>
+                        <div class="world-cards">
+                            <a href="/events/" class="world-card">
+                                <div class="world-card-icon" style="--accent: #EF4444"><i class="fas fa-crosshairs"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Охота на роботов</h4>
+                                    <p>Массовые охоты на бункерных роботов с уникальными наградами.</p>
+                                </div>
+                                <span class="world-card-count">● LIVE</span>
+                            </a>
+                            <a href="/events/" class="world-card">
+                                <div class="world-card-icon" style="--accent: #ffd34d"><i class="fas fa-box-open"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Air Drop</h4>
+                                    <p>Сбросы припасов в случайных точках карты.</p>
+                                </div>
+                                <span class="world-card-count">● LIVE</span>
+                            </a>
+                            <a href="/events/" class="world-card">
+                                <div class="world-card-icon" style="--accent: #bd78ff"><i class="fas fa-star"></i></div>
+                                <div class="world-card-body">
+                                    <h4>Специальные события</h4>
+                                    <p>Уникальные миссии с особыми наградами и испытаниями.</p>
+                                </div>
+                                <span class="world-card-count">● LIVE</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section section-cta" data-aos="fade-up">
+        <div class="container" style="text-align:center">
+            <h2 class="section-heading" style="justify-content:center">Исследуй остров</h2>
+            <p class="section-desc" style="max-width:500px;margin:var(--sp-sm) auto var(--sp-xl)">Открой всю карту AMURKA — тысячи точек интереса ждут тебя.</p>
+            <a href="/map/" class="btn btn-primary btn-lg"><i class="fas fa-map"></i> Открыть карту</a>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <a href="/" class="nav-logo" style="margin-bottom:var(--sp-md)"><span class="logo-mark"><i class="fas fa-skull-crossbones"></i></span> AMURKA</a>
+                    <p>SCUM PVE сервер. Работаем с 25 июля 2025 года.</p>
+                </div>
+                <div class="footer-col"><h4>ИГРА</h4><ul><li><a href="/server/"><i class="fas fa-server"></i> Сервер</a></li><li><a href="/features/"><i class="fas fa-bolt"></i> Возможности</a></li><li><a href="/mods/"><i class="fas fa-puzzle-piece"></i> Моды</a></li><li><a href="/map/"><i class="fas fa-map"></i> Карта</a></li></ul></div>
+                <div class="footer-col"><h4>ПОМОЩЬ</h4><ul><li><a href="/start/"><i class="fas fa-play-circle"></i> Как начать</a></li><li><a href="/rules/"><i class="fas fa-book"></i> Правила</a></li><li><a href="/support/"><i class="fas fa-headset"></i> Поддержка</a></li></ul></div>
+                <div class="footer-col">
+                    <h4>ПОДКЛЮЧИТЬСЯ</h4>
+                    <div class="footer-ip"><code>play.amurkapve.ru:7004</code><button class="copy-btn" data-copy="play.amurkapve.ru:7004"><i class="fas fa-copy"></i></button></div>
+                </div>
+            </div>
+            <div class="footer-bottom"><p>&copy; 2025–2026 AMURKA PVE.</p></div>
+        </div>
+    </footer>
+
+    <div class="toast" id="toast"><i class="fas fa-check-circle"></i><span id="toastText">Скопировано!</span></div>
+    <button class="scroll-top" id="scrollTop" aria-label="Наверх"><i class="fas fa-arrow-up"></i></button>
+
+    <nav class="nav-mobile-bar">
+        <a href="/"><i class="fas fa-home"></i><span>HOME</span></a>
+        <a href="/map/"><i class="fas fa-map"></i><span>MAP</span></a>
+        <a href="/live/"><i class="fas fa-signal"></i><span>LIVE</span></a>
+        <a href="javascript:void(0)" class="nav-mobile-play" id="navMobilePlay"><i class="fas fa-play"></i><span>PLAY</span></a>
+    </nav>
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="../js/api.js"></script>
+    <script src="../js/main.js"></script>
+</body>
+</html>

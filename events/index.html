@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>События — AMURKA PVE SCUM</title>
+    <meta name="description" content="События сервера AMURKA PVE: активные охоты, air drop, специальные миссии.">
+    <meta property="og:title" content="События — AMURKA PVE SCUM">
+    <meta property="og:url" content="https://amurkapve.ru/events/">
+    <link rel="canonical" href="https://amurkapve.ru/events/">
+    <link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
+    <link rel="stylesheet" href="../css/variables.css">
+    <link rel="stylesheet" href="../css/base.css">
+    <link rel="stylesheet" href="../css/components.css">
+    <link rel="stylesheet" href="../css/navbar.css">
+    <link rel="stylesheet" href="../css/footer.css">
+    <link rel="stylesheet" href="../css/page-inner.css">
+    <link rel="stylesheet" href="../css/responsive.css">
+    <style>
+        .event-active { padding: var(--sp-2xl); background: var(--panel); border: 2px solid rgba(0, 200, 120, 0.3); border-radius: var(--radius-lg); margin-bottom: var(--sp-2xl); position: relative; overflow: hidden; }
+        .event-active::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 4px; background: var(--green); }
+        .event-active-badge { display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; border-radius: 20px; background: rgba(239, 68, 68, 0.15); color: #EF4444; font-size: 11px; font-weight: 800; letter-spacing: 1px; margin-bottom: var(--sp-lg); border: 1px solid rgba(239, 68, 68, 0.3); }
+        .event-active-badge .pulse-dot { width: 8px; height: 8px; border-radius: 50%; background: #EF4444; animation: pulse 2s infinite; }
+        .event-active-title { font-size: var(--fs-2xl); font-weight: 900; margin-bottom: var(--sp-sm); }
+        .event-active-desc { color: var(--text-dim); font-size: var(--fs-base); margin-bottom: var(--sp-xl); max-width: 600px; }
+        .event-active-timer { font-family: var(--mono); font-size: clamp(2rem, 5vw, 3.5rem); font-weight: 900; color: var(--green); letter-spacing: 4px; }
+        .event-active-meta { display: flex; gap: var(--sp-xl); margin-top: var(--sp-xl); }
+        .event-active-meta-item { display: flex; flex-direction: column; gap: 2px; }
+        .event-active-meta-label { font-size: 10px; color: var(--text-dim); font-weight: 700; letter-spacing: 1.5px; }
+        .event-active-meta-value { font-family: var(--mono); font-size: var(--fs-base); color: var(--text); font-weight: 600; }
+
+        .event-section-title { font-size: var(--fs-lg); font-weight: 700; margin-bottom: var(--sp-lg); display: flex; align-items: center; gap: var(--sp-sm); }
+        .event-section-title i { color: var(--green); }
+
+        .event-list { display: grid; gap: var(--sp-md); margin-bottom: var(--sp-2xl); }
+        .event-list-card { display: flex; align-items: center; gap: var(--sp-lg); padding: var(--sp-lg) var(--sp-xl); background: var(--panel); border: 1px solid var(--border); border-radius: var(--radius-lg); transition: var(--ease); }
+        .event-list-card:hover { border-color: rgba(0, 200, 120, 0.2); transform: translateX(4px); }
+        .event-list-time { font-family: var(--mono); font-size: var(--fs-xl); font-weight: 800; color: var(--green); min-width: 80px; text-align: center; }
+        .event-list-body { flex: 1; }
+        .event-list-title { font-size: var(--fs-base); font-weight: 700; margin-bottom: 2px; }
+        .event-list-desc { font-size: var(--fs-sm); color: var(--text-dim); }
+        .event-list-badge { padding: 4px 10px; border-radius: 12px; font-size: 10px; font-weight: 800; letter-spacing: 1px; }
+        .event-list-badge.upcoming { background: rgba(255, 211, 77, 0.1); color: #ffd34d; border: 1px solid rgba(255, 211, 77, 0.2); }
+
+        .event-archive { opacity: 0.6; }
+        .event-archive .event-list-card { border-color: rgba(255, 255, 255, 0.03); }
+        .event-archive .event-list-time { color: var(--text-dim); }
+
+        @media (max-width: 640px) {
+            .event-active { padding: var(--sp-xl); }
+            .event-active-meta { flex-wrap: wrap; gap: var(--sp-md); }
+            .event-list-card { flex-direction: column; text-align: center; }
+            .event-list-time { min-width: auto; }
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar" id="navbar">
+        <div class="nav-inner">
+            <a href="/" class="nav-logo">
+                <span class="logo-mark"><i class="fas fa-skull-crossbones"></i></span>
+                AMURKA
+            </a>
+            <ul class="nav-menu" id="navMenu">
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="game">ИГРА <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/server/"><i class="fas fa-server"></i> Сервер</a>
+                        <a href="/features/"><i class="fas fa-bolt"></i> Возможности</a>
+                        <a href="/mods/"><i class="fas fa-puzzle-piece"></i> Моды</a>
+                        <a href="/domo/"><i class="fas fa-robot"></i> DOMO</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="world">МИР <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/map/"><i class="fas fa-map"></i> Карта</a>
+                        <a href="/world/"><i class="fas fa-location-dot"></i> Мир</a>
+                        <a href="/events/" class="active"><i class="fas fa-calendar-star"></i> События</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="live">LIVE <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/live/"><i class="fas fa-circle"></i> Онлайн</a>
+                        <a href="/stats/"><i class="fas fa-chart-line"></i> Статистика</a>
+                        <a href="/players/"><i class="fas fa-users"></i> Игроки</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="community">COMMUNITY <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/news/"><i class="fas fa-newspaper"></i> Новости</a>
+                        <a href="/gallery/"><i class="fas fa-images"></i> Галерея</a>
+                        <a href="/streamers/"><i class="fas fa-video"></i> Стримеры</a>
+                        <a href="/vote/"><i class="fas fa-check-circle"></i> Голосование</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="help">ПОМОЩЬ <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/start/"><i class="fas fa-play-circle"></i> Как начать</a>
+                        <a href="/rules/"><i class="fas fa-book"></i> Правила</a>
+                        <a href="/support/"><i class="fas fa-headset"></i> Поддержка</a>
+                    </div>
+                </li>
+            </ul>
+            <div class="nav-right">
+                <div class="nav-online">
+                    <span class="status-dot online" id="navStatusDot"></span>
+                    <span>ONLINE</span>
+                    <span class="online-num" id="navOnlineNum">—</span>
+                </div>
+                <a href="/start/" class="btn btn-primary nav-play">PLAY</a>
+            </div>
+            <button class="nav-toggle" id="navToggle" aria-label="Меню">
+                <span></span><span></span><span></span>
+            </button>
+        </div>
+    </nav>
+    <div class="nav-mobile" id="navMobile">
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">ИГРА</div>
+            <a href="/server/"><i class="fas fa-server"></i> Сервер</a>
+            <a href="/features/"><i class="fas fa-bolt"></i> Возможности</a>
+            <a href="/mods/"><i class="fas fa-puzzle-piece"></i> Моды</a>
+            <a href="/domo/"><i class="fas fa-robot"></i> DOMO</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">МИР</div>
+            <a href="/map/"><i class="fas fa-map"></i> Карта</a>
+            <a href="/world/"><i class="fas fa-location-dot"></i> Мир</a>
+            <a href="/events/" class="active"><i class="fas fa-calendar-star"></i> События</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">LIVE</div>
+            <a href="/live/"><i class="fas fa-circle"></i> Онлайн</a>
+            <a href="/stats/"><i class="fas fa-chart-line"></i> Статистика</a>
+            <a href="/players/"><i class="fas fa-users"></i> Игроки</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">COMMUNITY</div>
+            <a href="/news/"><i class="fas fa-newspaper"></i> Новости</a>
+            <a href="/gallery/"><i class="fas fa-images"></i> Галерея</a>
+            <a href="/streamers/"><i class="fas fa-video"></i> Стримеры</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">ПОМОЩЬ</div>
+            <a href="/start/"><i class="fas fa-play-circle"></i> Как начать</a>
+            <a href="/rules/"><i class="fas fa-book"></i> Правила</a>
+            <a href="/support/"><i class="fas fa-headset"></i> Поддержка</a>
+        </div>
+        <div class="nav-mobile-ip">
+            <div class="ip-label" style="color:var(--muted);font-size:0.7rem;text-transform:uppercase;font-family:var(--font-mono);margin-bottom:6px;">IP сервера</div>
+            <div class="ip-value">play.amurkapve.ru:7004</div>
+        </div>
+    </div>
+
+    <section class="page-hero page-hero-sm">
+        <div class="container">
+            <h1 class="page-hero-title" data-aos="fade-up">События <span class="text-green">AMURKA</span></h1>
+            <p class="page-hero-sub" data-aos="fade-up" data-aos-delay="60">Активные события, расписание и архив</p>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <div class="event-active" data-aos="fade-up">
+                <div class="event-active-badge"><span class="pulse-dot"></span> ACTIVE</div>
+                <h2 class="event-active-title">Охота на роботов</h2>
+                <p class="event-active-desc">Массовая охота на бункерных роботов в секторе D4. Уничтожьте роботов и получите уникальные награды.</p>
+                <div class="event-active-timer" id="activeTimer">01:24:36</div>
+                <div class="event-active-meta">
+                    <div class="event-active-meta-item">
+                        <span class="event-active-meta-label">СЕКТОР</span>
+                        <span class="event-active-meta-value">D4</span>
+                    </div>
+                    <div class="event-active-meta-item">
+                        <span class="event-active-meta-label">НАГРАДА</span>
+                        <span class="event-active-meta-value">???</span>
+                    </div>
+                    <div class="event-active-meta-item">
+                        <span class="event-active-meta-label">УЧАСТНИКИ</span>
+                        <span class="event-active-meta-value">12</span>
+                    </div>
+                </div>
+            </div>
+
+            <h3 class="event-section-title" data-aos="fade-up"><i class="fas fa-clock"></i> Предстоящие</h3>
+            <div class="event-list" data-aos="fade-up">
+                <div class="event-list-card">
+                    <div class="event-list-time">18:00</div>
+                    <div class="event-list-body">
+                        <div class="event-list-title">Air Drop</div>
+                        <div class="event-list-desc">Сброс припасов в случайных точках карты</div>
+                    </div>
+                    <span class="event-list-badge upcoming">ЧЕРЕЗ 2 Ч</span>
+                </div>
+                <div class="event-list-card">
+                    <div class="event-list-time">20:00</div>
+                    <div class="event-list-body">
+                        <div class="event-list-title">Робот-событие</div>
+                        <div class="event-list-desc">Волна роботов на военной базе</div>
+                    </div>
+                    <span class="event-list-badge upcoming">ЧЕРЕЗ 4 Ч</span>
+                </div>
+                <div class="event-list-card">
+                    <div class="event-list-time">22:00</div>
+                    <div class="event-list-body">
+                        <div class="event-list-title">Специальное событие</div>
+                        <div class="event-list-desc">Уникальное испытание с особыми наградами</div>
+                    </div>
+                    <span class="event-list-badge upcoming">ЧЕРЕЗ 6 Ч</span>
+                </div>
+            </div>
+
+            <h3 class="event-section-title event-archive" data-aos="fade-up"><i class="fas fa-archive"></i> Архив</h3>
+            <div class="event-list event-archive" data-aos="fade-up">
+                <div class="event-list-card">
+                    <div class="event-list-time">12:00</div>
+                    <div class="event-list-body">
+                        <div class="event-list-title">Утренняя охота</div>
+                        <div class="event-list-desc">Охота на роботов в секторе B2</div>
+                    </div>
+                </div>
+                <div class="event-list-card">
+                    <div class="event-list-time">10:00</div>
+                    <div class="event-list-body">
+                        <div class="event-list-title">Air Drop</div>
+                        <div class="event-list-desc">Сброс припасов</div>
+                    </div>
+                </div>
+                <div class="event-list-card">
+                    <div class="event-list-time">08:00</div>
+                    <div class="event-list-body">
+                        <div class="event-list-title">Ночной рейд</div>
+                        <div class="event-list-desc">Очистка секретного бункера</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand"><a href="/" class="nav-logo" style="margin-bottom:var(--sp-md)"><span class="logo-mark"><i class="fas fa-skull-crossbones"></i></span> AMURKA</a><p>SCUM PVE сервер. Работаем с 25 июля 2025 года.</p></div>
+                <div class="footer-col"><h4>ИГРА</h4><ul><li><a href="/server/"><i class="fas fa-server"></i> Сервер</a></li><li><a href="/features/"><i class="fas fa-bolt"></i> Возможности</a></li><li><a href="/mods/"><i class="fas fa-puzzle-piece"></i> Моды</a></li><li><a href="/map/"><i class="fas fa-map"></i> Карта</a></li></ul></div>
+                <div class="footer-col"><h4>ПОМОЩЬ</h4><ul><li><a href="/start/"><i class="fas fa-play-circle"></i> Как начать</a></li><li><a href="/rules/"><i class="fas fa-book"></i> Правила</a></li><li><a href="/support/"><i class="fas fa-headset"></i> Поддержка</a></li></ul></div>
+                <div class="footer-col"><h4>ПОДКЛЮЧИТЬСЯ</h4><div class="footer-ip"><code>play.amurkapve.ru:7004</code><button class="copy-btn" data-copy="play.amurkapve.ru:7004"><i class="fas fa-copy"></i></button></div></div>
+            </div>
+            <div class="footer-bottom"><p>&copy; 2025–2026 AMURKA PVE.</p></div>
+        </div>
+    </footer>
+
+    <div class="toast" id="toast"><i class="fas fa-check-circle"></i><span id="toastText">Скопировано!</span></div>
+    <button class="scroll-top" id="scrollTop" aria-label="Наверх"><i class="fas fa-arrow-up"></i></button>
+
+    <nav class="nav-mobile-bar">
+        <a href="/"><i class="fas fa-home"></i><span>HOME</span></a>
+        <a href="/map/"><i class="fas fa-map"></i><span>MAP</span></a>
+        <a href="/live/"><i class="fas fa-signal"></i><span>LIVE</span></a>
+        <a href="javascript:void(0)" class="nav-mobile-play" id="navMobilePlay"><i class="fas fa-play"></i><span>PLAY</span></a>
+    </nav>
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="../js/api.js"></script>
+    <script src="../js/main.js"></script>
+    <script>
+    document.addEventListener('DOMContentLoaded', () => {
+        let remaining = 5076;
+        const el = document.getElementById('activeTimer');
+        function update() {
+            const h = Math.floor(remaining / 3600);
+            const m = Math.floor((remaining % 3600) / 60);
+            const s = remaining % 60;
+            if (el) el.textContent = String(h).padStart(2,'0') + ':' + String(m).padStart(2,'0') + ':' + String(s).padStart(2,'0');
+            if (remaining > 0) { remaining--; setTimeout(update, 1000); }
+        }
+        update();
+    });
+    </script>
+</body>
+</html>

@@ -1,100 +1,58 @@
+/* ═══════════════════════════════════════════════
+   AMURKA 2.0 — Main JS
+   ═══════════════════════════════════════════════ */
+
 document.addEventListener('DOMContentLoaded', () => {
 
+    // ── AOS ──
     AOS.init({
-        duration: 800,
+        duration: 700,
         easing: 'ease-out-cubic',
         once: true,
-        offset: 50
+        offset: 40
     });
 
-    // ── Streamers (из JSON) ──
-    const grid = document.getElementById('streamersGrid');
-    if (grid) {
-        fetch('data/streamers.json')
-            .then(r => r.json())
-            .then(streamers => {
-                if (!streamers.length) return;
-                grid.innerHTML = '';
-                streamers.forEach((s, i) => {
-                    const card = document.createElement('div');
-                    card.className = 'streamer-card';
-                    card.setAttribute('data-aos', 'fade-up');
-                    card.setAttribute('data-aos-delay', String(100 + i * 100));
-                    const platformIcon = s.platform === 'youtube' ? 'fab fa-youtube' : s.platform === 'twitch' ? 'fab fa-twitch' : 'fab fa-vk';
-                    const platformName = s.platform === 'youtube' ? 'YouTube' : s.platform === 'twitch' ? 'Twitch' : 'VK Видео Live';
-                    card.innerHTML = `
-                        <div class="streamer-info">
-                            <h3>${s.name}</h3>
-                            <p>SCUM PVE</p>
-                            <a href="${s.url}" class="streamer-link" target="_blank">
-                                <i class="${platformIcon}"></i> ${platformName}
-                            </a>
-                        </div>
-                    `;
-                    grid.appendChild(card);
-                });
-            })
-            .catch(() => {});
-    }
-
     // ── Particles ──
-    const particlesContainer = document.getElementById('particles');
-    if (particlesContainer) {
-        for (let i = 0; i < 30; i++) {
+    const particlesEl = document.getElementById('particles');
+    if (particlesEl) {
+        for (let i = 0; i < 25; i++) {
             const p = document.createElement('div');
             p.classList.add('particle');
             p.style.left = Math.random() * 100 + '%';
-            p.style.animationDuration = (8 + Math.random() * 12) + 's';
+            p.style.animationDuration = (10 + Math.random() * 15) + 's';
             p.style.animationDelay = Math.random() * 10 + 's';
-            p.style.width = p.style.height = (2 + Math.random() * 3) + 'px';
-            particlesContainer.appendChild(p);
+            p.style.width = p.style.height = (1.5 + Math.random() * 2) + 'px';
+            particlesEl.appendChild(p);
         }
     }
 
-    // ── Navbar scroll ──
+    // ── Navbar Scroll ──
     const navbar = document.getElementById('navbar');
     window.addEventListener('scroll', () => {
         navbar.classList.toggle('scrolled', window.scrollY > 50);
     });
 
-    // ── Active nav link ──
-    const sections = document.querySelectorAll('.section, .hero');
-    const navLinks = document.querySelectorAll('.nav-link');
-
-    const observerOptions = { rootMargin: '-40% 0px -55% 0px' };
-    const sectionObserver = new IntersectionObserver((entries) => {
-        entries.forEach(entry => {
-            if (entry.isIntersecting) {
-                const id = entry.target.id;
-                navLinks.forEach(link => {
-                    link.classList.toggle('active', link.getAttribute('href') === '#' + id);
-                });
-            }
-        });
-    }, observerOptions);
-
-    sections.forEach(s => sectionObserver.observe(s));
-
-    // ── Mobile nav toggle ──
+    // ── Mobile Nav Toggle ──
     const navToggle = document.getElementById('navToggle');
-    const navMenu = document.getElementById('navMenu');
-
-    navToggle.addEventListener('click', () => {
-        navMenu.classList.toggle('active');
-        navToggle.classList.toggle('active');
-    });
-
-    navLinks.forEach(link => {
-        link.addEventListener('click', () => {
-            navMenu.classList.remove('active');
-            navToggle.classList.remove('active');
+    const navMobile = document.getElementById('navMobile');
+    if (navToggle && navMobile) {
+        navToggle.addEventListener('click', () => {
+            navToggle.classList.toggle('active');
+            navMobile.classList.toggle('open');
+            document.body.style.overflow = navMobile.classList.contains('open') ? 'hidden' : '';
         });
-    });
+        navMobile.querySelectorAll('a').forEach(link => {
+            link.addEventListener('click', () => {
+                navToggle.classList.remove('active');
+                navMobile.classList.remove('open');
+                document.body.style.overflow = '';
+            });
+        });
+    }
 
-    // ── Animated counters ──
-    const counters = document.querySelectorAll('.stat-number[data-count]');
+    // ── Animated Counters ──
+    const counters = document.querySelectorAll('[data-count]');
     let countersAnimated = false;
-
     const counterObserver = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
             if (entry.isIntersecting && !countersAnimated) {
@@ -102,24 +60,21 @@ document.addEventListener('DOMContentLoaded', () => {
                 counters.forEach(counter => {
                     const target = parseFloat(counter.dataset.count);
                     const suffix = counter.dataset.suffix || '';
-                    const isDecimal = target % 1 !== 0;
                     const duration = 2000;
                     const step = target / (duration / 16);
                     let current = 0;
-
                     const timer = setInterval(() => {
                         current += step;
                         if (current >= target) {
                             current = target;
                             clearInterval(timer);
                         }
-                        counter.textContent = (isDecimal ? current.toFixed(1) : Math.floor(current)) + suffix;
+                        counter.textContent = Math.floor(current) + suffix;
                     }, 16);
                 });
             }
         });
     }, { threshold: 0.5 });
-
     counters.forEach(c => counterObserver.observe(c));
 
     // ── Copy IP ──
@@ -145,142 +100,152 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    document.getElementById('copyIp').addEventListener('click', () => {
-        copyToClipboard(serverIp);
+    document.querySelectorAll('#copyIp, #ctaIp, .footer-ip').forEach(el => {
+        el.addEventListener('click', (e) => {
+            if (e.target.closest('.copy-btn') || el.id === 'copyIp' || el.id === 'ctaIp') {
+                copyToClipboard(serverIp);
+            }
+        });
     });
 
-    document.querySelectorAll('.copy-btn').forEach(btn => {
-        btn.addEventListener('click', () => {
+    document.querySelectorAll('.copy-btn[data-copy]').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+            e.stopPropagation();
             copyToClipboard(btn.dataset.copy || serverIp);
         });
     });
 
-    // ── Server status from data/server-status.json (обновляет бот через Wargm) ──
-    const statusDot = document.querySelector('.status-dot');
-    const statusText = document.getElementById('statusText');
-    const onlineCount = document.getElementById('onlineCount');
-    const maxPlayers = document.getElementById('maxPlayers');
-    const serverVersion = document.getElementById('serverVersion');
-    const heroOnline = document.querySelector('.hero-stats .stat-number[data-count]');
-    const wargmRating = document.getElementById('wargmRating');
-    const uptimeValue = document.getElementById('uptimeValue');
+    // ── Scroll to Top ──
+    const scrollTopBtn = document.getElementById('scrollTop');
+    if (scrollTopBtn) {
+        window.addEventListener('scroll', () => {
+            scrollTopBtn.classList.toggle('visible', window.scrollY > 500);
+        });
+        scrollTopBtn.addEventListener('click', () => {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+    }
 
+    // ── Server Status ──
     async function fetchServerStatus() {
-        try {
-            const res = await fetch('data/server-status.json', { cache: 'no-store' });
-            const data = await res.json();
+        const data = await window.AmurkaAPI.getServerStatus();
 
-            if (data.online) {
-                statusDot.classList.add('online');
-                statusText.textContent = 'Онлайн';
-            } else {
-                statusDot.classList.remove('online');
-                statusText.textContent = 'Офлайн';
-            }
+        // Nav
+        const navDot = document.getElementById('navStatusDot');
+        const navNum = document.getElementById('navOnlineNum');
+        if (navDot) navDot.classList.toggle('online', data.online);
+        if (navNum) navNum.textContent = data.players;
 
-            if (onlineCount) onlineCount.textContent = data.players;
-            if (maxPlayers) maxPlayers.textContent = data.maxPlayers;
-            if (serverVersion) serverVersion.textContent = String(data.version || '').substring(0, 11);
-            if (heroOnline) heroOnline.textContent = data.players;
-            if (wargmRating) wargmRating.textContent = data.rating;
-            if (uptimeValue) uptimeValue.textContent = data.uptime != null ? data.uptime + '%' : '—';
-        } catch (e) {
-            statusDot.classList.remove('online');
-            statusText.textContent = 'Ошибка';
-        }
+        // Hero
+        const heroOnline = document.getElementById('heroOnline');
+        if (heroOnline) heroOnline.textContent = data.players;
+
+        // Live
+        const liveDot = document.getElementById('liveStatusDot');
+        const liveOnline = document.getElementById('liveOnline');
+        const liveMax = document.getElementById('liveMax');
+        const liveVersion = document.getElementById('liveVersion');
+        if (liveDot) liveDot.classList.toggle('online', data.online);
+        if (liveOnline) liveOnline.textContent = data.players;
+        if (liveMax) liveMax.textContent = data.maxPlayers;
+        if (liveVersion) liveVersion.textContent = data.source === 'ssm' ? 'SSM' : String(data.version || '').substring(0, 12);
+
+        // Footer
+        const footerDot = document.getElementById('footerStatusDot');
+        const footerOnline = document.getElementById('footerOnline');
+        if (footerDot) footerDot.classList.toggle('online', data.online);
+        if (footerOnline) footerOnline.textContent = data.players + '/' + data.maxPlayers;
+
+        // Activity Feed
+        updateFeed(data);
+    }
+
+    function updateFeed(data) {
+        const feedList = document.getElementById('feedList');
+        if (!feedList) return;
+
+        const now = new Date();
+        const timeStr = now.getHours().toString().padStart(2, '0') + ':' + now.getMinutes().toString().padStart(2, '0');
+
+        const items = [
+            { time: timeStr, type: 'server', text: 'Сервер ' + (data.online ? 'онлайн' : 'офлайн') },
+            { time: timeStr, type: 'player', text: data.players + ' игроков на сервере' },
+            { time: '—', type: 'event', text: 'Роботы активны: D4, B2, A4' },
+        ];
+
+        feedList.innerHTML = items.map(item => `
+            <li class="feed-item">
+                <span class="feed-time">${item.time}</span>
+                <span class="feed-type ${item.type}">${item.type.toUpperCase()}</span>
+                <span class="feed-text">${item.text}</span>
+            </li>
+        `).join('');
     }
 
     fetchServerStatus();
     setInterval(fetchServerStatus, 60000);
 
-    // ── Load screenshots from bot ──
-    const galleryGrid = document.querySelector('.gallery-grid');
-    if (galleryGrid) {
-        fetch('data/screenshots.json')
-            .then(r => r.json())
-            .then(screenshots => {
-                if (!screenshots.length) return;
-                galleryGrid.innerHTML = '';
-                screenshots.forEach((s, i) => {
-                    const a = document.createElement('a');
-                    a.href = s.url;
-                    a.className = 'gallery-item glightbox';
-                    a.setAttribute('data-aos', 'zoom-in');
-                    a.setAttribute('data-aos-delay', String(100 + i * 50));
-                    a.innerHTML = `
-                        <img src="${s.url}" alt="Screenshot by ${s.author}" loading="lazy">
-                        <div class="gallery-overlay">
-                            <i class="fas fa-expand"></i>
-                        </div>
-                    `;
-                    galleryGrid.appendChild(a);
-                });
-            })
-            .catch(() => {});
-    }
-
-    // ── Load news from bot ──
-    const newsGrid = document.querySelector('.news-grid');
+    // ── Load News ──
+    const newsGrid = document.getElementById('newsGrid');
     if (newsGrid) {
-        fetch('data/news.json')
-            .then(r => r.json())
-            .then(news => {
-                if (!news.length) return;
-                newsGrid.innerHTML = '';
-                news.forEach((n, i) => {
-                    const article = document.createElement('article');
-                    article.className = 'news-card' + (i === 0 ? ' featured' : '');
-                    article.setAttribute('data-aos', 'fade-up');
-                    article.setAttribute('data-aos-delay', String(100 + i * 100));
-                    const date = new Date(n.date).toLocaleDateString('ru-RU');
-                    article.innerHTML = `
-                        <div class="news-content">
-                            <span class="news-tag">Новость</span>
-                            <span class="news-date-tag">${date}</span>
-                            <h3>${n.title}</h3>
-                            <p>${n.content.replace(/\n/g, '<br>')}</p>
-                            <p class="news-author">— ${n.author}</p>
+        window.AmurkaAPI.getNews().then(news => {
+            if (!news.length) return;
+            newsGrid.innerHTML = '';
+            news.slice(0, 3).forEach((n, i) => {
+                const date = new Date(n.date).toLocaleDateString('ru-RU');
+                const card = document.createElement('div');
+                card.className = 'news-card';
+                card.setAttribute('data-aos', 'fade-up');
+                card.setAttribute('data-aos-delay', String(100 + i * 100));
+                card.innerHTML = `
+                    <div class="news-card-body">
+                        <div class="news-card-meta">
+                            <span class="tag">${date}</span>
+                            <span class="tag tag-muted">Новость</span>
                         </div>
-                    `;
-                    newsGrid.appendChild(article);
+                        <h3>${n.title}</h3>
+                        <p>${n.content.replace(/\n/g, '<br>')}</p>
+                    </div>
+                    <div class="news-card-footer">
+                        <span class="btn-ghost">Подробнее</span>
+                    </div>
+                `;
+                newsGrid.appendChild(card);
+            });
+        }).catch(() => {});
+    }
+
+    // ── Load Gallery ──
+    const galleryGrid = document.getElementById('galleryGrid');
+    if (galleryGrid) {
+        window.AmurkaAPI.getScreenshots().then(screenshots => {
+            if (!screenshots.length) return;
+            galleryGrid.innerHTML = '';
+            screenshots.slice(0, 8).forEach((s, i) => {
+                const item = document.createElement('div');
+                item.className = 'gallery-item';
+                item.setAttribute('data-aos', 'zoom-in');
+                item.setAttribute('data-aos-delay', String(50 + i * 50));
+                item.innerHTML = `
+                    <img src="${s.url}" alt="Screenshot by ${s.author}" loading="lazy">
+                    <div class="gallery-item-overlay">
+                        <i class="fas fa-expand"></i>
+                    </div>
+                `;
+                item.addEventListener('click', () => {
+                    window.open(s.url, '_blank');
                 });
-            })
-            .catch(() => {});
+                galleryGrid.appendChild(item);
+            });
+        }).catch(() => {});
     }
 
-    // ── Simple screenshot lightbox ──
-    const screenshotModal = document.getElementById('screenshotModal');
-    const screenshotModalImg = document.getElementById('screenshotModalImg');
-    const screenshotModalClose = document.getElementById('screenshotModalClose');
-    const screenshotModalBackdrop = document.getElementById('screenshotModalBackdrop');
-
-    document.addEventListener('click', (e) => {
-        const item = e.target.closest('.gallery-item');
-        if (!item || !screenshotModal) return;
-        e.preventDefault();
-        const img = item.querySelector('img');
-        if (img) {
-            screenshotModalImg.src = img.src;
-            screenshotModal.classList.add('open');
-            document.body.style.overflow = 'hidden';
-        }
-    });
-
-    function closeScreenshotModal() {
-        screenshotModal.classList.remove('open');
-        document.body.style.overflow = '';
-    }
-
-    if (screenshotModalClose) screenshotModalClose.addEventListener('click', closeScreenshotModal);
-    if (screenshotModalBackdrop) screenshotModalBackdrop.addEventListener('click', closeScreenshotModal);
-    document.addEventListener('keydown', (e) => {
-        if (e.key === 'Escape') closeScreenshotModal();
-    });
-
-    // ── Smooth scroll for all anchor links ──
+    // ── Smooth scroll for anchor links ──
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         anchor.addEventListener('click', function (e) {
-            const target = document.querySelector(this.getAttribute('href'));
+            const href = this.getAttribute('href');
+            if (href === '#') return;
+            const target = document.querySelector(href);
             if (target) {
                 e.preventDefault();
                 target.scrollIntoView({ behavior: 'smooth' });

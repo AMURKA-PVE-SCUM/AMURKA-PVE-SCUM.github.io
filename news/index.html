@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Новости — AMURKA PVE SCUM</title>
+    <meta name="description" content="Последние новости сервера AMURKA PVE: обновления, события, анонсы и важные изменения.">
+    <meta property="og:title" content="Новости — AMURKA PVE SCUM">
+    <meta property="og:description" content="Последние новости сервера AMURKA PVE: обновления, события, анонсы и важные изменения.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://amurkapve.ru/news/">
+    <meta property="og:image" content="https://amurkapve.ru/assets/images/og.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="canonical" href="https://amurkapve.ru/news/">
+    <link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
+    <link rel="stylesheet" href="../css/variables.css">
+    <link rel="stylesheet" href="../css/base.css">
+    <link rel="stylesheet" href="../css/components.css">
+    <link rel="stylesheet" href="../css/navbar.css">
+    <link rel="stylesheet" href="../css/footer.css">
+    <link rel="stylesheet" href="../css/page-inner.css">
+    <link rel="stylesheet" href="../css/responsive.css">
+    <style>
+        .news-page{padding:calc(var(--nav-h) + var(--sp-3xl)) 0 var(--sp-3xl)}
+        .news-filters{display:flex;gap:8px;margin-bottom:var(--sp-2xl);flex-wrap:wrap}
+        .news-filter-btn{padding:8px 16px;border-radius:var(--radius-full);background:transparent;border:1px solid var(--border);color:var(--muted);font-size:var(--fs-xs);font-weight:600;cursor:pointer;transition:var(--tr);text-transform:uppercase;letter-spacing:.5px}
+        .news-filter-btn:hover{border-color:rgba(0,200,120,.3);color:var(--text)}
+        .news-filter-btn.active{background:rgba(0,200,120,.1);border-color:var(--green);color:var(--green)}
+        .news-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:var(--sp-lg)}
+        .news-card{background:var(--panel);border:1px solid var(--border);border-radius:var(--radius-lg);overflow:hidden;transition:all var(--tr);cursor:pointer}
+        .news-card:hover{border-color:rgba(0,200,120,.2);transform:translateY(-2px);box-shadow:0 8px 32px rgba(0,0,0,.3)}
+        .news-card-img{height:180px;background:linear-gradient(135deg,rgba(0,200,120,.08),rgba(0,0,0,.3));display:grid;place-items:center;color:rgba(0,200,120,.3);font-size:3rem}
+        .news-card-body{padding:var(--sp-lg)}
+        .news-card-meta{display:flex;align-items:center;gap:var(--sp-sm);margin-bottom:var(--sp-sm)}
+        .news-card-tag{padding:3px 8px;border-radius:var(--radius-full);background:rgba(0,200,120,.08);color:var(--green);font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.5px}
+        .news-card-date{font-size:var(--fs-xs);color:var(--muted);font-family:var(--font-mono)}
+        .news-card h3{font-size:var(--fs-md);font-weight:700;margin-bottom:var(--sp-sm);transition:color var(--tr)}
+        .news-card:hover h3{color:var(--green)}
+        .news-card p{color:var(--muted);font-size:var(--fs-sm);line-height:1.6;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+        .news-card-footer{padding:var(--sp-md) var(--sp-lg);border-top:1px solid var(--border);display:flex;align-items:center;justify-content:space-between}
+        .news-card-footer span{font-size:var(--fs-xs);color:var(--muted)}
+        .news-card-footer a{font-size:var(--fs-xs);color:var(--green);text-decoration:none;font-weight:600;transition:var(--tr)}
+        .news-card-footer a:hover{text-decoration:underline}
+        @media(max-width:900px){.news-grid{grid-template-columns:repeat(2,1fr)}}
+        @media(max-width:600px){.news-grid{grid-template-columns:1fr}}
+    </style>
+</head>
+<body>
+    <!-- NAVBAR -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-inner">
+            <a href="/" class="nav-logo">
+                <span class="logo-mark"><i class="fas fa-skull-crossbones"></i></span>
+                AMURKA
+            </a>
+            <ul class="nav-menu" id="navMenu">
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="game">ИГРА <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/server/"><i class="fas fa-server"></i> Сервер</a>
+                        <a href="/features/"><i class="fas fa-bolt"></i> Возможности</a>
+                        <a href="/mods/"><i class="fas fa-puzzle-piece"></i> Моды</a>
+                        <a href="/domo/"><i class="fas fa-robot"></i> DOMO</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="world">МИР <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/map/"><i class="fas fa-map"></i> Карта</a>
+                        <a href="/world/#poi"><i class="fas fa-location-dot"></i> POI</a>
+                        <a href="/world/#traders"><i class="fas fa-store"></i> Торговцы</a>
+                        <a href="/events/"><i class="fas fa-calendar-star"></i> События</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="live">LIVE <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/live/"><i class="fas fa-circle"></i> Онлайн</a>
+                        <a href="/stats/"><i class="fas fa-chart-line"></i> Статистика</a>
+                        <a href="/players/"><i class="fas fa-users"></i> Игроки</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="community">COMMUNITY <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/news/" class="active"><i class="fas fa-newspaper"></i> Новости</a>
+                        <a href="/gallery/"><i class="fas fa-images"></i> Галерея</a>
+                        <a href="/streamers/"><i class="fas fa-video"></i> Стримеры</a>
+                        <a href="/vote/"><i class="fas fa-check-circle"></i> Голосование</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-dropdown="help">ПОМОЩЬ <span class="arrow">▾</span></a>
+                    <div class="nav-dropdown">
+                        <a href="/start/"><i class="fas fa-play-circle"></i> Как начать</a>
+                        <a href="/rules/"><i class="fas fa-book"></i> Правила</a>
+                        <a href="/support/"><i class="fas fa-headset"></i> Поддержка</a>
+                    </div>
+                </li>
+            </ul>
+            <div class="nav-right">
+                <div class="nav-online">
+                    <span class="status-dot online" id="navStatusDot"></span>
+                    <span>ONLINE</span>
+                    <span class="online-num" id="navOnlineNum">—</span>
+                </div>
+                <a href="/start/" class="btn btn-primary nav-play">PLAY</a>
+            </div>
+            <button class="nav-toggle" id="navToggle" aria-label="Меню">
+                <span></span><span></span><span></span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Mobile Menu -->
+    <div class="nav-mobile" id="navMobile">
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">ИГРА</div>
+            <a href="/server/"><i class="fas fa-server"></i> Сервер</a>
+            <a href="/features/"><i class="fas fa-bolt"></i> Возможности</a>
+            <a href="/mods/"><i class="fas fa-puzzle-piece"></i> Моды</a>
+            <a href="/domo/"><i class="fas fa-robot"></i> DOMO</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">МИР</div>
+            <a href="/map/"><i class="fas fa-map"></i> Карта</a>
+            <a href="/world/#poi"><i class="fas fa-location-dot"></i> POI</a>
+            <a href="/events/"><i class="fas fa-calendar-star"></i> События</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">LIVE</div>
+            <a href="/live/"><i class="fas fa-circle"></i> Онлайн</a>
+            <a href="/stats/"><i class="fas fa-chart-line"></i> Статистика</a>
+            <a href="/players/"><i class="fas fa-users"></i> Игроки</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">COMMUNITY</div>
+            <a href="/news/" class="active"><i class="fas fa-newspaper"></i> Новости</a>
+            <a href="/gallery/"><i class="fas fa-images"></i> Галерея</a>
+            <a href="/streamers/"><i class="fas fa-video"></i> Стримеры</a>
+        </div>
+        <div class="nav-mobile-group">
+            <div class="nav-mobile-group-title">ПОМОЩЬ</div>
+            <a href="/start/"><i class="fas fa-play-circle"></i> Как начать</a>
+            <a href="/rules/"><i class="fas fa-book"></i> Правила</a>
+            <a href="/support/"><i class="fas fa-headset"></i> Поддержка</a>
+        </div>
+        <div class="nav-mobile-ip">
+            <div class="ip-label" style="color:var(--muted);font-size:0.7rem;text-transform:uppercase;font-family:var(--font-mono);margin-bottom:6px;">IP сервера</div>
+            <div class="ip-value">play.amurkapve.ru:7004</div>
+        </div>
+    </div>
+
+    <!-- PAGE HERO -->
+    <section class="page-hero page-hero-sm">
+        <div class="container">
+            <h1 class="page-hero-title" data-aos="fade-up">Новости <span class="text-green">AMURKA</span></h1>
+            <p class="page-hero-sub" data-aos="fade-up" data-aos-delay="60">Обновления, события и важные изменения</p>
+        </div>
+    </section>
+
+    <!-- NEWS PAGE -->
+    <section class="news-page">
+        <div class="container">
+            <div class="news-filters" data-aos="fade-up">
+                <button class="news-filter-btn active">ALL</button>
+                <button class="news-filter-btn">UPDATES</button>
+                <button class="news-filter-btn">EVENTS</button>
+                <button class="news-filter-btn">SERVER</button>
+                <button class="news-filter-btn">COMMUNITY</button>
+            </div>
+
+            <div class="news-grid" data-aos="fade-up" data-aos-delay="100">
+                <!-- Card 1 -->
+                <div class="news-card">
+                    <div class="news-card-img"><i class="fas fa-cubes"></i></div>
+                    <div class="news-card-body">
+                        <div class="news-card-meta">
+                            <span class="news-card-tag">UPDATE</span>
+                            <span class="news-card-date">12.09.2026</span>
+                        </div>
+                        <h3>Обновление 2.1: Новые бункеры</h3>
+                        <p>Добавлены 3 новых бункера с уникальным лутом и повышенной сложностью. Роботы получили новые паттерны поведения, а подземные уровни стали ещё опаснее.</p>
+                    </div>
+                    <div class="news-card-footer">
+                        <span>5 мин чтения</span>
+                        <a href="#">Читать далее</a>
+                    </div>
+                </div>
+
+                <!-- Card 2 -->
+                <div class="news-card">
+                    <div class="news-card-img" style="background:linear-gradient(135deg,rgba(255,100,50,.08),rgba(0,0,0,.3))"><i class="fas fa-crosshairs"></i></div>
+                    <div class="news-card-body">
+                        <div class="news-card-meta">
+                            <span class="news-card-tag" style="background:rgba(255,100,50,.08);color:#ff6432">EVENT</span>
+                            <span class="news-card-date">11.09.2026</span>
+                        </div>
+                        <h3>Охота на роботов — старт события</h3>
+                        <p>Массовая охота на бункерных роботов стартует 13 сентября. Уничтожьте максимальное количество целей и получите уникальные награды из AMURKA Weapons Pack.</p>
+                    </div>
+                    <div class="news-card-footer">
+                        <span>3 мин чтения</span>
+                        <a href="#">Читать далее</a>
+                    </div>
+                </div>
+
+                <!-- Card 3 -->
+                <div class="news-card">
+                    <div class="news-card-img" style="background:linear-gradient(135deg,rgba(100,150,255,.08),rgba(0,0,0,.3))"><i class="fas fa-gun"></i></div>
+                    <div class="news-card-body">
+                        <div class="news-card-meta">
+                            <span class="news-card-tag" style="background:rgba(100,150,255,.08);color:#6496ff">SERVER</span>
+                            <span class="news-card-date">10.09.2026</span>
+                        </div>
+                        <h3>Новый мод: AMURKA Weapons Pack</h3>
+                        <p>На сервер добавлен новый пак оружия с 12 видами карабинов и пистолетов. Все оружие доступно у торговца на военной базе и в сейфах.</p>
+                    </div>
+                    <div class="news-card-footer">
+                        <span>4 мин чтения</span>
+                        <a href="#">Читать далее</a>
+                    </div>
+                </div>
+
+                <!-- Card 4 -->
+                <div class="news-card">
+                    <div class="news-card-img" style="background:linear-gradient(135deg,rgba(180,100,255,.08),rgba(0,0,0,.3))"><i class="fas fa-check-double"></i></div>
+                    <div class="news-card-body">
+                        <div class="news-card-meta">
+                            <span class="news-card-tag" style="background:rgba(180,100,255,.08);color:#b464ff">COMMUNITY</span>
+                            <span class="news-card-date">09.09.2026</span>
+                        </div>
+                        <h3>Итоги голосования за погоду</h3>
+                        <p>По результатам голосования в.DOMO, на сервере установлена пасмурная погода на следующую неделю. 78% игроков проголосовали за перемену обстановки.</p>
+                    </div>
+                    <div class="news-card-footer">
+                        <span>2 мин чтения</span>
+                        <a href="#">Читать далее</a>
+                    </div>
+                </div>
+
+                <!-- Card 5 -->
+                <div class="news-card">
+                    <div class="news-card-img" style="background:linear-gradient(135deg,rgba(255,200,50,.08),rgba(0,0,0,.3))"><i class="fas fa-trophy"></i></div>
+                    <div class="news-card-body">
+                        <div class="news-card-meta">
+                            <span class="news-card-tag" style="background:rgba(100,150,255,.08);color:#6496ff">SERVER</span>
+                            <span class="news-card-date">08.09.2026</span>
+                        </div>
+                        <h3>Рейтинг игроков за август</h3>
+                        <p>Подведены итоги августа. Лучший строитель, самый активный охотник на роботов и игрок с наибольшим числом часов на сервере — смотрите полный список.</p>
+                    </div>
+                    <div class="news-card-footer">
+                        <span>6 мин чтения</span>
+                        <a href="#">Читать далее</a>
+                    </div>
+                </div>
+
+                <!-- Card 6 -->
+                <div class="news-card">
+                    <div class="news-card-img" style="background:linear-gradient(135deg,rgba(255,80,80,.08),rgba(0,0,0,.3))"><i class="fas fa-flag-checkered"></i></div>
+                    <div class="news-card-body">
+                        <div class="news-card-meta">
+                            <span class="news-card-tag" style="background:rgba(255,100,50,.08);color:#ff6432">EVENT</span>
+                            <span class="news-card-date">07.09.2026</span>
+                        </div>
+                        <h3>Турнир PVE Arena — результаты</h3>
+                        <p>Команда «Выжившие» одержала победу в финале турнира PVE Arena. Призовой фонд — 50 000 внутриигровой валюты и уникальные скины оружия.</p>
+                    </div>
+                    <div class="news-card-footer">
+                        <span>4 мин чтения</span>
+                        <a href="#">Читать далее</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <a href="/" class="nav-logo" style="margin-bottom:var(--sp-md);">
+                        <span class="logo-mark"><i class="fas fa-skull-crossbones"></i></span>
+                        AMURKA
+                    </a>
+                    <p>SCUM PVE сервер. Работаем с 25 июля 2025 года.</p>
+                    <div class="footer-status">
+                        <span class="status-dot online" id="footerStatusDot"></span>
+                        <span>ONLINE</span>
+                        <span class="text-green" id="footerOnline">—</span>
+                    </div>
+                </div>
+                <div class="footer-col">
+                    <h4>ИГРА</h4>
+                    <ul>
+                        <li><a href="/server/"><i class="fas fa-server"></i> Сервер</a></li>
+                        <li><a href="/features/"><i class="fas fa-bolt"></i> Возможности</a></li>
+                        <li><a href="/mods/"><i class="fas fa-puzzle-piece"></i> Моды</a></li>
+                        <li><a href="/map/"><i class="fas fa-map"></i> Карта</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>СООБЩЕСТВО</h4>
+                    <ul>
+                        <li><a href="/news/"><i class="fas fa-newspaper"></i> Новости</a></li>
+                        <li><a href="/gallery/"><i class="fas fa-images"></i> Галерея</a></li>
+                        <li><a href="/streamers/"><i class="fas fa-video"></i> Стримеры</a></li>
+                        <li><a href="https://wargm.ru/server/77385" target="_blank"><i class="fas fa-globe"></i> Wargm</a></li>
+                        <li><a href="https://lolka.gg/xq3Mo6u" target="_blank"><i class="fas fa-comments"></i> LOLKA</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>ПОДКЛЮЧИТЬСЯ</h4>
+                    <div class="footer-ip">
+                        <code>play.amurkapve.ru:7004</code>
+                        <button class="copy-btn" data-copy="play.amurkapve.ru:7004"><i class="fas fa-copy"></i></button>
+                    </div>
+                    <div style="margin-top:var(--sp-md);">
+                        <a href="https://github.com/AMURKA-PVE-SCUM/AMURKA-PVE-Launcher/releases" class="btn btn-primary btn-sm" target="_blank"><i class="fas fa-download"></i> Скачать лаунчер</a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025–2026 AMURKA PVE. Все права защищены.</p>
+                <div class="footer-bottom-links">
+                    <a href="/rules/">Правила</a>
+                    <a href="/support/">Поддержка</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <div class="toast" id="toast">
+        <i class="fas fa-check-circle"></i>
+        <span id="toastText">Скопировано!</span>
+    </div>
+    <button class="scroll-top" id="scrollTop" aria-label="Наверх">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+    <nav class="nav-mobile-bar">
+        <a href="/"><i class="fas fa-home"></i><span>HOME</span></a>
+        <a href="/map/"><i class="fas fa-map"></i><span>MAP</span></a>
+        <a href="/live/"><i class="fas fa-signal"></i><span>LIVE</span></a>
+        <a href="javascript:void(0)" class="nav-mobile-play" id="navMobilePlay"><i class="fas fa-play"></i><span>PLAY</span></a>
+    </nav>
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="../js/api.js"></script>
+    <script src="../js/main.js"></script>
+    <script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const btns = document.querySelectorAll('.news-filter-btn');
+        btns.forEach(btn => {
+            btn.addEventListener('click', () => {
+                btns.forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+            });
+        });
+    });
+    </script>
+</body>
+</html>
