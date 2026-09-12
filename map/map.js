@@ -351,20 +351,6 @@
 
   // Mobile nav handled by main.js
 
-  function getBase() {
-    return location.pathname.includes('/map/') ? '..' : '.';
-  }
-  fetch(getBase() + '/data/server-status.json')
-    .then(r => r.json())
-    .then(d => {
-      const dot = document.querySelector('.status-dot');
-      const txt = document.getElementById('navStatusText');
-      if (d.status === 'online') {
-        if (dot) dot.classList.add('online');
-        if (txt) txt.textContent = 'ONLINE';
-      }
-    }).catch(() => {});
-
   const ip = 'play.amurkapve.ru:7004';
   function copyIP(targetIP) {
     if (navigator.clipboard && navigator.clipboard.writeText) {

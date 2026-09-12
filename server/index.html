@@ -225,13 +225,13 @@
     <script>
     // Server page specific
     document.addEventListener('DOMContentLoaded', () => {
-        fetch('../data/server-status.json', { cache: 'no-store' })
-            .then(r => r.json())
-            .then(data => {
-                document.getElementById('serverOnline').textContent = data.players + '/' + data.maxPlayers;
-                document.getElementById('serverVersion').textContent = String(data.version || '').substring(0, 12);
-                document.getElementById('navOnlineNum').textContent = data.players;
-            }).catch(() => {});
+        window.AmurkaAPI.getServerStatus().then(data => {
+            const el = document.getElementById('serverOnline');
+            const verEl = document.getElementById('serverVersion');
+            if (!el || !verEl) return;
+            el.textContent = data.online ? data.players + '/' + data.maxPlayers : 'OFFLINE';
+            verEl.textContent = data.version ? String(data.version).substring(0, 12) : data.source === 'ssm' ? 'SSM' : '—';
+        });
     });
     </script>
 </body>
