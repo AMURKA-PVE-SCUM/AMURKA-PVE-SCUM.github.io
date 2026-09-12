@@ -1,6 +1,15 @@
 {
   "vehicles": [
     {
+      "entityId": 0,
+      "asset": "BPC_Kinglet_Mariner",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "ownerName": null,
+      "customName": null
+    },
+    {
       "entityId": 19118683,
       "asset": "BPC_Rager",
       "x": -276460,
@@ -796,7 +805,7 @@
       "entityId": 29033956,
       "asset": "BPC_Laika",
       "x": -198614,
-      "y": -35295,
+      "y": -35294,
       "z": 35727,
       "ownerName": "Mersy Deson",
       "customName": null
@@ -850,7 +859,7 @@
       "entityId": 29042900,
       "asset": "BPC_Kinglet_Duster",
       "x": -218072,
-      "y": -5667,
+      "y": -5670,
       "z": 36193,
       "ownerName": "Пепа Петрович",
       "customName": null
@@ -912,7 +921,7 @@
     {
       "entityId": 29586143,
       "asset": "BPC_Kinglet_Duster",
-      "x": -200642,
+      "x": -200641,
       "y": -29964,
       "z": 35641,
       "ownerName": "Shelby",
@@ -1022,7 +1031,7 @@
       "asset": "BPC_BigRaft",
       "x": 473005,
       "y": -179206,
-      "z": 1,
+      "z": -6,
       "ownerName": "kmsten",
       "customName": null
     },
@@ -1038,9 +1047,9 @@
     {
       "entityId": 30322568,
       "asset": "BPC_Barba",
-      "x": 473541,
+      "x": 473542,
       "y": -179954,
-      "z": -46,
+      "z": -57,
       "ownerName": "kmsten",
       "customName": null
     },
@@ -1245,7 +1254,7 @@
     {
       "entityId": 31055183,
       "asset": "BPC_WolfsWagen",
-      "x": -628165,
+      "x": -628164,
       "y": -474312,
       "z": 14147,
       "ownerName": "Niga",
@@ -1470,9 +1479,9 @@
     {
       "entityId": 31600733,
       "asset": "BPC_RIS",
-      "x": 563537,
-      "y": -192224,
-      "z": 2699,
+      "x": 567736,
+      "y": -226301,
+      "z": 283,
       "ownerName": "Victor_Vilkouskas",
       "customName": null
     },
@@ -1677,9 +1686,9 @@
     {
       "entityId": 32159153,
       "asset": "BPC_Dirtbike",
-      "x": 48192,
-      "y": -707775,
-      "z": 5560,
+      "x": 31890,
+      "y": -684408,
+      "z": 801,
       "ownerName": "Ольга",
       "customName": null
     },
@@ -1835,16 +1844,7 @@
       "z": 21350,
       "ownerName": "Alina",
       "customName": null
-    },
-    {
-      "entityId": 32542862,
-      "asset": "BPC_Kinglet_Mariner",
-      "x": 493096,
-      "y": -140254,
-      "z": -41,
-      "ownerName": null,
-      "customName": null
     }
   ],
-  "updated": "2026-09-12T07:19:53.066Z"
+  "updated": "2026-09-12T07:20:53.079Z"
 }
