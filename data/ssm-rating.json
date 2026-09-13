@@ -134,14 +134,24 @@
       "rank": 14,
       "steamId": "76561198230911236",
       "name": "TOR",
-      "playTimeSeconds": 25810,
+      "playTimeSeconds": 28604,
       "money": 1492970,
       "gold": 135,
       "fame": 562,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 15,
+      "steamId": "76561199244636054",
+      "name": "_PsixichkA_",
+      "playTimeSeconds": 28169,
+      "money": 1260156,
+      "gold": 125,
+      "fame": 504,
+      "isOnline": false
+    },
+    {
+      "rank": 16,
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "playTimeSeconds": 25659,
@@ -149,16 +159,6 @@
       "gold": 1923,
       "fame": 2411,
       "isOnline": false
-    },
-    {
-      "rank": 16,
-      "steamId": "76561199244636054",
-      "name": "_PsixichkA_",
-      "playTimeSeconds": 25390,
-      "money": 1260156,
-      "gold": 125,
-      "fame": 503,
-      "isOnline": true
     },
     {
       "rank": 17,
@@ -201,5 +201,5 @@
       "isOnline": true
     }
   ],
-  "updated": "2026-09-13T21:49:24.315Z"
+  "updated": "2026-09-13T21:50:24.317Z"
 }
