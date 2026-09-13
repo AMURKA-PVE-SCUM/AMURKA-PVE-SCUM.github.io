@@ -27,7 +27,7 @@
       "playTimeSeconds": 23762,
       "money": 595886,
       "gold": 125,
-      "fame": 1895,
+      "fame": 1896,
       "isOnline": true
     },
     {
@@ -67,7 +67,7 @@
       "playTimeSeconds": 21496,
       "money": 961047,
       "gold": 10,
-      "fame": 154,
+      "fame": 158,
       "isOnline": true
     },
     {
@@ -92,6 +92,16 @@
     },
     {
       "rank": 10,
+      "steamId": "76561198002612600",
+      "name": "Малафьяна",
+      "playTimeSeconds": 15750,
+      "money": 3000,
+      "gold": 15,
+      "fame": 50,
+      "isOnline": false
+    },
+    {
+      "rank": 11,
       "steamId": "76561198067720439",
       "name": "Genih",
       "playTimeSeconds": 13010,
@@ -101,7 +111,7 @@
       "isOnline": true
     },
     {
-      "rank": 11,
+      "rank": 12,
       "steamId": "76561199246198020",
       "name": "Komodo",
       "playTimeSeconds": 12908,
@@ -111,7 +121,7 @@
       "isOnline": true
     },
     {
-      "rank": 12,
+      "rank": 13,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "playTimeSeconds": 12372,
@@ -121,7 +131,7 @@
       "isOnline": true
     },
     {
-      "rank": 13,
+      "rank": 14,
       "steamId": "76561198864188269",
       "name": "RedLis51",
       "playTimeSeconds": 11944,
@@ -131,7 +141,7 @@
       "isOnline": false
     },
     {
-      "rank": 14,
+      "rank": 15,
       "steamId": "76561198142375815",
       "name": "Алекс Лунатик",
       "playTimeSeconds": 11472,
@@ -141,7 +151,7 @@
       "isOnline": false
     },
     {
-      "rank": 15,
+      "rank": 16,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
       "playTimeSeconds": 11390,
@@ -151,7 +161,7 @@
       "isOnline": false
     },
     {
-      "rank": 16,
+      "rank": 17,
       "steamId": "76561199189470290",
       "name": "Konffetka",
       "playTimeSeconds": 11237,
@@ -161,7 +171,7 @@
       "isOnline": true
     },
     {
-      "rank": 17,
+      "rank": 18,
       "steamId": "76561199000739219",
       "name": "Yakytenok",
       "playTimeSeconds": 10797,
@@ -171,7 +181,7 @@
       "isOnline": true
     },
     {
-      "rank": 18,
+      "rank": 19,
       "steamId": "76561198811331291",
       "name": "Stallgrim",
       "playTimeSeconds": 10476,
@@ -179,16 +189,6 @@
       "gold": 10,
       "fame": 35,
       "isOnline": false
-    },
-    {
-      "rank": 19,
-      "steamId": "76561198002612600",
-      "name": "Малафьяна",
-      "playTimeSeconds": 9813,
-      "money": 3000,
-      "gold": 15,
-      "fame": 50,
-      "isOnline": true
     },
     {
       "rank": 20,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-13T10:42:19.340Z"
+  "updated": "2026-09-13T10:43:19.348Z"
 }
