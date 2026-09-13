@@ -52,26 +52,36 @@
     },
     {
       "rank": 6,
-      "steamId": "76561199486830797",
-      "name": "yuriiermolenko861",
-      "playTimeSeconds": 29103,
-      "money": 2778131,
-      "gold": 654,
-      "fame": 34601,
-      "isOnline": true
+      "steamId": "76561198029476275",
+      "name": "XEH",
+      "playTimeSeconds": 29502,
+      "money": 1183921,
+      "gold": 156,
+      "fame": 1037,
+      "isOnline": false
     },
     {
       "rank": 7,
+      "steamId": "76561199486830797",
+      "name": "yuriiermolenko861",
+      "playTimeSeconds": 29103,
+      "money": 2828131,
+      "gold": 655,
+      "fame": 34801,
+      "isOnline": true
+    },
+    {
+      "rank": 8,
       "steamId": "76561198028600444",
       "name": "Ольга",
       "playTimeSeconds": 28762,
       "money": 913676,
       "gold": 130,
       "fame": 537,
-      "isOnline": false
+      "isOnline": true
     },
     {
-      "rank": 8,
+      "rank": 9,
       "steamId": "76561199580351165",
       "name": "ШРинат",
       "playTimeSeconds": 28325,
@@ -81,23 +91,13 @@
       "isOnline": true
     },
     {
-      "rank": 9,
+      "rank": 10,
       "steamId": "76561199246198020",
       "name": "Komodo",
       "playTimeSeconds": 27776,
       "money": 591586,
       "gold": 121,
       "fame": 912,
-      "isOnline": true
-    },
-    {
-      "rank": 10,
-      "steamId": "76561198029476275",
-      "name": "XEH",
-      "playTimeSeconds": 27301,
-      "money": 1183921,
-      "gold": 156,
-      "fame": 1037,
       "isOnline": true
     },
     {
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-13T17:43:22.437Z"
+  "updated": "2026-09-13T17:44:22.443Z"
 }
