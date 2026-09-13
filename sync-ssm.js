@@ -79,17 +79,19 @@ async function syncOnce(cfg) {
   const results = { ok: 0, fail: 0, errors: [] };
   const ts = new Date().toISOString();
 
-  // 1. Server status (auth required)
+  // 1. Server status (public endpoint, no auth)
   try {
-    const status = await apiFetch(cfg, '/api/status');
+    const status = await apiFetch(cfg, '/api/public/status');
+    const online = status.online || 0;
     writeJson('ssm-status.json', {
-      online: status.running === true,
-      running: status.running,
-      players: status.players || 0,
+      serverName: status.serverName || 'SCUM Server',
+      running: status.running === true,
+      online,
+      players: online,
       maxPlayers: status.maxPlayers || 100,
       uptime: status.uptime || 0,
-      memoryUsage: status.memoryUsage || 0,
-      pid: status.pid,
+      fps: status.fps || 0,
+      memoryMB: status.memoryMB || 0,
       updated: ts,
     });
     results.ok++;
@@ -98,20 +100,20 @@ async function syncOnce(cfg) {
     results.errors.push(`status: ${e.message}`);
   }
 
-  // 2. Online players (auth required)
+  // 2. Online players (public endpoint, real session/lifetime time + rank)
   try {
-    const data = await apiFetch(cfg, '/api/players/online');
+    const data = await apiFetch(cfg, '/api/public/players');
     const players = (data.players || []).map(p => ({
       steamId: p.steamId,
       name: p.name,
-      connectedAt: p.connectedAt,
-      duration: p.duration || 0,
-      location: p.location,
-      fame: p.fame,
-      balance: p.balance,
-      gold: p.gold,
+      sessionSeconds: p.sessionSeconds != null ? p.sessionSeconds : null,
+      playTimeSeconds: p.playTimeSeconds || 0,
+      money: p.money != null ? p.money : null,
+      gold: p.gold != null ? p.gold : null,
+      fame: p.fame != null ? p.fame : null,
+      rank: p.rank != null ? p.rank : null,
     }));
-    writeJson('ssm-players.json', { players, updated: ts });
+    writeJson('ssm-players.json', { online: data.online != null ? data.online : players.length, players, updated: ts });
     results.ok++;
   } catch (e) {
     results.fail++;
@@ -138,12 +140,11 @@ async function syncOnce(cfg) {
     results.errors.push(`flags: ${e.message}`);
   }
 
-  // 5. Rating leaderboard (auth required)
+  // 5. Rating leaderboard (public endpoint, top-20)
   try {
-    const data = await apiFetch(cfg, '/api/rating/leaderboard');
+    const data = await apiFetch(cfg, '/api/public/leaderboard');
     writeJson('ssm-rating.json', {
-      leaderboard: data.leaderboard || [],
-      totalOnlineSeconds: data.totalOnlineSeconds || 0,
+      leaderboard: data.players || [],
       updated: ts,
     });
     results.ok++;

@@ -105,41 +105,48 @@ async function syncOnce(cfg) {
   const ts = new Date().toISOString();
   let changed = 0;
 
-  // 1. Server status (auth required)
+  // 1. Server status (public endpoint, no auth)
   try {
-    const s = await apiFetch(cfg, '/api/status');
+    const s = await apiFetch(cfg, '/api/public/status');
+    const online = s.online || 0;
     if (writeJson('ssm-status.json', {
-      online: s.running === true,
-      players: s.players || 0,
+      serverName: s.serverName || 'SCUM Server',
+      running: s.running === true,
+      online,
+      players: online,
       maxPlayers: s.maxPlayers || 100,
       uptime: s.uptime || 0,
-      memoryUsage: s.memoryUsage || 0,
+      fps: s.fps || 0,
+      memoryMB: s.memoryMB || 0,
       updated: ts,
     })) changed++;
   } catch (e) { console.warn(`[sync] status: ${e.message}`); }
 
-  // 2. Online players (auth required)
+  // 2. Online players (public endpoint, real session/lifetime time + rank)
   try {
-    const data = await apiFetch(cfg, '/api/players/online');
+    const data = await apiFetch(cfg, '/api/public/players');
+    const players = (data.players || []).map(p => ({
+      steamId: p.steamId,
+      name: p.name,
+      sessionSeconds: p.sessionSeconds != null ? p.sessionSeconds : null,
+      playTimeSeconds: p.playTimeSeconds || 0,
+      money: p.money != null ? p.money : null,
+      gold: p.gold != null ? p.gold : null,
+      fame: p.fame != null ? p.fame : null,
+      rank: p.rank != null ? p.rank : null,
+    }));
     if (writeJson('ssm-players.json', {
-      players: (data.players || []).map(p => ({
-        steamId: p.steamId,
-        name: p.name,
-        duration: p.duration || 0,
-        fame: p.fame,
-        balance: p.balance,
-        gold: p.gold,
-      })),
+      online: data.online != null ? data.online : players.length,
+      players,
       updated: ts,
     })) changed++;
   } catch (e) { console.warn(`[sync] players: ${e.message}`); }
 
-  // 3. Rating leaderboard (auth required)
+  // 3. Rating leaderboard (public endpoint, top-20)
   try {
-    const data = await apiFetch(cfg, '/api/rating/leaderboard');
+    const data = await apiFetch(cfg, '/api/public/leaderboard');
     if (writeJson('ssm-rating.json', {
-      leaderboard: data.leaderboard || [],
-      totalOnlineSeconds: data.totalOnlineSeconds || 0,
+      leaderboard: data.players || [],
       updated: ts,
     })) changed++;
   } catch (e) { console.warn(`[sync] rating: ${e.message}`); }

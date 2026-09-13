@@ -20,15 +20,22 @@ window.AmurkaAPI = (() => {
     // Server status — prefer ssm-status.json, fallback to server-status.json
     async function getServerStatus() {
         const ssm = await fetchJSON('ssm-status.json');
-        if (ssm) return {
-            online: ssm.online,
-            players: ssm.players,
-            maxPlayers: 100,
-            uptime: ssm.uptime || 0,
-            memoryUsage: ssm.memoryUsage || 0,
-            source: 'ssm',
-            updated: ssm.updated,
-        };
+        if (ssm) {
+            const online = ssm.online || (ssm.running === true && (ssm.players || 0) > 0);
+            return {
+                online: online,
+                players: ssm.players != null ? ssm.players : (ssm.online || 0),
+                maxPlayers: ssm.maxPlayers || 100,
+                uptime: ssm.uptime || 0,
+                memoryUsage: ssm.memoryMB != null ? ssm.memoryMB : (ssm.memoryUsage || 0),
+                memoryMB: ssm.memoryMB != null ? ssm.memoryMB : (ssm.memoryUsage || 0),
+                fps: ssm.fps || 0,
+                running: ssm.running === true,
+                serverName: ssm.serverName,
+                source: 'ssm',
+                updated: ssm.updated,
+            };
+        }
         const legacy = await fetchJSON('server-status.json');
         if (legacy) return {
             online: legacy.online,

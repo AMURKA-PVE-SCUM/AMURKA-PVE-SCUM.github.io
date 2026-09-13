@@ -249,7 +249,7 @@
                 const hours = Math.floor((p.playTimeSeconds || 0) / 3600);
                 return '<div class="leaderboard-row ' + rankClass + '">' +
                     '<span class="leaderboard-rank">' + rank + '</span>' +
-                    '<div class="leaderboard-player"><div class="leaderboard-avatar"><i class="fas ' + icon + '"></i></div><span class="leaderboard-name">' + (p.playerName || p.name || p.steamId) + '</span></div>' +
+                    '<div class="leaderboard-player"><div class="leaderboard-avatar"><i class="fas ' + icon + '"></i></div><span class="leaderboard-name">' + (p.name || p.playerName || p.steamId) + '</span></div>' +
                     '<span class="leaderboard-stat' + highlight + '">' + (p.fame || 0).toLocaleString('ru-RU') + '</span>' +
                     '<span class="leaderboard-stat">' + hours + 'h</span>' +
                     '</div>';
