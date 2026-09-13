@@ -2,6 +2,16 @@
   "leaderboard": [
     {
       "rank": 1,
+      "steamId": "76561198178260974",
+      "name": "Noblesko",
+      "playTimeSeconds": 48692,
+      "money": 880127,
+      "gold": 40,
+      "fame": 252,
+      "isOnline": false
+    },
+    {
+      "rank": 2,
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
       "playTimeSeconds": 44820,
@@ -11,23 +21,13 @@
       "isOnline": false
     },
     {
-      "rank": 2,
+      "rank": 3,
       "steamId": "76561198128211851",
       "name": "zloy",
       "playTimeSeconds": 41449,
       "money": 3812703,
       "gold": 228,
-      "fame": 20978,
-      "isOnline": true
-    },
-    {
-      "rank": 3,
-      "steamId": "76561198178260974",
-      "name": "Noblesko",
-      "playTimeSeconds": 38124,
-      "money": 880127,
-      "gold": 40,
-      "fame": 252,
+      "fame": 20979,
       "isOnline": true
     },
     {
@@ -107,7 +107,7 @@
       "playTimeSeconds": 26279,
       "money": 825350,
       "gold": 35,
-      "fame": 144,
+      "fame": 145,
       "isOnline": true
     },
     {
@@ -187,7 +187,7 @@
       "playTimeSeconds": 18660,
       "money": 1197248,
       "gold": 83,
-      "fame": 3331,
+      "fame": 3332,
       "isOnline": true
     },
     {
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-13T18:03:22.586Z"
+  "updated": "2026-09-13T18:04:22.597Z"
 }
