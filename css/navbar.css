@@ -9,16 +9,27 @@
     right: 0;
     z-index: 2000;
     height: var(--nav-h);
+    background: transparent;
+    border-bottom: 1px solid var(--border);
+}
+
+.navbar::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: -1;
     background: rgba(7, 10, 9, 0.85);
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
-    border-bottom: 1px solid var(--border);
     transition: background var(--tr);
 }
 
 .navbar.scrolled {
-    background: rgba(7, 10, 9, 0.96);
     box-shadow: 0 4px 24px rgba(0, 0, 0, 0.3);
+}
+
+.navbar.scrolled::before {
+    background: rgba(7, 10, 9, 0.96);
 }
 
 .nav-inner {
