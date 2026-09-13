@@ -1,0 +1,938 @@
+- generic [active] [ref=f1e1]:
+  - navigation [ref=f1e2]:
+    - generic [ref=f1e3]:
+      - link " AMURKA PVE" [ref=f1e4] [cursor=pointer]:
+        - /url: "#hero"
+        - generic [ref=f1e5]: 
+        - generic [ref=f1e7]: AMURKA PVE
+      - list [ref=f1e8]:
+        - listitem [ref=f1e9]:
+          - link "О сервере" [ref=f1e10] [cursor=pointer]:
+            - /url: "#about"
+        - listitem [ref=f1e11]:
+          - link "Статус" [ref=f1e12] [cursor=pointer]:
+            - /url: "#status"
+        - listitem [ref=f1e13]:
+          - link " Карта" [ref=f1e14] [cursor=pointer]:
+            - /url: map/
+            - generic [ref=f1e15]: 
+            - text: Карта
+        - listitem [ref=f1e16]:
+          - link "Правила" [ref=f1e17] [cursor=pointer]:
+            - /url: "#rules"
+        - listitem [ref=f1e18]:
+          - link "Моды" [ref=f1e19] [cursor=pointer]:
+            - /url: "#mods"
+        - listitem [ref=f1e20]:
+          - link "Сравнение" [ref=f1e21] [cursor=pointer]:
+            - /url: "#compare"
+        - listitem [ref=f1e22]:
+          - link "Преимущества" [ref=f1e23] [cursor=pointer]:
+            - /url: "#mod-advantages"
+        - listitem [ref=f1e24]:
+          - link "Бот" [ref=f1e25] [cursor=pointer]:
+            - /url: "#commands"
+        - listitem [ref=f1e26]:
+          - link "Новости" [ref=f1e27] [cursor=pointer]:
+            - /url: "#news"
+        - listitem [ref=f1e28]:
+          - link "Галерея" [ref=f1e29] [cursor=pointer]:
+            - /url: "#gallery"
+        - listitem [ref=f1e30]:
+          - link "Стримеры" [ref=f1e31] [cursor=pointer]:
+            - /url: "#streamers"
+        - listitem [ref=f1e32]:
+          - link "Гайд" [ref=f1e33] [cursor=pointer]:
+            - /url: "#guides"
+        - listitem [ref=f1e34]:
+          - link "Голосование" [ref=f1e35] [cursor=pointer]:
+            - /url: "#vote"
+  - generic [ref=f1e36]:
+    - generic [ref=f1e70]:
+      - heading "AMURKA PVE MOD" [level=1] [ref=f1e71]
+      - paragraph [ref=f1e72]: Забудь про ванильный SCUM. Здесь целый мир пересобран нашими модами — глубже, смелее и по-настоящему живой
+      - generic [ref=f1e73]:
+        - link " Начать играть" [ref=f1e74] [cursor=pointer]:
+          - /url: "#guides"
+          - generic [ref=f1e75]: 
+          - text: Начать играть
+        - link " Скачать лаунчер" [ref=f1e76] [cursor=pointer]:
+          - /url: https://github.com/AMURKA-PVE-SCUM/AMURKA-PVE-Launcher/releases
+          - generic [ref=f1e77]: 
+          - text: Скачать лаунчер
+        - link " LOLKA" [ref=f1e78] [cursor=pointer]:
+          - /url: https://lolka.gg/xq3Mo6u
+          - generic [ref=f1e79]: 
+          - text: LOLKA
+      - generic [ref=f1e80]:
+        - generic [ref=f1e81]:
+          - text: "7"
+          - generic [ref=f1e82]: Игроков онлайн
+        - generic [ref=f1e83]:
+          - text: "1"
+          - generic [ref=f1e84]: Макс. игроков
+        - generic [ref=f1e85]:
+          - text: "0"
+          - generic [ref=f1e86]: Модов в пакете
+        - generic [ref=f1e87]:
+          - text: "27"
+          - generic [ref=f1e88]: Wargm рейтинг
+    - generic [ref=f1e89]: Листай вниз
+  - generic [ref=f1e93]:
+    - heading "О сервере" [level=2] [ref=f1e94]
+    - paragraph [ref=f1e95]: "Работаем с 25 июля 2025 года — больше года стабильной игры. У многих серверов «MOD» в названии — пустой звук, у нас это реальный мод-пак через лаунчер: каждая механика игры — от скорости машин до электричества базы — переписана под комфортное выживание."
+    - generic [ref=f1e96]:
+      - link " Скачать лаунчер" [ref=f1e97] [cursor=pointer]:
+        - /url: https://github.com/AMURKA-PVE-SCUM/AMURKA-PVE-Launcher/releases
+        - generic [ref=f1e98]: 
+        - text: Скачать лаунчер
+      - link " LOLKA (Чат)" [ref=f1e99] [cursor=pointer]:
+        - /url: https://lolka.gg/xq3Mo6u
+        - generic [ref=f1e100]: 
+        - text: LOLKA (Чат)
+    - generic [ref=f1e101]:
+      - generic [ref=f1e102]:
+        - generic [ref=f1e103]: 
+        - heading "Живая экономика" [level=3] [ref=f1e105]
+        - paragraph [ref=f1e106]: "Цены подняты по заслугам: мясо, рыба, ожерелья, замки и отмычки приносят реальные деньги. Ремнаборы, сумки и цемент стали долговечнее."
+      - generic [ref=f1e107]:
+        - generic [ref=f1e108]: 
+        - heading "Транспорт без страха" [level=3] [ref=f1e110]
+        - paragraph [ref=f1e111]: Урон транспорта отключён, скорость авто +50 км/ч к дефолту, самолёты взлетают увереннее, грузоподъёмность увеличена. Вся карта — твоя.
+      - generic [ref=f1e112]:
+        - generic [ref=f1e113]: 
+        - heading "Выживание в плюс" [level=3] [ref=f1e115]
+        - paragraph [ref=f1e116]: Повышен порог перегруза, выносливость и вода восстанавливаются быстрее, морская вода пригодна для питья, одежда не пачкается.
+      - generic [ref=f1e117]:
+        - generic [ref=f1e118]: 
+        - heading "Роботы в секторах" [level=3] [ref=f1e120]
+        - paragraph [ref=f1e121]: Постоянный спавн роботов в секторах D4, B2 и A4. Не ждёшь ивента — идёшь и фармишь, когда удобно тебе.
+      - generic [ref=f1e122]:
+        - generic [ref=f1e123]: 
+        - heading "Мир отвечает взаимностью" [level=3] [ref=f1e125]
+        - paragraph [ref=f1e126]: NPC с уникальным лутом и квестами от торговцев, зомби давят числом, но не ломятся в двери, охота и ресурсы по всей карте.
+      - generic [ref=f1e127]:
+        - generic [ref=f1e128]: 
+        - heading "Администрация всегда на связи" [level=3] [ref=f1e130]
+        - paragraph [ref=f1e131]: Три админа, готовые помочь в любом вопросе — всегда на связи и всегда в игре.
+  - generic [ref=f1e133]:
+    - heading "Статус сервера" [level=2] [ref=f1e134]
+    - generic [ref=f1e135]:
+      - generic [ref=f1e136]:
+        - generic [ref=f1e137]: Онлайн
+        - generic [ref=f1e140] [cursor=pointer]:
+          - generic [ref=f1e141]: "IP:"
+          - generic [ref=f1e142]: play.amurkapve.ru:7004
+          - generic [ref=f1e143]: 
+      - generic [ref=f1e145]:
+        - generic [ref=f1e146]:
+          - generic [ref=f1e147]: 
+          - generic [ref=f1e148]:
+            - generic [ref=f1e149]: Игроки
+            - generic [ref=f1e150]: 7 / 100
+        - generic [ref=f1e151]:
+          - generic [ref=f1e152]: 
+          - generic [ref=f1e153]:
+            - generic [ref=f1e154]: Карта
+            - text: Islands
+        - generic [ref=f1e155]:
+          - generic [ref=f1e156]: 
+          - generic [ref=f1e157]:
+            - generic [ref=f1e158]: Версия
+            - text: 0.771.1060.
+  - generic [ref=f1e160]:
+    - heading "Правила сервера" [level=2] [ref=f1e161]
+    - generic [ref=f1e162]:
+      - generic [ref=f1e163]:
+        - generic [ref=f1e164]:
+          - generic [ref=f1e165]: "01"
+          - heading "Общие правила" [level=3] [ref=f1e166]
+        - list [ref=f1e167]:
+          - listitem [ref=f1e168]:
+            - generic [ref=f1e169]: 
+            - text: Уважай других игроков и администрацию
+          - listitem [ref=f1e170]:
+            - generic [ref=f1e171]: 
+            - text: Без оскорблений, спама и рекламы других серверов
+          - listitem [ref=f1e172]:
+            - generic [ref=f1e173]: 
+            - text: В чате — русский или английский язык
+          - listitem [ref=f1e174]:
+            - generic [ref=f1e175]: 
+            - text: Спорные ситуации решает администрация
+      - generic [ref=f1e176]:
+        - generic [ref=f1e177]:
+          - generic [ref=f1e178]: "02"
+          - heading "Игровой процесс" [level=3] [ref=f1e179]
+        - list [ref=f1e180]:
+          - listitem [ref=f1e181]:
+            - generic [ref=f1e182]: 
+            - text: Кража, взлом и захват игроков запрещены (исключение — ивенты администрации)
+          - listitem [ref=f1e183]:
+            - generic [ref=f1e184]: 
+            - text: Никаких деструктивных советов другим игрокам
+          - listitem [ref=f1e185]:
+            - generic [ref=f1e186]: 
+            - text: Забираешь дроп — отметься в глобальном чате по приезду
+      - generic [ref=f1e187]:
+        - generic [ref=f1e188]:
+          - generic [ref=f1e189]: "03"
+          - heading "Читы и стороннее ПО" [level=3] [ref=f1e190]
+        - list [ref=f1e191]:
+          - listitem [ref=f1e192]:
+            - generic [ref=f1e193]: 
+            - text: Читы, баги, мультиаккаунты и VPN под запретом
+          - listitem [ref=f1e194]:
+            - generic [ref=f1e195]: 
+            - text: Стримснайпинг ради преимущества запрещён
+          - listitem [ref=f1e196]:
+            - generic [ref=f1e197]: 
+            - text: Обсуждение и распространение инфы о читах и багах — бан
+      - generic [ref=f1e198]:
+        - generic [ref=f1e199]:
+          - generic [ref=f1e200]: "04"
+          - heading "Строительство баз" [level=3] [ref=f1e201]
+        - list [ref=f1e202]:
+          - listitem [ref=f1e203]:
+            - generic [ref=f1e204]: 
+            - text: Можно занимать пустующие дома вне POI, мультифлаг разрешён
+          - listitem [ref=f1e205]:
+            - generic [ref=f1e206]: 
+            - text: Не стройся у аванпостов, заводов, военки и полиции, в безопасных зонах и местах ивентов
+          - listitem [ref=f1e207]:
+            - generic [ref=f1e208]: 
+            - text: Не перекрывай дороги, мосты, подъезды к бункерам, депо, фабрике, тюрьме, заправкам и тоннелям
+          - listitem [ref=f1e209]:
+            - generic [ref=f1e210]: 
+            - text: Хранение лута и транспорта в безопасных зонах запрещено
+      - generic [ref=f1e211]:
+        - generic [ref=f1e212]:
+          - generic [ref=f1e213]: "05"
+          - heading "Лимиты техники" [level=3] [ref=f1e214]
+        - list [ref=f1e215]:
+          - listitem [ref=f1e216]:
+            - generic [ref=f1e217]: 
+            - text: "На игрока: 1 машина + 1 мотоцикл или квадроцикл (соло — по одной единице)"
+          - listitem [ref=f1e218]:
+            - generic [ref=f1e219]: 
+            - text: "На отряд: самолёты — макс. 2, трактор — 1, лодки — 2"
+          - listitem [ref=f1e220]:
+            - generic [ref=f1e221]: 
+            - text: Вся техника подписана никами и закрыта своими замками
+      - generic [ref=f1e222]:
+        - generic [ref=f1e223]:
+          - generic [ref=f1e224]: "06"
+          - heading "Парковка и спавн" [level=3] [ref=f1e225]
+        - list [ref=f1e226]:
+          - listitem [ref=f1e227]:
+            - generic [ref=f1e228]: 
+            - text: Не закрывай транспорт в месте спавна — новый не появится, пока старый стоит там
+          - listitem [ref=f1e229]:
+            - generic [ref=f1e230]: 
+            - text: "Аванпосты и торговые зоны: максимум 2 часа, дальше техника удаляется вместе с хабаром"
+          - listitem [ref=f1e231]:
+            - generic [ref=f1e232]: 
+            - text: Техника без движения 10 дней считается брошенной
+      - generic [ref=f1e233]:
+        - generic [ref=f1e234]:
+          - generic [ref=f1e235]: 
+          - heading "Ответственность" [level=3] [ref=f1e237]
+        - list [ref=f1e238]:
+          - listitem [ref=f1e239]:
+            - generic [ref=f1e240]: 
+            - text: Администрация не отвечает за ваш транспорт, вещи и ящики
+          - listitem [ref=f1e241]:
+            - generic [ref=f1e242]: 
+            - text: "Застрял в текстурах — решение за тобой: админ может только удалить объект"
+          - listitem [ref=f1e243]:
+            - generic [ref=f1e244]: 
+            - text: "Пропавший транспорт: заявка с моделью и ID — восстановление не гарантировано"
+          - listitem [ref=f1e245]:
+            - generic [ref=f1e246]: 
+            - text: Утерянные вещи и ящики не восстанавливаются («было и сплыло»)
+  - generic [ref=f1e248]:
+    - heading "60+ модов. Не приставка — реальность" [level=2] [ref=f1e249]
+    - paragraph [ref=f1e250]: "Три категории: ядро геймплея, скины и оружие. Ставь лаунчер — и играй так, как в ванили невозможно."
+    - heading " CORE — ядро геймплея 29" [level=3] [ref=f1e251]:
+      - generic [ref=f1e252]: 
+      - text: CORE — ядро геймплея
+      - generic [ref=f1e253]: "29"
+    - generic [ref=f1e254]:
+      - generic [ref=f1e255]:
+        - generic [ref=f1e256]: 
+        - heading "Стаки патронов ×100" [level=3] [ref=f1e258]
+        - paragraph [ref=f1e259]: Все патроны стакаются по 100 — инвентарь больше не кладбище обойм.
+        - generic [ref=f1e260]: Инвентарь
+      - generic [ref=f1e261]:
+        - generic [ref=f1e262]: 
+        - heading "Рюкзаки до 2000 кг" [level=3] [ref=f1e264]
+        - paragraph [ref=f1e265]: Рюкзаки 12×12 слотов и грузоподъёмностью до 2000 кг. Вози базу на себе.
+        - generic [ref=f1e266]: Инвентарь
+      - generic [ref=f1e267]:
+        - generic [ref=f1e268]: 
+        - heading "Максимальный перегруз" [level=3] [ref=f1e270]
+        - paragraph [ref=f1e271]: Поднятый порог переносимого веса — носи всё, что нужно.
+        - generic [ref=f1e272]: Персонаж
+      - generic [ref=f1e273]:
+        - generic [ref=f1e274]: 
+        - heading "Быстрая вода и стамина" [level=3] [ref=f1e276]
+        - paragraph [ref=f1e277]: Выносливость и жажда восполняются ускоренно.
+        - generic [ref=f1e278]: Персонаж
+      - generic [ref=f1e279]:
+        - generic [ref=f1e280]: 
+        - heading "Улучшенный десант" [level=3] [ref=f1e282]
+        - paragraph [ref=f1e283]: Полёт при выброске на остров стал лучше — планируй куда хочешь.
+        - generic [ref=f1e284]: Персонаж
+      - generic [ref=f1e285]:
+        - generic [ref=f1e286]: 
+        - heading "Одежда не пачкается" [level=3] [ref=f1e288]
+        - paragraph [ref=f1e289]: Плюс мгновенная сушка после дождя и воды. Забудь про мокрые штаны.
+        - generic [ref=f1e290]: Одежда
+      - generic [ref=f1e291]:
+        - generic [ref=f1e292]: 
+        - heading "Морская вода питьевая" [level=3] [ref=f1e294]
+        - paragraph [ref=f1e295]: Океан вокруг острова — источник воды. Пей спокойно.
+        - generic [ref=f1e296]: Мир
+      - generic [ref=f1e297]:
+        - generic [ref=f1e298]: 
+        - heading "Коптильня" [level=3] [ref=f1e300]
+        - paragraph [ref=f1e301]: Копти мясо и рыбу — еда хранится дольше, выживание стало глубже.
+        - generic [ref=f1e302]: Крафт
+      - generic [ref=f1e303]:
+        - generic [ref=f1e304]: 
+        - heading "Мебель для базы" [level=3] [ref=f1e306]
+        - paragraph [ref=f1e307]: Крафт базовой мебели — обустрой дом мечты.
+        - generic [ref=f1e308]: Крафт
+      - generic [ref=f1e309]:
+        - generic [ref=f1e310]: 
+        - heading "Генератор Gena5000" [level=3] [ref=f1e312]
+        - paragraph [ref=f1e313]: Питает электричеством всю территорию под флагом, ресурс практически бесконечен.
+        - generic [ref=f1e314]: Базы
+      - generic [ref=f1e315]:
+        - generic [ref=f1e316]: 
+        - heading "Броня и экипировка" [level=3] [ref=f1e318]
+        - paragraph [ref=f1e319]: Дополнительные комплекты брони, новый пояс, костюм зомби и парашютный костюм заключённого.
+        - generic [ref=f1e320]: Экипировка
+      - generic [ref=f1e321]:
+        - generic [ref=f1e322]: 
+        - heading "Больше использований" [level=3] [ref=f1e324]
+        - paragraph [ref=f1e325]: Ремонтные наборы, отвёртки, краска, цемент — стакаются и служат в разы дольше.
+        - generic [ref=f1e326]: Инвентарь
+      - generic [ref=f1e327]:
+        - generic [ref=f1e328]: 
+        - heading "Транспорт +50 км/ч" [level=3] [ref=f1e330]
+        - paragraph [ref=f1e331]: Все автомобили едут заметно быстрее стока.
+        - generic [ref=f1e332]: Транспорт
+      - generic [ref=f1e333]:
+        - generic [ref=f1e334]: 
+        - heading "Улучшенные самолёты" [level=3] [ref=f1e336]
+        - paragraph [ref=f1e337]: Лёгкий взлёт и увеличенная грузоподъёмность.
+        - generic [ref=f1e338]: Транспорт
+      - generic [ref=f1e339]:
+        - generic [ref=f1e340]: 
+        - heading "Карта и миникарта" [level=3] [ref=f1e342]
+        - paragraph [ref=f1e343]: Обновлённая карта и компактная миникарта — навигация без боли.
+        - generic [ref=f1e344]: Интерфейс
+      - generic [ref=f1e345]:
+        - generic [ref=f1e346]: 
+        - heading "Twitch DLC разблокирован" [level=3] [ref=f1e348]
+        - paragraph [ref=f1e349]: Весь эксклюзивный контент Twitch доступен всем игрокам бесплатно.
+        - generic [ref=f1e350]: Контент
+      - generic [ref=f1e351]:
+        - generic [ref=f1e352]: 
+        - heading "Новые экраны загрузки" [level=3] [ref=f1e354]
+        - paragraph [ref=f1e355]: Свежие загрузочные экраны AMURKA вместо стандартных.
+        - generic [ref=f1e356]: Интерфейс
+    - heading " WEAPONS — уникальное оружие 3" [level=3] [ref=f1e357]:
+      - generic [ref=f1e358]: 
+      - text: WEAPONS — уникальное оружие
+      - generic [ref=f1e359]: "3"
+    - generic [ref=f1e360]:
+      - generic [ref=f1e361]:
+        - generic [ref=f1e362]: 
+        - heading "AK-47 AMURKA" [level=3] [ref=f1e364]
+        - paragraph [ref=f1e365]: Легендарный автомат в фирменном исполнении сервера.
+        - generic [ref=f1e366]: Оружие
+      - generic [ref=f1e367]:
+        - generic [ref=f1e368]: 
+        - heading "Золотые AKM и RPK" [level=3] [ref=f1e370]
+        - paragraph [ref=f1e371]: Золото не только блестит — оно стреляет. Статусное оружие для профи.
+        - generic [ref=f1e372]: Оружие
+      - generic [ref=f1e373]:
+        - generic [ref=f1e374]: 
+        - heading "RPG-7 Gold" [level=3] [ref=f1e376]
+        - paragraph [ref=f1e377]: Гранатомёт в золоте — для особых поводов.
+        - generic [ref=f1e378]: Оружие
+    - heading " SKINS — скины и стиль 27" [level=3] [ref=f1e379]:
+      - generic [ref=f1e380]: 
+      - text: SKINS — скины и стиль
+      - generic [ref=f1e381]: "27"
+    - generic [ref=f1e382]:
+      - generic [ref=f1e383]:
+        - generic [ref=f1e384]: 
+        - heading "27 скинов одежды и оружия" [level=3] [ref=f1e386]
+        - paragraph [ref=f1e387]: "Военные комплекты, худи, куртки, кимоно, килт, пижама Negan — плюс скины для стволов: Блок-21 и мечи."
+        - generic [ref=f1e388]: Стиль
+      - generic [ref=f1e389]:
+        - generic [ref=f1e390]: 
+        - heading "Хром-покраска авто" [level=3] [ref=f1e392]
+        - paragraph [ref=f1e393]: Хромированный тюнинг транспорта — тачка как зеркало.
+        - generic [ref=f1e394]: Стиль
+      - generic [ref=f1e395]:
+        - generic [ref=f1e396]: 
+        - heading "Фирменная экипировка AMURKA" [level=3] [ref=f1e398]
+        - paragraph [ref=f1e399]: Бронежилеты полицейские и противопульные, рюкзаки и мотоброня с логотипом сервера.
+        - generic [ref=f1e400]: Стиль
+    - paragraph [ref=f1e401]: И это только то, что поместилось на страницу. Моды обновляются постоянно — заходи и увидишь сам.
+  - generic [ref=f1e403]:
+    - heading "Обычный «PVE MOD» vs настоящий MOD-сервер" [level=2] [ref=f1e404]
+    - paragraph [ref=f1e405]: "У большинства «MOD» в названии — просто маркетинг. Проверь сами:"
+    - generic [ref=f1e406]:
+      - generic [ref=f1e407]:
+        - generic [ref=f1e408]: Обычный «MOD»-сервер
+        - generic [ref=f1e409]: AMURKA PVE MOD
+      - generic [ref=f1e410]:
+        - generic [ref=f1e411]: ✕ «MOD» в названии, в игре чистая ваниль
+        - generic [ref=f1e412]: "✓ 60+ модов: 29 core + 25 скинов + оружейные"
+      - generic [ref=f1e413]:
+        - generic [ref=f1e414]: ✕ Патроны стакаются по 30, рюкзак трещит
+        - generic [ref=f1e415]: ✓ Стаки ×100 и рюкзаки до 2000 кг
+      - generic [ref=f1e416]:
+        - generic [ref=f1e417]: ✕ Штатные машины и самолёты
+        - generic [ref=f1e418]: ✓ +50 км/ч, лёгкий взлёт, транспорт без урона
+      - generic [ref=f1e419]:
+        - generic [ref=f1e420]: ✕ Генератор требует заправки каждые пару часов
+        - generic [ref=f1e421]: ✓ Один генератор питает всю базу почти бесконечно
+      - generic [ref=f1e422]:
+        - generic [ref=f1e423]: ✕ Ванильное оружие и никакого разнообразия
+        - generic [ref=f1e424]: ✓ Золотые AKM/RPK/RPG-7 и кастомный AK-47
+      - generic [ref=f1e425]:
+        - generic [ref=f1e426]: ✕ Скины — за донат или никак
+        - generic [ref=f1e427]: ✓ 25 скинов одежды и хром-покраска доступны всем
+      - generic [ref=f1e428]:
+        - generic [ref=f1e429]: ✕ «Моды» — это Лут х5 и Скиллы х10 в конфиге сервера
+        - generic [ref=f1e430]: "✓ 60+ настоящих модов: своё оружие, скины, коптильня, генератор на всю базу"
+  - generic [ref=f1e432]:
+    - heading "Преимущества серверных модов" [level=2] [ref=f1e433]
+    - paragraph [ref=f1e434]: Моды работают синхронно на сервере и клиенте одновременно — это фундамент стабильного, честного и постоянно развивающегося проекта.
+    - generic [ref=f1e435]:
+      - generic [ref=f1e436]: 
+      - paragraph [ref=f1e437]:
+        - strong [ref=f1e438]: "ВАЖНО:"
+        - text: "играть можно и без лаунчера — просто подключись по адресу. Но без клиентских модов не будет полной синхронизации с сервером: возможны баги рюкзаков и рассинхрон веса. Лаунчер устанавливает все моды автоматически — это ключ к комфортной игре."
+      - link " Скачать лаунчер" [ref=f1e439] [cursor=pointer]:
+        - /url: https://github.com/AMURKA-PVE-SCUM/AMURKA-PVE-Launcher/releases
+        - generic [ref=f1e440]: 
+        - text: Скачать лаунчер
+    - generic [ref=f1e441]:
+      - generic [ref=f1e442]:
+        - generic [ref=f1e443]: 
+        - heading "Стабильность без багов" [level=3] [ref=f1e445]
+        - paragraph [ref=f1e446]: Сумки и рюкзаки больше не растягиваются на весь экран. Ёмкость и переносимый вес отображаются корректно. Нет рассинхрона между тем, что видишь, и тем, что хранится на сервере.
+      - generic [ref=f1e447]:
+        - generic [ref=f1e448]: 
+        - heading "Гибкость и расширяемость" [level=3] [ref=f1e450]
+        - paragraph [ref=f1e451]: Кастомные рецепты крафта, уникальные предметы, балансные механики под контролем сервера — а дальше экономика, квесты, кланы и многое другое.
+      - generic [ref=f1e452]:
+        - generic [ref=f1e453]: 
+        - heading "Совместимость" [level=3] [ref=f1e455]
+        - paragraph [ref=f1e456]: "Так работает большинство современных модовых серверов — это стандарт моддинг-сообщества. Подключиться просто: один раз ставишь набор модов через лаунчер и играешь."
+      - generic [ref=f1e457]:
+        - generic [ref=f1e458]: 
+        - heading "Честная игра" [level=3] [ref=f1e460]
+        - paragraph [ref=f1e461]: Нельзя получить преимущество через клиентский чит-мод. Единый набор модов — единые правила для всех игроков.
+  - generic [ref=f1e463]:
+    - heading "Бот DOMO" [level=2] [ref=f1e464]
+    - paragraph [ref=f1e465]: "Авторский бот сервера — DOMO. Управляй игрой прямо из чата: стартовые наборы, телепорты, гараж, голосования за погоду и магазин. Без сайтов, без лишних окон — просто пишешь команду."
+    - generic [ref=f1e466]:
+      - generic [ref=f1e467]:
+        - generic [ref=f1e468]:
+          - generic [ref=f1e469]: 
+          - heading "Старт и бонусы" [level=3] [ref=f1e470]
+        - paragraph [ref=f1e471]: Быстрый старт с первого дня и бонусы каждый день.
+        - list [ref=f1e472]:
+          - listitem [ref=f1e473]:
+            - code [ref=f1e474]: "!стартпак"
+            - generic [ref=f1e475]: набор предметов для новичка
+          - listitem [ref=f1e476]:
+            - code [ref=f1e477]: "!дейлипак"
+            - generic [ref=f1e478]: ежедневный набор предметов
+          - listitem [ref=f1e479]:
+            - code [ref=f1e480]: "!варгм"
+            - generic [ref=f1e481]: получение покупок из магазина Wargm
+          - listitem [ref=f1e482]:
+            - code [ref=f1e483]: "!вип"
+            - generic [ref=f1e484]: VIP-возможности сервера
+      - generic [ref=f1e485]:
+        - generic [ref=f1e486]:
+          - generic [ref=f1e487]: 
+          - heading "Домой за секунду" [level=3] [ref=f1e488]
+        - paragraph [ref=f1e489]: Сохрани точку дома один раз — и возвращайся в неё когда угодно.
+        - list [ref=f1e490]:
+          - listitem [ref=f1e491]:
+            - code [ref=f1e492]: "!сохранитьдом 1"
+            - generic [ref=f1e493]: запомнить текущую локацию
+          - listitem [ref=f1e494]:
+            - code [ref=f1e495]: "!дом"
+            - generic [ref=f1e496]: телепорт к сохранённому дому за игровую валюту
+          - listitem [ref=f1e497]:
+            - code [ref=f1e498]: "!телепорт"
+            - generic [ref=f1e499]: быстрая телепортация по трейдерам и ивентовым локациям
+      - generic [ref=f1e500]:
+        - generic [ref=f1e501]:
+          - generic [ref=f1e502]: 
+          - 'heading "Гараж: транспорт всегда под рукой" [level=3] [ref=f1e503]'
+        - paragraph [ref=f1e504]: Забудь о потерянных машинах. Привяжи транспорт к аккаунту — и он больше никогда не потеряется.
+        - list [ref=f1e505]:
+          - listitem [ref=f1e506]:
+            - code [ref=f1e507]: "!привязать"
+            - generic [ref=f1e508]: покажет твои машины на сервере
+          - listitem [ref=f1e509]:
+            - code [ref=f1e510]: "!привязать 1"
+            - generic [ref=f1e511]: привязать машину по номеру
+          - listitem [ref=f1e512]:
+            - code [ref=f1e513]: "!машины"
+            - generic [ref=f1e514]: список привязанных машин
+          - listitem [ref=f1e515]:
+            - code [ref=f1e516]: "!машина"
+            - generic [ref=f1e517]: координаты машины, даже если она далеко
+          - listitem [ref=f1e518]:
+            - code [ref=f1e519]: "!отвязать N"
+            - generic [ref=f1e520]: отвязать ненужную машину
+          - listitem [ref=f1e521]:
+            - code [ref=f1e522]: "!машина 1"
+            - generic [ref=f1e523]:
+              - text: телепорт прямо к машине
+              - emphasis [ref=f1e524]:
+                - text: — доступ приобретается на
+                - link "Wargm" [ref=f1e525] [cursor=pointer]:
+                  - /url: https://wargm.ru/server/77385/shop
+                - text: ": 200 ₽ или 20 бонусов"
+      - generic [ref=f1e526]:
+        - generic [ref=f1e527]:
+          - generic [ref=f1e528]: 
+          - heading "Народное голосование" [level=3] [ref=f1e529]
+        - paragraph [ref=f1e530]: "Демократия в действии: игроки сами решают, какая погода и время на острове. Сервер запускает голосование и подсчитывает голоса автоматически."
+        - list [ref=f1e531]:
+          - listitem [ref=f1e532]:
+            - code [ref=f1e533]: "!погода 0"
+            - generic [ref=f1e534]: голосование за солнечную погоду
+          - listitem [ref=f1e535]:
+            - code [ref=f1e536]: "!погода 1"
+            - generic [ref=f1e537]: голосование за дождь
+          - listitem [ref=f1e538]:
+            - code [ref=f1e539]: "!время 14"
+            - generic [ref=f1e540]: голосование за время суток (0–23)
+      - generic [ref=f1e541]:
+        - generic [ref=f1e542]:
+          - generic [ref=f1e543]: 
+          - heading "Магазин прямо в чате" [level=3] [ref=f1e544]
+        - paragraph [ref=f1e545]: Внутриигровой магазин без выхода из игры. Каталог пополняется — от самолётов за игровые деньги до уникальных товаров.
+        - list [ref=f1e546]:
+          - listitem [ref=f1e547]:
+            - code [ref=f1e548]: "!купить"
+            - generic [ref=f1e549]: показать каталог товаров
+          - listitem [ref=f1e550]:
+            - code [ref=f1e551]: "!купить 1 3"
+            - generic [ref=f1e552]: купить товар №1 в количестве 3 штук
+          - listitem [ref=f1e553]:
+            - code [ref=f1e554]: Самолёты
+            - generic [ref=f1e555]: от 1 000 000 игровых
+  - generic [ref=f1e557]:
+    - heading "Новости" [level=2] [ref=f1e558]
+    - generic [ref=f1e559]:
+      - article [ref=f1e560]:
+        - generic [ref=f1e561]:
+          - generic [ref=f1e562]: Новость
+          - generic [ref=f1e563]: 23.08.2026
+          - heading "Обновление адреса сервера" [level=3] [ref=f1e564]
+          - paragraph [ref=f1e565]: Ребята, отличные новости! Мы сделали наш сервер ещё удобнее и профессиональнее.Теперь подключаться к AMURKA PVE MOD стало проще простого — забудьте про сложные цифры.Новый адрес для подключения:play.amurkapve.ru:7004
+          - paragraph [ref=f1e566]: — admin
+      - article [ref=f1e567]:
+        - generic [ref=f1e568]:
+          - generic [ref=f1e569]: Новость
+          - generic [ref=f1e570]: 22.08.2026
+          - heading "Почасовая награда за онлайн" [level=3] [ref=f1e571]
+          - paragraph [ref=f1e572]: Каждый час на сервере — это гарантированная прибыль! Просто играйте и получайте каждый час:• 5 золота• 1000 игровой валюты• 10 очков славыЧем дольше играете — тем больше копите. Никаких условий, просто будьте в игре!
+          - paragraph [ref=f1e573]: — admin
+      - article [ref=f1e574]:
+        - generic [ref=f1e575]:
+          - generic [ref=f1e576]: Новость
+          - generic [ref=f1e577]: 15.06.2026
+          - heading "Постоянный квест от администрации" [level=3] [ref=f1e578]
+          - paragraph [ref=f1e579]: Принеси администратору полный железный ящик чипов с NPC.Награда (на выбор):• 5 золотых модулей памяти• 2 шприца слёз феникса (по 3 дозы)
+          - paragraph [ref=f1e580]: — admin
+  - generic [ref=f1e582]:
+    - heading "Галерея" [level=2] [ref=f1e583]
+    - generic [ref=f1e584]:
+      - link "Screenshot by annygelyator " [ref=f1e585] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1788610102333.png
+        - img "Screenshot by annygelyator" [ref=f1e586]
+        - generic [ref=f1e587]: 
+      - link "Screenshot by annygelyator " [ref=f1e589] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1788610015962.png
+        - img "Screenshot by annygelyator" [ref=f1e590]
+        - generic [ref=f1e591]: 
+      - link "Screenshot by alinka65 " [ref=f1e593] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1788509577198.png
+        - img "Screenshot by alinka65" [ref=f1e594]
+        - generic [ref=f1e595]: 
+      - link "Screenshot by alinka65 " [ref=f1e597] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1788421047630.png
+        - img "Screenshot by alinka65" [ref=f1e598]
+        - generic [ref=f1e599]: 
+      - link "Screenshot by alinka65 " [ref=f1e601] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1788420985623.png
+        - img "Screenshot by alinka65" [ref=f1e602]
+        - generic [ref=f1e603]: 
+      - link "Screenshot by alinka65 " [ref=f1e605] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1788347448604.png
+        - img "Screenshot by alinka65" [ref=f1e606]
+        - generic [ref=f1e607]: 
+      - link "Screenshot by alinka65 " [ref=f1e609] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1788265898482.png
+        - img "Screenshot by alinka65" [ref=f1e610]
+        - generic [ref=f1e611]: 
+      - link "Screenshot by morid " [ref=f1e613] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1788043283480.jpg
+        - img "Screenshot by morid" [ref=f1e614]
+        - generic [ref=f1e615]: 
+      - link "Screenshot by morid " [ref=f1e617] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1788043280993.jpg
+        - img "Screenshot by morid" [ref=f1e618]
+        - generic [ref=f1e619]: 
+      - link "Screenshot by alinka65 " [ref=f1e621] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1787896334382.png
+        - img "Screenshot by alinka65" [ref=f1e622]
+        - generic [ref=f1e623]: 
+      - link "Screenshot by alinka65 " [ref=f1e625] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1787826958274.png
+        - img "Screenshot by alinka65" [ref=f1e626]
+        - generic [ref=f1e627]: 
+      - link "Screenshot by berkut_29rus " [ref=f1e629] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1787552501711.JPG
+        - img "Screenshot by berkut_29rus" [ref=f1e630]
+        - generic [ref=f1e631]: 
+      - link "Screenshot by netrezvbii_kot " [ref=f1e633] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1787506269093.jpg
+        - img "Screenshot by netrezvbii_kot" [ref=f1e634]
+        - generic [ref=f1e635]: 
+      - link "Screenshot by tolyan28rus " [ref=f1e637] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1787485451635.png
+        - img "Screenshot by tolyan28rus" [ref=f1e638]
+        - generic [ref=f1e639]: 
+      - link "Screenshot by tolyan28rus " [ref=f1e641] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1787485449501.png
+        - img "Screenshot by tolyan28rus" [ref=f1e642]
+        - generic [ref=f1e643]: 
+      - link "Screenshot by tolyan28rus " [ref=f1e645] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1787485447403.png
+        - img "Screenshot by tolyan28rus" [ref=f1e646]
+        - generic [ref=f1e647]: 
+      - link "Screenshot by tolyan28rus " [ref=f1e649] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1787485445065.png
+        - img "Screenshot by tolyan28rus" [ref=f1e650]
+        - generic [ref=f1e651]: 
+      - link "Screenshot by netrezvbii_kot " [ref=f1e653] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1787308179883.png
+        - img "Screenshot by netrezvbii_kot" [ref=f1e654]
+        - generic [ref=f1e655]: 
+      - link "Screenshot by netrezvbii_kot " [ref=f1e657] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1787308138603.png
+        - img "Screenshot by netrezvbii_kot" [ref=f1e658]
+        - generic [ref=f1e659]: 
+      - link "Screenshot by netrezvbii_kot " [ref=f1e661] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1787308099193.png
+        - img "Screenshot by netrezvbii_kot" [ref=f1e662]
+        - generic [ref=f1e663]: 
+      - link "Screenshot by netrezvbii_kot " [ref=f1e665] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1787308067565.png
+        - img "Screenshot by netrezvbii_kot" [ref=f1e666]
+        - generic [ref=f1e667]: 
+      - link "Screenshot by netrezvbii_kot " [ref=f1e669] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1787308043120.png
+        - img "Screenshot by netrezvbii_kot" [ref=f1e670]
+        - generic [ref=f1e671]: 
+      - link "Screenshot by netrezvbii_kot " [ref=f1e673] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1787307972367.png
+        - img "Screenshot by netrezvbii_kot" [ref=f1e674]
+        - generic [ref=f1e675]: 
+      - link "Screenshot by skeletoncrew " [ref=f1e677] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1786888215114.png
+        - img "Screenshot by skeletoncrew" [ref=f1e678]
+        - generic [ref=f1e679]: 
+      - link "Screenshot by shilka " [ref=f1e681] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1786887906780.png
+        - img "Screenshot by shilka" [ref=f1e682]
+        - generic [ref=f1e683]: 
+      - link "Screenshot by shilka " [ref=f1e685] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1786887882891.png
+        - img "Screenshot by shilka" [ref=f1e686]
+        - generic [ref=f1e687]: 
+      - link "Screenshot by 7point62 " [ref=f1e689] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1786458340871.png
+        - img "Screenshot by 7point62" [ref=f1e690]
+        - generic [ref=f1e691]: 
+      - link "Screenshot by alinka65 " [ref=f1e693] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1786439726498.png
+        - img "Screenshot by alinka65" [ref=f1e694]
+        - generic [ref=f1e695]: 
+      - link "Screenshot by serjik " [ref=f1e697] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1786227191165.png
+        - img "Screenshot by serjik" [ref=f1e698]
+        - generic [ref=f1e699]: 
+      - link "Screenshot by skeletoncrew " [ref=f1e701] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1786113277306.png
+        - img "Screenshot by skeletoncrew" [ref=f1e702]
+        - generic [ref=f1e703]: 
+      - link "Screenshot by skeletoncrew " [ref=f1e705] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1785947317550.png
+        - img "Screenshot by skeletoncrew" [ref=f1e706]
+        - generic [ref=f1e707]: 
+      - link "Screenshot by apxpatrickgames " [ref=f1e709] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1785883004928.png
+        - img "Screenshot by apxpatrickgames" [ref=f1e710]
+        - generic [ref=f1e711]: 
+      - link "Screenshot by alinka65 " [ref=f1e713] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1785706522106.png
+        - img "Screenshot by alinka65" [ref=f1e714]
+        - generic [ref=f1e715]: 
+      - link "Screenshot by kynumozg00 " [ref=f1e717] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1785566698583.jpg
+        - img "Screenshot by kynumozg00" [ref=f1e718]
+        - generic [ref=f1e719]: 
+      - link "Screenshot by kynumozg00 " [ref=f1e721] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1785564749445.jpg
+        - img "Screenshot by kynumozg00" [ref=f1e722]
+        - generic [ref=f1e723]: 
+      - link "Screenshot by dante_47 " [ref=f1e725] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1784606810407.png
+        - img "Screenshot by dante_47" [ref=f1e726]
+        - generic [ref=f1e727]: 
+      - link "Screenshot by alex_lesnik " [ref=f1e729] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1784597483102.jpg
+        - img "Screenshot by alex_lesnik" [ref=f1e730]
+        - generic [ref=f1e731]: 
+      - link "Screenshot by alex_lesnik " [ref=f1e733] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1784597411600.jpg
+        - img "Screenshot by alex_lesnik" [ref=f1e734]
+        - generic [ref=f1e735]: 
+      - link "Screenshot by alex_lesnik " [ref=f1e737] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1784597184312.png
+        - img "Screenshot by alex_lesnik" [ref=f1e738]
+        - generic [ref=f1e739]: 
+      - link "Screenshot by alinka65 " [ref=f1e741] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1784595316447.png
+        - img "Screenshot by alinka65" [ref=f1e742]
+        - generic [ref=f1e743]: 
+      - link "Screenshot by alinka65 " [ref=f1e745] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1784460391374.png
+        - img "Screenshot by alinka65" [ref=f1e746]
+        - generic [ref=f1e747]: 
+      - link "Screenshot by alinka65 " [ref=f1e749] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1784460389984.png
+        - img "Screenshot by alinka65" [ref=f1e750]
+        - generic [ref=f1e751]: 
+      - link "Screenshot by alinka65 " [ref=f1e753] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1784460388370.png
+        - img "Screenshot by alinka65" [ref=f1e754]
+        - generic [ref=f1e755]: 
+      - link "Screenshot by vita_min_ka " [ref=f1e757] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1784405713560.png
+        - img "Screenshot by vita_min_ka" [ref=f1e758]
+        - generic [ref=f1e759]: 
+      - link "Screenshot by vita_min_ka " [ref=f1e761] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1784405711675.png
+        - img "Screenshot by vita_min_ka" [ref=f1e762]
+        - generic [ref=f1e763]: 
+      - link "Screenshot by vita_min_ka " [ref=f1e765] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1784405709796.png
+        - img "Screenshot by vita_min_ka" [ref=f1e766]
+        - generic [ref=f1e767]: 
+      - link "Screenshot by katebronson " [ref=f1e769] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1784395666370.png
+        - img "Screenshot by katebronson" [ref=f1e770]
+        - generic [ref=f1e771]: 
+      - link "Screenshot by katebronson " [ref=f1e773] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1784392899599.png
+        - img "Screenshot by katebronson" [ref=f1e774]
+        - generic [ref=f1e775]: 
+      - link "Screenshot by hanako_arasaka " [ref=f1e777] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1784363374687.jpg
+        - img "Screenshot by hanako_arasaka" [ref=f1e778]
+        - generic [ref=f1e779]: 
+      - link "Screenshot by hanako_arasaka " [ref=f1e781] [cursor=pointer]:
+        - /url: https://AMURKA-PVE-SCUM.github.io/data/screenshots/1784363372621.jpg
+        - img "Screenshot by hanako_arasaka" [ref=f1e782]
+        - generic [ref=f1e783]: 
+    - paragraph [ref=f1e785]: Скриншоты добавляются игроками в Lolka. Присоединяйся!
+  - generic [ref=f1e787]:
+    - heading "Наши стримеры" [level=2] [ref=f1e788]
+    - paragraph [ref=f1e789]: Смотрите прямые эфиры и записи наших игроков на VK Видео Live
+    - generic [ref=f1e790]:
+      - generic [ref=f1e792]:
+        - heading "netrezvbii_kot" [level=3] [ref=f1e793]
+        - paragraph [ref=f1e794]: SCUM PVE
+        - link " VK Видео Live" [ref=f1e795] [cursor=pointer]:
+          - /url: https://live.vkvideo.ru/netrezvbii_kot
+          - generic [ref=f1e796]: 
+          - text: VK Видео Live
+      - generic [ref=f1e798]:
+        - heading "vita_min_ka" [level=3] [ref=f1e799]
+        - paragraph [ref=f1e800]: SCUM PVE
+        - link " VK Видео Live" [ref=f1e801] [cursor=pointer]:
+          - /url: https://live.vkvideo.ru/vita_min_ka
+          - generic [ref=f1e802]: 
+          - text: VK Видео Live
+      - generic [ref=f1e804]:
+        - heading "gatu" [level=3] [ref=f1e805]
+        - paragraph [ref=f1e806]: SCUM PVE
+        - link " VK Видео Live" [ref=f1e807] [cursor=pointer]:
+          - /url: https://live.vkvideo.ru/gatu
+          - generic [ref=f1e808]: 
+          - text: VK Видео Live
+      - generic [ref=f1e810]:
+        - heading "domo" [level=3] [ref=f1e811]
+        - paragraph [ref=f1e812]: SCUM PVE
+        - link " VK Видео Live" [ref=f1e813] [cursor=pointer]:
+          - /url: https://live.vkvideo.ru/domo
+          - generic [ref=f1e814]: 
+          - text: VK Видео Live
+  - generic [ref=f1e816]:
+    - heading "Как начать играть" [level=2] [ref=f1e817]
+    - generic [ref=f1e818]:
+      - generic [ref=f1e819]: 
+      - paragraph [ref=f1e820]:
+        - strong [ref=f1e821]: "ВАЖНО:"
+        - text: лаунчер — не обязателен, на сервер можно зайти просто по адресу
+        - code [ref=f1e822]: play.amurkapve.ru:7004
+        - text: ". Но без него не будет полной синхронизации модов: возможны баги рюкзаков и рассинхрон веса. Лаунчер сам скачает и обновит все моды — это ключ к комфортной игре."
+      - link " Скачать лаунчер" [ref=f1e823] [cursor=pointer]:
+        - /url: https://github.com/AMURKA-PVE-SCUM/AMURKA-PVE-Launcher/releases
+        - generic [ref=f1e824]: 
+        - text: Скачать лаунчер
+    - generic [ref=f1e825]:
+      - generic [ref=f1e826]:
+        - generic [ref=f1e827]: "01"
+        - generic [ref=f1e828]:
+          - heading "Скачай SCUM" [level=3] [ref=f1e829]
+          - paragraph [ref=f1e830]: "Приобрети игру в Steam. Минимальные системные требования: 8GB RAM, GTX 660."
+      - generic [ref=f1e831]:
+        - generic [ref=f1e832]: "02"
+        - generic [ref=f1e833]:
+          - heading "Скачай лаунчер" [level=3] [ref=f1e834]
+          - paragraph [ref=f1e835]:
+            - text: Скачай и запусти установщик лаунчера.
+            - link "Скачать лаунчер" [ref=f1e836] [cursor=pointer]:
+              - /url: https://github.com/AMURKA-PVE-SCUM/AMURKA-PVE-Launcher/releases
+      - generic [ref=f1e837]:
+        - generic [ref=f1e838]: "03"
+        - generic [ref=f1e839]:
+          - heading "Укажи путь к Paks" [level=3] [ref=f1e840]
+          - paragraph [ref=f1e841]:
+            - text: "В лаунчере укажи путь:"
+            - code [ref=f1e842]: Steam\steamapps\common\SCUM\SCUM\Content\Paks\Создать папку ~mods
+      - generic [ref=f1e843]:
+        - generic [ref=f1e844]: "04"
+        - generic [ref=f1e845]:
+          - heading "Установи моды" [level=3] [ref=f1e846]
+          - paragraph [ref=f1e847]: Нажми «Установить моды». Дождись завершения — лаунчер автоматически скачает и установит все необходимые моды.
+      - generic [ref=f1e848]:
+        - generic [ref=f1e849]: "05"
+        - generic [ref=f1e850]:
+          - heading "Запусти игру" [level=3] [ref=f1e851]
+          - paragraph [ref=f1e852]:
+            - text: Нажми «Запустить игру» в лаунчере. Или через Steam с параметром запуска
+            - code [ref=f1e853]: "-fileopenlog"
+      - generic [ref=f1e854]:
+        - generic [ref=f1e855]: "06"
+        - generic [ref=f1e856]:
+          - heading "Подключись к серверу" [level=3] [ref=f1e857]
+          - paragraph [ref=f1e858]:
+            - text: "В главном меню выбери «Поиск серверов». Введи адрес:"
+            - code [ref=f1e859]: play.amurkapve.ru:7004
+      - generic [ref=f1e860]:
+        - generic [ref=f1e861]: "07"
+        - generic [ref=f1e862]:
+          - heading "Начни выживать!" [level=3] [ref=f1e863]
+          - paragraph [ref=f1e864]: Создай персонажа, изучи мир, найди ресурсы и построй свою первую базу. Добро пожаловать!
+    - generic [ref=f1e865]:
+      - heading " Установка лаунчера не обязательна" [level=3] [ref=f1e866]:
+        - generic [ref=f1e867]: 
+        - text: Установка лаунчера не обязательна
+      - paragraph [ref=f1e868]:
+        - text: Можно играть на сервере и без лаунчера — просто подключись по адресу
+        - code [ref=f1e869]: play.amurkapve.ru:7004
+        - text: ". Но без клиентских модов не будет полной синхронизации с сервером: возможны баги рюкзаков и рассинхрон веса. Лаунчер удобнее — он автоматически скачает и обновит все моды."
+  - generic [ref=f1e871]:
+    - heading "Голосование" [level=2] [ref=f1e872]
+    - paragraph [ref=f1e873]: Проголосуй за сервер и получи бонусы в игре!
+    - link " Wargm Голосуй раз в 12 часов — получай золото и предметы Проголосовать " [ref=f1e875] [cursor=pointer]:
+      - /url: https://wargm.ru/server/77385
+      - generic [ref=f1e876]: 
+      - generic [ref=f1e878]:
+        - heading "Wargm" [level=3] [ref=f1e879]
+        - paragraph [ref=f1e880]: Голосуй раз в 12 часов — получай золото и предметы
+        - generic [ref=f1e881]:
+          - text: Проголосовать
+          - generic [ref=f1e882]: 
+  - contentinfo [ref=f1e883]:
+    - generic [ref=f1e884]:
+      - generic [ref=f1e885]:
+        - generic [ref=f1e886]:
+          - link " AMURKA PVE MOD" [ref=f1e887] [cursor=pointer]:
+            - /url: "#hero"
+            - generic [ref=f1e888]: 
+            - generic [ref=f1e890]: AMURKA PVE MOD
+          - paragraph [ref=f1e891]: SCUM PVE сервер · работаем с 25.07.2025
+        - generic [ref=f1e892]:
+          - heading "Навигация" [level=4] [ref=f1e893]
+          - list [ref=f1e894]:
+            - listitem [ref=f1e895]:
+              - link "О сервере" [ref=f1e896] [cursor=pointer]:
+                - /url: "#about"
+            - listitem [ref=f1e897]:
+              - link "Карта" [ref=f1e898] [cursor=pointer]:
+                - /url: map/
+            - listitem [ref=f1e899]:
+              - link "Правила" [ref=f1e900] [cursor=pointer]:
+                - /url: "#rules"
+            - listitem [ref=f1e901]:
+              - link "Моды" [ref=f1e902] [cursor=pointer]:
+                - /url: "#mods"
+            - listitem [ref=f1e903]:
+              - link "Бот DOMO" [ref=f1e904] [cursor=pointer]:
+                - /url: "#commands"
+            - listitem [ref=f1e905]:
+              - link "Новости" [ref=f1e906] [cursor=pointer]:
+                - /url: "#news"
+        - generic [ref=f1e907]:
+          - heading "Сообщество" [level=4] [ref=f1e908]
+          - list [ref=f1e909]:
+            - listitem [ref=f1e910]:
+              - link " Проект на Wargm" [ref=f1e911] [cursor=pointer]:
+                - /url: https://wargm.ru/server/77385
+                - generic [ref=f1e912]: 
+                - text: Проект на Wargm
+            - listitem [ref=f1e913]:
+              - link " LOLKA (Чат)" [ref=f1e914] [cursor=pointer]:
+                - /url: https://lolka.gg/xq3Mo6u
+                - generic [ref=f1e915]: 
+                - text: LOLKA (Чат)
+            - listitem [ref=f1e916]:
+              - link " Скачать лаунчер" [ref=f1e917] [cursor=pointer]:
+                - /url: https://github.com/AMURKA-PVE-SCUM/AMURKA-PVE-Launcher/releases
+                - generic [ref=f1e918]: 
+                - text: Скачать лаунчер
+        - generic [ref=f1e919]:
+          - heading "Подключиться" [level=4] [ref=f1e920]
+          - generic [ref=f1e921]:
+            - code [ref=f1e922]: play.amurkapve.ru:7004
+            - button "" [ref=f1e923] [cursor=pointer]
+      - paragraph [ref=f1e926]: © 2026 AMURKA PVE.
+  - generic [ref=f1e927]:
+    - generic [ref=f1e928]: 
+    - generic [ref=f1e929]: IP скопирован!
+  - generic:
+    - generic:
+      - button ""

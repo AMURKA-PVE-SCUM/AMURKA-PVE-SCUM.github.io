@@ -1,0 +1,148 @@
+- generic [active] [ref=f12e1]:
+  - navigation [ref=f12e2]:
+    - generic [ref=f12e3]:
+      - link " AMURKA" [ref=f12e4] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f12e5]: 
+        - text: AMURKA
+      - list [ref=f12e7]:
+        - listitem [ref=f12e8]:
+          - link "ИГРА ▾" [ref=f12e9] [cursor=pointer]:
+            - /url: "#"
+            - text: ИГРА
+            - generic [ref=f12e10]: ▾
+        - listitem [ref=f12e11]:
+          - link "МИР ▾" [ref=f12e12] [cursor=pointer]:
+            - /url: "#"
+            - text: МИР
+            - generic [ref=f12e13]: ▾
+        - listitem [ref=f12e14]:
+          - link "LIVE ▾" [ref=f12e15] [cursor=pointer]:
+            - /url: "#"
+            - text: LIVE
+            - generic [ref=f12e16]: ▾
+        - listitem [ref=f12e17]:
+          - link "COMMUNITY ▾" [ref=f12e18] [cursor=pointer]:
+            - /url: "#"
+            - text: COMMUNITY
+            - generic [ref=f12e19]: ▾
+        - listitem [ref=f12e20]:
+          - link "ПОМОЩЬ ▾" [ref=f12e21] [cursor=pointer]:
+            - /url: "#"
+            - text: ПОМОЩЬ
+            - generic [ref=f12e22]: ▾
+      - generic [ref=f12e23]:
+        - generic [ref=f12e24]:
+          - generic [ref=f12e26]: ONLINE
+          - generic [ref=f12e27]: —
+        - link "PLAY" [ref=f12e28] [cursor=pointer]:
+          - /url: /start/
+  - generic [ref=f12e30]:
+    - heading "LIVE ЦЕНТР" [level=1] [ref=f12e31]
+    - paragraph [ref=f12e32]: Статус сервера, игроки и события в реальном времени
+  - generic [ref=f12e34]:
+    - generic [ref=f12e35]:
+      - generic [ref=f12e36]:
+        - generic [ref=f12e37]: 
+        - generic [ref=f12e39]: ONLINE
+        - generic [ref=f12e41]: СТАТУС
+      - generic [ref=f12e42]:
+        - generic [ref=f12e43]: 
+        - generic [ref=f12e45]: 0 / 100
+        - generic [ref=f12e46]: ИГРОКИ
+      - generic [ref=f12e47]:
+        - generic [ref=f12e48]: 
+        - generic [ref=f12e50]: —
+        - generic [ref=f12e51]: UPTIME
+      - generic [ref=f12e52]:
+        - generic [ref=f12e53]: 
+        - generic [ref=f12e55]: —
+        - generic [ref=f12e56]: ПИНГ
+    - generic [ref=f12e57]:
+      - generic [ref=f12e59]:
+        - generic [ref=f12e61]:
+          - generic [ref=f12e62]: 
+          - text: Активные события
+        - generic [ref=f12e64]:
+          - generic [ref=f12e65]: 
+          - text: Нет активных событий
+      - generic [ref=f12e67]:
+        - generic [ref=f12e68]:
+          - generic [ref=f12e69]:
+            - generic [ref=f12e70]: 
+            - text: Сейчас на сервере
+          - generic [ref=f12e71]: 0 игроков
+        - generic [ref=f12e73]:
+          - generic [ref=f12e74]: 
+          - paragraph [ref=f12e75]: Загрузка данных...
+    - generic [ref=f12e76]:
+      - generic [ref=f12e78]:
+        - generic [ref=f12e79]: 
+        - text: Информация о сервере
+      - generic [ref=f12e80]:
+        - generic [ref=f12e81]:
+          - generic [ref=f12e82]: СТАТУС
+          - generic [ref=f12e83]: —
+        - generic [ref=f12e84]:
+          - generic [ref=f12e85]: ИГРОКОВ
+          - generic [ref=f12e86]: —
+  - contentinfo [ref=f12e87]:
+    - generic [ref=f12e88]:
+      - generic [ref=f12e89]:
+        - generic [ref=f12e90]:
+          - link " AMURKA" [ref=f12e91] [cursor=pointer]:
+            - /url: /
+            - generic [ref=f12e92]: 
+            - text: AMURKA
+          - paragraph [ref=f12e94]: SCUM PVE сервер. Работаем с 25 июля 2025 года.
+        - generic [ref=f12e95]:
+          - heading "ИГРА" [level=4] [ref=f12e96]
+          - list [ref=f12e97]:
+            - listitem [ref=f12e98]:
+              - link " Сервер" [ref=f12e99] [cursor=pointer]:
+                - /url: /server/
+                - generic [ref=f12e100]: 
+                - text: Сервер
+            - listitem [ref=f12e101]:
+              - link " Возможности" [ref=f12e102] [cursor=pointer]:
+                - /url: /features/
+                - generic [ref=f12e103]: 
+                - text: Возможности
+            - listitem [ref=f12e104]:
+              - link " Моды" [ref=f12e105] [cursor=pointer]:
+                - /url: /mods/
+                - generic [ref=f12e106]: 
+                - text: Моды
+            - listitem [ref=f12e107]:
+              - link " Карта" [ref=f12e108] [cursor=pointer]:
+                - /url: /map/
+                - generic [ref=f12e109]: 
+                - text: Карта
+        - generic [ref=f12e110]:
+          - heading "ПОМОЩЬ" [level=4] [ref=f12e111]
+          - list [ref=f12e112]:
+            - listitem [ref=f12e113]:
+              - link " Как начать" [ref=f12e114] [cursor=pointer]:
+                - /url: /start/
+                - generic [ref=f12e115]: 
+                - text: Как начать
+            - listitem [ref=f12e116]:
+              - link " Правила" [ref=f12e117] [cursor=pointer]:
+                - /url: /rules/
+                - generic [ref=f12e118]: 
+                - text: Правила
+            - listitem [ref=f12e119]:
+              - link " Поддержка" [ref=f12e120] [cursor=pointer]:
+                - /url: /support/
+                - generic [ref=f12e121]: 
+                - text: Поддержка
+        - generic [ref=f12e122]:
+          - heading "ПОДКЛЮЧИТЬСЯ" [level=4] [ref=f12e123]
+          - generic [ref=f12e124]:
+            - code [ref=f12e125]: play.amurkapve.ru:7004
+            - button "" [ref=f12e126] [cursor=pointer]
+      - paragraph [ref=f12e129]: © 2025–2026 AMURKA PVE.
+  - generic [ref=f12e130]:
+    - generic [ref=f12e131]: 
+    - generic [ref=f12e132]: Скопировано!
+  - text:    

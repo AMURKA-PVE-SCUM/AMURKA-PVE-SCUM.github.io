@@ -1,0 +1,158 @@
+- generic [active] [ref=f31e1]:
+  - navigation [ref=f31e2]:
+    - generic [ref=f31e3]:
+      - link " AMURKA" [ref=f31e4] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f31e5]: 
+        - text: AMURKA
+      - list [ref=f31e7]:
+        - listitem [ref=f31e8]:
+          - link "ИГРА ▾" [ref=f31e9] [cursor=pointer]:
+            - /url: "#"
+            - text: ИГРА
+            - generic [ref=f31e10]: ▾
+        - listitem [ref=f31e11]:
+          - link "МИР ▾" [ref=f31e12] [cursor=pointer]:
+            - /url: "#"
+            - text: МИР
+            - generic [ref=f31e13]: ▾
+        - listitem [ref=f31e14]:
+          - link "LIVE ▾" [ref=f31e15] [cursor=pointer]:
+            - /url: "#"
+            - text: LIVE
+            - generic [ref=f31e16]: ▾
+        - listitem [ref=f31e17]:
+          - link "COMMUNITY ▾" [ref=f31e18] [cursor=pointer]:
+            - /url: "#"
+            - text: COMMUNITY
+            - generic [ref=f31e19]: ▾
+        - listitem [ref=f31e20]:
+          - link "ПОМОЩЬ ▾" [ref=f31e21] [cursor=pointer]:
+            - /url: "#"
+            - text: ПОМОЩЬ
+            - generic [ref=f31e22]: ▾
+      - generic [ref=f31e23]:
+        - generic [ref=f31e24]:
+          - generic [ref=f31e26]: ONLINE
+          - generic [ref=f31e27]: "7"
+        - link "PLAY" [ref=f31e28] [cursor=pointer]:
+          - /url: /start/
+  - main [ref=f31e29]:
+    - generic [ref=f31e30]:
+      - generic [ref=f31e31]:
+        - heading "Голосование AMURKA" [level=1] [ref=f31e32]
+        - paragraph [ref=f31e33]: Поддержи сервер и получи бонусы
+      - generic [ref=f31e34]:
+        - generic [ref=f31e35]:
+          - heading "WARGM" [level=2] [ref=f31e36]
+          - generic [ref=f31e37]: AVAILABLE
+          - generic [ref=f31e39]: 05:42:11
+          - generic [ref=f31e40]: NEXT VOTE
+          - link "VOTE NOW →" [ref=f31e41] [cursor=pointer]:
+            - /url: https://wargm.ru/server/77385
+            - text: VOTE NOW
+            - generic [ref=f31e42]: →
+        - generic [ref=f31e43]:
+          - heading "LOLKA" [level=2] [ref=f31e44]
+          - generic [ref=f31e45]: AVAILABLE
+          - generic [ref=f31e47]: 05:42:11
+          - generic [ref=f31e48]: NEXT VOTE
+          - link "VOTE NOW →" [ref=f31e49] [cursor=pointer]:
+            - /url: https://lolka.gg/xq3Mo6u
+            - text: VOTE NOW
+            - generic [ref=f31e50]: →
+      - generic [ref=f31e51]:
+        - generic [ref=f31e52]:
+          - generic [ref=f31e53]: "1"
+          - heading "Нажми Vote" [level=4] [ref=f31e54]
+          - paragraph [ref=f31e55]: Выбери мониторинг и нажми кнопку голосования
+        - generic [ref=f31e56]:
+          - generic [ref=f31e57]: "2"
+          - heading "Подтверди на сайте" [level=4] [ref=f31e58]
+          - paragraph [ref=f31e59]: Пройди проверку на сайте мониторинга
+        - generic [ref=f31e60]:
+          - generic [ref=f31e61]: "3"
+          - heading "Получи бонус" [level=4] [ref=f31e62]
+          - paragraph [ref=f31e63]: Бонус автоматически зачисляется в игре
+  - contentinfo [ref=f31e64]:
+    - generic [ref=f31e65]:
+      - generic [ref=f31e66]:
+        - generic [ref=f31e67]:
+          - link " AMURKA" [ref=f31e68] [cursor=pointer]:
+            - /url: /
+            - generic [ref=f31e69]: 
+            - text: AMURKA
+          - paragraph [ref=f31e71]: SCUM PVE сервер. Работаем с 25 июля 2025 года.
+          - generic [ref=f31e72]:
+            - generic [ref=f31e74]: ONLINE
+            - generic [ref=f31e75]: 7/100
+        - generic [ref=f31e76]:
+          - heading "ИГРА" [level=4] [ref=f31e77]
+          - list [ref=f31e78]:
+            - listitem [ref=f31e79]:
+              - link " Сервер" [ref=f31e80] [cursor=pointer]:
+                - /url: /server/
+                - generic [ref=f31e81]: 
+                - text: Сервер
+            - listitem [ref=f31e82]:
+              - link " Возможности" [ref=f31e83] [cursor=pointer]:
+                - /url: /features/
+                - generic [ref=f31e84]: 
+                - text: Возможности
+            - listitem [ref=f31e85]:
+              - link " Моды" [ref=f31e86] [cursor=pointer]:
+                - /url: /mods/
+                - generic [ref=f31e87]: 
+                - text: Моды
+            - listitem [ref=f31e88]:
+              - link " Карта" [ref=f31e89] [cursor=pointer]:
+                - /url: /map/
+                - generic [ref=f31e90]: 
+                - text: Карта
+        - generic [ref=f31e91]:
+          - heading "СООБЩЕСТВО" [level=4] [ref=f31e92]
+          - list [ref=f31e93]:
+            - listitem [ref=f31e94]:
+              - link " Новости" [ref=f31e95] [cursor=pointer]:
+                - /url: /news/
+                - generic [ref=f31e96]: 
+                - text: Новости
+            - listitem [ref=f31e97]:
+              - link " Галерея" [ref=f31e98] [cursor=pointer]:
+                - /url: /gallery/
+                - generic [ref=f31e99]: 
+                - text: Галерея
+            - listitem [ref=f31e100]:
+              - link " Стримеры" [ref=f31e101] [cursor=pointer]:
+                - /url: /streamers/
+                - generic [ref=f31e102]: 
+                - text: Стримеры
+            - listitem [ref=f31e103]:
+              - link " Wargm" [ref=f31e104] [cursor=pointer]:
+                - /url: https://wargm.ru/server/77385
+                - generic [ref=f31e105]: 
+                - text: Wargm
+            - listitem [ref=f31e106]:
+              - link " LOLKA" [ref=f31e107] [cursor=pointer]:
+                - /url: https://lolka.gg/xq3Mo6u
+                - generic [ref=f31e108]: 
+                - text: LOLKA
+        - generic [ref=f31e109]:
+          - heading "ПОДКЛЮЧИТЬСЯ" [level=4] [ref=f31e110]
+          - generic [ref=f31e111]:
+            - code [ref=f31e112]: play.amurkapve.ru:7004
+            - button "" [ref=f31e113] [cursor=pointer]
+          - link " Скачать лаунчер" [ref=f31e116] [cursor=pointer]:
+            - /url: https://github.com/AMURKA-PVE-SCUM/AMURKA-PVE-Launcher/releases
+            - generic [ref=f31e117]: 
+            - text: Скачать лаунчер
+      - generic [ref=f31e118]:
+        - paragraph [ref=f31e119]: © 2025–2026 AMURKA PVE. Все права защищены.
+        - generic [ref=f31e120]:
+          - link "Правила" [ref=f31e121] [cursor=pointer]:
+            - /url: /rules/
+          - link "Поддержка" [ref=f31e122] [cursor=pointer]:
+            - /url: /support/
+  - generic [ref=f31e123]:
+    - generic [ref=f31e124]: 
+    - generic [ref=f31e125]: Скопировано!

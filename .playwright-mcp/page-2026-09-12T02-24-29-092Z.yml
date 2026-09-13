@@ -1,0 +1,249 @@
+- generic [active] [ref=f2e1]:
+  - navigation [ref=f2e2]:
+    - generic [ref=f2e3]:
+      - link " AMURKA" [ref=f2e4] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f2e5]: 
+        - text: AMURKA
+      - list [ref=f2e7]:
+        - listitem [ref=f2e8]:
+          - link "ИГРА ▾" [ref=f2e9] [cursor=pointer]:
+            - /url: "#"
+            - text: ИГРА
+            - generic [ref=f2e10]: ▾
+        - listitem [ref=f2e11]:
+          - link "МИР ▾" [ref=f2e12] [cursor=pointer]:
+            - /url: "#"
+            - text: МИР
+            - generic [ref=f2e13]: ▾
+        - listitem [ref=f2e14]:
+          - link "LIVE ▾" [ref=f2e15] [cursor=pointer]:
+            - /url: "#"
+            - text: LIVE
+            - generic [ref=f2e16]: ▾
+        - listitem [ref=f2e17]:
+          - link "ПОМОЩЬ ▾" [ref=f2e18] [cursor=pointer]:
+            - /url: "#"
+            - text: ПОМОЩЬ
+            - generic [ref=f2e19]: ▾
+      - generic [ref=f2e20]:
+        - generic [ref=f2e21]:
+          - generic [ref=f2e23]: ONLINE
+          - generic [ref=f2e24]: —
+        - link "PLAY" [ref=f2e25] [cursor=pointer]:
+          - /url: /start/
+  - generic [ref=f2e27]:
+    - heading "AMURKA MODS" [level=1] [ref=f2e28]
+    - paragraph [ref=f2e29]: 62 МОДА УСТАНОВЛЕНО
+  - generic [ref=f2e31]:
+    - generic [ref=f2e32]:
+      - button "ALL" [ref=f2e33] [cursor=pointer]
+      - button "CORE" [ref=f2e34] [cursor=pointer]
+      - button "WEAPONS" [ref=f2e35] [cursor=pointer]
+      - button "SKINS" [ref=f2e36] [cursor=pointer]
+      - button "TRANSPORT" [ref=f2e37] [cursor=pointer]
+      - button "BUILDING" [ref=f2e38] [cursor=pointer]
+      - button "WORLD" [ref=f2e39] [cursor=pointer]
+      - button "UI" [ref=f2e40] [cursor=pointer]
+      - generic [ref=f2e41]:
+        - generic [ref=f2e42]: 
+        - textbox "Поиск модов..." [ref=f2e43]
+    - generic [ref=f2e44]:
+      - generic [ref=f2e45]:
+        - generic [ref=f2e46]: 
+        - generic [ref=f2e48]:
+          - heading "×100 AMMO" [level=4] [ref=f2e49]
+          - paragraph [ref=f2e50]: Все патроны стакаются по 100 — инвентарь больше не кладбище обойм.
+          - generic [ref=f2e51]: Инвентарь
+      - generic [ref=f2e53]:
+        - generic [ref=f2e54]: 
+        - generic [ref=f2e56]:
+          - heading "РЮКЗАКИ ДО 2000 КГ" [level=4] [ref=f2e57]
+          - paragraph [ref=f2e58]: Рюкзаки 12×12 слотов и грузоподъёмностью до 2000 кг.
+          - generic [ref=f2e59]: Инвентарь
+      - generic [ref=f2e61]:
+        - generic [ref=f2e62]: 
+        - generic [ref=f2e64]:
+          - heading "МАКСИМАЛЬНЫЙ ПЕРЕГРУЗ" [level=4] [ref=f2e65]
+          - paragraph [ref=f2e66]: Поднятый порог переносимого веса.
+          - generic [ref=f2e67]: Персонаж
+      - generic [ref=f2e69]:
+        - generic [ref=f2e70]: 
+        - generic [ref=f2e72]:
+          - heading "БЫСТРАЯ ВОДА И СТАМИНА" [level=4] [ref=f2e73]
+          - paragraph [ref=f2e74]: Выносливость и жажда восполняются ускоренно.
+          - generic [ref=f2e75]: Персонаж
+      - generic [ref=f2e77]:
+        - generic [ref=f2e78]: 
+        - generic [ref=f2e80]:
+          - heading "УЛУЧШЕННЫЙ ДЕСАНТ" [level=4] [ref=f2e81]
+          - paragraph [ref=f2e82]: Полёт при выброске на остров стал лучше.
+          - generic [ref=f2e83]: Персонаж
+      - generic [ref=f2e85]:
+        - generic [ref=f2e86]: 
+        - generic [ref=f2e88]:
+          - heading "ОДЕЖДА НЕ ПАЧКАЕТСЯ" [level=4] [ref=f2e89]
+          - paragraph [ref=f2e90]: Плюс мгновенная сушка после дождя.
+          - generic [ref=f2e91]: Одежда
+      - generic [ref=f2e93]:
+        - generic [ref=f2e94]: 
+        - generic [ref=f2e96]:
+          - heading "МОРСКАЯ ВОДА ПИТЬЕВАЯ" [level=4] [ref=f2e97]
+          - paragraph [ref=f2e98]: Океан вокруг острова — источник воды.
+          - generic [ref=f2e99]: Мир
+      - generic [ref=f2e101]:
+        - generic [ref=f2e102]: 
+        - generic [ref=f2e104]:
+          - heading "КОПТИЛЬНЯ" [level=4] [ref=f2e105]
+          - paragraph [ref=f2e106]: Копти мясо и рыбу — еда хранится дольше.
+          - generic [ref=f2e107]: Крафт
+      - generic [ref=f2e109]:
+        - generic [ref=f2e110]: 
+        - generic [ref=f2e112]:
+          - heading "МЕБЕЛЬ ДЛЯ БАЗЫ" [level=4] [ref=f2e113]
+          - paragraph [ref=f2e114]: Крафт базовой мебели.
+          - generic [ref=f2e115]: Крафт
+      - generic [ref=f2e117]:
+        - generic [ref=f2e118]: 
+        - generic [ref=f2e120]:
+          - heading "ГЕНЕРАТОР GENA5000" [level=4] [ref=f2e121]
+          - paragraph [ref=f2e122]: Питает электричеством всю территорию под флагом.
+          - generic [ref=f2e123]: Базы
+      - generic [ref=f2e125]:
+        - generic [ref=f2e126]: 
+        - generic [ref=f2e128]:
+          - heading "БРОНЯ И ЭКИПИРОВКА" [level=4] [ref=f2e129]
+          - paragraph [ref=f2e130]: Дополнительные комплекты брони.
+          - generic [ref=f2e131]: Экипировка
+      - generic [ref=f2e133]:
+        - generic [ref=f2e134]: 
+        - generic [ref=f2e136]:
+          - heading "БОЛЬШЕ ИСПОЛЬЗОВАНИЙ" [level=4] [ref=f2e137]
+          - paragraph [ref=f2e138]: Ремонтные наборы стакаются и служат дольше.
+          - generic [ref=f2e139]: Инвентарь
+      - generic [ref=f2e141]:
+        - generic [ref=f2e142]: 
+        - generic [ref=f2e144]:
+          - heading "ТРАНСПОРТ +50 КМ/Ч" [level=4] [ref=f2e145]
+          - paragraph [ref=f2e146]: Все автомобили едут заметно быстрее.
+          - generic [ref=f2e147]: Транспорт
+      - generic [ref=f2e149]:
+        - generic [ref=f2e150]: 
+        - generic [ref=f2e152]:
+          - heading "УЛУЧШЕННЫЕ САМОЛЁТЫ" [level=4] [ref=f2e153]
+          - paragraph [ref=f2e154]: Лёгкий взлёт и увеличенная грузоподъёмность.
+          - generic [ref=f2e155]: Транспорт
+      - generic [ref=f2e157]:
+        - generic [ref=f2e158]: 
+        - generic [ref=f2e160]:
+          - heading "КАРТА И МИНИКАРТА" [level=4] [ref=f2e161]
+          - paragraph [ref=f2e162]: Обновлённая карта и компактная миникарта.
+          - generic [ref=f2e163]: Интерфейс
+      - generic [ref=f2e165]:
+        - generic [ref=f2e166]: 
+        - generic [ref=f2e168]:
+          - heading "TWITCH DLC РАЗБЛОКИРОВАН" [level=4] [ref=f2e169]
+          - paragraph [ref=f2e170]: Весь эксклюзивный контент Twitch доступен всем.
+          - generic [ref=f2e171]: Контент
+      - generic [ref=f2e173]:
+        - generic [ref=f2e174]: 
+        - generic [ref=f2e176]:
+          - heading "НОВЫЕ ЭКРАНЫ ЗАГРУЗКИ" [level=4] [ref=f2e177]
+          - paragraph [ref=f2e178]: Свежие загрузочные экраны AMURKA.
+          - generic [ref=f2e179]: Интерфейс
+      - generic [ref=f2e181]:
+        - generic [ref=f2e182]: 
+        - generic [ref=f2e184]:
+          - heading "AK-47 AMURKA" [level=4] [ref=f2e185]
+          - paragraph [ref=f2e186]: Легендарный автомат в фирменном исполнении.
+          - generic [ref=f2e187]: Оружие
+      - generic [ref=f2e189]:
+        - generic [ref=f2e190]: 
+        - generic [ref=f2e192]:
+          - heading "ЗОЛОТЫЕ AKM И RPK" [level=4] [ref=f2e193]
+          - paragraph [ref=f2e194]: Статусное оружие для профи.
+          - generic [ref=f2e195]: Оружие
+      - generic [ref=f2e197]:
+        - generic [ref=f2e198]: 
+        - generic [ref=f2e200]:
+          - heading "RPG-7 Gold" [level=4] [ref=f2e201]
+          - paragraph [ref=f2e202]: Гранатомёт в золоте.
+          - generic [ref=f2e203]: Оружие
+      - generic [ref=f2e205]:
+        - generic [ref=f2e206]: 
+        - generic [ref=f2e208]:
+          - heading "27 СКИНОВ ОДЕЖДЫ И ОРУЖИЯ" [level=4] [ref=f2e209]
+          - paragraph [ref=f2e210]: Военные комплекты, худи, куртки, кимоно.
+          - generic [ref=f2e211]: Стиль
+      - generic [ref=f2e213]:
+        - generic [ref=f2e214]: 
+        - generic [ref=f2e216]:
+          - heading "ХРОМ-ПОКРАСКА АВТО" [level=4] [ref=f2e217]
+          - paragraph [ref=f2e218]: Хромированный тюнинг транспорта.
+          - generic [ref=f2e219]: Стиль
+      - generic [ref=f2e221]:
+        - generic [ref=f2e222]: 
+        - generic [ref=f2e224]:
+          - heading "ФИРМЕННАЯ ЭКИПИРОВКА AMURKA" [level=4] [ref=f2e225]
+          - paragraph [ref=f2e226]: Бронежилеты с логотипом сервера.
+          - generic [ref=f2e227]: Стиль
+    - text: 
+  - contentinfo [ref=f2e229]:
+    - generic [ref=f2e230]:
+      - generic [ref=f2e231]:
+        - generic [ref=f2e232]:
+          - link " AMURKA" [ref=f2e233] [cursor=pointer]:
+            - /url: /
+            - generic [ref=f2e234]: 
+            - text: AMURKA
+          - paragraph [ref=f2e236]: SCUM PVE сервер. Работаем с 25 июля 2025 года.
+        - generic [ref=f2e237]:
+          - heading "ИГРА" [level=4] [ref=f2e238]
+          - list [ref=f2e239]:
+            - listitem [ref=f2e240]:
+              - link " Сервер" [ref=f2e241] [cursor=pointer]:
+                - /url: /server/
+                - generic [ref=f2e242]: 
+                - text: Сервер
+            - listitem [ref=f2e243]:
+              - link " Возможности" [ref=f2e244] [cursor=pointer]:
+                - /url: /features/
+                - generic [ref=f2e245]: 
+                - text: Возможности
+            - listitem [ref=f2e246]:
+              - link " Моды" [ref=f2e247] [cursor=pointer]:
+                - /url: /mods/
+                - generic [ref=f2e248]: 
+                - text: Моды
+            - listitem [ref=f2e249]:
+              - link " Карта" [ref=f2e250] [cursor=pointer]:
+                - /url: /map/
+                - generic [ref=f2e251]: 
+                - text: Карта
+        - generic [ref=f2e252]:
+          - heading "ПОМОЩЬ" [level=4] [ref=f2e253]
+          - list [ref=f2e254]:
+            - listitem [ref=f2e255]:
+              - link " Как начать" [ref=f2e256] [cursor=pointer]:
+                - /url: /start/
+                - generic [ref=f2e257]: 
+                - text: Как начать
+            - listitem [ref=f2e258]:
+              - link " Правила" [ref=f2e259] [cursor=pointer]:
+                - /url: /rules/
+                - generic [ref=f2e260]: 
+                - text: Правила
+            - listitem [ref=f2e261]:
+              - link " Поддержка" [ref=f2e262] [cursor=pointer]:
+                - /url: /support/
+                - generic [ref=f2e263]: 
+                - text: Поддержка
+        - generic [ref=f2e264]:
+          - heading "ПОДКЛЮЧИТЬСЯ" [level=4] [ref=f2e265]
+          - generic [ref=f2e266]:
+            - code [ref=f2e267]: play.amurkapve.ru:7004
+            - button "" [ref=f2e268] [cursor=pointer]
+      - paragraph [ref=f2e271]: © 2025–2026 AMURKA PVE.
+  - generic [ref=f2e272]:
+    - generic [ref=f2e273]: 
+    - generic [ref=f2e274]: Скопировано!

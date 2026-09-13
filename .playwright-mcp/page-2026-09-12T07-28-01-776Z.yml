@@ -1,0 +1,107 @@
+- generic [active] [ref=f17e1]:
+  - navigation [ref=f17e2]:
+    - generic [ref=f17e3]:
+      - link " AMURKA" [ref=f17e4] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f17e5]: 
+        - text: AMURKA
+      - list [ref=f17e7]:
+        - listitem [ref=f17e8]:
+          - link "ИГРА ▾" [ref=f17e9] [cursor=pointer]:
+            - /url: "#"
+            - text: ИГРА
+            - generic [ref=f17e10]: ▾
+        - listitem [ref=f17e11]:
+          - link "МИР ▾" [ref=f17e12] [cursor=pointer]:
+            - /url: "#"
+            - text: МИР
+            - generic [ref=f17e13]: ▾
+        - listitem [ref=f17e14]:
+          - link "LIVE ▾" [ref=f17e15] [cursor=pointer]:
+            - /url: "#"
+            - text: LIVE
+            - generic [ref=f17e16]: ▾
+        - listitem [ref=f17e17]:
+          - link "COMMUNITY ▾" [ref=f17e18] [cursor=pointer]:
+            - /url: "#"
+            - text: COMMUNITY
+            - generic [ref=f17e19]: ▾
+        - listitem [ref=f17e20]:
+          - link "ПОМОЩЬ ▾" [ref=f17e21] [cursor=pointer]:
+            - /url: "#"
+            - text: ПОМОЩЬ
+            - generic [ref=f17e22]: ▾
+      - generic [ref=f17e23]:
+        - generic [ref=f17e24]:
+          - generic [ref=f17e26]: ONLINE
+          - generic [ref=f17e27]: —
+        - link "PLAY" [ref=f17e28] [cursor=pointer]:
+          - /url: /start/
+  - generic [ref=f17e30]:
+    - heading "Игроки AMURKA" [level=1] [ref=f17e31]
+    - paragraph [ref=f17e32]: Каталог игроков сервера
+  - generic [ref=f17e34]:
+    - textbox "Поиск игрока..." [ref=f17e36]
+    - generic [ref=f17e37]:
+      - generic [ref=f17e38]: 
+      - paragraph [ref=f17e39]: Загрузка данных...
+  - contentinfo [ref=f17e40]:
+    - generic [ref=f17e41]:
+      - generic [ref=f17e42]:
+        - generic [ref=f17e43]:
+          - link " AMURKA" [ref=f17e44] [cursor=pointer]:
+            - /url: /
+            - generic [ref=f17e45]: 
+            - text: AMURKA
+          - paragraph [ref=f17e47]: SCUM PVE сервер. Работаем с 25 июля 2025 года.
+        - generic [ref=f17e48]:
+          - heading "ИГРА" [level=4] [ref=f17e49]
+          - list [ref=f17e50]:
+            - listitem [ref=f17e51]:
+              - link " Сервер" [ref=f17e52] [cursor=pointer]:
+                - /url: /server/
+                - generic [ref=f17e53]: 
+                - text: Сервер
+            - listitem [ref=f17e54]:
+              - link " Возможности" [ref=f17e55] [cursor=pointer]:
+                - /url: /features/
+                - generic [ref=f17e56]: 
+                - text: Возможности
+            - listitem [ref=f17e57]:
+              - link " Моды" [ref=f17e58] [cursor=pointer]:
+                - /url: /mods/
+                - generic [ref=f17e59]: 
+                - text: Моды
+            - listitem [ref=f17e60]:
+              - link " Карта" [ref=f17e61] [cursor=pointer]:
+                - /url: /map/
+                - generic [ref=f17e62]: 
+                - text: Карта
+        - generic [ref=f17e63]:
+          - heading "ПОМОЩЬ" [level=4] [ref=f17e64]
+          - list [ref=f17e65]:
+            - listitem [ref=f17e66]:
+              - link " Как начать" [ref=f17e67] [cursor=pointer]:
+                - /url: /start/
+                - generic [ref=f17e68]: 
+                - text: Как начать
+            - listitem [ref=f17e69]:
+              - link " Правила" [ref=f17e70] [cursor=pointer]:
+                - /url: /rules/
+                - generic [ref=f17e71]: 
+                - text: Правила
+            - listitem [ref=f17e72]:
+              - link " Поддержка" [ref=f17e73] [cursor=pointer]:
+                - /url: /support/
+                - generic [ref=f17e74]: 
+                - text: Поддержка
+        - generic [ref=f17e75]:
+          - heading "ПОДКЛЮЧИТЬСЯ" [level=4] [ref=f17e76]
+          - generic [ref=f17e77]:
+            - code [ref=f17e78]: play.amurkapve.ru:7004
+            - button "" [ref=f17e79] [cursor=pointer]
+      - paragraph [ref=f17e82]: © 2025–2026 AMURKA PVE.
+  - generic [ref=f17e83]:
+    - generic [ref=f17e84]: 
+    - generic [ref=f17e85]: Скопировано!
+  - text:    

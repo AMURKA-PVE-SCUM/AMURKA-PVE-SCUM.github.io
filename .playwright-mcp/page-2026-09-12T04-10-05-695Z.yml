@@ -1,0 +1,652 @@
+- generic [active] [ref=f26e1]:
+  - navigation [ref=f26e2]:
+    - generic [ref=f26e3]:
+      - link " AMURKA" [ref=f26e4] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f26e5]: 
+        - text: AMURKA
+      - list [ref=f26e7]:
+        - listitem [ref=f26e8]:
+          - link "ИГРА ▾" [ref=f26e9] [cursor=pointer]:
+            - /url: "#"
+            - text: ИГРА
+            - generic [ref=f26e10]: ▾
+        - listitem [ref=f26e11]:
+          - link "МИР ▾" [ref=f26e12] [cursor=pointer]:
+            - /url: "#"
+            - text: МИР
+            - generic [ref=f26e13]: ▾
+        - listitem [ref=f26e14]:
+          - link "LIVE ▾" [ref=f26e15] [cursor=pointer]:
+            - /url: "#"
+            - text: LIVE
+            - generic [ref=f26e16]: ▾
+        - listitem [ref=f26e17]:
+          - link "COMMUNITY ▾" [ref=f26e18] [cursor=pointer]:
+            - /url: "#"
+            - text: COMMUNITY
+            - generic [ref=f26e19]: ▾
+        - listitem [ref=f26e20]:
+          - link "ПОМОЩЬ ▾" [ref=f26e21] [cursor=pointer]:
+            - /url: "#"
+            - text: ПОМОЩЬ
+            - generic [ref=f26e22]: ▾
+      - generic [ref=f26e23]:
+        - generic [ref=f26e24]:
+          - generic [ref=f26e26]: ONLINE
+          - generic [ref=f26e27]: "7"
+        - link "PLAY" [ref=f26e28] [cursor=pointer]:
+          - /url: /start/
+  - main [ref=f26e29]:
+    - complementary "Фильтр POI" [ref=f26e30]:
+      - generic [ref=f26e31]:
+        - generic [ref=f26e32]: КОМАНДНЫЙ ИНТЕРФЕЙС
+        - heading [level=1] [ref=f26e34]:
+          - text: КАРТА
+          - strong [ref=f26e35]: SCUM
+        - paragraph [ref=f26e36]: Остров под контролем. Найди нужную точку.
+        - generic [ref=f26e37]:
+          - generic [ref=f26e38]:
+            - generic [ref=f26e39]: 7 986
+            - generic [ref=f26e40]: POI
+          - generic [ref=f26e41]:
+            - generic [ref=f26e42]: "106"
+            - generic [ref=f26e43]: КАТЕГОРИЙ
+          - generic [ref=f26e44]:
+            - generic [ref=f26e45]: 
+            - generic [ref=f26e46]: ONLINE
+      - generic [ref=f26e47]:
+        - generic [ref=f26e48]:
+          - generic [ref=f26e49]: 
+          - textbox " /" [ref=f26e50]:
+            - /placeholder: Поиск локации или категории…
+          - generic [ref=f26e51]: /
+        - generic [ref=f26e52]:
+          - button " Ключевые" [ref=f26e53] [cursor=pointer]:
+            - generic [ref=f26e54]: 
+            - generic [ref=f26e55]: Ключевые
+          - button " Все" [ref=f26e56] [cursor=pointer]:
+            - generic [ref=f26e57]: 
+            - generic [ref=f26e58]: Все
+          - button " Скрыть" [ref=f26e59] [cursor=pointer]:
+            - generic [ref=f26e60]: 
+            - generic [ref=f26e61]: Скрыть
+      - generic [ref=f26e62]:
+        - generic [ref=f26e63]: ФИЛЬТРЫ POI
+        - generic [ref=f26e64]: 4 АКТИВНО
+      - generic [ref=f26e65]:
+        - generic [ref=f26e66]:
+          - generic [ref=f26e67] [cursor=pointer]:
+            - generic [ref=f26e68]: Бункеры
+            - generic [ref=f26e69]: 
+          - generic [ref=f26e70]:
+            - generic [ref=f26e71] [cursor=pointer]:
+              - generic [ref=f26e72]: 
+              - generic [ref=f26e74]: Бункеры
+              - generic [ref=f26e75]: "8"
+            - generic [ref=f26e76] [cursor=pointer]:
+              - generic [ref=f26e77]: 
+              - generic [ref=f26e79]: Секретные бункеры
+              - generic [ref=f26e80]: "8"
+            - generic [ref=f26e81] [cursor=pointer]:
+              - generic [ref=f26e82]: 
+              - generic [ref=f26e84]: Заброшенные бункеры
+              - generic [ref=f26e85]: "4"
+            - generic [ref=f26e86] [cursor=pointer]:
+              - generic [ref=f26e87]: 
+              - generic [ref=f26e89]: Бункеры WWII
+              - generic [ref=f26e90]: "53"
+            - generic [ref=f26e91] [cursor=pointer]:
+              - generic [ref=f26e92]: 
+              - generic [ref=f26e94]: Люки бункеров
+              - generic [ref=f26e95]: "11"
+            - generic [ref=f26e96] [cursor=pointer]:
+              - generic [ref=f26e97]: 
+              - generic [ref=f26e99]: Киллбоксы
+              - generic [ref=f26e100]: "12"
+            - generic [ref=f26e101] [cursor=pointer]:
+              - generic [ref=f26e102]: 
+              - generic [ref=f26e104]: Шкафы ХОЗ костюмов
+              - generic [ref=f26e105]: "18"
+            - generic [ref=f26e106] [cursor=pointer]:
+              - generic [ref=f26e107]: 
+              - generic [ref=f26e109]: Ящики обеднённого урана
+              - generic [ref=f26e110]: "15"
+            - generic [ref=f26e111] [cursor=pointer]:
+              - generic [ref=f26e112]: 
+              - generic [ref=f26e114]: Шкафы радиационного снаряжения
+              - generic [ref=f26e115]: "11"
+        - generic [ref=f26e116]:
+          - generic [ref=f26e117] [cursor=pointer]:
+            - generic [ref=f26e118]: Заправки и транспорт
+            - generic [ref=f26e119]: 
+          - generic [ref=f26e120]:
+            - generic [ref=f26e121] [cursor=pointer]:
+              - generic [ref=f26e122]: 
+              - generic [ref=f26e124]: Заправки
+              - generic [ref=f26e125]: "25"
+            - generic [ref=f26e126] [cursor=pointer]:
+              - generic [ref=f26e127]: 
+              - generic [ref=f26e129]: Пропановые баки
+              - generic [ref=f26e130]: "25"
+            - generic [ref=f26e131] [cursor=pointer]:
+              - generic [ref=f26e132]: 
+              - generic [ref=f26e134]: Спаун транспорта
+              - generic [ref=f26e135]: "689"
+            - generic [ref=f26e136] [cursor=pointer]:
+              - generic [ref=f26e137]: 
+              - generic [ref=f26e139]: Мотоциклы и велосипеды
+              - generic [ref=f26e140]: "657"
+            - generic [ref=f26e141] [cursor=pointer]:
+              - generic [ref=f26e142]: 
+              - generic [ref=f26e144]: Лодки
+              - generic [ref=f26e145]: "142"
+            - generic [ref=f26e146] [cursor=pointer]:
+              - generic [ref=f26e147]: 
+              - generic [ref=f26e149]: Вёсла
+              - generic [ref=f26e150]: "142"
+            - generic [ref=f26e151] [cursor=pointer]:
+              - generic [ref=f26e152]: 
+              - generic [ref=f26e154]: Надувные лодки
+              - generic [ref=f26e155]: "19"
+            - generic [ref=f26e156] [cursor=pointer]:
+              - generic [ref=f26e157]: 
+              - generic [ref=f26e159]: Тачки
+              - generic [ref=f26e160]: "315"
+            - generic [ref=f26e161] [cursor=pointer]:
+              - generic [ref=f26e162]: 
+              - generic [ref=f26e164]: Авиатехника
+              - generic [ref=f26e165]: "5"
+            - generic [ref=f26e166] [cursor=pointer]:
+              - generic [ref=f26e167]: 
+              - generic [ref=f26e169]: Ремонт транспорта
+              - generic [ref=f26e170]: "21"
+            - generic [ref=f26e171] [cursor=pointer]:
+              - generic [ref=f26e172]: 
+              - generic [ref=f26e174]: Гаражи
+              - generic [ref=f26e175]: "267"
+        - generic [ref=f26e176]:
+          - generic [ref=f26e177] [cursor=pointer]:
+            - generic [ref=f26e178]: Города и деревни
+            - generic [ref=f26e179]: 
+          - generic [ref=f26e180]:
+            - generic [ref=f26e181] [cursor=pointer]:
+              - generic [ref=f26e182]: 
+              - generic [ref=f26e184]: Деревни
+              - generic [ref=f26e185]: "54"
+            - generic [ref=f26e186] [cursor=pointer]:
+              - generic [ref=f26e187]: 
+              - generic [ref=f26e189]: Аванпосты
+              - generic [ref=f26e190]: "4"
+            - generic [ref=f26e191] [cursor=pointer]:
+              - generic [ref=f26e192]: 
+              - generic [ref=f26e194]: Крско
+              - generic [ref=f26e195]: "30"
+            - generic [ref=f26e196] [cursor=pointer]:
+              - generic [ref=f26e197]: 
+              - generic [ref=f26e199]: Самобор
+              - generic [ref=f26e200]: "23"
+            - generic [ref=f26e201] [cursor=pointer]:
+              - generic [ref=f26e202]: 
+              - generic [ref=f26e204]: Новиград
+              - generic [ref=f26e205]: "4"
+            - generic [ref=f26e206] [cursor=pointer]:
+              - generic [ref=f26e207]: 
+              - generic [ref=f26e209]: Точки интереса
+              - generic [ref=f26e210]: "54"
+            - generic [ref=f26e211] [cursor=pointer]:
+              - generic [ref=f26e212]: 
+              - generic [ref=f26e214]: Полицейские участки
+              - generic [ref=f26e215]: "20"
+            - generic [ref=f26e216] [cursor=pointer]:
+              - generic [ref=f26e217]: 
+              - generic [ref=f26e219]: Школы
+              - generic [ref=f26e220]: "13"
+            - generic [ref=f26e221] [cursor=pointer]:
+              - generic [ref=f26e222]: 
+              - generic [ref=f26e224]: Больница
+              - generic [ref=f26e225]: "4"
+            - generic [ref=f26e226] [cursor=pointer]:
+              - generic [ref=f26e227]: +
+              - generic [ref=f26e229]: Аптеки
+              - generic [ref=f26e230]: "30"
+            - generic [ref=f26e231] [cursor=pointer]:
+              - generic [ref=f26e232]: 
+              - generic [ref=f26e234]: Мед контейнеры
+              - generic [ref=f26e235]: "18"
+        - generic [ref=f26e236]:
+          - generic [ref=f26e237] [cursor=pointer]:
+            - generic [ref=f26e238]: Лут и мастерские
+            - generic [ref=f26e239]: 
+          - generic [ref=f26e240]:
+            - generic [ref=f26e241] [cursor=pointer]:
+              - generic [ref=f26e242]: 
+              - generic [ref=f26e244]: Мастерские
+              - generic [ref=f26e245]: "162"
+            - generic [ref=f26e246] [cursor=pointer]:
+              - generic [ref=f26e247]: 
+              - generic [ref=f26e249]: Склады
+              - generic [ref=f26e250]: "68"
+            - generic [ref=f26e251] [cursor=pointer]:
+              - generic [ref=f26e252]: 
+              - generic [ref=f26e254]: Военные ангары
+              - generic [ref=f26e255]: "30"
+            - generic [ref=f26e256] [cursor=pointer]:
+              - generic [ref=f26e257]: 
+              - generic [ref=f26e259]: Военные склады
+              - generic [ref=f26e260]: "5"
+            - generic [ref=f26e261] [cursor=pointer]:
+              - generic [ref=f26e262]: 
+              - generic [ref=f26e264]: Оружейные
+              - generic [ref=f26e265]: "4"
+            - generic [ref=f26e266] [cursor=pointer]:
+              - generic [ref=f26e267]: 
+              - generic [ref=f26e269]: Дрель / Токарный
+              - generic [ref=f26e270]: "213"
+            - generic [ref=f26e271] [cursor=pointer]:
+              - generic [ref=f26e272]: 
+              - generic [ref=f26e274]: Шкафы
+              - generic [ref=f26e275]: "112"
+            - generic [ref=f26e276] [cursor=pointer]:
+              - generic [ref=f26e277]: 
+              - generic [ref=f26e279]: Красные ящики с инструментами
+              - generic [ref=f26e280]: "102"
+            - generic [ref=f26e281] [cursor=pointer]:
+              - generic [ref=f26e282]: 
+              - generic [ref=f26e284]: Книжные полки
+              - generic [ref=f26e285]: "7"
+            - generic [ref=f26e286] [cursor=pointer]:
+              - generic [ref=f26e287]: 
+              - generic [ref=f26e289]: Сарай для хранения
+              - generic [ref=f26e290]: "22"
+            - generic [ref=f26e291] [cursor=pointer]:
+              - generic [ref=f26e292]: 
+              - generic [ref=f26e294]: Бревенчатый домик
+              - generic [ref=f26e295]: "30"
+            - generic [ref=f26e296] [cursor=pointer]:
+              - generic [ref=f26e297]: 
+              - generic [ref=f26e299]: Штабель досок
+              - generic [ref=f26e300]: "148"
+            - generic [ref=f26e301] [cursor=pointer]:
+              - generic [ref=f26e302]: 
+              - generic [ref=f26e304]: Кирпичи
+              - generic [ref=f26e305]: "47"
+            - generic [ref=f26e306] [cursor=pointer]:
+              - generic [ref=f26e307]: 
+              - generic [ref=f26e309]: Мешки цемента
+              - generic [ref=f26e310]: "34"
+            - generic [ref=f26e311] [cursor=pointer]:
+              - generic [ref=f26e312]: 
+              - generic [ref=f26e314]: Мешки гравия
+              - generic [ref=f26e315]: "25"
+            - generic [ref=f26e316] [cursor=pointer]:
+              - generic [ref=f26e317]: 
+              - generic [ref=f26e319]: Графит
+              - generic [ref=f26e320]: "9"
+            - generic [ref=f26e321] [cursor=pointer]:
+              - generic [ref=f26e322]: 
+              - generic [ref=f26e324]: Брёвна
+              - generic [ref=f26e325]: "47"
+            - generic [ref=f26e326] [cursor=pointer]:
+              - generic [ref=f26e327]: 
+              - generic [ref=f26e329]: Промышленные силосы
+              - generic [ref=f26e330]: "31"
+            - generic [ref=f26e331] [cursor=pointer]:
+              - generic [ref=f26e332]: 
+              - generic [ref=f26e334]: Входы в шахты
+              - generic [ref=f26e335]: "43"
+        - generic [ref=f26e336]:
+          - generic [ref=f26e337] [cursor=pointer]:
+            - generic [ref=f26e338]: Магазины
+            - generic [ref=f26e339]: 
+          - generic [ref=f26e340]:
+            - generic [ref=f26e341] [cursor=pointer]:
+              - generic [ref=f26e342]: 
+              - generic [ref=f26e344]: Продуктовый
+              - generic [ref=f26e345]: "99"
+            - generic [ref=f26e346] [cursor=pointer]:
+              - generic [ref=f26e347]: 
+              - generic [ref=f26e349]: Оружейные магазины
+              - generic [ref=f26e350]: "4"
+            - generic [ref=f26e351] [cursor=pointer]:
+              - generic [ref=f26e352]: 
+              - generic [ref=f26e354]: Рыболовный магазин
+              - generic [ref=f26e355]: "4"
+            - generic [ref=f26e356] [cursor=pointer]:
+              - generic [ref=f26e357]: 
+              - generic [ref=f26e359]: Общий магазин
+              - generic [ref=f26e360]: "4"
+            - generic [ref=f26e361] [cursor=pointer]:
+              - generic [ref=f26e362]: 
+              - generic [ref=f26e364]: Механик
+              - generic [ref=f26e365]: "4"
+            - generic [ref=f26e366] [cursor=pointer]:
+              - generic [ref=f26e367]: 
+              - generic [ref=f26e369]: Парикмахерская
+              - generic [ref=f26e370]: "4"
+            - generic [ref=f26e371] [cursor=pointer]:
+              - generic [ref=f26e372]: 
+              - generic [ref=f26e374]: Охотничья гrotto
+              - generic [ref=f26e375]: "4"
+        - generic [ref=f26e376]:
+          - generic [ref=f26e377] [cursor=pointer]:
+            - generic [ref=f26e378]: Охота
+            - generic [ref=f26e379]: 
+          - generic [ref=f26e380]:
+            - generic [ref=f26e381] [cursor=pointer]:
+              - generic [ref=f26e382]: 
+              - generic [ref=f26e384]: Охотничьи вышки
+              - generic [ref=f26e385]: "161"
+            - generic [ref=f26e386] [cursor=pointer]:
+              - generic [ref=f26e387]: 
+              - generic [ref=f26e389]: Охотничьи лагеря
+              - generic [ref=f26e390]: "4"
+            - generic [ref=f26e391] [cursor=pointer]:
+              - generic [ref=f26e392]: 
+              - generic [ref=f26e394]: Охотничьи магазины
+              - generic [ref=f26e395]: "4"
+            - generic [ref=f26e396] [cursor=pointer]:
+              - generic [ref=f26e397]: 
+              - generic [ref=f26e399]: Кормушки для животных
+              - generic [ref=f26e400]: "83"
+        - generic [ref=f26e401]:
+          - generic [ref=f26e402] [cursor=pointer]:
+            - generic [ref=f26e403]: Развлечения
+            - generic [ref=f26e404]: 
+          - generic [ref=f26e405]:
+            - generic [ref=f26e406] [cursor=pointer]:
+              - generic [ref=f26e407]: 
+              - generic [ref=f26e409]: Бары
+              - generic [ref=f26e410]: "38"
+            - generic [ref=f26e411] [cursor=pointer]:
+              - generic [ref=f26e412]: 
+              - generic [ref=f26e414]: Пабы
+              - generic [ref=f26e415]: "15"
+            - generic [ref=f26e416] [cursor=pointer]:
+              - generic [ref=f26e417]: 
+              - generic [ref=f26e419]: Клубы
+              - generic [ref=f26e420]: "2"
+            - generic [ref=f26e421] [cursor=pointer]:
+              - generic [ref=f26e422]: 
+              - generic [ref=f26e424]: Рестораны
+              - generic [ref=f26e425]: "20"
+            - generic [ref=f26e426] [cursor=pointer]:
+              - generic [ref=f26e427]: 
+              - generic [ref=f26e429]: Салун
+              - generic [ref=f26e430]: "4"
+        - generic [ref=f26e431]:
+          - generic [ref=f26e432] [cursor=pointer]:
+            - generic [ref=f26e433]: Природа
+            - generic [ref=f26e434]: 
+          - generic [ref=f26e435]:
+            - generic [ref=f26e436] [cursor=pointer]:
+              - generic [ref=f26e437]: 
+              - generic [ref=f26e439]: Пещеры
+              - generic [ref=f26e440]: "47"
+            - generic [ref=f26e441] [cursor=pointer]:
+              - generic [ref=f26e442]: 
+              - generic [ref=f26e444]: Подводные пещеры
+              - generic [ref=f26e445]: "37"
+            - generic [ref=f26e446] [cursor=pointer]:
+              - generic [ref=f26e447]: 
+              - generic [ref=f26e449]: Крупные кораблекрушения
+              - generic [ref=f26e450]: "32"
+            - generic [ref=f26e451] [cursor=pointer]:
+              - generic [ref=f26e452]: 
+              - generic [ref=f26e454]: Малые кораблекрушения
+              - generic [ref=f26e455]: "8"
+            - generic [ref=f26e456] [cursor=pointer]:
+              - generic [ref=f26e457]: 
+              - generic [ref=f26e459]: Маяки
+              - generic [ref=f26e460]: "9"
+            - generic [ref=f26e461] [cursor=pointer]:
+              - generic [ref=f26e462]: 
+              - generic [ref=f26e464]: Церкви
+              - generic [ref=f26e465]: "25"
+            - generic [ref=f26e466] [cursor=pointer]:
+              - generic [ref=f26e467]: 
+              - generic [ref=f26e469]: Научные учреждения
+              - generic [ref=f26e470]: "3"
+        - generic [ref=f26e471]:
+          - generic [ref=f26e472] [cursor=pointer]:
+            - generic [ref=f26e473]: Квесты
+            - generic [ref=f26e474]: 
+          - generic [ref=f26e475]:
+            - generic [ref=f26e476] [cursor=pointer]:
+              - generic [ref=f26e477]: 
+              - generic [ref=f26e479]: Книги квестов
+              - generic [ref=f26e480]: "28"
+            - generic [ref=f26e481] [cursor=pointer]:
+              - generic [ref=f26e482]: 
+              - generic [ref=f26e484]: Доски квестов
+              - generic [ref=f26e485]: "27"
+            - generic [ref=f26e486] [cursor=pointer]:
+              - generic [ref=f26e487]: 
+              - generic [ref=f26e489]: Почтовые ящики квестов
+              - generic [ref=f26e490]: "17"
+        - generic [ref=f26e491]:
+          - generic [ref=f26e492] [cursor=pointer]:
+            - generic [ref=f26e493]: Вода
+            - generic [ref=f26e494]: 
+          - generic [ref=f26e495]:
+            - generic [ref=f26e496] [cursor=pointer]:
+              - generic [ref=f26e497]: 
+              - generic [ref=f26e499]: Рыбные места
+              - generic [ref=f26e500]: "92"
+            - generic [ref=f26e501] [cursor=pointer]:
+              - generic [ref=f26e502]: 
+              - generic [ref=f26e504]: Колодцы
+              - generic [ref=f26e505]: "76"
+            - generic [ref=f26e506] [cursor=pointer]:
+              - generic [ref=f26e507]: 
+              - generic [ref=f26e509]: Ручные водяные насосы
+              - generic [ref=f26e510]: "129"
+            - generic [ref=f26e511] [cursor=pointer]:
+              - generic [ref=f26e512]: 
+              - generic [ref=f26e514]: Природные родники
+              - generic [ref=f26e515]: "47"
+            - generic [ref=f26e516] [cursor=pointer]:
+              - generic [ref=f26e517]: 
+              - generic [ref=f26e519]: Водоёмы
+              - generic [ref=f26e520]: "90"
+            - generic [ref=f26e521] [cursor=pointer]:
+              - generic [ref=f26e523]: Фонтаны
+              - generic [ref=f26e524]: "8"
+            - generic [ref=f26e525] [cursor=pointer]:
+              - generic [ref=f26e526]: 
+              - generic [ref=f26e528]: Декоративные фонтаны
+              - generic [ref=f26e529]: "7"
+            - generic [ref=f26e530] [cursor=pointer]:
+              - generic [ref=f26e531]: 
+              - generic [ref=f26e533]: Малые причалы
+              - generic [ref=f26e534]: "57"
+            - generic [ref=f26e535] [cursor=pointer]:
+              - generic [ref=f26e536]: 
+              - generic [ref=f26e538]: Сардины
+              - generic [ref=f26e539]: "14"
+        - generic [ref=f26e540]:
+          - generic [ref=f26e541] [cursor=pointer]:
+            - generic [ref=f26e542]: Инфраструктура
+            - generic [ref=f26e543]: 
+          - generic [ref=f26e544]:
+            - generic [ref=f26e545] [cursor=pointer]:
+              - generic [ref=f26e546]: 
+              - generic [ref=f26e548]: Банкоматы
+              - generic [ref=f26e549]: "38"
+            - generic [ref=f26e550] [cursor=pointer]:
+              - generic [ref=f26e551]: 
+              - generic [ref=f26e553]: Телефонные будки
+              - generic [ref=f26e554]: "59"
+        - generic [ref=f26e555]:
+          - generic [ref=f26e556] [cursor=pointer]:
+            - generic [ref=f26e557]: Растения
+            - generic [ref=f26e558]: 
+          - generic [ref=f26e559]:
+            - generic [ref=f26e560] [cursor=pointer]:
+              - generic [ref=f26e561]: 
+              - generic [ref=f26e563]: Яблони
+              - generic [ref=f26e564]: "191"
+            - generic [ref=f26e565] [cursor=pointer]:
+              - generic [ref=f26e566]: 
+              - generic [ref=f26e568]: Вишни
+              - generic [ref=f26e569]: "135"
+            - generic [ref=f26e570] [cursor=pointer]:
+              - generic [ref=f26e571]: 
+              - generic [ref=f26e573]: Груши
+              - generic [ref=f26e574]: "77"
+            - generic [ref=f26e575] [cursor=pointer]:
+              - generic [ref=f26e576]: 
+              - generic [ref=f26e578]: Инжир
+              - generic [ref=f26e579]: "15"
+            - generic [ref=f26e580] [cursor=pointer]:
+              - generic [ref=f26e581]: 
+              - generic [ref=f26e583]: Оливы
+              - generic [ref=f26e584]: "231"
+            - generic [ref=f26e585] [cursor=pointer]:
+              - generic [ref=f26e586]: 
+              - generic [ref=f26e588]: Финиковые пальмы
+              - generic [ref=f26e589]: "116"
+            - generic [ref=f26e590] [cursor=pointer]:
+              - generic [ref=f26e591]: 
+              - generic [ref=f26e593]: Шиповник
+              - generic [ref=f26e594]: "155"
+            - generic [ref=f26e595] [cursor=pointer]:
+              - generic [ref=f26e596]: 
+              - generic [ref=f26e598]: Виноградники
+              - generic [ref=f26e599]: "120"
+        - generic [ref=f26e600]:
+          - generic [ref=f26e601] [cursor=pointer]:
+            - generic [ref=f26e602]: Поля
+            - generic [ref=f26e603]: 
+          - generic [ref=f26e604]:
+            - generic [ref=f26e605] [cursor=pointer]:
+              - generic [ref=f26e606]: 
+              - generic [ref=f26e608]: Клубника
+              - generic [ref=f26e609]: "843"
+            - generic [ref=f26e610] [cursor=pointer]:
+              - generic [ref=f26e611]: 
+              - generic [ref=f26e613]: Кукуруза
+              - generic [ref=f26e614]: "411"
+            - generic [ref=f26e615] [cursor=pointer]:
+              - generic [ref=f26e616]: 
+              - generic [ref=f26e618]: Картофель
+              - generic [ref=f26e619]: "203"
+            - generic [ref=f26e620] [cursor=pointer]:
+              - generic [ref=f26e621]: 
+              - generic [ref=f26e623]: Капуста
+              - generic [ref=f26e624]: "47"
+            - generic [ref=f26e625] [cursor=pointer]:
+              - generic [ref=f26e626]: 
+              - generic [ref=f26e628]: Морковь
+              - generic [ref=f26e629]: "32"
+            - generic [ref=f26e630] [cursor=pointer]:
+              - generic [ref=f26e631]: 
+              - generic [ref=f26e633]: Брокколи
+              - generic [ref=f26e634]: "30"
+            - generic [ref=f26e635] [cursor=pointer]:
+              - generic [ref=f26e636]: 
+              - generic [ref=f26e638]: Лук
+              - generic [ref=f26e639]: "29"
+            - generic [ref=f26e640] [cursor=pointer]:
+              - generic [ref=f26e641]: 
+              - generic [ref=f26e643]: Пастернак
+              - generic [ref=f26e644]: "17"
+            - generic [ref=f26e645] [cursor=pointer]:
+              - generic [ref=f26e646]: 
+              - generic [ref=f26e648]: Арбузы
+              - generic [ref=f26e649]: "25"
+            - generic [ref=f26e650] [cursor=pointer]:
+              - generic [ref=f26e651]: 
+              - generic [ref=f26e653]: Подсолнухи
+              - generic [ref=f26e654]: "87"
+        - generic [ref=f26e655]:
+          - generic [ref=f26e656] [cursor=pointer]:
+            - generic [ref=f26e657]: Другое
+            - generic [ref=f26e658]: 
+          - generic [ref=f26e660] [cursor=pointer]:
+            - generic [ref=f26e661]: 
+            - generic [ref=f26e663]: Cucumbers
+            - generic [ref=f26e664]: "78"
+    - button "Скрыть/показать меню" [ref=f26e665] [cursor=pointer]:
+      - generic [ref=f26e666]: 
+    - generic:
+      - generic [ref=f26e667]:
+        - generic [ref=f26e668]: 
+        - generic [ref=f26e669]: AMURKA PVE
+      - button " Весь остров" [ref=f26e670] [cursor=pointer]:
+        - generic [ref=f26e671]: 
+        - text: Весь остров
+    - generic [ref=f26e672]:
+      - generic:
+        - generic:
+          - button "" [ref=f26e673] [cursor=pointer]
+          - button "" [ref=f26e677] [cursor=pointer]
+          - button "" [ref=f26e681] [cursor=pointer]
+          - button "" [ref=f26e685] [cursor=pointer]
+          - button "" [ref=f26e689] [cursor=pointer]
+          - button "" [ref=f26e693] [cursor=pointer]
+          - button "" [ref=f26e697] [cursor=pointer]
+          - button "" [ref=f26e701] [cursor=pointer]
+          - button "" [ref=f26e705] [cursor=pointer]
+          - button "" [ref=f26e709] [cursor=pointer]
+          - button "" [ref=f26e713] [cursor=pointer]
+          - button "" [ref=f26e717] [cursor=pointer]
+          - button "" [ref=f26e721] [cursor=pointer]
+          - button "" [ref=f26e725] [cursor=pointer]
+          - button "" [ref=f26e729] [cursor=pointer]
+          - button "" [ref=f26e733] [cursor=pointer]
+          - button "" [ref=f26e737] [cursor=pointer]
+          - button "" [ref=f26e741] [cursor=pointer]
+          - button "" [ref=f26e745] [cursor=pointer]
+          - button "" [ref=f26e749] [cursor=pointer]
+          - button "" [ref=f26e753] [cursor=pointer]
+          - button "" [ref=f26e757] [cursor=pointer]
+          - button "" [ref=f26e761] [cursor=pointer]
+          - button "" [ref=f26e765] [cursor=pointer]
+          - button "" [ref=f26e769] [cursor=pointer]
+          - button "" [ref=f26e773] [cursor=pointer]
+          - button "" [ref=f26e777] [cursor=pointer]
+          - button "" [ref=f26e781] [cursor=pointer]
+          - button "" [ref=f26e785] [cursor=pointer]
+          - button "" [ref=f26e789] [cursor=pointer]
+          - button "" [ref=f26e793] [cursor=pointer]
+          - button "" [ref=f26e797] [cursor=pointer]
+          - button "" [ref=f26e801] [cursor=pointer]
+          - button "" [ref=f26e805] [cursor=pointer]
+          - button "" [ref=f26e809] [cursor=pointer]
+          - button "" [ref=f26e813] [cursor=pointer]
+          - button "" [ref=f26e817] [cursor=pointer]
+          - button "" [ref=f26e821] [cursor=pointer]
+          - button "" [ref=f26e825] [cursor=pointer]
+          - button "" [ref=f26e829] [cursor=pointer]
+          - button "" [ref=f26e833] [cursor=pointer]
+          - button "" [ref=f26e837] [cursor=pointer]
+          - button "" [ref=f26e841] [cursor=pointer]
+          - button "" [ref=f26e845] [cursor=pointer]
+          - button "" [ref=f26e849] [cursor=pointer]
+          - button "" [ref=f26e853] [cursor=pointer]
+          - button "" [ref=f26e857] [cursor=pointer]
+          - button "" [ref=f26e861] [cursor=pointer]
+          - button "" [ref=f26e865] [cursor=pointer]
+          - button "" [ref=f26e869] [cursor=pointer]
+          - button "" [ref=f26e873] [cursor=pointer]
+          - button "" [ref=f26e877] [cursor=pointer]
+      - generic:
+        - generic [ref=f26e881]:
+          - button "Zoom in" [ref=f26e882] [cursor=pointer]: +
+          - button "Zoom out" [ref=f26e883] [cursor=pointer]: −
+        - link "Leaflet" [ref=f26e885] [cursor=pointer]:
+          - /url: https://leafletjs.com
+    - generic [ref=f26e890]:
+      - generic [ref=f26e891]: 
+      - text: "Активно категорий: 4 / 106"
+    - generic [ref=f26e892]:
+      - generic [ref=f26e893]: COORD
+      - generic [ref=f26e894]: "X: 0 Y: 0"
+    - generic:
+      - generic: 
+      - text: Клик по карте — координаты
+    - generic:
+      - generic: 
+      - generic: Скопировано
+  - text:    

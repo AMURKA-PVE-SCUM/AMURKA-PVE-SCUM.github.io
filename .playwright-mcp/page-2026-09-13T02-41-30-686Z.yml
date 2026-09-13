@@ -1,0 +1,107 @@
+- generic [active] [ref=f1e1]:
+  - navigation [ref=f1e2]:
+    - generic [ref=f1e3]:
+      - link " AMURKA" [ref=f1e4] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f1e5]: 
+        - text: AMURKA
+      - list [ref=f1e7]:
+        - listitem [ref=f1e8]:
+          - link "ИГРА ▾" [ref=f1e9] [cursor=pointer]:
+            - /url: "#"
+            - text: ИГРА
+            - generic [ref=f1e10]: ▾
+        - listitem [ref=f1e11]:
+          - link "МИР ▾" [ref=f1e12] [cursor=pointer]:
+            - /url: "#"
+            - text: МИР
+            - generic [ref=f1e13]: ▾
+        - listitem [ref=f1e14]:
+          - link "LIVE ▾" [ref=f1e15] [cursor=pointer]:
+            - /url: "#"
+            - text: LIVE
+            - generic [ref=f1e16]: ▾
+        - listitem [ref=f1e17]:
+          - link "COMMUNITY ▾" [ref=f1e18] [cursor=pointer]:
+            - /url: "#"
+            - text: COMMUNITY
+            - generic [ref=f1e19]: ▾
+        - listitem [ref=f1e20]:
+          - link "ПОМОЩЬ ▾" [ref=f1e21] [cursor=pointer]:
+            - /url: "#"
+            - text: ПОМОЩЬ
+            - generic [ref=f1e22]: ▾
+      - generic [ref=f1e23]:
+        - generic [ref=f1e24]:
+          - generic [ref=f1e26]: ONLINE
+          - generic [ref=f1e27]: —
+        - link "PLAY" [ref=f1e28] [cursor=pointer]:
+          - /url: /start/
+  - generic [ref=f1e30]:
+    - heading "Игроки AMURKA" [level=1] [ref=f1e31]
+    - paragraph [ref=f1e32]: Каталог игроков сервера
+  - generic [ref=f1e34]:
+    - textbox "Поиск игрока..." [ref=f1e36]
+    - generic [ref=f1e37]:
+      - generic [ref=f1e38]: 
+      - paragraph [ref=f1e39]: Загрузка данных...
+  - contentinfo [ref=f1e40]:
+    - generic [ref=f1e41]:
+      - generic [ref=f1e42]:
+        - generic [ref=f1e43]:
+          - link " AMURKA" [ref=f1e44] [cursor=pointer]:
+            - /url: /
+            - generic [ref=f1e45]: 
+            - text: AMURKA
+          - paragraph [ref=f1e47]: SCUM PVE сервер. Работаем с 25 июля 2025 года.
+        - generic [ref=f1e48]:
+          - heading "ИГРА" [level=4] [ref=f1e49]
+          - list [ref=f1e50]:
+            - listitem [ref=f1e51]:
+              - link " Сервер" [ref=f1e52] [cursor=pointer]:
+                - /url: /server/
+                - generic [ref=f1e53]: 
+                - text: Сервер
+            - listitem [ref=f1e54]:
+              - link " Возможности" [ref=f1e55] [cursor=pointer]:
+                - /url: /features/
+                - generic [ref=f1e56]: 
+                - text: Возможности
+            - listitem [ref=f1e57]:
+              - link " Моды" [ref=f1e58] [cursor=pointer]:
+                - /url: /mods/
+                - generic [ref=f1e59]: 
+                - text: Моды
+            - listitem [ref=f1e60]:
+              - link " Карта" [ref=f1e61] [cursor=pointer]:
+                - /url: /map/
+                - generic [ref=f1e62]: 
+                - text: Карта
+        - generic [ref=f1e63]:
+          - heading "ПОМОЩЬ" [level=4] [ref=f1e64]
+          - list [ref=f1e65]:
+            - listitem [ref=f1e66]:
+              - link " Как начать" [ref=f1e67] [cursor=pointer]:
+                - /url: /start/
+                - generic [ref=f1e68]: 
+                - text: Как начать
+            - listitem [ref=f1e69]:
+              - link " Правила" [ref=f1e70] [cursor=pointer]:
+                - /url: /rules/
+                - generic [ref=f1e71]: 
+                - text: Правила
+            - listitem [ref=f1e72]:
+              - link " Поддержка" [ref=f1e73] [cursor=pointer]:
+                - /url: /support/
+                - generic [ref=f1e74]: 
+                - text: Поддержка
+        - generic [ref=f1e75]:
+          - heading "ПОДКЛЮЧИТЬСЯ" [level=4] [ref=f1e76]
+          - generic [ref=f1e77]:
+            - code [ref=f1e78]: play.amurkapve.ru:7004
+            - button "" [ref=f1e79] [cursor=pointer]
+      - paragraph [ref=f1e82]: © 2025–2026 AMURKA PVE.
+  - generic [ref=f1e83]:
+    - generic [ref=f1e84]: 
+    - generic [ref=f1e85]: Скопировано!
+  - text:    

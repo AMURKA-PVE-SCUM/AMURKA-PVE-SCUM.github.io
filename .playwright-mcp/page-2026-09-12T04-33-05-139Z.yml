@@ -1,0 +1,194 @@
+- generic [active] [ref=f27e1]:
+  - navigation [ref=f27e2]:
+    - generic [ref=f27e3]:
+      - link " AMURKA" [ref=f27e4] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f27e5]: 
+        - text: AMURKA
+      - list [ref=f27e7]:
+        - listitem [ref=f27e8]:
+          - link "ИГРА ▾" [ref=f27e9] [cursor=pointer]:
+            - /url: "#"
+            - text: ИГРА
+            - generic [ref=f27e10]: ▾
+        - listitem [ref=f27e11]:
+          - link "МИР ▾" [ref=f27e12] [cursor=pointer]:
+            - /url: "#"
+            - text: МИР
+            - generic [ref=f27e13]: ▾
+        - listitem [ref=f27e14]:
+          - link "LIVE ▾" [ref=f27e15] [cursor=pointer]:
+            - /url: "#"
+            - text: LIVE
+            - generic [ref=f27e16]: ▾
+        - listitem [ref=f27e17]:
+          - link "COMMUNITY ▾" [ref=f27e18] [cursor=pointer]:
+            - /url: "#"
+            - text: COMMUNITY
+            - generic [ref=f27e19]: ▾
+        - listitem [ref=f27e20]:
+          - link "ПОМОЩЬ ▾" [ref=f27e21] [cursor=pointer]:
+            - /url: "#"
+            - text: ПОМОЩЬ
+            - generic [ref=f27e22]: ▾
+      - generic [ref=f27e23]:
+        - generic [ref=f27e24]:
+          - generic [ref=f27e26]: ONLINE
+          - generic [ref=f27e27]: "7"
+        - link "PLAY" [ref=f27e28] [cursor=pointer]:
+          - /url: /start/
+  - main [ref=f27e29]:
+    - generic [ref=f27e30]:
+      - generic [ref=f27e31]:
+        - heading [level=1] [ref=f27e32]:
+          - strong [ref=f27e33]: DOMO
+          - text: SYSTEM
+        - paragraph [ref=f27e34]: Игровой помощник сервера AMURKA PVE
+        - generic [ref=f27e35]:
+          - generic [ref=f27e36]: "STATUS: ONLINE"
+          - generic [ref=f27e38]: "RESPONSE: <100MS"
+          - generic [ref=f27e40]: "COMMANDS: 20+"
+      - generic [ref=f27e42]:
+        - generic [ref=f27e43]: domo@amurka ~ /chat
+        - generic [ref=f27e48]:
+          - generic [ref=f27e49]: "> !стартпак"
+          - generic [ref=f27e50]: ✓ Стартпак выдан! Получи набор на складе.
+          - generic [ref=f27e51]: "> !дом"
+          - generic [ref=f27e52]: "✓ Дом TP activated. Координаты: D4-287"
+          - generic [ref=f27e53]: "> !телепорт D4"
+          - generic [ref=f27e54]: ✓ Телепорт в сектор D4. Задержка — 3 сек.
+          - generic [ref=f27e55]: "> !машины"
+          - generic [ref=f27e56]: "✓ Доступные машины: UAZ (45%), BTR (23%), Tank (12%)"
+          - generic [ref=f27e57]: "> !погода"
+          - generic [ref=f27e58]: "✓ Погода: Облачно, 18°C, ветер 12 км/ч"
+          - generic [ref=f27e59]: ">"
+      - generic [ref=f27e61]:
+        - generic [ref=f27e62]:
+          - generic [ref=f27e63]: 
+          - heading "СТАРТ" [level=3] [ref=f27e65]
+          - paragraph [ref=f27e66]: Получи стартовое снаряжение для новичка
+          - generic [ref=f27e67]:
+            - generic [ref=f27e68]: "!стартпак"
+            - generic [ref=f27e69]: "!новичок"
+        - generic [ref=f27e70]:
+          - generic [ref=f27e71]: 
+          - heading "ДОМ" [level=3] [ref=f27e73]
+          - paragraph [ref=f27e74]: Телепорт домой и управление домом
+          - generic [ref=f27e75]:
+            - generic [ref=f27e76]: "!дом"
+            - generic [ref=f27e77]: "!дом TP"
+            - generic [ref=f27e78]: "!дом удалить"
+        - generic [ref=f27e79]:
+          - generic [ref=f27e80]: 
+          - heading "ГАРАЖ" [level=3] [ref=f27e82]
+          - paragraph [ref=f27e83]: Вызов и парковка транспорта
+          - generic [ref=f27e84]:
+            - generic [ref=f27e85]: "!машины"
+            - generic [ref=f27e86]: "!машина"
+            - generic [ref=f27e87]: "!парковка"
+        - generic [ref=f27e88]:
+          - generic [ref=f27e89]: 
+          - heading "ПОГОДА" [level=3] [ref=f27e91]
+          - paragraph [ref=f27e92]: Текущая погода и время в мире
+          - generic [ref=f27e93]:
+            - generic [ref=f27e94]: "!погода"
+            - generic [ref=f27e95]: "!время"
+        - generic [ref=f27e96]:
+          - generic [ref=f27e97]: 
+          - heading "МАГАЗИН" [level=3] [ref=f27e99]
+          - paragraph [ref=f27e100]: Покупка предметов и проверка инвентаря
+          - generic [ref=f27e101]:
+            - generic [ref=f27e102]: "!магазин"
+            - generic [ref=f27e103]: "!купить"
+            - generic [ref=f27e104]: "!inventory"
+        - generic [ref=f27e105]:
+          - generic [ref=f27e106]: 
+          - heading "VIP" [level=3] [ref=f27e108]
+          - paragraph [ref=f27e109]: Привилегии, скины и VIP-наборы
+          - generic [ref=f27e110]:
+            - generic [ref=f27e111]: "!vip"
+            - generic [ref=f27e112]: "!скины"
+            - generic [ref=f27e113]: "!набор"
+      - generic [ref=f27e115]:
+        - heading "Как использовать" [level=2] [ref=f27e116]
+        - generic [ref=f27e117]: Набери в чате ! и название команды
+        - paragraph [ref=f27e118]: DOMO автоматически ответит в чате с результатом. Все команды работают прямо в игре — не нужно выходить из сервера.
+  - contentinfo [ref=f27e119]:
+    - generic [ref=f27e120]:
+      - generic [ref=f27e121]:
+        - generic [ref=f27e122]:
+          - link " AMURKA" [ref=f27e123] [cursor=pointer]:
+            - /url: /
+            - generic [ref=f27e124]: 
+            - text: AMURKA
+          - paragraph [ref=f27e126]: SCUM PVE сервер. Работаем с 25 июля 2025 года.
+          - generic [ref=f27e127]:
+            - generic [ref=f27e129]: ONLINE
+            - generic [ref=f27e130]: 7/100
+        - generic [ref=f27e131]:
+          - heading "ИГРА" [level=4] [ref=f27e132]
+          - list [ref=f27e133]:
+            - listitem [ref=f27e134]:
+              - link " Сервер" [ref=f27e135] [cursor=pointer]:
+                - /url: /server/
+                - generic [ref=f27e136]: 
+                - text: Сервер
+            - listitem [ref=f27e137]:
+              - link " Возможности" [ref=f27e138] [cursor=pointer]:
+                - /url: /features/
+                - generic [ref=f27e139]: 
+                - text: Возможности
+            - listitem [ref=f27e140]:
+              - link " Моды" [ref=f27e141] [cursor=pointer]:
+                - /url: /mods/
+                - generic [ref=f27e142]: 
+                - text: Моды
+            - listitem [ref=f27e143]:
+              - link " Карта" [ref=f27e144] [cursor=pointer]:
+                - /url: /map/
+                - generic [ref=f27e145]: 
+                - text: Карта
+        - generic [ref=f27e146]:
+          - heading "СООБЩЕСТВО" [level=4] [ref=f27e147]
+          - list [ref=f27e148]:
+            - listitem [ref=f27e149]:
+              - link " Новости" [ref=f27e150] [cursor=pointer]:
+                - /url: /news/
+                - generic [ref=f27e151]: 
+                - text: Новости
+            - listitem [ref=f27e152]:
+              - link " Галерея" [ref=f27e153] [cursor=pointer]:
+                - /url: /gallery/
+                - generic [ref=f27e154]: 
+                - text: Галерея
+            - listitem [ref=f27e155]:
+              - link " Стримеры" [ref=f27e156] [cursor=pointer]:
+                - /url: /streamers/
+                - generic [ref=f27e157]: 
+                - text: Стримеры
+            - listitem [ref=f27e158]:
+              - link " Wargm" [ref=f27e159] [cursor=pointer]:
+                - /url: https://wargm.ru/server/77385
+                - generic [ref=f27e160]: 
+                - text: Wargm
+            - listitem [ref=f27e161]:
+              - link " LOLKA" [ref=f27e162] [cursor=pointer]:
+                - /url: https://lolka.gg/xq3Mo6u
+                - generic [ref=f27e163]: 
+                - text: LOLKA
+        - generic [ref=f27e164]:
+          - heading "ПОДКЛЮЧИТЬСЯ" [level=4] [ref=f27e165]
+          - generic [ref=f27e166]:
+            - code [ref=f27e167]: play.amurkapve.ru:7004
+            - button "" [ref=f27e168] [cursor=pointer]
+          - link " Скачать лаунчер" [ref=f27e171] [cursor=pointer]:
+            - /url: https://github.com/AMURKA-PVE-SCUM/AMURKA-PVE-Launcher/releases
+            - generic [ref=f27e172]: 
+            - text: Скачать лаунчер
+      - generic [ref=f27e173]:
+        - paragraph [ref=f27e174]: © 2025–2026 AMURKA PVE. Все права защищены.
+        - generic [ref=f27e175]:
+          - link "Правила" [ref=f27e176] [cursor=pointer]:
+            - /url: /rules/
+          - link "Поддержка" [ref=f27e177] [cursor=pointer]:
+            - /url: /support/

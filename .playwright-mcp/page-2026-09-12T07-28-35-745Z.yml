@@ -1,0 +1,220 @@
+- generic [active] [ref=f17e1]:
+  - navigation [ref=f17e2]:
+    - generic [ref=f17e3]:
+      - link " AMURKA" [ref=f17e4] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f17e5]: 
+        - text: AMURKA
+      - list [ref=f17e7]:
+        - listitem [ref=f17e8]:
+          - link "ИГРА ▾" [ref=f17e9] [cursor=pointer]:
+            - /url: "#"
+            - text: ИГРА
+            - generic [ref=f17e10]: ▾
+        - listitem [ref=f17e11]:
+          - link "МИР ▾" [ref=f17e12] [cursor=pointer]:
+            - /url: "#"
+            - text: МИР
+            - generic [ref=f17e13]: ▾
+        - listitem [ref=f17e14]:
+          - link "LIVE ▾" [ref=f17e15] [cursor=pointer]:
+            - /url: "#"
+            - text: LIVE
+            - generic [ref=f17e16]: ▾
+        - listitem [ref=f17e17]:
+          - link "COMMUNITY ▾" [ref=f17e18] [cursor=pointer]:
+            - /url: "#"
+            - text: COMMUNITY
+            - generic [ref=f17e19]: ▾
+        - listitem [ref=f17e20]:
+          - link "ПОМОЩЬ ▾" [ref=f17e21] [cursor=pointer]:
+            - /url: "#"
+            - text: ПОМОЩЬ
+            - generic [ref=f17e22]: ▾
+      - generic [ref=f17e23]:
+        - generic [ref=f17e24]:
+          - generic [ref=f17e26]: ONLINE
+          - generic [ref=f17e27]: "6"
+        - link "PLAY" [ref=f17e28] [cursor=pointer]:
+          - /url: /start/
+  - generic [ref=f17e30]:
+    - heading "Игроки AMURKA" [level=1] [ref=f17e31]
+    - paragraph [ref=f17e32]: Каталог игроков сервера
+  - generic [ref=f17e34]:
+    - textbox "Поиск игрока..." [ref=f17e36]
+    - generic [ref=f17e86]:
+      - generic [ref=f17e87]:
+        - generic [ref=f17e88]:
+          - generic [ref=f17e89]: 
+          - generic [ref=f17e91]:
+            - generic [ref=f17e92]: Alina
+            - generic [ref=f17e93]: ONLINE
+        - generic [ref=f17e95]:
+          - generic [ref=f17e96]:
+            - generic [ref=f17e97]: ВРЕМЯ
+            - generic [ref=f17e98]: 0h
+          - generic [ref=f17e99]:
+            - generic [ref=f17e100]: СЛАВА
+            - generic [ref=f17e101]: "3318"
+          - generic [ref=f17e102]:
+            - generic [ref=f17e103]: БАЛАНС
+            - generic [ref=f17e104]: "982332"
+          - generic [ref=f17e105]:
+            - generic [ref=f17e106]: ЗОЛОТО
+            - generic [ref=f17e107]: "445"
+      - generic [ref=f17e108]:
+        - generic [ref=f17e109]:
+          - generic [ref=f17e110]: 
+          - generic [ref=f17e112]:
+            - generic [ref=f17e113]: Mazay
+            - generic [ref=f17e114]: ONLINE
+        - generic [ref=f17e116]:
+          - generic [ref=f17e117]:
+            - generic [ref=f17e118]: ВРЕМЯ
+            - generic [ref=f17e119]: 0h
+          - generic [ref=f17e120]:
+            - generic [ref=f17e121]: СЛАВА
+            - generic [ref=f17e122]: "2205"
+          - generic [ref=f17e123]:
+            - generic [ref=f17e124]: БАЛАНС
+            - generic [ref=f17e125]: "93113"
+          - generic [ref=f17e126]:
+            - generic [ref=f17e127]: ЗОЛОТО
+            - generic [ref=f17e128]: "470"
+      - generic [ref=f17e129]:
+        - generic [ref=f17e130]:
+          - generic [ref=f17e131]: 
+          - generic [ref=f17e133]:
+            - generic [ref=f17e134]: Victor_Vilkouskas
+            - generic [ref=f17e135]: ONLINE
+        - generic [ref=f17e137]:
+          - generic [ref=f17e138]:
+            - generic [ref=f17e139]: ВРЕМЯ
+            - generic [ref=f17e140]: 0h
+          - generic [ref=f17e141]:
+            - generic [ref=f17e142]: СЛАВА
+            - generic [ref=f17e143]: "1081"
+          - generic [ref=f17e144]:
+            - generic [ref=f17e145]: БАЛАНС
+            - generic [ref=f17e146]: "1229877"
+          - generic [ref=f17e147]:
+            - generic [ref=f17e148]: ЗОЛОТО
+            - generic [ref=f17e149]: "381"
+      - generic [ref=f17e150]:
+        - generic [ref=f17e151]:
+          - generic [ref=f17e152]: 
+          - generic [ref=f17e154]:
+            - generic [ref=f17e155]: Niga
+            - generic [ref=f17e156]: ONLINE
+        - generic [ref=f17e158]:
+          - generic [ref=f17e159]:
+            - generic [ref=f17e160]: ВРЕМЯ
+            - generic [ref=f17e161]: 0h
+          - generic [ref=f17e162]:
+            - generic [ref=f17e163]: СЛАВА
+            - generic [ref=f17e164]: "2410"
+          - generic [ref=f17e165]:
+            - generic [ref=f17e166]: БАЛАНС
+            - generic [ref=f17e167]: "917012"
+          - generic [ref=f17e168]:
+            - generic [ref=f17e169]: ЗОЛОТО
+            - generic [ref=f17e170]: "42"
+      - generic [ref=f17e171]:
+        - generic [ref=f17e172]:
+          - generic [ref=f17e173]: 
+          - generic [ref=f17e175]:
+            - generic [ref=f17e176]: Ольга
+            - generic [ref=f17e177]: ONLINE
+        - generic [ref=f17e179]:
+          - generic [ref=f17e180]:
+            - generic [ref=f17e181]: ВРЕМЯ
+            - generic [ref=f17e182]: 0h
+          - generic [ref=f17e183]:
+            - generic [ref=f17e184]: СЛАВА
+            - generic [ref=f17e185]: "419"
+          - generic [ref=f17e186]:
+            - generic [ref=f17e187]: БАЛАНС
+            - generic [ref=f17e188]: "903200"
+          - generic [ref=f17e189]:
+            - generic [ref=f17e190]: ЗОЛОТО
+            - generic [ref=f17e191]: "90"
+      - generic [ref=f17e192]:
+        - generic [ref=f17e193]:
+          - generic [ref=f17e194]: 
+          - generic [ref=f17e196]:
+            - generic [ref=f17e197]: bolollo
+            - generic [ref=f17e198]: ONLINE
+        - generic [ref=f17e200]:
+          - generic [ref=f17e201]:
+            - generic [ref=f17e202]: ВРЕМЯ
+            - generic [ref=f17e203]: 0h
+          - generic [ref=f17e204]:
+            - generic [ref=f17e205]: СЛАВА
+            - generic [ref=f17e206]: "1702"
+          - generic [ref=f17e207]:
+            - generic [ref=f17e208]: БАЛАНС
+            - generic [ref=f17e209]: "657494"
+          - generic [ref=f17e210]:
+            - generic [ref=f17e211]: ЗОЛОТО
+            - generic [ref=f17e212]: "95"
+    - text: 
+  - contentinfo [ref=f17e40]:
+    - generic [ref=f17e41]:
+      - generic [ref=f17e42]:
+        - generic [ref=f17e43]:
+          - link " AMURKA" [ref=f17e44] [cursor=pointer]:
+            - /url: /
+            - generic [ref=f17e45]: 
+            - text: AMURKA
+          - paragraph [ref=f17e47]: SCUM PVE сервер. Работаем с 25 июля 2025 года.
+        - generic [ref=f17e48]:
+          - heading "ИГРА" [level=4] [ref=f17e49]
+          - list [ref=f17e50]:
+            - listitem [ref=f17e51]:
+              - link " Сервер" [ref=f17e52] [cursor=pointer]:
+                - /url: /server/
+                - generic [ref=f17e53]: 
+                - text: Сервер
+            - listitem [ref=f17e54]:
+              - link " Возможности" [ref=f17e55] [cursor=pointer]:
+                - /url: /features/
+                - generic [ref=f17e56]: 
+                - text: Возможности
+            - listitem [ref=f17e57]:
+              - link " Моды" [ref=f17e58] [cursor=pointer]:
+                - /url: /mods/
+                - generic [ref=f17e59]: 
+                - text: Моды
+            - listitem [ref=f17e60]:
+              - link " Карта" [ref=f17e61] [cursor=pointer]:
+                - /url: /map/
+                - generic [ref=f17e62]: 
+                - text: Карта
+        - generic [ref=f17e63]:
+          - heading "ПОМОЩЬ" [level=4] [ref=f17e64]
+          - list [ref=f17e65]:
+            - listitem [ref=f17e66]:
+              - link " Как начать" [ref=f17e67] [cursor=pointer]:
+                - /url: /start/
+                - generic [ref=f17e68]: 
+                - text: Как начать
+            - listitem [ref=f17e69]:
+              - link " Правила" [ref=f17e70] [cursor=pointer]:
+                - /url: /rules/
+                - generic [ref=f17e71]: 
+                - text: Правила
+            - listitem [ref=f17e72]:
+              - link " Поддержка" [ref=f17e73] [cursor=pointer]:
+                - /url: /support/
+                - generic [ref=f17e74]: 
+                - text: Поддержка
+        - generic [ref=f17e75]:
+          - heading "ПОДКЛЮЧИТЬСЯ" [level=4] [ref=f17e76]
+          - generic [ref=f17e77]:
+            - code [ref=f17e78]: play.amurkapve.ru:7004
+            - button "" [ref=f17e79] [cursor=pointer]
+      - paragraph [ref=f17e82]: © 2025–2026 AMURKA PVE.
+  - generic [ref=f17e83]:
+    - generic [ref=f17e84]: 
+    - generic [ref=f17e85]: Скопировано!
+  - text:    

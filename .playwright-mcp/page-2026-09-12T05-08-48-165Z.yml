@@ -1,0 +1,340 @@
+- generic [active] [ref=f37e1]:
+  - navigation [ref=f37e2]:
+    - generic [ref=f37e3]:
+      - link " AMURKA" [ref=f37e4] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f37e5]: 
+        - text: AMURKA
+      - list [ref=f37e7]:
+        - listitem [ref=f37e8]:
+          - link "ИГРА ▾" [ref=f37e9] [cursor=pointer]:
+            - /url: "#"
+            - text: ИГРА
+            - generic [ref=f37e10]: ▾
+        - listitem [ref=f37e11]:
+          - link "МИР ▾" [ref=f37e12] [cursor=pointer]:
+            - /url: "#"
+            - text: МИР
+            - generic [ref=f37e13]: ▾
+        - listitem [ref=f37e14]:
+          - link "LIVE ▾" [ref=f37e15] [cursor=pointer]:
+            - /url: "#"
+            - text: LIVE
+            - generic [ref=f37e16]: ▾
+        - listitem [ref=f37e17]:
+          - link "COMMUNITY ▾" [ref=f37e18] [cursor=pointer]:
+            - /url: "#"
+            - text: COMMUNITY
+            - generic [ref=f37e19]: ▾
+        - listitem [ref=f37e20]:
+          - link "ПОМОЩЬ ▾" [ref=f37e21] [cursor=pointer]:
+            - /url: "#"
+            - text: ПОМОЩЬ
+            - generic [ref=f37e22]: ▾
+      - generic [ref=f37e23]:
+        - generic [ref=f37e24]:
+          - generic [ref=f37e26]: ONLINE
+          - generic [ref=f37e27]: "7"
+        - link "PLAY" [ref=f37e28] [cursor=pointer]:
+          - /url: /start/
+  - generic [ref=f37e29]:
+    - generic [ref=f37e57]:
+      - generic [ref=f37e58]: SCUM PVE SERVER
+      - heading "AMURKA PVE" [level=1] [ref=f37e60]
+      - paragraph [ref=f37e61]: Другой SCUM начинается здесь. 60+ модов, живая экономика, NPC и роботы на острове.
+      - generic [ref=f37e62]:
+        - link " Начать играть" [ref=f37e63] [cursor=pointer]:
+          - /url: /start/
+          - generic [ref=f37e64]: 
+          - text: Начать играть
+        - link " Исследовать мир" [ref=f37e65] [cursor=pointer]:
+          - /url: /features/
+          - generic [ref=f37e66]: 
+          - text: Исследовать мир
+      - generic [ref=f37e67]:
+        - generic [ref=f37e68]:
+          - text: "7"
+          - generic [ref=f37e69]: Онлайн
+        - generic [ref=f37e70]:
+          - text: "100"
+          - generic [ref=f37e71]: Слотов
+        - generic [ref=f37e72]:
+          - text: 60+
+          - generic [ref=f37e73]: Модов
+        - generic [ref=f37e74]:
+          - text: PVE
+          - generic [ref=f37e75]: Игра
+    - generic [ref=f37e76]: Scroll to explore
+  - generic [ref=f37e81]:
+    - generic [ref=f37e82]:
+      - generic [ref=f37e83]: "0"
+      - generic [ref=f37e84]: MODS
+    - generic [ref=f37e85]:
+      - generic [ref=f37e86]: "0"
+      - generic [ref=f37e87]: PLAYER SLOTS
+    - generic [ref=f37e88]:
+      - generic [ref=f37e89]: PVE
+      - generic [ref=f37e90]: GAMEPLAY
+    - generic [ref=f37e91]:
+      - generic [ref=f37e92]: 24/7
+      - generic [ref=f37e93]: SERVER
+  - generic [ref=f37e95]:
+    - generic [ref=f37e96]:
+      - heading "Почему AMURKA" [level=2] [ref=f37e97]
+      - paragraph [ref=f37e98]: Не «MOD» в названии — реальные модификации, которые меняют каждый аспект игры.
+    - generic [ref=f37e99]:
+      - generic [ref=f37e100]:
+        - generic [ref=f37e101]: "01"
+        - heading "MODDED SURVIVAL" [level=3] [ref=f37e102]
+        - paragraph [ref=f37e103]: "60+ настоящих модов: кастомное оружие, скины, коптильня, мебель, генератор на всю базу. Каждый мод — реальный артефакт, а не «х5 лут» в конфиге."
+      - generic [ref=f37e104]:
+        - generic [ref=f37e105]: "02"
+        - heading "FREEDOM" [level=3] [ref=f37e106]
+        - paragraph [ref=f37e107]: Транспорт без урона, +50 км/ч к скорости, рюкзаки до 2000 кг, стаки патронов ×100. Свобода передвижения и перевозки без компромиссов.
+      - generic [ref=f37e108]:
+        - generic [ref=f37e109]: "03"
+        - heading "LIVING WORLD" [level=3] [ref=f37e110]
+        - paragraph [ref=f37e111]: NPC с квестами и лутом, роботы в секторах D4, B2, A4, события по расписанию, внутренняя экономика с торговцами. Мир живёт своей жизнью.
+      - generic [ref=f37e112]:
+        - generic [ref=f37e113]: "04"
+        - heading "DOMO" [level=3] [ref=f37e114]
+        - paragraph [ref=f37e115]: Игровой помощник прямо в чате. Стартовые наборы, телепорты, гараж, магазин, голосование за погоду — всё без выхода из игры.
+  - generic [ref=f37e118]:
+    - generic [ref=f37e119]:
+      - img "Карта AMURKA" [ref=f37e120]
+      - link " Открыть карту" [ref=f37e122] [cursor=pointer]:
+        - /url: /map/
+        - generic [ref=f37e123]: 
+        - text: Открыть карту
+    - generic [ref=f37e124]:
+      - heading "Остров AMURKA" [level=2] [ref=f37e125]
+      - paragraph [ref=f37e126]: Исследуй. Строй. Торгуй. Выживай. Остров, который живёт своей жизнью — с NPC, роботами, торговцами и событиями.
+      - generic [ref=f37e127]:
+        - generic [ref=f37e128]:
+          - generic [ref=f37e129]: 
+          - text: POI
+        - generic [ref=f37e130]:
+          - generic [ref=f37e131]: 
+          - text: Торговцы
+        - generic [ref=f37e132]:
+          - generic [ref=f37e133]: 
+          - text: События
+        - generic [ref=f37e134]:
+          - generic [ref=f37e135]: 
+          - text: Роботы
+        - generic [ref=f37e136]:
+          - generic [ref=f37e137]: 
+          - text: Безопасные зоны
+      - link " Открыть карту" [ref=f37e138] [cursor=pointer]:
+        - /url: /map/
+        - generic [ref=f37e139]: 
+        - text: Открыть карту
+  - generic [ref=f37e141]:
+    - generic [ref=f37e142]:
+      - heading "LIVE SERVER" [level=2] [ref=f37e143]
+      - paragraph [ref=f37e144]: Что происходит на сервере прямо сейчас.
+    - generic [ref=f37e145]:
+      - generic [ref=f37e146]:
+        - generic [ref=f37e147]: SERVER STATUS
+        - generic [ref=f37e149]:
+          - generic [ref=f37e150]:
+            - generic [ref=f37e151]: "7"
+            - generic [ref=f37e152]: Игроков
+          - generic [ref=f37e153]:
+            - generic [ref=f37e154]: "100"
+            - generic [ref=f37e155]: Слотов
+          - generic [ref=f37e156]: Версия
+        - generic [ref=f37e159] [cursor=pointer]:
+          - generic [ref=f37e160]: IP
+          - generic [ref=f37e161]: play.amurkapve.ru:7004
+          - generic [ref=f37e162]: 
+      - generic [ref=f37e163]:
+        - heading " Recent Activity" [level=4] [ref=f37e164]:
+          - generic [ref=f37e165]: 
+          - text: Recent Activity
+        - list [ref=f37e166]:
+          - listitem [ref=f37e167]:
+            - generic [ref=f37e168]: 14:08
+            - generic [ref=f37e169]: SERVER
+            - generic [ref=f37e170]: Сервер онлайн
+          - listitem [ref=f37e171]:
+            - generic [ref=f37e172]: 14:08
+            - generic [ref=f37e173]: PLAYER
+            - generic [ref=f37e174]: 7 игроков на сервере
+          - listitem [ref=f37e175]:
+            - generic [ref=f37e176]: —
+            - generic [ref=f37e177]: EVENT
+            - generic [ref=f37e178]: "Роботы активны: D4, B2, A4"
+  - generic [ref=f37e180]:
+    - generic [ref=f37e181]:
+      - heading "60+ MODS" [level=2] [ref=f37e182]
+      - paragraph [ref=f37e183]: "Три категории: ядро геймплея, скины и оружие. Ставь лаунчер — и играй так, как в ванили невозможно."
+    - generic [ref=f37e184]:
+      - generic [ref=f37e185]:
+        - generic [ref=f37e186]: "29"
+        - generic [ref=f37e187]: CORE
+      - generic [ref=f37e188]:
+        - generic [ref=f37e189]: "27"
+        - generic [ref=f37e190]: SKINS
+      - generic [ref=f37e191]:
+        - generic [ref=f37e192]: 3+
+        - generic [ref=f37e193]: WEAPONS
+    - link " Все моды " [ref=f37e195] [cursor=pointer]:
+      - /url: /mods/
+      - generic [ref=f37e196]: 
+      - text: Все моды
+      - generic [ref=f37e197]: 
+  - generic [ref=f37e199]:
+    - heading "Последние новости" [level=2] [ref=f37e201]
+    - generic [ref=f37e202]:
+      - generic [ref=f37e203]:
+        - generic [ref=f37e204]:
+          - generic [ref=f37e205]:
+            - generic [ref=f37e206]: 23.08.2026
+            - generic [ref=f37e207]: Новость
+          - heading "Обновление адреса сервера" [level=3] [ref=f37e208]
+          - paragraph [ref=f37e209]: Ребята, отличные новости! Мы сделали наш сервер ещё удобнее и профессиональнее.Теперь подключаться к AMURKA PVE MOD стало проще простого — забудьте про сложные цифры.Новый адрес для подключения:play.amurkapve.ru:7004
+        - generic [ref=f37e211]: Подробнее→
+      - generic [ref=f37e212]:
+        - generic [ref=f37e213]:
+          - generic [ref=f37e214]:
+            - generic [ref=f37e215]: 22.08.2026
+            - generic [ref=f37e216]: Новость
+          - heading "Почасовая награда за онлайн" [level=3] [ref=f37e217]
+          - paragraph [ref=f37e218]: Каждый час на сервере — это гарантированная прибыль! Просто играйте и получайте каждый час:• 5 золота• 1000 игровой валюты• 10 очков славыЧем дольше играете — тем больше копите. Никаких условий, просто будьте в игре!
+        - generic [ref=f37e220]: Подробнее→
+      - generic [ref=f37e221]:
+        - generic [ref=f37e222]:
+          - generic [ref=f37e223]:
+            - generic [ref=f37e224]: 15.06.2026
+            - generic [ref=f37e225]: Новость
+          - heading "Постоянный квест от администрации" [level=3] [ref=f37e226]
+          - paragraph [ref=f37e227]: Принеси администратору полный железный ящик чипов с NPC.Награда (на выбор):• 5 золотых модулей памяти• 2 шприца слёз феникса (по 3 дозы)
+        - generic [ref=f37e229]: Подробнее→
+  - generic [ref=f37e231]:
+    - generic [ref=f37e232]:
+      - heading "AMURKA MOMENTS" [level=2] [ref=f37e233]
+      - paragraph [ref=f37e234]: Скриншоты наших игроков. Присоединяйся!
+    - generic [ref=f37e235]:
+      - generic [ref=f37e236] [cursor=pointer]:
+        - img "Screenshot by annygelyator" [ref=f37e237]
+        - generic [ref=f37e238]: 
+      - generic [ref=f37e240] [cursor=pointer]:
+        - img "Screenshot by annygelyator" [ref=f37e241]
+        - generic [ref=f37e242]: 
+      - generic [ref=f37e244] [cursor=pointer]:
+        - img "Screenshot by alinka65" [ref=f37e245]
+        - generic [ref=f37e246]: 
+      - generic [ref=f37e248] [cursor=pointer]:
+        - img "Screenshot by alinka65" [ref=f37e249]
+        - generic [ref=f37e250]: 
+      - generic [ref=f37e252] [cursor=pointer]:
+        - img "Screenshot by alinka65" [ref=f37e253]
+        - generic [ref=f37e254]: 
+      - generic [ref=f37e256] [cursor=pointer]:
+        - img "Screenshot by alinka65" [ref=f37e257]
+        - generic [ref=f37e258]: 
+      - generic [ref=f37e260] [cursor=pointer]:
+        - img "Screenshot by alinka65" [ref=f37e261]
+        - generic [ref=f37e262]: 
+      - generic [ref=f37e264] [cursor=pointer]:
+        - img "Screenshot by morid" [ref=f37e265]
+        - generic [ref=f37e266]: 
+  - generic [ref=f37e269]:
+    - heading "Готов выживать?" [level=2] [ref=f37e270]
+    - generic [ref=f37e271] [cursor=pointer]:
+      - generic [ref=f37e272]: SERVER
+      - generic [ref=f37e273]: play.amurkapve.ru:7004
+      - generic [ref=f37e274]: 
+    - generic [ref=f37e275]:
+      - link " Скачать лаунчер" [ref=f37e276] [cursor=pointer]:
+        - /url: https://github.com/AMURKA-PVE-SCUM/AMURKA-PVE-Launcher/releases
+        - generic [ref=f37e277]: 
+        - text: Скачать лаунчер
+      - link " Как начать" [ref=f37e278] [cursor=pointer]:
+        - /url: /start/
+        - generic [ref=f37e279]: 
+        - text: Как начать
+  - contentinfo [ref=f37e280]:
+    - generic [ref=f37e281]:
+      - generic [ref=f37e282]:
+        - generic [ref=f37e283]:
+          - link " AMURKA" [ref=f37e284] [cursor=pointer]:
+            - /url: /
+            - generic [ref=f37e285]: 
+            - text: AMURKA
+          - paragraph [ref=f37e287]: SCUM PVE сервер. Работаем с 25 июля 2025 года.
+          - generic [ref=f37e288]:
+            - generic [ref=f37e290]: ONLINE
+            - generic [ref=f37e291]: 7/100
+        - generic [ref=f37e292]:
+          - heading "ИГРА" [level=4] [ref=f37e293]
+          - list [ref=f37e294]:
+            - listitem [ref=f37e295]:
+              - link " Сервер" [ref=f37e296] [cursor=pointer]:
+                - /url: /server/
+                - generic [ref=f37e297]: 
+                - text: Сервер
+            - listitem [ref=f37e298]:
+              - link " Возможности" [ref=f37e299] [cursor=pointer]:
+                - /url: /features/
+                - generic [ref=f37e300]: 
+                - text: Возможности
+            - listitem [ref=f37e301]:
+              - link " Моды" [ref=f37e302] [cursor=pointer]:
+                - /url: /mods/
+                - generic [ref=f37e303]: 
+                - text: Моды
+            - listitem [ref=f37e304]:
+              - link " Карта" [ref=f37e305] [cursor=pointer]:
+                - /url: /map/
+                - generic [ref=f37e306]: 
+                - text: Карта
+        - generic [ref=f37e307]:
+          - heading "СООБЩЕСТВО" [level=4] [ref=f37e308]
+          - list [ref=f37e309]:
+            - listitem [ref=f37e310]:
+              - link " Новости" [ref=f37e311] [cursor=pointer]:
+                - /url: /news/
+                - generic [ref=f37e312]: 
+                - text: Новости
+            - listitem [ref=f37e313]:
+              - link " Галерея" [ref=f37e314] [cursor=pointer]:
+                - /url: /gallery/
+                - generic [ref=f37e315]: 
+                - text: Галерея
+            - listitem [ref=f37e316]:
+              - link " Стримеры" [ref=f37e317] [cursor=pointer]:
+                - /url: /streamers/
+                - generic [ref=f37e318]: 
+                - text: Стримеры
+            - listitem [ref=f37e319]:
+              - link " Wargm" [ref=f37e320] [cursor=pointer]:
+                - /url: https://wargm.ru/server/77385
+                - generic [ref=f37e321]: 
+                - text: Wargm
+            - listitem [ref=f37e322]:
+              - link " LOLKA" [ref=f37e323] [cursor=pointer]:
+                - /url: https://lolka.gg/xq3Mo6u
+                - generic [ref=f37e324]: 
+                - text: LOLKA
+        - generic [ref=f37e325]:
+          - heading "ПОДКЛЮЧИТЬСЯ" [level=4] [ref=f37e326]
+          - generic [ref=f37e327]:
+            - code [ref=f37e328]: play.amurkapve.ru:7004
+            - button "" [ref=f37e329] [cursor=pointer]
+          - link " Скачать лаунчер" [ref=f37e332] [cursor=pointer]:
+            - /url: https://github.com/AMURKA-PVE-SCUM/AMURKA-PVE-Launcher/releases
+            - generic [ref=f37e333]: 
+            - text: Скачать лаунчер
+      - generic [ref=f37e334]:
+        - paragraph [ref=f37e335]: © 2025–2026 AMURKA PVE. Все права защищены.
+        - generic [ref=f37e336]:
+          - link "Правила" [ref=f37e337] [cursor=pointer]:
+            - /url: /rules/
+          - link "Поддержка" [ref=f37e338] [cursor=pointer]:
+            - /url: /support/
+  - generic [ref=f37e339]:
+    - generic [ref=f37e340]: 
+    - generic [ref=f37e341]: Скопировано!
+  - text:    
