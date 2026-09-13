@@ -27,7 +27,7 @@
       "playTimeSeconds": 22600,
       "money": 18315,
       "gold": 75,
-      "fame": 394,
+      "fame": 395,
       "isOnline": true
     },
     {
@@ -54,11 +54,11 @@
       "rank": 6,
       "steamId": "76561198256601130",
       "name": "Clumsy",
-      "playTimeSeconds": 17062,
+      "playTimeSeconds": 19625,
       "money": 81465,
       "gold": 20,
       "fame": 329,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 7,
@@ -95,9 +95,9 @@
       "steamId": "76561199580351165",
       "name": "ШРинат",
       "playTimeSeconds": 12505,
-      "money": 6884330,
-      "gold": 3786,
-      "fame": 26537,
+      "money": 6885330,
+      "gold": 3791,
+      "fame": 26548,
       "isOnline": true
     },
     {
@@ -132,6 +132,16 @@
     },
     {
       "rank": 14,
+      "steamId": "76561199189470290",
+      "name": "Konffetka",
+      "playTimeSeconds": 11237,
+      "money": 1379364,
+      "gold": 191,
+      "fame": 38994,
+      "isOnline": false
+    },
+    {
+      "rank": 15,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "playTimeSeconds": 11041,
@@ -141,7 +151,7 @@
       "isOnline": true
     },
     {
-      "rank": 15,
+      "rank": 16,
       "steamId": "76561199000739219",
       "name": "Yakytenok",
       "playTimeSeconds": 10797,
@@ -151,7 +161,7 @@
       "isOnline": false
     },
     {
-      "rank": 16,
+      "rank": 17,
       "steamId": "76561198811331291",
       "name": "Stallgrim",
       "playTimeSeconds": 10476,
@@ -159,16 +169,6 @@
       "gold": 10,
       "fame": 35,
       "isOnline": false
-    },
-    {
-      "rank": 17,
-      "steamId": "76561199189470290",
-      "name": "Konffetka",
-      "playTimeSeconds": 9584,
-      "money": 1379364,
-      "gold": 191,
-      "fame": 38994,
-      "isOnline": true
     },
     {
       "rank": 18,
@@ -201,5 +201,5 @@
       "isOnline": true
     }
   ],
-  "updated": "2026-09-13T08:59:16.021Z"
+  "updated": "2026-09-13T09:01:16.037Z"
 }
