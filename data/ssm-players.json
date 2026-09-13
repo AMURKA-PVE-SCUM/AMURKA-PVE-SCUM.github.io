@@ -1,10 +1,10 @@
 {
-  "online": 3,
+  "online": 4,
   "players": [
     {
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "sessionSeconds": 34,
+      "sessionSeconds": 94,
       "playTimeSeconds": 42096,
       "money": 21215,
       "gold": 95,
@@ -14,7 +14,7 @@
     {
       "steamId": "76561198230911236",
       "name": "TOR",
-      "sessionSeconds": 19,
+      "sessionSeconds": 79,
       "playTimeSeconds": 7007,
       "money": 1201102,
       "gold": 120,
@@ -24,13 +24,23 @@
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 1,
+      "sessionSeconds": 61,
       "playTimeSeconds": 18660,
       "money": 1195248,
       "gold": 73,
       "fame": 3302,
       "rank": 19
+    },
+    {
+      "steamId": "76561199244636054",
+      "name": "_PsixichkA_",
+      "sessionSeconds": 55,
+      "playTimeSeconds": 7550,
+      "money": 1063294,
+      "gold": 110,
+      "fame": 445,
+      "rank": 30
     }
   ],
-  "updated": "2026-09-13T15:04:21.185Z"
+  "updated": "2026-09-13T15:05:21.197Z"
 }
