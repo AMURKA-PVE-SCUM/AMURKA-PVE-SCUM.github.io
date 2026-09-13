@@ -2,6 +2,16 @@
   "leaderboard": [
     {
       "rank": 1,
+      "steamId": "76561198128211851",
+      "name": "zloy",
+      "playTimeSeconds": 41446,
+      "money": 3812703,
+      "gold": 228,
+      "fame": 20978,
+      "isOnline": false
+    },
+    {
+      "rank": 2,
       "steamId": "76561198082947468",
       "name": "bolollo",
       "playTimeSeconds": 36065,
@@ -11,7 +21,7 @@
       "isOnline": false
     },
     {
-      "rank": 2,
+      "rank": 3,
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
       "playTimeSeconds": 35920,
@@ -21,7 +31,7 @@
       "isOnline": true
     },
     {
-      "rank": 3,
+      "rank": 4,
       "steamId": "76561198256601130",
       "name": "Clumsy",
       "playTimeSeconds": 33680,
@@ -29,16 +39,6 @@
       "gold": 35,
       "fame": 457,
       "isOnline": false
-    },
-    {
-      "rank": 4,
-      "steamId": "76561198128211851",
-      "name": "zloy",
-      "playTimeSeconds": 33506,
-      "money": 3812703,
-      "gold": 228,
-      "fame": 20978,
-      "isOnline": true
     },
     {
       "rank": 5,
@@ -167,7 +167,7 @@
       "playTimeSeconds": 14044,
       "money": 1169223,
       "gold": 68,
-      "fame": 3132,
+      "fame": 3133,
       "isOnline": true
     },
     {
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-13T14:13:20.818Z"
+  "updated": "2026-09-13T14:14:20.819Z"
 }
