@@ -129,7 +129,7 @@
     {
       "entityId": 21165876,
       "asset": "BPC_Dirtbike",
-      "x": -604126,
+      "x": -604125,
       "y": -491566,
       "z": 15581,
       "ownerName": "Завитинск",
@@ -219,8 +219,8 @@
     {
       "entityId": 24233970,
       "asset": "BPC_Rager",
-      "x": 313588,
-      "y": -206046,
+      "x": 313591,
+      "y": -206056,
       "z": 15250,
       "ownerName": "7_62",
       "customName": null
@@ -228,8 +228,8 @@
     {
       "entityId": 24241963,
       "asset": "BPC_Rager",
-      "x": -325445,
-      "y": 3596,
+      "x": -321606,
+      "y": 3865,
       "z": 35726,
       "ownerName": "ШРинат",
       "customName": null
@@ -310,7 +310,7 @@
       "entityId": 25793858,
       "asset": "BPC_Kinglet_Mariner",
       "x": -604925,
-      "y": -490710,
+      "y": -490711,
       "z": 15940,
       "ownerName": "Завитинск",
       "customName": null
@@ -400,7 +400,7 @@
       "entityId": 27125762,
       "asset": "BPC_Rager",
       "x": 235804,
-      "y": -198809,
+      "y": -198810,
       "z": 22191,
       "ownerName": "Rostov",
       "customName": null
@@ -417,9 +417,9 @@
     {
       "entityId": 27130608,
       "asset": "BPC_Laika",
-      "x": -661129,
-      "y": -412113,
-      "z": 18462,
+      "x": -603699,
+      "y": -517538,
+      "z": 9624,
       "ownerName": "ADA",
       "customName": null
     },
@@ -525,8 +525,8 @@
     {
       "entityId": 28204355,
       "asset": "BPC_Rager",
-      "x": -601114,
-      "y": -500968,
+      "x": -601112,
+      "y": -500969,
       "z": 14321,
       "ownerName": "Черкес",
       "customName": null
@@ -696,9 +696,9 @@
     {
       "entityId": 28880943,
       "asset": "BPC_SidecarBike",
-      "x": 222528,
-      "y": -189397,
-      "z": 23276,
+      "x": 222543,
+      "y": -189395,
+      "z": 23275,
       "ownerName": "ПОТАСКУШКА",
       "customName": null
     },
@@ -750,8 +750,8 @@
     {
       "entityId": 29033924,
       "asset": "BPC_RIS",
-      "x": 154448,
-      "y": -687376,
+      "x": 154445,
+      "y": -687378,
       "z": 3195,
       "ownerName": "Бен Гур",
       "customName": null
@@ -930,9 +930,9 @@
     {
       "entityId": 29667794,
       "asset": "BPC_Rager",
-      "x": 225233,
-      "y": -197899,
-      "z": 23035,
+      "x": 225240,
+      "y": -197910,
+      "z": 23034,
       "ownerName": "zloy",
       "customName": null
     },
@@ -1093,7 +1093,7 @@
       "entityId": 30623657,
       "asset": "BPC_Laika",
       "x": 228537,
-      "y": -199047,
+      "y": -199045,
       "z": 22667,
       "ownerName": "kmsten",
       "customName": null
@@ -1111,7 +1111,7 @@
       "entityId": 30799226,
       "asset": "BPC_Kinglet_Duster",
       "x": -605009,
-      "y": -492173,
+      "y": -492174,
       "z": 16198,
       "ownerName": "YUmiel",
       "customName": null
@@ -1218,7 +1218,7 @@
     {
       "entityId": 31093993,
       "asset": "BPC_Laika",
-      "x": -603936,
+      "x": -603937,
       "y": -492259,
       "z": 15621,
       "ownerName": "YUmiel",
@@ -1263,9 +1263,9 @@
     {
       "entityId": 31194823,
       "asset": "BPC_Rager",
-      "x": 229276,
-      "y": -200188,
-      "z": 22574,
+      "x": 229279,
+      "y": -200189,
+      "z": 22573,
       "ownerName": "Konffetka",
       "customName": null
     },
@@ -1416,9 +1416,9 @@
     {
       "entityId": 31602545,
       "asset": "BPC_WolfsWagen",
-      "x": 98327,
-      "y": -755298,
-      "z": 1027,
+      "x": 130708,
+      "y": -731625,
+      "z": 1395,
       "ownerName": "The_Lorg",
       "customName": null
     },
@@ -1497,9 +1497,9 @@
     {
       "entityId": 31873779,
       "asset": "BPC_SidecarBike",
-      "x": 225405,
-      "y": -199536,
-      "z": 22945,
+      "x": 225418,
+      "y": -199529,
+      "z": 22944,
       "ownerName": "zloy",
       "customName": null
     },
@@ -1749,8 +1749,8 @@
     {
       "entityId": 32495071,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 230614,
-      "y": -200640,
+      "x": 230616,
+      "y": -200638,
       "z": 22458,
       "ownerName": "Konffetka",
       "customName": null
@@ -1839,12 +1839,12 @@
     {
       "entityId": 32807903,
       "asset": "BPC_Kinglet_Duster",
-      "x": 456105,
-      "y": -187039,
-      "z": 23116,
+      "x": 239325,
+      "y": -179976,
+      "z": 21671,
       "ownerName": "Yakytenok",
       "customName": null
     }
   ],
-  "updated": "2026-09-13T13:59:20.723Z"
+  "updated": "2026-09-13T14:00:20.724Z"
 }
