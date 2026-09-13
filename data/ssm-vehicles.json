@@ -1704,9 +1704,9 @@
     {
       "entityId": 32451091,
       "asset": "BPC_RIS",
-      "x": -160156,
-      "y": -690675,
-      "z": 492,
+      "x": -159972,
+      "y": -689911,
+      "z": 493,
       "ownerName": "Komodo",
       "customName": null
     },
@@ -1783,6 +1783,15 @@
       "customName": null
     },
     {
+      "entityId": 32651706,
+      "asset": "BPC_Dinghy",
+      "x": 14882,
+      "y": 245652,
+      "z": 41357,
+      "ownerName": "Clumsy",
+      "customName": null
+    },
+    {
       "entityId": 32656002,
       "asset": "BPC_Dinghy",
       "x": -497606,
@@ -1837,5 +1846,5 @@
       "customName": null
     }
   ],
-  "updated": "2026-09-13T11:13:19.602Z"
+  "updated": "2026-09-13T11:14:19.609Z"
 }
