@@ -251,7 +251,7 @@
                 <div class="live-panel-header">
                     <div class="live-panel-title"><i class="fas fa-info-circle"></i> Информация о сервере</div>
                 </div>
-                <div id="liveServerInfo" style="display:grid;grid-template-columns:repeat(4,1fr);gap:var(--sp-lg)">
+                <div id="liveServerInfo" style="display:grid;grid-template-columns:repeat(2,1fr);gap:var(--sp-lg)">
                     <div>
                         <div style="font-size:var(--fs-xs);color:var(--text-dim);font-weight:700;letter-spacing:1px;margin-bottom:4px">СТАТУС</div>
                         <div id="liveInfoStatus" style="font-family:var(--mono);font-size:var(--fs-base);color:var(--green)">—</div>
@@ -259,14 +259,6 @@
                     <div>
                         <div style="font-size:var(--fs-xs);color:var(--text-dim);font-weight:700;letter-spacing:1px;margin-bottom:4px">ИГРОКОВ</div>
                         <div id="liveInfoPlayers" style="font-family:var(--mono);font-size:var(--fs-base);color:var(--text)">—</div>
-                    </div>
-                    <div>
-                        <div style="font-size:var(--fs-xs);color:var(--text-dim);font-weight:700;letter-spacing:1px;margin-bottom:4px">АПТАЙМ</div>
-                        <div id="liveInfoUptime" style="font-family:var(--mono);font-size:var(--fs-base);color:var(--text)">—</div>
-                    </div>
-                    <div>
-                        <div style="font-size:var(--fs-xs);color:var(--text-dim);font-weight:700;letter-spacing:1px;margin-bottom:4px">ПАМЯТЬ</div>
-                        <div id="liveInfoMemory" style="font-family:var(--mono);font-size:var(--fs-base);color:var(--text)">—</div>
                     </div>
                 </div>
             </div>
@@ -325,10 +317,6 @@
             document.getElementById('liveInfoStatus').textContent = status.online ? 'ONLINE' : 'OFFLINE';
             document.getElementById('liveInfoStatus').style.color = status.online ? 'var(--green)' : '#EF4444';
             document.getElementById('liveInfoPlayers').textContent = status.online ? status.players + ' / ' + status.maxPlayers : '—';
-            const uptimeH = Math.floor((status.uptime || 0) / 3600);
-            const uptimeM = Math.floor(((status.uptime || 0) % 3600) / 60);
-            document.getElementById('liveInfoUptime').textContent = status.uptime ? uptimeH + 'ч ' + uptimeM + 'м' : '—';
-            document.getElementById('liveInfoMemory').textContent = status.memoryUsage ? status.memoryUsage + ' МБ' : '—';
 
             const playersData = await window.AmurkaAPI.getOnlinePlayers();
             const listEl = document.getElementById('livePlayerList');
