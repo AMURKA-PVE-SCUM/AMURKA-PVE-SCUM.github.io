@@ -1216,15 +1216,6 @@
       "customName": null
     },
     {
-      "entityId": 31072530,
-      "asset": "BPC_Tractor",
-      "x": 573143,
-      "y": -223545,
-      "z": 262,
-      "ownerName": "Lesnik",
-      "customName": null
-    },
-    {
       "entityId": 31093993,
       "asset": "BPC_Laika",
       "x": -603934,
@@ -1830,12 +1821,21 @@
     {
       "entityId": 32710350,
       "asset": "BPC_Rager",
-      "x": 571914,
-      "y": -223617,
-      "z": 296,
+      "x": 573143,
+      "y": -223545,
+      "z": 333,
       "ownerName": "Lesnik",
+      "customName": null
+    },
+    {
+      "entityId": 32710992,
+      "asset": "BPC_Tractor",
+      "x": -789583,
+      "y": -276995,
+      "z": 16625,
+      "ownerName": null,
       "customName": null
     }
   ],
-  "updated": "2026-09-13T06:06:14.796Z"
+  "updated": "2026-09-13T06:07:14.809Z"
 }
