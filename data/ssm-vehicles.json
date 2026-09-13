@@ -750,8 +750,8 @@
     {
       "entityId": 29033924,
       "asset": "BPC_RIS",
-      "x": 154512,
-      "y": -687338,
+      "x": 154509,
+      "y": -687339,
       "z": 3193,
       "ownerName": "Бен Гур",
       "customName": null
@@ -1497,9 +1497,9 @@
     {
       "entityId": 31873779,
       "asset": "BPC_SidecarBike",
-      "x": 288573,
-      "y": -252996,
-      "z": 15571,
+      "x": 335790,
+      "y": -363719,
+      "z": 12568,
       "ownerName": "zloy",
       "customName": null
     },
@@ -1853,7 +1853,16 @@
       "z": 21775,
       "ownerName": "Yakytenok",
       "customName": null
+    },
+    {
+      "entityId": 32719302,
+      "asset": "BPC_WolfsWagen",
+      "x": -665193,
+      "y": -240324,
+      "z": 12420,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-13T06:50:15.129Z"
+  "updated": "2026-09-13T06:51:15.130Z"
 }
