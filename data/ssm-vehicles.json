@@ -273,9 +273,9 @@
     {
       "entityId": 25025592,
       "asset": "BPC_Rager",
-      "x": -272655,
-      "y": -5042,
-      "z": 35722,
+      "x": -120487,
+      "y": -61759,
+      "z": 37357,
       "ownerName": "_PsixichkA_",
       "customName": null
     },
@@ -768,7 +768,7 @@
     {
       "entityId": 29033956,
       "asset": "BPC_Laika",
-      "x": -198625,
+      "x": -198626,
       "y": -35282,
       "z": 35727,
       "ownerName": "Mersy Deson",
@@ -877,7 +877,7 @@
       "entityId": 29586143,
       "asset": "BPC_Kinglet_Duster",
       "x": -200551,
-      "y": -30162,
+      "y": -30161,
       "z": 35641,
       "ownerName": "Shelby",
       "customName": null
@@ -1299,9 +1299,9 @@
     {
       "entityId": 31381709,
       "asset": "BPC_Rager",
-      "x": 525596,
-      "y": -195491,
-      "z": 1141,
+      "x": 525602,
+      "y": -195498,
+      "z": 1144,
       "ownerName": "Ebzhik",
       "customName": null
     },
@@ -1407,8 +1407,8 @@
     {
       "entityId": 31604790,
       "asset": "BPC_SidecarBike",
-      "x": -110990,
-      "y": -67262,
+      "x": -110982,
+      "y": -67260,
       "z": 36879,
       "ownerName": null,
       "customName": null
@@ -1516,7 +1516,7 @@
       "entityId": 31947159,
       "asset": "BPC_CityBike",
       "x": -214920,
-      "y": -24090,
+      "y": -24091,
       "z": 35694,
       "ownerName": null,
       "customName": null
@@ -1844,7 +1844,16 @@
       "z": 35694,
       "ownerName": null,
       "customName": null
+    },
+    {
+      "entityId": 32916049,
+      "asset": "BPC_Kinglet_Mariner",
+      "x": -219151,
+      "y": -29203,
+      "z": 44620,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-13T21:19:24.054Z"
+  "updated": "2026-09-13T21:20:24.063Z"
 }
