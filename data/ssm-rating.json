@@ -82,6 +82,16 @@
     },
     {
       "rank": 9,
+      "steamId": "76561198002612600",
+      "name": "Малафьяна",
+      "playTimeSeconds": 21121,
+      "money": 4000,
+      "gold": 20,
+      "fame": 67,
+      "isOnline": false
+    },
+    {
+      "rank": 10,
       "steamId": "76561198256601130",
       "name": "Clumsy",
       "playTimeSeconds": 19965,
@@ -91,7 +101,7 @@
       "isOnline": true
     },
     {
-      "rank": 10,
+      "rank": 11,
       "steamId": "76561199189470290",
       "name": "Konffetka",
       "playTimeSeconds": 19854,
@@ -101,7 +111,7 @@
       "isOnline": false
     },
     {
-      "rank": 11,
+      "rank": 12,
       "steamId": "76561199246198020",
       "name": "Komodo",
       "playTimeSeconds": 19045,
@@ -111,7 +121,7 @@
       "isOnline": false
     },
     {
-      "rank": 12,
+      "rank": 13,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "playTimeSeconds": 18930,
@@ -121,23 +131,13 @@
       "isOnline": false
     },
     {
-      "rank": 13,
+      "rank": 14,
       "steamId": "76561199580351165",
       "name": "ШРинат",
       "playTimeSeconds": 17356,
-      "money": 7002127,
+      "money": 7004006,
       "gold": 3791,
       "fame": 26551,
-      "isOnline": true
-    },
-    {
-      "rank": 14,
-      "steamId": "76561198002612600",
-      "name": "Малафьяна",
-      "playTimeSeconds": 15750,
-      "money": 4000,
-      "gold": 20,
-      "fame": 67,
       "isOnline": true
     },
     {
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-13T12:12:19.989Z"
+  "updated": "2026-09-13T12:13:19.999Z"
 }
