@@ -181,7 +181,7 @@
                     </div>
                     <div class="domo-status-item">
                         <span class="dot" style="background:var(--green)"></span>
-                        КОМАНДЫ: !онлайн !баланс !кто !телепорт
+                        КОМАНДЫ: !стартпак !дом !купить !машина !вип
                     </div>
                 </div>
             </div>
@@ -194,14 +194,14 @@
                     <div class="domo-window-title">domo@amurka ~ /chat</div>
                 </div>
                 <div class="domo-window-body">
-                    <div><span class="prompt">&gt;</span> <span class="cmd">!дomo понг</span></div>
-                    <div class="output">✓ pong</div>
+                    <div><span class="prompt">&gt;</span> <span class="cmd">!стартпак</span></div>
+                    <div class="output">✓ Стартовый набор выдан — проверь инвентарь</div>
                     <br>
-                    <div><span class="prompt">&gt;</span> <span class="cmd">!дом</span></div>
-                    <div class="output">✓ Дом TP activated. Координаты: запроси в игре</div>
+                    <div><span class="prompt">&gt;</span> <span class="cmd">!сохранитьдом 1</span></div>
+                    <div class="output">✓ Локация сохранена. Телепорт: !дом (1000 игровых)</div>
                     <br>
-                    <div><span class="prompt">&gt;</span> <span class="cmd">!помощь</span></div>
-                    <div class="output">✓ Команды: !стартпак, !дом, !машины, !погода, !онлайн</div>
+                    <div><span class="prompt">&gt;</span> <span class="cmd">!машина 1</span></div>
+                    <div class="output">✓ Телепорт к машине выполнен</div>
                     <br>
                     <div><span class="prompt">&gt;</span> <span class="cursor"></span></div>
                 </div>
@@ -211,59 +211,61 @@
                 <div class="domo-cat">
                     <div class="domo-cat-icon"><i class="fas fa-rocket"></i></div>
                     <h3>СТАРТ</h3>
-                    <p>Получи стартовое снаряжение для новичка</p>
+                    <p>Стартовый и ежедневный набор, покупки с Wargm</p>
                     <div class="domo-cat-commands">
                         <span class="domo-cmd-tag">!стартпак</span>
-                        <span class="domo-cmd-tag">!новичок</span>
+                        <span class="domo-cmd-tag">!дейлипак</span>
+                        <span class="domo-cmd-tag">!варгм</span>
                     </div>
                 </div>
                 <div class="domo-cat">
                     <div class="domo-cat-icon"><i class="fas fa-house"></i></div>
                     <h3>ДОМ</h3>
-                    <p>Телепорт домой и управление домом</p>
+                    <p>Сохрани локацию и телепортируйся домой в любой момент</p>
                     <div class="domo-cat-commands">
+                        <span class="domo-cmd-tag">!сохранитьдом 1</span>
                         <span class="domo-cmd-tag">!дом</span>
-                        <span class="domo-cmd-tag">!дом TP</span>
-                        <span class="domo-cmd-tag">!дом удалить</span>
                     </div>
                 </div>
                 <div class="domo-cat">
                     <div class="domo-cat-icon"><i class="fas fa-car"></i></div>
-                    <h3>ГАРАЖ</h3>
-                    <p>Вызов и парковка транспорта</p>
+                    <h3>ТРАНСПОРТ</h3>
+                    <p>Привязка машин к аккаунту, координаты и телепорт</p>
                     <div class="domo-cat-commands">
+                        <span class="domo-cmd-tag">!привязать</span>
+                        <span class="domo-cmd-tag">!привязать 1</span>
                         <span class="domo-cmd-tag">!машины</span>
+                        <span class="domo-cmd-tag">!отвязать 1</span>
                         <span class="domo-cmd-tag">!машина</span>
-                        <span class="domo-cmd-tag">!парковка</span>
+                        <span class="domo-cmd-tag">!машина 1</span>
                     </div>
                 </div>
                 <div class="domo-cat">
                     <div class="domo-cat-icon"><i class="fas fa-cloud"></i></div>
-                    <h3>ПОГОДА</h3>
-                    <p>Текущая погода и время в мире</p>
+                    <h3>ПОГОДА И ВРЕМЯ</h3>
+                    <p>Голосование за погоду и время суток всем сервером</p>
                     <div class="domo-cat-commands">
-                        <span class="domo-cmd-tag">!погода</span>
-                        <span class="domo-cmd-tag">!время</span>
+                        <span class="domo-cmd-tag">!погода 0</span>
+                        <span class="domo-cmd-tag">!погода 1</span>
+                        <span class="domo-cmd-tag">!время 14</span>
                     </div>
                 </div>
                 <div class="domo-cat">
                     <div class="domo-cat-icon"><i class="fas fa-cart-shopping"></i></div>
                     <h3>МАГАЗИН</h3>
-                    <p>Покупка предметов и проверка инвентаря</p>
+                    <p>Внутриигровой каталог: просмотр и покупка товаров</p>
                     <div class="domo-cat-commands">
-                        <span class="domo-cmd-tag">!магазин</span>
                         <span class="domo-cmd-tag">!купить</span>
-                        <span class="domo-cmd-tag">!inventory</span>
+                        <span class="domo-cmd-tag">!купить 1 3</span>
                     </div>
                 </div>
                 <div class="domo-cat">
                     <div class="domo-cat-icon"><i class="fas fa-crown"></i></div>
                     <h3>VIP</h3>
-                    <p>Привилегии, скины и VIP-наборы</p>
+                    <p>Привилегии и телепорты для VIP-игроков</p>
                     <div class="domo-cat-commands">
-                        <span class="domo-cmd-tag">!vip</span>
-                        <span class="domo-cmd-tag">!скины</span>
-                        <span class="domo-cmd-tag">!набор</span>
+                        <span class="domo-cmd-tag">!вип</span>
+                        <span class="domo-cmd-tag">!телепорт</span>
                     </div>
                 </div>
             </div>
