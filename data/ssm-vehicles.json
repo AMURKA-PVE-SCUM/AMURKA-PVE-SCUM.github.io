@@ -1,15 +1,6 @@
 {
   "vehicles": [
     {
-      "entityId": 0,
-      "asset": "BPC_WolfsWagen",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "ownerName": null,
-      "customName": null
-    },
-    {
       "entityId": 19118683,
       "asset": "BPC_Rager",
       "x": -276461,
@@ -1794,9 +1785,9 @@
     {
       "entityId": 32651706,
       "asset": "BPC_Dinghy",
-      "x": -162981,
-      "y": 328312,
-      "z": 69320,
+      "x": -149026,
+      "y": 332993,
+      "z": 69331,
       "ownerName": "Clumsy",
       "customName": null
     },
@@ -1864,5 +1855,5 @@
       "customName": null
     }
   ],
-  "updated": "2026-09-13T09:00:16.023Z"
+  "updated": "2026-09-13T09:03:16.067Z"
 }
