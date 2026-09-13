@@ -525,8 +525,8 @@
     {
       "entityId": 28204355,
       "asset": "BPC_Rager",
-      "x": -601102,
-      "y": -500975,
+      "x": -601101,
+      "y": -500976,
       "z": 14320,
       "ownerName": "Черкес",
       "customName": null
@@ -1578,9 +1578,9 @@
     {
       "entityId": 32062848,
       "asset": "BPC_Laika",
-      "x": -614809,
-      "y": -550182,
-      "z": 2301,
+      "x": -613849,
+      "y": -541867,
+      "z": 3477,
       "ownerName": "brantozavr_voin2",
       "customName": null
     },
@@ -1732,8 +1732,8 @@
       "entityId": 32477334,
       "asset": "BPC_Barba",
       "x": -458263,
-      "y": -660323,
-      "z": -43,
+      "y": -660325,
+      "z": -60,
       "ownerName": "Victor_Vilkouskas",
       "customName": null
     },
@@ -1767,9 +1767,9 @@
     {
       "entityId": 32606881,
       "asset": "BPC_Laika",
-      "x": -469501,
-      "y": -709272,
-      "z": 424,
+      "x": -539144,
+      "y": -705884,
+      "z": 10242,
       "ownerName": "Victor_Vilkouskas",
       "customName": null
     },
@@ -1830,9 +1830,9 @@
     {
       "entityId": 32807903,
       "asset": "BPC_Kinglet_Duster",
-      "x": 547002,
-      "y": 316113,
-      "z": 2066,
+      "x": 547057,
+      "y": 316179,
+      "z": 2060,
       "ownerName": "Yakytenok",
       "customName": null
     },
@@ -1844,7 +1844,16 @@
       "z": 3970,
       "ownerName": "Roma",
       "customName": null
+    },
+    {
+      "entityId": 32850748,
+      "asset": "BPC_RIS",
+      "x": 553010,
+      "y": 312710,
+      "z": 264,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-13T15:39:21.474Z"
+  "updated": "2026-09-13T15:40:21.478Z"
 }
