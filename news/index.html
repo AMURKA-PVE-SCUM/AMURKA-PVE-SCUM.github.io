@@ -46,6 +46,16 @@
         .news-card-footer span{font-size:var(--fs-xs);color:var(--muted)}
         .news-card-footer a{font-size:var(--fs-xs);color:var(--green);text-decoration:none;font-weight:600;transition:var(--tr)}
         .news-card-footer a:hover{text-decoration:underline}
+        .news-modal{position:fixed;inset:0;z-index:3000;display:flex;align-items:center;justify-content:center;padding:var(--sp-lg);background:rgba(0,0,0,.6);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);opacity:0;visibility:hidden;transition:opacity var(--tr),visibility var(--tr)}
+        .news-modal.open{opacity:1;visibility:visible}
+        .news-modal-panel{width:100%;max-width:640px;max-height:80vh;overflow-y:auto;background:var(--panel-2);border:1px solid var(--border);border-radius:var(--radius-lg);padding:var(--sp-2xl);position:relative;box-shadow:var(--shadow-lg)}
+        .news-modal-close{position:absolute;top:var(--sp-md);right:var(--sp-md);width:32px;height:32px;display:grid;place-items:center;border-radius:var(--radius-full);border:1px solid var(--border);background:transparent;color:var(--muted);cursor:pointer;transition:var(--tr);font-size:var(--fs-sm)}
+        .news-modal-close:hover{color:var(--text);border-color:var(--green)}
+        .news-modal-tag{display:inline-block;padding:3px 10px;border-radius:var(--radius-full);background:rgba(0,200,120,.08);color:var(--green);font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.5px;margin-bottom:var(--sp-sm)}
+        .news-modal h3{font-size:var(--fs-xl);font-weight:800;margin-bottom:var(--sp-sm);line-height:1.3}
+        .news-modal-date{font-size:var(--fs-xs);color:var(--muted);font-family:var(--font-mono);margin-bottom:var(--sp-lg)}
+        .news-modal-content{color:var(--text-dim);font-size:var(--fs-md);line-height:1.8;white-space:pre-line}
+        .news-modal-author{margin-top:var(--sp-xl);padding-top:var(--sp-md);border-top:1px solid var(--border);font-size:var(--fs-xs);color:var(--muted)}
         @media(max-width:900px){.news-grid{grid-template-columns:repeat(2,1fr)}}
         @media(max-width:600px){.news-grid{grid-template-columns:1fr}}
     </style>
@@ -244,6 +254,16 @@
         <i class="fas fa-check-circle"></i>
         <span id="toastText">Скопировано!</span>
     </div>
+    <div class="news-modal" id="newsModal">
+        <div class="news-modal-panel">
+            <button class="news-modal-close" id="newsModalClose" aria-label="Закрыть"><i class="fas fa-xmark"></i></button>
+            <div class="news-modal-tag">NEWS</div>
+            <h3 id="newsModalTitle"></h3>
+            <div class="news-modal-date" id="newsModalDate"></div>
+            <div class="news-modal-content" id="newsModalContent"></div>
+            <div class="news-modal-author" id="newsModalAuthor"></div>
+        </div>
+    </div>
     <button class="scroll-top" id="scrollTop" aria-label="Наверх">
         <i class="fas fa-arrow-up"></i>
     </button>
@@ -273,6 +293,7 @@
                 const base = location.pathname.includes('/news/') ? '../' : '';
                 const res = await fetch(base + 'data/news.json');
                 const news = await res.json();
+                newsList = news;
                 if (!news.length) {
                     grid.innerHTML = '<div style="text-align:center;padding:var(--sp-2xl);color:var(--muted);font-family:var(--mono);font-size:var(--fs-sm);grid-column:1/-1"><i class="fas fa-newspaper" style="font-size:2rem;display:block;margin-bottom:var(--sp-sm);opacity:0.3"></i>Пока нет новостей</div>';
                     return;
@@ -286,16 +307,44 @@
                     const c = colors[i % colors.length];
                     const tagBg = c ? 'background:rgba(' + c.split(')')[0] + ')' : '';
                     const tagColor = c ? c.split('color:')[1] : '';
-                    return '<div class="news-card">' +
+                    return '<div class="news-card" data-index="' + i + '">' +
                         '<div class="news-card-img" style="background:linear-gradient(135deg,' + (c ? 'rgba(' + c.split(')')[0] + '),rgba(0,0,0,.3)' : '') + ')"><i class="fas ' + icon + '"></i></div>' +
                         '<div class="news-card-body"><div class="news-card-meta"><span class="news-card-tag"' + (tagBg ? ' style="' + tagBg + ';color:' + tagColor + '"' : '') + '>NEWS</span><span class="news-card-date">' + dateStr + '</span></div>' +
-                        '<h3>' + n.title + '</h3><p>' + (n.content || '').substring(0, 200) + '</p></div>' +
-                        '<div class="news-card-footer"><span>' + n.author + '</span></div></div>';
+                        '<h3>' + n.title + '</h3><p>' + (n.content || '').replace(/<[^>]*>/g, '').substring(0, 200) + '</p></div>' +
+                        '<div class="news-card-footer"><span>' + n.author + '</span><a href="javascript:void(0)">Читать далее →</a></div></div>';
                 }).join('');
+
+                grid.querySelectorAll('.news-card').forEach(card => {
+                    card.addEventListener('click', () => openNews(parseInt(card.dataset.index, 10)));
+                });
             } catch(e) {
                 grid.innerHTML = '<div style="text-align:center;padding:var(--sp-2xl);color:var(--muted);font-family:var(--mono);font-size:var(--fs-sm);grid-column:1/-1"><i class="fas fa-newspaper" style="font-size:2rem;display:block;margin-bottom:var(--sp-sm);opacity:0.3"></i>Пока нет новостей</div>';
             }
         }
+
+        let newsList = [];
+        const modal = document.getElementById('newsModal');
+
+        function openNews(index) {
+            const n = newsList[index];
+            if (!n) return;
+            document.getElementById('newsModalTitle').textContent = n.title;
+            const d = new Date(n.date);
+            document.getElementById('newsModalDate').textContent = String(d.getDate()).padStart(2,'0') + '.' + String(d.getMonth()+1).padStart(2,'0') + '.' + d.getFullYear();
+            document.getElementById('newsModalContent').textContent = n.content || '';
+            document.getElementById('newsModalAuthor').textContent = 'Автор: ' + (n.author || 'admin');
+            modal.classList.add('open');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeNews() {
+            modal.classList.remove('open');
+            document.body.style.overflow = '';
+        }
+
+        document.getElementById('newsModalClose').addEventListener('click', closeNews);
+        modal.addEventListener('click', (e) => { if (e.target === modal) closeNews(); });
+        document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeNews(); });
         loadNews();
     });
     </script>
