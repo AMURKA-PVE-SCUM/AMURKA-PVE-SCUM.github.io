@@ -35,7 +35,7 @@
       "steamId": "76561198128211851",
       "name": "zloy",
       "playTimeSeconds": 41449,
-      "money": 3891795,
+      "money": 3936286,
       "gold": 223,
       "fame": 21332,
       "isOnline": true
@@ -62,6 +62,16 @@
     },
     {
       "rank": 7,
+      "steamId": "76561198029476275",
+      "name": "XEH",
+      "playTimeSeconds": 35875,
+      "money": 1224251,
+      "gold": 161,
+      "fame": 1064,
+      "isOnline": false
+    },
+    {
+      "rank": 8,
       "steamId": "76561198256601130",
       "name": "Clumsy",
       "playTimeSeconds": 33803,
@@ -71,7 +81,7 @@
       "isOnline": false
     },
     {
-      "rank": 8,
+      "rank": 9,
       "steamId": "76561198028600444",
       "name": "Ольга",
       "playTimeSeconds": 30339,
@@ -79,16 +89,6 @@
       "gold": 130,
       "fame": 558,
       "isOnline": false
-    },
-    {
-      "rank": 9,
-      "steamId": "76561198029476275",
-      "name": "XEH",
-      "playTimeSeconds": 30096,
-      "money": 1224251,
-      "gold": 161,
-      "fame": 1064,
-      "isOnline": true
     },
     {
       "rank": 10,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-13T19:44:23.350Z"
+  "updated": "2026-09-13T19:45:23.357Z"
 }
