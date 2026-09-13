@@ -1246,7 +1246,7 @@
       "entityId": 31183224,
       "asset": "BPC_Tractor",
       "x": 336821,
-      "y": -366186,
+      "y": -366185,
       "z": 12687,
       "ownerName": "alekx838",
       "customName": null
@@ -1578,9 +1578,9 @@
     {
       "entityId": 32062848,
       "asset": "BPC_Laika",
-      "x": 428025,
-      "y": -306085,
-      "z": 8974,
+      "x": 329612,
+      "y": -365760,
+      "z": 12614,
       "ownerName": "brantozavr_voin2",
       "customName": null
     },
@@ -1823,7 +1823,7 @@
       "asset": "BPC_Rager",
       "x": 573143,
       "y": -223545,
-      "z": 333,
+      "z": 298,
       "ownerName": "Lesnik",
       "customName": null
     },
@@ -1835,7 +1835,16 @@
       "z": 16625,
       "ownerName": null,
       "customName": null
+    },
+    {
+      "entityId": 32711425,
+      "asset": "BPC_Dinghy",
+      "x": -628869,
+      "y": -564132,
+      "z": 103,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-13T06:09:14.826Z"
+  "updated": "2026-09-13T06:10:14.833Z"
 }
