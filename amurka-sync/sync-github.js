@@ -165,37 +165,47 @@ async function syncOnce(cfg) {
   const token = cfg.github.token;
   const files = [];
 
-  // 1. Server status
+  // 1. Server status (public endpoint, no auth)
   try {
-    const s = await apiFetch(cfg, '/api/status');
+    const s = await apiFetch(cfg, '/api/public/status');
+    const online = s.online || 0;
     files.push({ name: 'data/ssm-status.json', content: JSON.stringify({
-      online: s.running === true,
-      players: s.players || 0,
+      serverName: s.serverName || 'SCUM Server',
+      running: s.running === true,
+      online,
+      players: online,
       maxPlayers: s.maxPlayers || 100,
       uptime: s.uptime || 0,
-      memoryUsage: s.memoryUsage || 0,
+      fps: s.fps || 0,
+      memoryMB: s.memoryMB || 0,
       updated: ts,
     }, null, 2) });
   } catch (e) { console.warn(`[sync] status: ${e.message}`); }
 
-  // 2. Online players
+  // 2. Online players (public endpoint: real session/lifetime time + rank)
   try {
-    const data = await apiFetch(cfg, '/api/players/online');
+    const data = await apiFetch(cfg, '/api/public/players');
     files.push({ name: 'data/ssm-players.json', content: JSON.stringify({
+      online: data.online != null ? data.online : (data.players || []).length,
       players: (data.players || []).map(p => ({
-        steamId: p.steamId, name: p.name, duration: p.duration || 0,
-        fame: p.fame, balance: p.balance, gold: p.gold,
+        steamId: p.steamId,
+        name: p.name,
+        sessionSeconds: p.sessionSeconds != null ? p.sessionSeconds : null,
+        playTimeSeconds: p.playTimeSeconds || 0,
+        money: p.money != null ? p.money : null,
+        gold: p.gold != null ? p.gold : null,
+        fame: p.fame != null ? p.fame : null,
+        rank: p.rank != null ? p.rank : null,
       })),
       updated: ts,
     }, null, 2) });
   } catch (e) { console.warn(`[sync] players: ${e.message}`); }
 
-  // 3. Rating
+  // 3. Rating (public endpoint, top-20)
   try {
-    const data = await apiFetch(cfg, '/api/rating/leaderboard');
+    const data = await apiFetch(cfg, '/api/public/leaderboard');
     files.push({ name: 'data/ssm-rating.json', content: JSON.stringify({
-      leaderboard: data.leaderboard || [],
-      totalOnlineSeconds: data.totalOnlineSeconds || 0,
+      leaderboard: data.players || [],
       updated: ts,
     }, null, 2) });
   } catch (e) { console.warn(`[sync] rating: ${e.message}`); }
