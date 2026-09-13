@@ -218,6 +218,9 @@
                 return;
             }
             empty.style.display = 'none';
+            const rating = await window.AmurkaAPI.getRating();
+            const playTimeBySteam = {};
+            (rating.leaderboard || []).forEach(r => { if (r.steamId && !playTimeBySteam[r.steamId]) playTimeBySteam[r.steamId] = r.playTimeSeconds || 0; });
             const fmt = (sec) => {
                 sec = Number(sec) || 0;
                 if (sec <= 0) return '—';
@@ -228,6 +231,7 @@
             grid.innerHTML = data.players.map(p => {
                 const rank = p.rank != null ? '<div class="player-card-stat"><div class="player-card-stat-label">РАНГ</div><div class="player-card-stat-value">#' + p.rank + '</div></div>' : '';
                 const name = p.name || 'Игрок';
+                const totalSec = p.playTimeSeconds || playTimeBySteam[p.steamId] || p.duration || 0;
                 return '<div class="player-card">' +
                     '<div class="player-card-header">' +
                     '<div class="player-card-avatar online"><i class="fas fa-user"></i></div>' +
@@ -238,7 +242,7 @@
                     '</div>' +
                     '<div class="player-card-stats">' +
                     '<div class="player-card-stat"><div class="player-card-stat-label">В СЕССИИ</div><div class="player-card-stat-value">' + fmt(p.sessionSeconds) + '</div></div>' +
-                    '<div class="player-card-stat"><div class="player-card-stat-label">СЫГРАНО</div><div class="player-card-stat-value">' + fmt(p.playTimeSeconds) + '</div></div>' +
+                    '<div class="player-card-stat"><div class="player-card-stat-label">СЫГРАНО</div><div class="player-card-stat-value">' + fmt(totalSec) + '</div></div>' +
                     '<div class="player-card-stat"><div class="player-card-stat-label">СЛАВА</div><div class="player-card-stat-value">' + (p.fame != null ? p.fame.toLocaleString('ru-RU') : '—') + '</div></div>' +
                     '<div class="player-card-stat"><div class="player-card-stat-label">БАЛАНС</div><div class="player-card-stat-value">' + (p.money != null ? p.money.toLocaleString('ru-RU') : '—') + '</div></div>' +
                     (p.gold != null ? '<div class="player-card-stat"><div class="player-card-stat-label">ЗОЛОТО</div><div class="player-card-stat-value">' + p.gold + '</div></div>' : '') +

@@ -49,10 +49,24 @@ window.AmurkaAPI = (() => {
         return { online: false, players: 0, maxPlayers: 100, uptime: 0, memoryUsage: 0, source: 'none' };
     }
 
-    // Online players
+    // Online players (tolerates both SSM old/public formats)
     async function getOnlinePlayers() {
         const ssm = await fetchJSON('ssm-players.json');
-        if (ssm && ssm.players) return { players: ssm.players, source: 'ssm', updated: ssm.updated };
+        if (ssm && ssm.players) return {
+            players: ssm.players.map(p => ({
+                steamId: p.steamId,
+                name: p.name,
+                sessionSeconds: p.sessionSeconds != null ? p.sessionSeconds : null,
+                playTimeSeconds: p.playTimeSeconds || 0,
+                money: p.money != null ? p.money : (p.balance != null ? p.balance : null),
+                gold: p.gold != null ? p.gold : null,
+                fame: p.fame != null ? p.fame : null,
+                rank: p.rank != null ? p.rank : null,
+                duration: p.duration || 0,
+            })),
+            source: 'ssm',
+            updated: ssm.updated,
+        };
         return { players: [], source: 'none' };
     }
 
@@ -70,11 +84,20 @@ window.AmurkaAPI = (() => {
         return { flags: [], source: 'none' };
     }
 
-    // Rating leaderboard
+    // Rating leaderboard (name or playerName tolerated)
     async function getRating() {
         const ssm = await fetchJSON('ssm-rating.json');
         if (ssm && ssm.leaderboard) return {
-            leaderboard: ssm.leaderboard,
+            leaderboard: ssm.leaderboard.map(e => ({
+                rank: e.rank != null ? e.rank : null,
+                steamId: e.steamId,
+                name: e.name || e.playerName || e.steamId,
+                playTimeSeconds: e.playTimeSeconds || 0,
+                money: e.money,
+                gold: e.gold,
+                fame: e.fame,
+                isOnline: !!e.isOnline,
+            })),
             totalOnlineSeconds: ssm.totalOnlineSeconds || 0,
             source: 'ssm',
             updated: ssm.updated,
