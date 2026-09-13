@@ -1,6 +1,15 @@
 {
   "vehicles": [
     {
+      "entityId": 0,
+      "asset": "BPC_CityBike",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "ownerName": null,
+      "customName": null
+    },
+    {
       "entityId": 19118683,
       "asset": "BPC_Rager",
       "x": -274854,
@@ -228,9 +237,9 @@
     {
       "entityId": 24241963,
       "asset": "BPC_Rager",
-      "x": -805210,
-      "y": -133820,
-      "z": 29679,
+      "x": -771343,
+      "y": -111664,
+      "z": 32319,
       "ownerName": "ШРинат",
       "customName": null
     },
@@ -346,7 +355,7 @@
       "entityId": 26324602,
       "asset": "BPC_Kinglet_Duster",
       "x": 225332,
-      "y": -197166,
+      "y": -197169,
       "z": 22959,
       "ownerName": "zloy",
       "customName": null
@@ -390,9 +399,9 @@
     {
       "entityId": 27125618,
       "asset": "BPC_Rager",
-      "x": 153953,
-      "y": -31600,
-      "z": 32617,
+      "x": 227555,
+      "y": -165565,
+      "z": 21883,
       "ownerName": "Genih",
       "customName": null
     },
@@ -678,8 +687,8 @@
     {
       "entityId": 28880943,
       "asset": "BPC_SidecarBike",
-      "x": 222838,
-      "y": -189275,
+      "x": 222846,
+      "y": -189269,
       "z": 23261,
       "ownerName": "ПОТАСКУШКА",
       "customName": null
@@ -1479,9 +1488,9 @@
     {
       "entityId": 31873779,
       "asset": "BPC_SidecarBike",
-      "x": 225775,
-      "y": -199579,
-      "z": 22905,
+      "x": 225781,
+      "y": -199585,
+      "z": 22925,
       "ownerName": "zloy",
       "customName": null
     },
@@ -1835,16 +1844,7 @@
       "z": 242,
       "ownerName": "Noblesko",
       "customName": null
-    },
-    {
-      "entityId": 32914627,
-      "asset": "BPC_CityBike",
-      "x": -298067,
-      "y": -20768,
-      "z": 35694,
-      "ownerName": null,
-      "customName": null
     }
   ],
-  "updated": "2026-09-13T23:17:24.970Z"
+  "updated": "2026-09-13T23:18:24.978Z"
 }
