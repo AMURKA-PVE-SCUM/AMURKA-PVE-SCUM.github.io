@@ -1,8 +1,8 @@
 {
   "ssm": {
-    "apiUrl": "http://localhost:8080",
+    "apiUrl": "http://192.168.1.6:8080",
     "token": "",
     "syncIntervalSec": 60,
-    "enabled": false
+    "enabled": true
   }
 }
