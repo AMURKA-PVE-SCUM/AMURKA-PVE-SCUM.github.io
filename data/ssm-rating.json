@@ -35,9 +35,9 @@
       "steamId": "76561198128211851",
       "name": "zloy",
       "playTimeSeconds": 33506,
-      "money": 3799453,
-      "gold": 223,
-      "fame": 20932,
+      "money": 3800453,
+      "gold": 228,
+      "fame": 20942,
       "isOnline": true
     },
     {
@@ -62,6 +62,16 @@
     },
     {
       "rank": 7,
+      "steamId": "76561199246198020",
+      "name": "Komodo",
+      "playTimeSeconds": 24889,
+      "money": 558746,
+      "gold": 116,
+      "fame": 855,
+      "isOnline": false
+    },
+    {
+      "rank": 8,
       "steamId": "76561198067720439",
       "name": "Genih",
       "playTimeSeconds": 23322,
@@ -71,7 +81,7 @@
       "isOnline": false
     },
     {
-      "rank": 8,
+      "rank": 9,
       "steamId": "76561198029476275",
       "name": "XEH",
       "playTimeSeconds": 21772,
@@ -81,7 +91,7 @@
       "isOnline": false
     },
     {
-      "rank": 9,
+      "rank": 10,
       "steamId": "76561198178260974",
       "name": "Noblesko",
       "playTimeSeconds": 21496,
@@ -91,7 +101,7 @@
       "isOnline": true
     },
     {
-      "rank": 10,
+      "rank": 11,
       "steamId": "76561198002612600",
       "name": "Малафьяна",
       "playTimeSeconds": 21121,
@@ -101,7 +111,7 @@
       "isOnline": false
     },
     {
-      "rank": 11,
+      "rank": 12,
       "steamId": "76561199189470290",
       "name": "Konffetka",
       "playTimeSeconds": 19854,
@@ -109,16 +119,6 @@
       "gold": 201,
       "fame": 39022,
       "isOnline": false
-    },
-    {
-      "rank": 12,
-      "steamId": "76561199246198020",
-      "name": "Komodo",
-      "playTimeSeconds": 19045,
-      "money": 558746,
-      "gold": 116,
-      "fame": 855,
-      "isOnline": true
     },
     {
       "rank": 13,
@@ -155,9 +155,9 @@
       "steamId": "76561198071060590",
       "name": "Niga",
       "playTimeSeconds": 14044,
-      "money": 1167723,
+      "money": 1169223,
       "gold": 68,
-      "fame": 3127,
+      "fame": 3132,
       "isOnline": true
     },
     {
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-13T14:02:20.744Z"
+  "updated": "2026-09-13T14:03:20.744Z"
 }
