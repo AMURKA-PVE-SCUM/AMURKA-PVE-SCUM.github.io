@@ -38,7 +38,7 @@
       "money": 65600,
       "gold": 20,
       "fame": 272,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 5,
@@ -57,7 +57,7 @@
       "playTimeSeconds": 16587,
       "money": 3583559,
       "gold": 212,
-      "fame": 20228,
+      "fame": 20229,
       "isOnline": true
     },
     {
@@ -112,6 +112,16 @@
     },
     {
       "rank": 12,
+      "steamId": "76561199404896383",
+      "name": "Victor_Vilkouskas",
+      "playTimeSeconds": 11390,
+      "money": 1231365,
+      "gold": 391,
+      "fame": 1140,
+      "isOnline": false
+    },
+    {
+      "rank": 13,
       "steamId": "76561199000739219",
       "name": "Yakytenok",
       "playTimeSeconds": 10797,
@@ -119,16 +129,6 @@
       "gold": 10,
       "fame": 42,
       "isOnline": false
-    },
-    {
-      "rank": 13,
-      "steamId": "76561199404896383",
-      "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 10596,
-      "money": 1231365,
-      "gold": 391,
-      "fame": 1140,
-      "isOnline": true
     },
     {
       "rank": 14,
@@ -201,5 +201,5 @@
       "isOnline": true
     }
   ],
-  "updated": "2026-09-13T08:16:15.728Z"
+  "updated": "2026-09-13T08:17:15.737Z"
 }
