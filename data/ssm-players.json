@@ -1,10 +1,10 @@
 {
-  "online": 6,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198256601130",
       "name": "Clumsy",
-      "sessionSeconds": 52228,
+      "sessionSeconds": 52288,
       "playTimeSeconds": 19625,
       "money": 81465,
       "gold": 20,
@@ -14,7 +14,7 @@
     {
       "steamId": "76561198002612600",
       "name": "Малафьяна",
-      "sessionSeconds": 44,
+      "sessionSeconds": 105,
       "playTimeSeconds": 9813,
       "money": 2000,
       "gold": 10,
@@ -24,17 +24,17 @@
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 38,
+      "sessionSeconds": 98,
       "playTimeSeconds": 5618,
-      "money": 1034950,
+      "money": 1084950,
       "gold": 63,
-      "fame": 2999,
+      "fame": 3049,
       "rank": 27
     },
     {
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "sessionSeconds": 32,
+      "sessionSeconds": 92,
       "playTimeSeconds": 23083,
       "money": 18315,
       "gold": 75,
@@ -44,7 +44,7 @@
     {
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "sessionSeconds": 8,
+      "sessionSeconds": 68,
       "playTimeSeconds": 16334,
       "money": 6885330,
       "gold": 3791,
@@ -54,13 +54,43 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 5,
+      "sessionSeconds": 65,
       "playTimeSeconds": 12372,
       "money": 11312,
       "gold": 80,
       "fame": 198,
       "rank": 13
+    },
+    {
+      "steamId": "76561199189470290",
+      "name": "Konffetka",
+      "sessionSeconds": 59,
+      "playTimeSeconds": 11237,
+      "money": 1379364,
+      "gold": 191,
+      "fame": 38994,
+      "rank": 17
+    },
+    {
+      "steamId": "76561198082947468",
+      "name": "bolollo",
+      "sessionSeconds": 29,
+      "playTimeSeconds": 22086,
+      "money": 606169,
+      "gold": 125,
+      "fame": 1889,
+      "rank": 4
+    },
+    {
+      "steamId": "76561198067720439",
+      "name": "Genih",
+      "sessionSeconds": 14,
+      "playTimeSeconds": 13010,
+      "money": 3729184,
+      "gold": 444,
+      "fame": 10710,
+      "rank": 11
     }
   ],
-  "updated": "2026-09-13T09:04:16.074Z"
+  "updated": "2026-09-13T09:05:16.087Z"
 }
