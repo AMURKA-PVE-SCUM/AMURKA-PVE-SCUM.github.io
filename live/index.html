@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="../css/page-inner.css">
     <link rel="stylesheet" href="../css/responsive.css">
     <style>
-        .live-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: var(--sp-lg); margin-bottom: var(--sp-2xl); }
+        .live-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--sp-lg); margin-bottom: var(--sp-2xl); }
         .live-stat { padding: var(--sp-xl); background: var(--panel); border: 1px solid var(--border); border-radius: var(--radius-lg); text-align: center; position: relative; overflow: hidden; }
         .live-stat::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px; background: var(--accent, var(--green)); opacity: 0.6; }
         .live-stat-icon { font-size: 24px; color: var(--accent, var(--green)); margin-bottom: var(--sp-sm); }
@@ -203,16 +203,6 @@
                     <div class="live-stat-icon"><i class="fas fa-users"></i></div>
                     <div class="live-stat-value" id="livePlayers">0 / 100</div>
                     <div class="live-stat-label">ИГРОКИ</div>
-                </div>
-                <div class="live-stat" style="--accent: #ffd34d">
-                    <div class="live-stat-icon"><i class="fas fa-clock"></i></div>
-                    <div class="live-stat-value" id="liveUptime">—</div>
-                    <div class="live-stat-label">UPTIME</div>
-                </div>
-                <div class="live-stat" style="--accent: #bd78ff">
-                    <div class="live-stat-icon"><i class="fas fa-wifi"></i></div>
-                    <div class="live-stat-value" id="livePing">—</div>
-                    <div class="live-stat-label">ПИНГ</div>
                 </div>
             </div>
 
