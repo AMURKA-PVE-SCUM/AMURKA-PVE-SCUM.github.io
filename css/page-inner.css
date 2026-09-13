@@ -112,9 +112,9 @@
 }
 
 .feature-expand-card:hover {
-    grid-column: span 2;
     border-color: var(--glow);
     box-shadow: var(--shadow-glow);
+    transform: translateY(-4px);
 }
 
 .feature-expand-card:hover::before {
@@ -167,15 +167,24 @@
     color: var(--text-dim);
     font-size: var(--fs-sm);
     line-height: 1.7;
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height var(--tr-slow);
-    position: relative;
+    margin: 0;
+    position: absolute;
+    left: var(--sp-2xl);
+    right: var(--sp-2xl);
+    bottom: var(--sp-2xl);
     z-index: 1;
+    opacity: 0;
+    transform: translateY(8px);
+    transition: opacity var(--tr-slow), transform var(--tr-slow);
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
 }
 
 .feature-expand-card:hover p {
-    max-height: 200px;
+    opacity: 1;
+    transform: translateY(0);
 }
 
 /* ── Mod Card (catalog) ── */
@@ -474,9 +483,6 @@
     .sidebar-nav a.active {
         border-bottom-color: var(--green);
         border-left-color: transparent;
-    }
-    .feature-expand-card:hover {
-        grid-column: span 1;
     }
     .timeline {
         padding-left: 50px;
