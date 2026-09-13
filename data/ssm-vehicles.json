@@ -1,6 +1,15 @@
 {
   "vehicles": [
     {
+      "entityId": 0,
+      "asset": "BPC_WolfsWagen",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "ownerName": null,
+      "customName": null
+    },
+    {
       "entityId": 19118683,
       "asset": "BPC_Rager",
       "x": -276461,
@@ -966,9 +975,9 @@
     {
       "entityId": 29757316,
       "asset": "BPC_Laika",
-      "x": 515663,
+      "x": 515666,
       "y": -229252,
-      "z": 4424,
+      "z": 4423,
       "ownerName": "Серёга",
       "customName": null
     },
@@ -1848,21 +1857,12 @@
     {
       "entityId": 32712719,
       "asset": "BPC_Rager",
-      "x": 545127,
-      "y": -193585,
-      "z": 4901,
+      "x": 567655,
+      "y": -226062,
+      "z": 294,
       "ownerName": "Yakytenok",
-      "customName": null
-    },
-    {
-      "entityId": 32719302,
-      "asset": "BPC_WolfsWagen",
-      "x": -670810,
-      "y": -244245,
-      "z": 11812,
-      "ownerName": null,
       "customName": null
     }
   ],
-  "updated": "2026-09-13T07:06:15.242Z"
+  "updated": "2026-09-13T07:07:15.250Z"
 }
