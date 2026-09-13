@@ -456,18 +456,6 @@
         <span id="toastText">Скопировано!</span>
     </div>
 
-    <!-- News Modal -->
-    <div class="news-modal" id="newsModal">
-        <div class="news-modal-panel">
-            <button class="news-modal-close" id="newsModalClose" aria-label="Закрыть"><i class="fas fa-xmark"></i></button>
-            <div class="news-modal-tag">NEWS</div>
-            <h3 id="newsModalTitle"></h3>
-            <div class="news-modal-date" id="newsModalDate"></div>
-            <div class="news-modal-content" id="newsModalContent"></div>
-            <div class="news-modal-author" id="newsModalAuthor"></div>
-        </div>
-    </div>
-
     <!-- Scroll to Top -->
     <button class="scroll-top" id="scrollTop" aria-label="Наверх">
         <i class="fas fa-arrow-up"></i>
@@ -486,42 +474,5 @@
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="js/api.js"></script>
     <script src="js/main.js"></script>
-    <script>
-    document.addEventListener('DOMContentLoaded', () => {
-        const grid = document.getElementById('newsGrid');
-        const modal = document.getElementById('newsModal');
-        if (!grid || !modal) return;
-
-        let shown = [];
-        window.AmurkaAPI.getNews().then(news => { shown = (news || []).slice(0, 3); });
-
-        function openNews(i) {
-            const n = shown[i];
-            if (!n) return;
-            const d = new Date(n.date);
-            document.getElementById('newsModalTitle').textContent = n.title;
-            document.getElementById('newsModalDate').textContent = String(d.getDate()).padStart(2,'0') + '.' + String(d.getMonth()+1).padStart(2,'0') + '.' + d.getFullYear();
-            document.getElementById('newsModalContent').textContent = n.content || '';
-            document.getElementById('newsModalAuthor').textContent = 'Автор: ' + (n.author || 'admin');
-            modal.classList.add('open');
-            document.body.style.overflow = 'hidden';
-        }
-
-        function closeNews() {
-            modal.classList.remove('open');
-            document.body.style.overflow = '';
-        }
-
-        grid.addEventListener('click', (e) => {
-            const card = e.target.closest('.news-card');
-            if (!card) return;
-            openNews(Array.prototype.indexOf.call(grid.children, card));
-        });
-
-        document.getElementById('newsModalClose').addEventListener('click', closeNews);
-        modal.addEventListener('click', (e) => { if (e.target === modal) closeNews(); });
-        document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeNews(); });
-    });
-    </script>
 </body>
 </html>

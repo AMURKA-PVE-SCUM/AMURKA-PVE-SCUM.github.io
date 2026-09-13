@@ -186,33 +186,36 @@ document.addEventListener('DOMContentLoaded', () => {
     setInterval(fetchServerStatus, 60000);
 
     // ── Load News ──
-    const newsGrid = document.getElementById('newsGrid');
-    if (newsGrid) {
-        window.AmurkaAPI.getNews().then(news => {
-            if (!news.length) return;
-            newsGrid.innerHTML = '';
-            news.slice(0, 3).forEach((n, i) => {
-                const date = new Date(n.date).toLocaleDateString('ru-RU');
-                const card = document.createElement('div');
-                card.className = 'news-card';
-                card.setAttribute('data-aos', 'fade-up');
-                card.setAttribute('data-aos-delay', String(100 + i * 100));
-                card.innerHTML = `
-                    <div class="news-card-body">
-                        <div class="news-card-meta">
-                            <span class="tag">${date}</span>
-                            <span class="tag tag-muted">Новость</span>
+    if (!document.querySelector('.news-filter-btn')) {
+        const newsGrid = document.getElementById('newsGrid');
+        if (newsGrid) {
+            window.AmurkaAPI.getNews().then(news => {
+                if (!news.length) return;
+                newsGrid.innerHTML = '';
+                news.slice(0, 3).forEach((n, i) => {
+                    const date = new Date(n.date).toLocaleDateString('ru-RU');
+                    const card = document.createElement('div');
+                    card.className = 'news-card';
+                    card.setAttribute('data-aos', 'fade-up');
+                    card.setAttribute('data-aos-delay', String(100 + i * 100));
+                    card.innerHTML = `
+                        <div class="news-card-body">
+                            <div class="news-card-meta">
+                                <span class="tag">${date}</span>
+                                <span class="tag tag-muted">Новость</span>
+                            </div>
+                            <h3>${n.title}</h3>
+                            <p>${n.content.replace(/\n/g, '<br>')}</p>
                         </div>
-                        <h3>${n.title}</h3>
-                        <p>${n.content.replace(/\n/g, '<br>')}</p>
-                    </div>
-                    <div class="news-card-footer">
-                        <span class="btn-ghost">Подробнее</span>
-                    </div>
-                `;
-                newsGrid.appendChild(card);
-            });
-        }).catch(() => {});
+                        <div class="news-card-footer">
+                            <span class="btn-ghost">Подробнее</span>
+                        </div>
+                    `;
+                    card.addEventListener('click', () => openNewsModal(n));
+                    newsGrid.appendChild(card);
+                });
+            }).catch(() => {});
+        }
     }
 
     // ── Load Gallery ──
@@ -252,5 +255,41 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     });
+
+    // ── News modal ──
+    function openNewsModal(n) {
+        let modal = document.getElementById('newsModal');
+        if (!modal) {
+            modal = document.createElement('div');
+            modal.id = 'newsModal';
+            modal.className = 'news-modal';
+            modal.innerHTML = `
+                <div class="news-modal-panel">
+                    <button class="news-modal-close" aria-label="Закрыть"><i class="fas fa-xmark"></i></button>
+                    <div class="news-modal-tag">NEWS</div>
+                    <h3 id="newsModalTitle"></h3>
+                    <div class="news-modal-date" id="newsModalDate"></div>
+                    <div class="news-modal-content" id="newsModalContent"></div>
+                    <div class="news-modal-author" id="newsModalAuthor"></div>
+                </div>`;
+            document.body.appendChild(modal);
+            modal.querySelector('.news-modal-close').addEventListener('click', closeNewsModal);
+            modal.addEventListener('click', (e) => { if (e.target === modal) closeNewsModal(); });
+            document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeNewsModal(); });
+        }
+        const d = new Date(n.date);
+        document.getElementById('newsModalTitle').textContent = n.title;
+        document.getElementById('newsModalDate').textContent = String(d.getDate()).padStart(2,'0') + '.' + String(d.getMonth()+1).padStart(2,'0') + '.' + d.getFullYear();
+        document.getElementById('newsModalContent').textContent = n.content || '';
+        document.getElementById('newsModalAuthor').textContent = 'Автор: ' + (n.author || 'admin');
+        modal.classList.add('open');
+        document.body.style.overflow = 'hidden';
+    }
+
+    function closeNewsModal() {
+        const modal = document.getElementById('newsModal');
+        if (modal) modal.classList.remove('open');
+        document.body.style.overflow = '';
+    }
 
 });
