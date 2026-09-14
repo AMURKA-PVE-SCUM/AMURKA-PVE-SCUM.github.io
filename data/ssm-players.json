@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "sessionSeconds": 45,
+      "sessionSeconds": 105,
       "playTimeSeconds": 56190,
       "money": 7125125,
       "gold": 3816,
       "fame": 26663,
       "rank": 1
+    },
+    {
+      "steamId": "76561198028621423",
+      "name": "Lesnik",
+      "sessionSeconds": 41,
+      "playTimeSeconds": 29500,
+      "money": 785434,
+      "gold": 1923,
+      "fame": 2416,
+      "rank": 16
     }
   ],
-  "updated": "2026-09-14T09:04:29.378Z"
+  "updated": "2026-09-14T09:05:29.382Z"
 }
