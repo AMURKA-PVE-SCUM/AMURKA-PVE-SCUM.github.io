@@ -1,10 +1,10 @@
 {
-  "online": 8,
+  "online": 7,
   "players": [
     {
       "steamId": "76561198028600444",
       "name": "Ольга",
-      "sessionSeconds": 82860,
+      "sessionSeconds": 82920,
       "playTimeSeconds": 32678,
       "money": 913523,
       "gold": 135,
@@ -14,17 +14,17 @@
     {
       "steamId": "76561198178260974",
       "name": "Noblesko",
-      "sessionSeconds": 10532,
+      "sessionSeconds": 10592,
       "playTimeSeconds": 48692,
       "money": 879971,
       "gold": 50,
-      "fame": 291,
+      "fame": 292,
       "rank": 6
     },
     {
       "steamId": "76561198199442735",
       "name": "The_Lorg",
-      "sessionSeconds": 4121,
+      "sessionSeconds": 4181,
       "playTimeSeconds": 21619,
       "money": 823657,
       "gold": 164,
@@ -34,7 +34,7 @@
     {
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
-      "sessionSeconds": 3668,
+      "sessionSeconds": 3728,
       "playTimeSeconds": 55090,
       "money": 1952047,
       "gold": 661,
@@ -44,7 +44,7 @@
     {
       "steamId": "76561199246198020",
       "name": "Komodo",
-      "sessionSeconds": 3208,
+      "sessionSeconds": 3268,
       "playTimeSeconds": 47461,
       "money": 827250,
       "gold": 142,
@@ -52,19 +52,9 @@
       "rank": 7
     },
     {
-      "steamId": "76561198382114262",
-      "name": "Montana",
-      "sessionSeconds": 999,
-      "playTimeSeconds": 12064,
-      "money": 1584410,
-      "gold": 2635,
-      "fame": 2757,
-      "rank": 29
-    },
-    {
       "steamId": "76561198106059918",
       "name": "Пепа Петрович",
-      "sessionSeconds": 548,
+      "sessionSeconds": 608,
       "playTimeSeconds": 150,
       "money": 292853,
       "gold": 477,
@@ -74,7 +64,7 @@
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 261,
+      "sessionSeconds": 321,
       "playTimeSeconds": 33166,
       "money": 1288480,
       "gold": 20,
@@ -82,5 +72,5 @@
       "rank": 17
     }
   ],
-  "updated": "2026-09-14T13:51:35.308Z"
+  "updated": "2026-09-14T13:52:35.313Z"
 }
