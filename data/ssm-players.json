@@ -1,10 +1,10 @@
 {
-  "online": 9,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198028600444",
       "name": "Ольга",
-      "sessionSeconds": 78720,
+      "sessionSeconds": 78780,
       "playTimeSeconds": 32678,
       "money": 912523,
       "gold": 130,
@@ -14,7 +14,7 @@
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 9184,
+      "sessionSeconds": 9245,
       "playTimeSeconds": 20147,
       "money": 1182446,
       "gold": 15,
@@ -24,7 +24,7 @@
     {
       "steamId": "76561198178260974",
       "name": "Noblesko",
-      "sessionSeconds": 6392,
+      "sessionSeconds": 6452,
       "playTimeSeconds": 48692,
       "money": 881127,
       "gold": 45,
@@ -34,17 +34,17 @@
     {
       "steamId": "76561198068992719",
       "name": "Alina",
-      "sessionSeconds": 6196,
+      "sessionSeconds": 6256,
       "playTimeSeconds": 20150,
       "money": 975389,
       "gold": 445,
-      "fame": 3371,
+      "fame": 3372,
       "rank": 23
     },
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 5503,
+      "sessionSeconds": 5563,
       "playTimeSeconds": 51031,
       "money": 18074,
       "gold": 110,
@@ -54,7 +54,7 @@
     {
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "sessionSeconds": 4700,
+      "sessionSeconds": 4760,
       "playTimeSeconds": 57408,
       "money": 7120936,
       "gold": 3821,
@@ -62,35 +62,25 @@
       "rank": 1
     },
     {
-      "steamId": "76561198279946160",
-      "name": "YUmiel",
-      "sessionSeconds": 1673,
-      "playTimeSeconds": 0,
-      "money": 1376304,
-      "gold": 3381,
-      "fame": 868,
-      "rank": 75
-    },
-    {
-      "steamId": "76561199246198020",
-      "name": "Komodo",
-      "sessionSeconds": 1170,
-      "playTimeSeconds": 46272,
-      "money": 825250,
-      "gold": 142,
-      "fame": 1246,
-      "rank": 7
-    },
-    {
       "steamId": "76561198118646763",
       "name": "Jane Doe",
-      "sessionSeconds": 754,
+      "sessionSeconds": 814,
       "playTimeSeconds": 5684,
       "money": 1112004,
       "gold": 352,
       "fame": 7246,
       "rank": 40
+    },
+    {
+      "steamId": "76561198199442735",
+      "name": "The_Lorg",
+      "sessionSeconds": 41,
+      "playTimeSeconds": 21619,
+      "money": 826199,
+      "gold": 159,
+      "fame": 1903,
+      "rank": 21
     }
   ],
-  "updated": "2026-09-14T12:42:34.775Z"
+  "updated": "2026-09-14T12:43:34.785Z"
 }
