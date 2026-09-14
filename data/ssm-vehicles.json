@@ -172,6 +172,15 @@
       "customName": null
     },
     {
+      "entityId": 23349809,
+      "asset": "BPC_Dinghy",
+      "x": 226686,
+      "y": 5342,
+      "z": 25186,
+      "ownerName": "Jane Doe",
+      "customName": null
+    },
+    {
       "entityId": 23496054,
       "asset": "BPC_Rager",
       "x": 241065,
@@ -1713,9 +1722,9 @@
     {
       "entityId": 32606881,
       "asset": "BPC_Laika",
-      "x": -778672,
-      "y": -535758,
-      "z": 3483,
+      "x": -712325,
+      "y": -657164,
+      "z": 6025,
       "ownerName": "Victor_Vilkouskas",
       "customName": null
     },
@@ -1828,5 +1837,5 @@
       "customName": null
     }
   ],
-  "updated": "2026-09-14T15:04:35.900Z"
+  "updated": "2026-09-14T15:05:35.906Z"
 }
