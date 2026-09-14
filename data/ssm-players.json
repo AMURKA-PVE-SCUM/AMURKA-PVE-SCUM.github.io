@@ -1,10 +1,10 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 169158,
+      "sessionSeconds": 169218,
       "playTimeSeconds": 43140,
       "money": 1008253,
       "gold": 45,
@@ -14,17 +14,17 @@
     {
       "steamId": "76561198028600444",
       "name": "Ольга",
-      "sessionSeconds": 98102,
+      "sessionSeconds": 98162,
       "playTimeSeconds": 43242,
       "money": 914924,
       "gold": 150,
-      "fame": 632,
+      "fame": 633,
       "rank": 10
     },
     {
       "steamId": "76561198067720439",
       "name": "Genih",
-      "sessionSeconds": 10346,
+      "sessionSeconds": 10406,
       "playTimeSeconds": 53605,
       "money": 3496961,
       "gold": 499,
@@ -34,7 +34,7 @@
     {
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
-      "sessionSeconds": 8490,
+      "sessionSeconds": 8550,
       "playTimeSeconds": 62594,
       "money": 1893047,
       "gold": 677,
@@ -44,7 +44,7 @@
     {
       "steamId": "76561199189470290",
       "name": "Konffetka",
-      "sessionSeconds": 6858,
+      "sessionSeconds": 6918,
       "playTimeSeconds": 28530,
       "money": 1385864,
       "gold": 211,
@@ -54,7 +54,7 @@
     {
       "steamId": "76561198178260974",
       "name": "Noblesko",
-      "sessionSeconds": 2558,
+      "sessionSeconds": 2618,
       "playTimeSeconds": 68332,
       "money": 828821,
       "gold": 65,
@@ -64,7 +64,7 @@
     {
       "steamId": "76561199846653258",
       "name": "Koshka",
-      "sessionSeconds": 2135,
+      "sessionSeconds": 2195,
       "playTimeSeconds": 805,
       "money": 1000000,
       "gold": 0,
@@ -74,13 +74,23 @@
     {
       "steamId": "76561199246198020",
       "name": "Komodo",
-      "sessionSeconds": 445,
+      "sessionSeconds": 505,
       "playTimeSeconds": 54577,
       "money": 959420,
       "gold": 147,
       "fame": 1437,
       "rank": 5
+    },
+    {
+      "steamId": "76561199738233208",
+      "name": "Бен Гур",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 8615,
+      "money": 68793,
+      "gold": 45,
+      "fame": 453,
+      "rank": 36
     }
   ],
-  "updated": "2026-09-14T18:05:37.200Z"
+  "updated": "2026-09-14T18:06:37.215Z"
 }
