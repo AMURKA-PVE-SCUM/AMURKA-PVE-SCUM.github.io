@@ -4,11 +4,11 @@
       "rank": 1,
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
-      "playTimeSeconds": 81575,
+      "playTimeSeconds": 87266,
       "money": 1571555,
       "gold": 587,
       "fame": 35776,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 2,
@@ -88,7 +88,7 @@
       "money": 1009253,
       "gold": 50,
       "fame": 263,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 10,
@@ -98,10 +98,20 @@
       "money": 914924,
       "gold": 150,
       "fame": 633,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 11,
+      "steamId": "76561199189470290",
+      "name": "Konffetka",
+      "playTimeSeconds": 51429,
+      "money": 1426546,
+      "gold": 197,
+      "fame": 39333,
+      "isOnline": false
+    },
+    {
+      "rank": 12,
       "steamId": "76561198082947468",
       "name": "bolollo",
       "playTimeSeconds": 46106,
@@ -109,16 +119,6 @@
       "gold": 146,
       "fame": 2413,
       "isOnline": false
-    },
-    {
-      "rank": 12,
-      "steamId": "76561199189470290",
-      "name": "Konffetka",
-      "playTimeSeconds": 45878,
-      "money": 1426546,
-      "gold": 197,
-      "fame": 39332,
-      "isOnline": true
     },
     {
       "rank": 13,
@@ -178,7 +178,7 @@
       "money": 149284,
       "gold": 35,
       "fame": 457,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 19,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-14T22:38:39.169Z"
+  "updated": "2026-09-14T22:39:39.180Z"
 }
