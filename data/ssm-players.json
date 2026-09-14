@@ -1,20 +1,10 @@
 {
-  "online": 10,
+  "online": 9,
   "players": [
-    {
-      "steamId": "76561198693259704",
-      "name": "Butcher19671",
-      "sessionSeconds": 4585,
-      "playTimeSeconds": 2568,
-      "money": 1000,
-      "gold": 5,
-      "fame": 25,
-      "rank": 50
-    },
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 4353,
+      "sessionSeconds": 4413,
       "playTimeSeconds": 27376,
       "money": 1297705,
       "gold": 406,
@@ -24,7 +14,7 @@
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 3844,
+      "sessionSeconds": 3904,
       "playTimeSeconds": 20147,
       "money": 1107917,
       "gold": 10,
@@ -34,7 +24,7 @@
     {
       "steamId": "76561198382114262",
       "name": "Montana",
-      "sessionSeconds": 2696,
+      "sessionSeconds": 2756,
       "playTimeSeconds": 1088,
       "money": 1423039,
       "gold": 2625,
@@ -44,7 +34,7 @@
     {
       "steamId": "76561198199442735",
       "name": "The_Lorg",
-      "sessionSeconds": 2091,
+      "sessionSeconds": 2151,
       "playTimeSeconds": 14234,
       "money": 824199,
       "gold": 149,
@@ -54,17 +44,17 @@
     {
       "steamId": "76561198775651698",
       "name": "Добряк",
-      "sessionSeconds": 1120,
+      "sessionSeconds": 1180,
       "playTimeSeconds": 4087,
       "money": 4101988,
       "gold": 1085,
       "fame": 11052,
-      "rank": 44
+      "rank": 45
     },
     {
       "steamId": "76561198178260974",
       "name": "Noblesko",
-      "sessionSeconds": 1051,
+      "sessionSeconds": 1111,
       "playTimeSeconds": 48692,
       "money": 880127,
       "gold": 40,
@@ -74,7 +64,7 @@
     {
       "steamId": "76561198068992719",
       "name": "Alina",
-      "sessionSeconds": 856,
+      "sessionSeconds": 916,
       "playTimeSeconds": 20150,
       "money": 974389,
       "gold": 440,
@@ -84,7 +74,7 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 162,
+      "sessionSeconds": 222,
       "playTimeSeconds": 51031,
       "money": 17074,
       "gold": 105,
@@ -94,7 +84,7 @@
     {
       "steamId": "76561198156375337",
       "name": "Domo",
-      "sessionSeconds": 159,
+      "sessionSeconds": 219,
       "playTimeSeconds": 8177,
       "money": 1392218,
       "gold": 657,
@@ -102,5 +92,5 @@
       "rank": 34
     }
   ],
-  "updated": "2026-09-14T11:13:34.093Z"
+  "updated": "2026-09-14T11:14:34.094Z"
 }
