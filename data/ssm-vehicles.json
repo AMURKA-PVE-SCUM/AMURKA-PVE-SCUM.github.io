@@ -318,7 +318,7 @@
     {
       "entityId": 25814186,
       "asset": "BPC_Kinglet_Duster",
-      "x": -603500,
+      "x": -603501,
       "y": -492096,
       "z": 15835,
       "ownerName": "Завитинск",
@@ -417,9 +417,9 @@
     {
       "entityId": 27130608,
       "asset": "BPC_Laika",
-      "x": -619116,
-      "y": -300747,
-      "z": 12611,
+      "x": -666562,
+      "y": -416810,
+      "z": 17638,
       "ownerName": "ADA",
       "customName": null
     },
@@ -435,8 +435,8 @@
     {
       "entityId": 27304600,
       "asset": "BPC_Cruiser",
-      "x": -204050,
-      "y": -377391,
+      "x": -204051,
+      "y": -377390,
       "z": 896,
       "ownerName": "Niga",
       "customName": null
@@ -669,9 +669,9 @@
     {
       "entityId": 29033879,
       "asset": "BPC_WolfsWagen",
-      "x": -205535,
-      "y": -375519,
-      "z": 842,
+      "x": -205544,
+      "y": -375517,
+      "z": 839,
       "ownerName": "Mira",
       "customName": null
     },
@@ -805,8 +805,8 @@
       "entityId": 29219462,
       "asset": "BPC_Rager",
       "x": 145785,
-      "y": -299795,
-      "z": 20402,
+      "y": -299794,
+      "z": 20401,
       "ownerName": "Sergeant",
       "customName": null
     },
@@ -1056,7 +1056,7 @@
     {
       "entityId": 30802791,
       "asset": "BP_WheelBarrow_Improvised",
-      "x": -204150,
+      "x": -204149,
       "y": -377271,
       "z": 897,
       "ownerName": null,
@@ -1128,17 +1128,17 @@
     {
       "entityId": 31055183,
       "asset": "BPC_WolfsWagen",
-      "x": -238970,
-      "y": -335580,
-      "z": 7888,
+      "x": -207834,
+      "y": -374221,
+      "z": 749,
       "ownerName": "Niga",
       "customName": null
     },
     {
       "entityId": 31070231,
       "asset": "BPC_MountainBike",
-      "x": 140087,
-      "y": -313210,
+      "x": 140088,
+      "y": -313214,
       "z": 23305,
       "ownerName": "Бен Гур",
       "customName": null
@@ -1819,5 +1819,5 @@
       "customName": null
     }
   ],
-  "updated": "2026-09-14T20:45:38.410Z"
+  "updated": "2026-09-14T20:46:38.414Z"
 }
