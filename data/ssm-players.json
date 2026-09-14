@@ -1,10 +1,10 @@
 {
-  "online": 2,
+  "online": 3,
   "players": [
     {
       "steamId": "76561198029476275",
       "name": "XEH",
-      "sessionSeconds": 127,
+      "sessionSeconds": 187,
       "playTimeSeconds": 36511,
       "money": 1224251,
       "gold": 161,
@@ -14,13 +14,23 @@
     {
       "steamId": "76561198068992719",
       "name": "Alina",
-      "sessionSeconds": 5,
+      "sessionSeconds": 65,
       "playTimeSeconds": 11427,
       "money": 975389,
       "gold": 445,
       "fame": 3344,
       "rank": 30
+    },
+    {
+      "steamId": "76561198337811646",
+      "name": "VERSUS_65_",
+      "sessionSeconds": 35,
+      "playTimeSeconds": 27896,
+      "money": 12312,
+      "gold": 85,
+      "fame": 225,
+      "rank": 17
     }
   ],
-  "updated": "2026-09-14T04:26:27.337Z"
+  "updated": "2026-09-14T04:27:27.348Z"
 }
