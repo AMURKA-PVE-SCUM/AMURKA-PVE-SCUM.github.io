@@ -1,10 +1,10 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198028600444",
       "name": "Ольга",
-      "sessionSeconds": 84300,
+      "sessionSeconds": 84360,
       "playTimeSeconds": 32678,
       "money": 914523,
       "gold": 140,
@@ -14,7 +14,7 @@
     {
       "steamId": "76561198178260974",
       "name": "Noblesko",
-      "sessionSeconds": 11973,
+      "sessionSeconds": 12033,
       "playTimeSeconds": 48692,
       "money": 880971,
       "gold": 55,
@@ -24,7 +24,7 @@
     {
       "steamId": "76561198199442735",
       "name": "The_Lorg",
-      "sessionSeconds": 5561,
+      "sessionSeconds": 5621,
       "playTimeSeconds": 21619,
       "money": 823657,
       "gold": 164,
@@ -34,7 +34,7 @@
     {
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
-      "sessionSeconds": 5108,
+      "sessionSeconds": 5168,
       "playTimeSeconds": 55090,
       "money": 1849147,
       "gold": 661,
@@ -44,9 +44,9 @@
     {
       "steamId": "76561199246198020",
       "name": "Komodo",
-      "sessionSeconds": 4648,
+      "sessionSeconds": 4708,
       "playTimeSeconds": 47461,
-      "money": 926430,
+      "money": 935124,
       "gold": 147,
       "fame": 1350,
       "rank": 7
@@ -54,17 +54,17 @@
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 1701,
+      "sessionSeconds": 1761,
       "playTimeSeconds": 33166,
       "money": 1288480,
       "gold": 20,
-      "fame": 3705,
+      "fame": 3706,
       "rank": 17
     },
     {
       "steamId": "76561198276254908",
       "name": "Завитинск",
-      "sessionSeconds": 732,
+      "sessionSeconds": 792,
       "playTimeSeconds": 0,
       "money": 8592577,
       "gold": 8320,
@@ -74,13 +74,23 @@
     {
       "steamId": "76561198118646763",
       "name": "Jane Doe",
-      "sessionSeconds": 322,
+      "sessionSeconds": 382,
       "playTimeSeconds": 7410,
       "money": 1112004,
       "gold": 352,
       "fame": 7247,
       "rank": 37
+    },
+    {
+      "steamId": "76561198067720439",
+      "name": "Genih",
+      "sessionSeconds": 5,
+      "playTimeSeconds": 51047,
+      "money": 3721980,
+      "gold": 489,
+      "fame": 10851,
+      "rank": 4
     }
   ],
-  "updated": "2026-09-14T14:15:35.510Z"
+  "updated": "2026-09-14T14:16:35.522Z"
 }
