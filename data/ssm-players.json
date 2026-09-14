@@ -1,10 +1,10 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 128769,
+      "sessionSeconds": 128829,
       "playTimeSeconds": 29833,
       "money": 1022899,
       "gold": 25,
@@ -12,9 +12,19 @@
       "rank": 14
     },
     {
+      "steamId": "76561199877063571",
+      "name": "Mazay",
+      "sessionSeconds": 123641,
+      "playTimeSeconds": 33659,
+      "money": 102113,
+      "gold": 515,
+      "fame": 2329,
+      "rank": 12
+    },
+    {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 8736,
+      "sessionSeconds": 8796,
       "playTimeSeconds": 27896,
       "money": 13720,
       "gold": 95,
@@ -24,7 +34,7 @@
     {
       "steamId": "76561198008556437",
       "name": "Zatraha",
-      "sessionSeconds": 3084,
+      "sessionSeconds": 3144,
       "playTimeSeconds": 120,
       "money": 0,
       "gold": 0,
@@ -34,7 +44,7 @@
     {
       "steamId": "76561198276974656",
       "name": "gatu",
-      "sessionSeconds": 2906,
+      "sessionSeconds": 2966,
       "playTimeSeconds": 0,
       "money": 54498,
       "gold": 75,
@@ -44,7 +54,7 @@
     {
       "steamId": "76561198068992719",
       "name": "Alina",
-      "sessionSeconds": 2027,
+      "sessionSeconds": 2087,
       "playTimeSeconds": 12557,
       "money": 974389,
       "gold": 440,
@@ -54,7 +64,7 @@
     {
       "steamId": "76561198271336608",
       "name": "Валерка",
-      "sessionSeconds": 1099,
+      "sessionSeconds": 1159,
       "playTimeSeconds": 0,
       "money": 1043567,
       "gold": 30,
@@ -64,7 +74,7 @@
     {
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "sessionSeconds": 68,
+      "sessionSeconds": 128,
       "playTimeSeconds": 48419,
       "money": 7133125,
       "gold": 3816,
@@ -72,5 +82,5 @@
       "rank": 5
     }
   ],
-  "updated": "2026-09-14T06:52:28.415Z"
+  "updated": "2026-09-14T06:53:28.427Z"
 }
