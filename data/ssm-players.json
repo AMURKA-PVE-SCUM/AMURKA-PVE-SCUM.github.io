@@ -1,10 +1,10 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198028600444",
       "name": "Ольга",
-      "sessionSeconds": 78840,
+      "sessionSeconds": 78900,
       "playTimeSeconds": 32678,
       "money": 912523,
       "gold": 130,
@@ -14,17 +14,17 @@
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 9305,
+      "sessionSeconds": 9365,
       "playTimeSeconds": 20147,
-      "money": 1182446,
+      "money": 1182886,
       "gold": 15,
-      "fame": 3625,
+      "fame": 3630,
       "rank": 24
     },
     {
       "steamId": "76561198178260974",
       "name": "Noblesko",
-      "sessionSeconds": 6512,
+      "sessionSeconds": 6572,
       "playTimeSeconds": 48692,
       "money": 881127,
       "gold": 45,
@@ -34,7 +34,7 @@
     {
       "steamId": "76561198068992719",
       "name": "Alina",
-      "sessionSeconds": 6316,
+      "sessionSeconds": 6376,
       "playTimeSeconds": 20150,
       "money": 975389,
       "gold": 445,
@@ -44,7 +44,7 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 5623,
+      "sessionSeconds": 5683,
       "playTimeSeconds": 51031,
       "money": 18074,
       "gold": 110,
@@ -54,7 +54,7 @@
     {
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "sessionSeconds": 4820,
+      "sessionSeconds": 4880,
       "playTimeSeconds": 57408,
       "money": 7120936,
       "gold": 3821,
@@ -64,7 +64,7 @@
     {
       "steamId": "76561198118646763",
       "name": "Jane Doe",
-      "sessionSeconds": 874,
+      "sessionSeconds": 934,
       "playTimeSeconds": 5684,
       "money": 1112004,
       "gold": 352,
@@ -74,13 +74,23 @@
     {
       "steamId": "76561198199442735",
       "name": "The_Lorg",
-      "sessionSeconds": 101,
+      "sessionSeconds": 161,
       "playTimeSeconds": 21619,
       "money": 826199,
       "gold": 159,
       "fame": 1903,
       "rank": 21
+    },
+    {
+      "steamId": "76561198382114262",
+      "name": "Montana",
+      "sessionSeconds": 10,
+      "playTimeSeconds": 9123,
+      "money": 1425039,
+      "gold": 2635,
+      "fame": 2751,
+      "rank": 34
     }
   ],
-  "updated": "2026-09-14T12:44:34.787Z"
+  "updated": "2026-09-14T12:45:34.802Z"
 }
