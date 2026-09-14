@@ -1801,6 +1801,15 @@
       "customName": null
     },
     {
+      "entityId": 32711425,
+      "asset": "BPC_Dinghy",
+      "x": -504107,
+      "y": -554496,
+      "z": 60,
+      "ownerName": null,
+      "customName": null
+    },
+    {
       "entityId": 32712719,
       "asset": "BPC_Rager",
       "x": 241345,
@@ -1821,9 +1830,9 @@
     {
       "entityId": 32822300,
       "asset": "BPC_Laika",
-      "x": -459298,
-      "y": -657520,
-      "z": 389,
+      "x": -459293,
+      "y": -657536,
+      "z": 386,
       "ownerName": "Roma",
       "customName": null
     },
@@ -1837,5 +1846,5 @@
       "customName": null
     }
   ],
-  "updated": "2026-09-14T04:45:27.524Z"
+  "updated": "2026-09-14T04:46:27.530Z"
 }
