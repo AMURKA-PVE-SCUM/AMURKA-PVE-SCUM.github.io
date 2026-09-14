@@ -1,10 +1,10 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198028600444",
       "name": "Ольга",
-      "sessionSeconds": 76799,
+      "sessionSeconds": 76859,
       "playTimeSeconds": 32678,
       "money": 918676,
       "gold": 130,
@@ -14,7 +14,7 @@
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 7264,
+      "sessionSeconds": 7324,
       "playTimeSeconds": 20147,
       "money": 1108817,
       "gold": 15,
@@ -24,7 +24,7 @@
     {
       "steamId": "76561198382114262",
       "name": "Montana",
-      "sessionSeconds": 6116,
+      "sessionSeconds": 6176,
       "playTimeSeconds": 1088,
       "money": 1424039,
       "gold": 2630,
@@ -34,7 +34,7 @@
     {
       "steamId": "76561198199442735",
       "name": "The_Lorg",
-      "sessionSeconds": 5511,
+      "sessionSeconds": 5572,
       "playTimeSeconds": 14234,
       "money": 825199,
       "gold": 154,
@@ -44,7 +44,7 @@
     {
       "steamId": "76561198178260974",
       "name": "Noblesko",
-      "sessionSeconds": 4472,
+      "sessionSeconds": 4532,
       "playTimeSeconds": 48692,
       "money": 881127,
       "gold": 45,
@@ -54,7 +54,7 @@
     {
       "steamId": "76561198068992719",
       "name": "Alina",
-      "sessionSeconds": 4276,
+      "sessionSeconds": 4336,
       "playTimeSeconds": 20150,
       "money": 975389,
       "gold": 445,
@@ -64,23 +64,33 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 3583,
+      "sessionSeconds": 3643,
       "playTimeSeconds": 51031,
-      "money": 17074,
-      "gold": 105,
-      "fame": 294,
+      "money": 18074,
+      "gold": 110,
+      "fame": 304,
       "rank": 4
     },
     {
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "sessionSeconds": 2780,
+      "sessionSeconds": 2840,
       "playTimeSeconds": 57408,
       "money": 7121503,
       "gold": 3816,
       "fame": 26666,
       "rank": 1
+    },
+    {
+      "steamId": "76561199246198020",
+      "name": "Komodo",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 46072,
+      "money": 825250,
+      "gold": 142,
+      "fame": 1244,
+      "rank": 7
     }
   ],
-  "updated": "2026-09-14T12:10:34.518Z"
+  "updated": "2026-09-14T12:11:34.532Z"
 }
