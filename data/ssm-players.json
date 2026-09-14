@@ -1,10 +1,10 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198693259704",
       "name": "Butcher19671",
-      "sessionSeconds": 2961,
+      "sessionSeconds": 3021,
       "playTimeSeconds": 2568,
       "money": 0,
       "gold": 0,
@@ -14,7 +14,7 @@
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 2729,
+      "sessionSeconds": 2789,
       "playTimeSeconds": 27376,
       "money": 1296705,
       "gold": 401,
@@ -24,7 +24,7 @@
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 2220,
+      "sessionSeconds": 2280,
       "playTimeSeconds": 20147,
       "money": 1106917,
       "gold": 5,
@@ -34,7 +34,7 @@
     {
       "steamId": "76561198382114262",
       "name": "Montana",
-      "sessionSeconds": 1072,
+      "sessionSeconds": 1132,
       "playTimeSeconds": 1088,
       "money": 1423039,
       "gold": 2625,
@@ -44,13 +44,23 @@
     {
       "steamId": "76561198199442735",
       "name": "The_Lorg",
-      "sessionSeconds": 467,
+      "sessionSeconds": 527,
       "playTimeSeconds": 14234,
       "money": 824199,
       "gold": 149,
       "fame": 1877,
       "rank": 26
+    },
+    {
+      "steamId": "76561198337811646",
+      "name": "VERSUS_65_",
+      "sessionSeconds": 48,
+      "playTimeSeconds": 49675,
+      "money": 17674,
+      "gold": 105,
+      "fame": 290,
+      "rank": 5
     }
   ],
-  "updated": "2026-09-14T10:46:30.119Z"
+  "updated": "2026-09-14T10:47:30.133Z"
 }
