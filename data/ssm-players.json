@@ -1,30 +1,30 @@
 {
-  "online": 9,
+  "online": 10,
   "players": [
     {
       "steamId": "76561198028600444",
       "name": "Ольга",
-      "sessionSeconds": 78900,
+      "sessionSeconds": 78960,
       "playTimeSeconds": 32678,
       "money": 912523,
       "gold": 130,
-      "fame": 566,
+      "fame": 567,
       "rank": 17
     },
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 9365,
+      "sessionSeconds": 9425,
       "playTimeSeconds": 20147,
-      "money": 1182886,
+      "money": 1194800,
       "gold": 15,
-      "fame": 3630,
+      "fame": 3660,
       "rank": 24
     },
     {
       "steamId": "76561198178260974",
       "name": "Noblesko",
-      "sessionSeconds": 6572,
+      "sessionSeconds": 6632,
       "playTimeSeconds": 48692,
       "money": 881127,
       "gold": 45,
@@ -34,7 +34,7 @@
     {
       "steamId": "76561198068992719",
       "name": "Alina",
-      "sessionSeconds": 6376,
+      "sessionSeconds": 6436,
       "playTimeSeconds": 20150,
       "money": 975389,
       "gold": 445,
@@ -44,7 +44,7 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 5683,
+      "sessionSeconds": 5743,
       "playTimeSeconds": 51031,
       "money": 18074,
       "gold": 110,
@@ -54,7 +54,7 @@
     {
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "sessionSeconds": 4880,
+      "sessionSeconds": 4940,
       "playTimeSeconds": 57408,
       "money": 7120936,
       "gold": 3821,
@@ -64,7 +64,7 @@
     {
       "steamId": "76561198118646763",
       "name": "Jane Doe",
-      "sessionSeconds": 934,
+      "sessionSeconds": 994,
       "playTimeSeconds": 5684,
       "money": 1112004,
       "gold": 352,
@@ -74,23 +74,33 @@
     {
       "steamId": "76561198199442735",
       "name": "The_Lorg",
-      "sessionSeconds": 161,
+      "sessionSeconds": 221,
       "playTimeSeconds": 21619,
       "money": 826199,
       "gold": 159,
-      "fame": 1903,
+      "fame": 1904,
       "rank": 21
     },
     {
       "steamId": "76561198382114262",
       "name": "Montana",
-      "sessionSeconds": 10,
+      "sessionSeconds": 70,
       "playTimeSeconds": 9123,
       "money": 1425039,
       "gold": 2635,
       "fame": 2751,
       "rank": 34
+    },
+    {
+      "steamId": "76561199846653258",
+      "name": "Koshka",
+      "sessionSeconds": 52,
+      "playTimeSeconds": 0,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "rank": 76
     }
   ],
-  "updated": "2026-09-14T12:45:34.802Z"
+  "updated": "2026-09-14T12:46:34.812Z"
 }
