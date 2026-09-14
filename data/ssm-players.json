@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 1864,
+      "sessionSeconds": 1924,
       "playTimeSeconds": 18930,
       "money": 12312,
       "gold": 85,
       "fame": 215,
       "rank": 22
+    },
+    {
+      "steamId": "76561198156375337",
+      "name": "Domo",
+      "sessionSeconds": 37,
+      "playTimeSeconds": 6050,
+      "money": 1393218,
+      "gold": 662,
+      "fame": 1655,
+      "rank": 36
     }
   ],
-  "updated": "2026-09-14T01:31:26.003Z"
+  "updated": "2026-09-14T01:32:26.012Z"
 }
