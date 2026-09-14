@@ -1,10 +1,10 @@
 {
-  "online": 6,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 140530,
+      "sessionSeconds": 140590,
       "playTimeSeconds": 39450,
       "money": 1006253,
       "gold": 35,
@@ -14,7 +14,7 @@
     {
       "steamId": "76561198028621423",
       "name": "Lesnik",
-      "sessionSeconds": 3822,
+      "sessionSeconds": 3882,
       "playTimeSeconds": 29500,
       "money": 786434,
       "gold": 1928,
@@ -24,7 +24,7 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 3195,
+      "sessionSeconds": 3255,
       "playTimeSeconds": 44213,
       "money": 12625,
       "gold": 100,
@@ -34,9 +34,9 @@
     {
       "steamId": "76561198775651698",
       "name": "Добряк",
-      "sessionSeconds": 3158,
+      "sessionSeconds": 3218,
       "playTimeSeconds": 27,
-      "money": 3800663,
+      "money": 3842503,
       "gold": 1080,
       "fame": 11011,
       "rank": 70
@@ -44,7 +44,7 @@
     {
       "steamId": "76561198693259704",
       "name": "Butcher19671",
-      "sessionSeconds": 681,
+      "sessionSeconds": 741,
       "playTimeSeconds": 2568,
       "money": 0,
       "gold": 0,
@@ -54,13 +54,33 @@
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 448,
+      "sessionSeconds": 508,
       "playTimeSeconds": 27376,
       "money": 1296705,
       "gold": 401,
       "fame": 1255,
       "rank": 19
+    },
+    {
+      "steamId": "76561198382114262",
+      "name": "Montana",
+      "sessionSeconds": 18,
+      "playTimeSeconds": 0,
+      "money": 1406034,
+      "gold": 2625,
+      "fame": 2721,
+      "rank": 74
+    },
+    {
+      "steamId": "76561198071060590",
+      "name": "Niga",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 20147,
+      "money": 1106917,
+      "gold": 5,
+      "fame": 3570,
+      "rank": 23
     }
   ],
-  "updated": "2026-09-14T10:08:29.859Z"
+  "updated": "2026-09-14T10:09:29.865Z"
 }
