@@ -1,36 +1,56 @@
 {
-  "online": 3,
+  "online": 5,
   "players": [
+    {
+      "steamId": "76561198256601130",
+      "name": "Clumsy",
+      "sessionSeconds": 138461,
+      "playTimeSeconds": 33803,
+      "money": 149284,
+      "gold": 35,
+      "fame": 457,
+      "rank": 14
+    },
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 136450,
-      "playTimeSeconds": 39404,
+      "sessionSeconds": 136510,
+      "playTimeSeconds": 39450,
       "money": 1006253,
       "gold": 35,
       "fame": 222,
-      "rank": 12
+      "rank": 11
     },
     {
-      "steamId": "76561199580351165",
-      "name": "ШРинат",
-      "sessionSeconds": 7749,
-      "playTimeSeconds": 48419,
-      "money": 7125125,
-      "gold": 3816,
-      "fame": 26663,
-      "rank": 5
+      "steamId": "76561199877063571",
+      "name": "Mazay",
+      "sessionSeconds": 131321,
+      "playTimeSeconds": 37652,
+      "money": 103113,
+      "gold": 520,
+      "fame": 2341,
+      "rank": 13
     },
     {
-      "steamId": "76561199699294853",
-      "name": "ПАТRИК",
-      "sessionSeconds": 1283,
-      "playTimeSeconds": 0,
-      "money": 642157,
-      "gold": 843,
-      "fame": 2133,
-      "rank": 72
+      "steamId": "76561198028600444",
+      "name": "Ольга",
+      "sessionSeconds": 65454,
+      "playTimeSeconds": 30339,
+      "money": 918676,
+      "gold": 130,
+      "fame": 558,
+      "rank": 15
+    },
+    {
+      "steamId": "76561199244636054",
+      "name": "_PsixichkA_",
+      "sessionSeconds": 43386,
+      "playTimeSeconds": 28169,
+      "money": 1260156,
+      "gold": 125,
+      "fame": 504,
+      "rank": 18
     }
   ],
-  "updated": "2026-09-14T09:00:29.360Z"
+  "updated": "2026-09-14T09:01:29.367Z"
 }
