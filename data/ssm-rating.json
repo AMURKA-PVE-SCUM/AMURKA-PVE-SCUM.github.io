@@ -37,7 +37,7 @@
       "playTimeSeconds": 51031,
       "money": 17074,
       "gold": 105,
-      "fame": 291,
+      "fame": 292,
       "isOnline": true
     },
     {
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561199404896383",
+      "name": "Victor_Vilkouskas",
+      "playTimeSeconds": 33052,
+      "money": 1409665,
+      "gold": 407,
+      "fame": 1503,
+      "isOnline": false
+    },
+    {
+      "rank": 16,
       "steamId": "76561198028600444",
       "name": "Ольга",
       "playTimeSeconds": 30339,
@@ -151,7 +161,7 @@
       "isOnline": true
     },
     {
-      "rank": 16,
+      "rank": 17,
       "steamId": "76561198230911236",
       "name": "TOR",
       "playTimeSeconds": 28604,
@@ -161,7 +171,7 @@
       "isOnline": false
     },
     {
-      "rank": 17,
+      "rank": 18,
       "steamId": "76561199244636054",
       "name": "_PsixichkA_",
       "playTimeSeconds": 28169,
@@ -169,16 +179,6 @@
       "gold": 125,
       "fame": 504,
       "isOnline": false
-    },
-    {
-      "rank": 18,
-      "steamId": "76561199404896383",
-      "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 27376,
-      "money": 1409665,
-      "gold": 407,
-      "fame": 1503,
-      "isOnline": true
     },
     {
       "rank": 19,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-14T11:35:34.245Z"
+  "updated": "2026-09-14T11:36:34.253Z"
 }
