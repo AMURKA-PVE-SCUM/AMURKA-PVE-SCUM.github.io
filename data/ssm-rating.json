@@ -112,6 +112,16 @@
     },
     {
       "rank": 12,
+      "steamId": "76561198790887864",
+      "name": "Roma",
+      "playTimeSeconds": 39404,
+      "money": 1006253,
+      "gold": 35,
+      "fame": 222,
+      "isOnline": false
+    },
+    {
+      "rank": 13,
       "steamId": "76561198256601130",
       "name": "Clumsy",
       "playTimeSeconds": 33803,
@@ -121,7 +131,7 @@
       "isOnline": false
     },
     {
-      "rank": 13,
+      "rank": 14,
       "steamId": "76561198028600444",
       "name": "Ольга",
       "playTimeSeconds": 30339,
@@ -129,16 +139,6 @@
       "gold": 130,
       "fame": 558,
       "isOnline": false
-    },
-    {
-      "rank": 14,
-      "steamId": "76561198790887864",
-      "name": "Roma",
-      "playTimeSeconds": 29833,
-      "money": 1006253,
-      "gold": 35,
-      "fame": 222,
-      "isOnline": true
     },
     {
       "rank": 15,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-14T08:33:29.167Z"
+  "updated": "2026-09-14T08:34:29.170Z"
 }
