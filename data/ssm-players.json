@@ -1,10 +1,10 @@
 {
-  "online": 9,
+  "online": 10,
   "players": [
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 168678,
+      "sessionSeconds": 168738,
       "playTimeSeconds": 43140,
       "money": 1007253,
       "gold": 40,
@@ -14,7 +14,7 @@
     {
       "steamId": "76561198028600444",
       "name": "Ольга",
-      "sessionSeconds": 97622,
+      "sessionSeconds": 97682,
       "playTimeSeconds": 43242,
       "money": 914924,
       "gold": 150,
@@ -24,7 +24,7 @@
     {
       "steamId": "76561198067720439",
       "name": "Genih",
-      "sessionSeconds": 9866,
+      "sessionSeconds": 9926,
       "playTimeSeconds": 53605,
       "money": 3496961,
       "gold": 499,
@@ -34,7 +34,7 @@
     {
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
-      "sessionSeconds": 8010,
+      "sessionSeconds": 8070,
       "playTimeSeconds": 62594,
       "money": 1893147,
       "gold": 677,
@@ -44,7 +44,7 @@
     {
       "steamId": "76561199189470290",
       "name": "Konffetka",
-      "sessionSeconds": 6378,
+      "sessionSeconds": 6438,
       "playTimeSeconds": 28530,
       "money": 1385864,
       "gold": 211,
@@ -54,7 +54,7 @@
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 2783,
+      "sessionSeconds": 2843,
       "playTimeSeconds": 38758,
       "money": 1357688,
       "gold": 407,
@@ -64,7 +64,7 @@
     {
       "steamId": "76561198178260974",
       "name": "Noblesko",
-      "sessionSeconds": 2077,
+      "sessionSeconds": 2138,
       "playTimeSeconds": 68332,
       "money": 828821,
       "gold": 65,
@@ -74,7 +74,7 @@
     {
       "steamId": "76561199569191127",
       "name": "Mira",
-      "sessionSeconds": 2032,
+      "sessionSeconds": 2092,
       "playTimeSeconds": 2097,
       "money": 956000,
       "gold": 90,
@@ -84,13 +84,23 @@
     {
       "steamId": "76561199846653258",
       "name": "Koshka",
-      "sessionSeconds": 1655,
+      "sessionSeconds": 1715,
       "playTimeSeconds": 805,
       "money": 1000000,
       "gold": 0,
       "fame": 8,
       "rank": 65
+    },
+    {
+      "steamId": "76561199246198020",
+      "name": "Komodo",
+      "sessionSeconds": 25,
+      "playTimeSeconds": 54577,
+      "money": 960309,
+      "gold": 147,
+      "fame": 1437,
+      "rank": 5
     }
   ],
-  "updated": "2026-09-14T17:57:37.135Z"
+  "updated": "2026-09-14T17:58:37.148Z"
 }
