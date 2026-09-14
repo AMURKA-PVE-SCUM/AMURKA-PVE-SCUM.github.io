@@ -661,8 +661,8 @@
       "entityId": 29009177,
       "asset": "BPC_Kinglet_Mariner",
       "x": -679928,
-      "y": 597091,
-      "z": 61060,
+      "y": 597093,
+      "z": 61059,
       "ownerName": "Genih",
       "customName": null
     },
@@ -696,8 +696,8 @@
     {
       "entityId": 29033924,
       "asset": "BPC_RIS",
-      "x": 154378,
-      "y": -687413,
+      "x": 154375,
+      "y": -687414,
       "z": 3197,
       "ownerName": "Бен Гур",
       "customName": null
@@ -1623,9 +1623,9 @@
     {
       "entityId": 32451091,
       "asset": "BPC_RIS",
-      "x": 107516,
-      "y": -749153,
-      "z": 824,
+      "x": 132787,
+      "y": -756855,
+      "z": 891,
       "ownerName": "Komodo",
       "customName": null
     },
@@ -1808,7 +1808,16 @@
       "z": 69343,
       "ownerName": null,
       "customName": null
+    },
+    {
+      "entityId": 33043329,
+      "asset": "BPC_Kinglet_Duster",
+      "x": 550622,
+      "y": 313098,
+      "z": 701,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-14T18:05:37.200Z"
+  "updated": "2026-09-14T18:06:37.215Z"
 }
