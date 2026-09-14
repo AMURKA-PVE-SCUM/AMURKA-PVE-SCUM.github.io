@@ -2,6 +2,16 @@
   "leaderboard": [
     {
       "rank": 1,
+      "steamId": "76561199580351165",
+      "name": "ШРинат",
+      "playTimeSeconds": 56190,
+      "money": 7125125,
+      "gold": 3816,
+      "fame": 26663,
+      "isOnline": false
+    },
+    {
+      "rank": 2,
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
       "playTimeSeconds": 55090,
@@ -11,7 +21,7 @@
       "isOnline": false
     },
     {
-      "rank": 2,
+      "rank": 3,
       "steamId": "76561198067720439",
       "name": "Genih",
       "playTimeSeconds": 51047,
@@ -21,7 +31,7 @@
       "isOnline": false
     },
     {
-      "rank": 3,
+      "rank": 4,
       "steamId": "76561198128211851",
       "name": "zloy",
       "playTimeSeconds": 50035,
@@ -31,7 +41,7 @@
       "isOnline": false
     },
     {
-      "rank": 4,
+      "rank": 5,
       "steamId": "76561198178260974",
       "name": "Noblesko",
       "playTimeSeconds": 48692,
@@ -39,16 +49,6 @@
       "gold": 40,
       "fame": 252,
       "isOnline": false
-    },
-    {
-      "rank": 5,
-      "steamId": "76561199580351165",
-      "name": "ШРинат",
-      "playTimeSeconds": 48419,
-      "money": 7125125,
-      "gold": 3816,
-      "fame": 26663,
-      "isOnline": true
     },
     {
       "rank": 6,
@@ -102,6 +102,16 @@
     },
     {
       "rank": 11,
+      "steamId": "76561198790887864",
+      "name": "Roma",
+      "playTimeSeconds": 39450,
+      "money": 1006253,
+      "gold": 35,
+      "fame": 222,
+      "isOnline": true
+    },
+    {
+      "rank": 12,
       "steamId": "76561199000739219",
       "name": "Yakytenok",
       "playTimeSeconds": 39450,
@@ -111,16 +121,6 @@
       "isOnline": false
     },
     {
-      "rank": 12,
-      "steamId": "76561198790887864",
-      "name": "Roma",
-      "playTimeSeconds": 39404,
-      "money": 1006253,
-      "gold": 35,
-      "fame": 222,
-      "isOnline": true
-    },
-    {
       "rank": 13,
       "steamId": "76561198256601130",
       "name": "Clumsy",
@@ -128,7 +128,7 @@
       "money": 149284,
       "gold": 35,
       "fame": 457,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 14,
@@ -138,7 +138,7 @@
       "money": 918676,
       "gold": 130,
       "fame": 558,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 15,
@@ -168,7 +168,7 @@
       "money": 1260156,
       "gold": 125,
       "fame": 504,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 18,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-14T09:00:29.360Z"
+  "updated": "2026-09-14T09:01:29.367Z"
 }
