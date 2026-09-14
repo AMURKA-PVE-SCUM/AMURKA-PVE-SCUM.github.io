@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "sessionSeconds": 3608,
+      "sessionSeconds": 3668,
       "playTimeSeconds": 37620,
-      "money": 7204358,
-      "gold": 3816,
-      "fame": 26636,
+      "money": 7205358,
+      "gold": 3821,
+      "fame": 26646,
       "rank": 9
+    },
+    {
+      "steamId": "76561198156375337",
+      "name": "Domo",
+      "sessionSeconds": 35,
+      "playTimeSeconds": 5715,
+      "money": 1393218,
+      "gold": 662,
+      "fame": 1655,
+      "rank": 36
     }
   ],
-  "updated": "2026-09-14T00:14:25.404Z"
+  "updated": "2026-09-14T00:15:25.405Z"
 }
