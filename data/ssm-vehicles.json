@@ -669,8 +669,8 @@
     {
       "entityId": 29033924,
       "asset": "BPC_RIS",
-      "x": 202897,
-      "y": -667440,
+      "x": 202898,
+      "y": -667437,
       "z": 4698,
       "ownerName": "Бен Гур",
       "customName": null
@@ -1038,9 +1038,9 @@
     {
       "entityId": 30900875,
       "asset": "BPC_Rager",
-      "x": 168333,
-      "y": -584650,
-      "z": 2232,
+      "x": 186567,
+      "y": -666495,
+      "z": 5963,
       "ownerName": "Добряк",
       "customName": null
     },
@@ -1346,7 +1346,7 @@
       "asset": "BPC_Dinghy",
       "x": 182892,
       "y": -698455,
-      "z": -22,
+      "z": -27,
       "ownerName": null,
       "customName": null
     },
@@ -1408,7 +1408,7 @@
       "entityId": 31936574,
       "asset": "BPC_Dirtbike",
       "x": 509347,
-      "y": -247722,
+      "y": -247720,
       "z": 3271,
       "ownerName": "D69",
       "customName": null
@@ -1515,9 +1515,9 @@
     {
       "entityId": 32237420,
       "asset": "BPC_Barba",
-      "x": 182412,
-      "y": -856722,
-      "z": -42,
+      "x": 208157,
+      "y": -849961,
+      "z": -56,
       "ownerName": "Ольга",
       "customName": null
     },
@@ -1661,7 +1661,7 @@
       "asset": "BPC_Dinghy",
       "x": 159916,
       "y": -846439,
-      "z": -25,
+      "z": -23,
       "ownerName": "Clumsy",
       "customName": null
     },
@@ -1826,7 +1826,16 @@
       "z": -736,
       "ownerName": null,
       "customName": null
+    },
+    {
+      "entityId": 33117259,
+      "asset": "BPC_Kinglet_Mariner",
+      "x": 545803,
+      "y": -227936,
+      "z": 2,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-15T09:43:44.036Z"
+  "updated": "2026-09-15T09:44:44.039Z"
 }
