@@ -1,10 +1,10 @@
 {
-  "online": 8,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198070555721",
       "name": "Anskor",
-      "sessionSeconds": 1612,
+      "sessionSeconds": 1672,
       "playTimeSeconds": 13638,
       "money": 4551,
       "gold": 15,
@@ -14,17 +14,17 @@
     {
       "steamId": "76561198063204711",
       "name": "Maxik",
-      "sessionSeconds": 1348,
+      "sessionSeconds": 1408,
       "playTimeSeconds": 12269,
       "money": 3314,
       "gold": 15,
-      "fame": 50,
+      "fame": 51,
       "rank": 43
     },
     {
       "steamId": "76561198022734828",
       "name": "ArBuzova",
-      "sessionSeconds": 1297,
+      "sessionSeconds": 1357,
       "playTimeSeconds": 15304,
       "money": 1004750,
       "gold": 20,
@@ -32,29 +32,9 @@
       "rank": 32
     },
     {
-      "steamId": "76561198067720439",
-      "name": "Genih",
-      "sessionSeconds": 1294,
-      "playTimeSeconds": 110354,
-      "money": 2094141,
-      "gold": 544,
-      "fame": 11046,
-      "rank": 1
-    },
-    {
-      "steamId": "76561198318136237",
-      "name": "Krakozavr",
-      "sessionSeconds": 1155,
-      "playTimeSeconds": 13798,
-      "money": 2181,
-      "gold": 10,
-      "fame": 142,
-      "rank": 35
-    },
-    {
       "steamId": "76561198147377540",
       "name": "mihail_casper",
-      "sessionSeconds": 1136,
+      "sessionSeconds": 1196,
       "playTimeSeconds": 13772,
       "money": 1009504,
       "gold": 10,
@@ -64,7 +44,7 @@
     {
       "steamId": "76561199047855770",
       "name": "Bars",
-      "sessionSeconds": 898,
+      "sessionSeconds": 958,
       "playTimeSeconds": 11319,
       "money": 1010877,
       "gold": 95,
@@ -74,7 +54,7 @@
     {
       "steamId": "76561198068992719",
       "name": "Alina",
-      "sessionSeconds": 611,
+      "sessionSeconds": 671,
       "playTimeSeconds": 54416,
       "money": 1005389,
       "gold": 470,
@@ -82,5 +62,5 @@
       "rank": 13
     }
   ],
-  "updated": "2026-09-15T21:26:52.889Z"
+  "updated": "2026-09-15T21:27:52.893Z"
 }
