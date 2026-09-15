@@ -57,7 +57,7 @@
       "playTimeSeconds": 72858,
       "money": 831821,
       "gold": 80,
-      "fame": 375,
+      "fame": 376,
       "isOnline": true
     },
     {
@@ -77,7 +77,7 @@
       "playTimeSeconds": 63471,
       "money": 1083660,
       "gold": 157,
-      "fame": 1553,
+      "fame": 1554,
       "isOnline": true
     },
     {
@@ -162,6 +162,16 @@
     },
     {
       "rank": 17,
+      "steamId": "76561198199442735",
+      "name": "The_Lorg",
+      "playTimeSeconds": 39006,
+      "money": 825657,
+      "gold": 174,
+      "fame": 1972,
+      "isOnline": false
+    },
+    {
+      "rank": 18,
       "steamId": "76561198256601130",
       "name": "Clumsy",
       "playTimeSeconds": 37718,
@@ -171,7 +181,7 @@
       "isOnline": false
     },
     {
-      "rank": 18,
+      "rank": 19,
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "playTimeSeconds": 35295,
@@ -179,16 +189,6 @@
       "gold": 1928,
       "fame": 2433,
       "isOnline": false
-    },
-    {
-      "rank": 19,
-      "steamId": "76561198199442735",
-      "name": "The_Lorg",
-      "playTimeSeconds": 31203,
-      "money": 825657,
-      "gold": 174,
-      "fame": 1972,
-      "isOnline": true
     },
     {
       "rank": 20,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-15T14:29:49.859Z"
+  "updated": "2026-09-15T14:30:49.865Z"
 }
