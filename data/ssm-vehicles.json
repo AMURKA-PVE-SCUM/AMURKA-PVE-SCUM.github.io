@@ -12,8 +12,8 @@
     {
       "entityId": 19118710,
       "asset": "BPC_SidecarBike",
-      "x": -322053,
-      "y": 6799,
+      "x": -322055,
+      "y": 6798,
       "z": 35694,
       "ownerName": "Skeleton",
       "customName": null
@@ -82,19 +82,10 @@
       "customName": null
     },
     {
-      "entityId": 19745240,
-      "asset": "BPC_Kinglet_Duster",
-      "x": -251931,
-      "y": -101580,
-      "z": 36642,
-      "ownerName": "Завитинск",
-      "customName": null
-    },
-    {
       "entityId": 20299118,
       "asset": "BPC_RIS",
-      "x": -323677,
-      "y": 8204,
+      "x": -323674,
+      "y": 8203,
       "z": 35730,
       "ownerName": "Skeleton",
       "customName": null
@@ -579,8 +570,8 @@
     {
       "entityId": 28813121,
       "asset": "BPC_Laika",
-      "x": -199272,
-      "y": -34649,
+      "x": -199274,
+      "y": -34647,
       "z": 35727,
       "ownerName": "ZlayaBabka1989",
       "customName": null
@@ -822,7 +813,7 @@
     {
       "entityId": 29586143,
       "asset": "BPC_Kinglet_Duster",
-      "x": -200532,
+      "x": -200531,
       "y": -30161,
       "z": 35641,
       "ownerName": "Shelby",
@@ -1381,7 +1372,7 @@
       "entityId": 31794499,
       "asset": "BPC_WolfsWagen",
       "x": -260268,
-      "y": 14674,
+      "y": 14673,
       "z": 36176,
       "ownerName": null,
       "customName": null
@@ -1435,7 +1426,7 @@
       "entityId": 31947159,
       "asset": "BPC_CityBike",
       "x": -214921,
-      "y": -24091,
+      "y": -24092,
       "z": 35694,
       "ownerName": null,
       "customName": null
@@ -1821,12 +1812,21 @@
     {
       "entityId": 33088346,
       "asset": "BPC_Kinglet_Mariner",
-      "x": -124815,
-      "y": -56676,
-      "z": 52542,
+      "x": -314347,
+      "y": -4008,
+      "z": 42879,
+      "ownerName": null,
+      "customName": null
+    },
+    {
+      "entityId": 33089043,
+      "asset": "BPC_Kinglet_Duster",
+      "x": -276218,
+      "y": -36879,
+      "z": 35645,
       "ownerName": null,
       "customName": null
     }
   ],
-  "updated": "2026-09-15T05:42:42.263Z"
+  "updated": "2026-09-15T05:43:42.270Z"
 }
