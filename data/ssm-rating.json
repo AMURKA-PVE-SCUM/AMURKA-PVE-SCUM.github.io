@@ -35,9 +35,9 @@
       "steamId": "76561198790887864",
       "name": "Roma",
       "playTimeSeconds": 87635,
-      "money": 1048242,
-      "gold": 85,
-      "fame": 385,
+      "money": 1049242,
+      "gold": 90,
+      "fame": 395,
       "isOnline": true
     },
     {
@@ -62,6 +62,16 @@
     },
     {
       "rank": 7,
+      "steamId": "76561198071060590",
+      "name": "Niga",
+      "playTimeSeconds": 79310,
+      "money": 1178612,
+      "gold": 55,
+      "fame": 3996,
+      "isOnline": false
+    },
+    {
+      "rank": 8,
       "steamId": "76561199246198020",
       "name": "Komodo",
       "playTimeSeconds": 72407,
@@ -69,16 +79,6 @@
       "gold": 157,
       "fame": 1618,
       "isOnline": false
-    },
-    {
-      "rank": 8,
-      "steamId": "76561198071060590",
-      "name": "Niga",
-      "playTimeSeconds": 69931,
-      "money": 1178612,
-      "gold": 55,
-      "fame": 3996,
-      "isOnline": true
     },
     {
       "rank": 9,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-15T20:22:52.428Z"
+  "updated": "2026-09-15T20:23:52.440Z"
 }
