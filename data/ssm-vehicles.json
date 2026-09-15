@@ -138,8 +138,8 @@
     {
       "entityId": 22603288,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 224382,
-      "y": 3236,
+      "x": 224383,
+      "y": 3235,
       "z": 25449,
       "ownerName": "Jane Doe",
       "customName": null
@@ -399,9 +399,9 @@
     {
       "entityId": 27130608,
       "asset": "BPC_Laika",
-      "x": 204817,
-      "y": 198825,
-      "z": 32090,
+      "x": 158681,
+      "y": 68911,
+      "z": 30308,
       "ownerName": "ADA",
       "customName": null
     },
@@ -480,9 +480,9 @@
     {
       "entityId": 28204355,
       "asset": "BPC_Rager",
-      "x": -797807,
-      "y": -184965,
-      "z": 26531,
+      "x": -797813,
+      "y": -184962,
+      "z": 26530,
       "ownerName": "Черкес",
       "customName": null
     },
@@ -606,7 +606,7 @@
     {
       "entityId": 28864213,
       "asset": "BPC_Laika",
-      "x": -53917,
+      "x": -53916,
       "y": 224982,
       "z": 70009,
       "ownerName": "ПОТАСКУШКА",
@@ -896,16 +896,16 @@
       "asset": "BPC_BigRaft",
       "x": 473005,
       "y": -179200,
-      "z": 4,
+      "z": -16,
       "ownerName": "kmsten",
       "customName": null
     },
     {
       "entityId": 30322568,
       "asset": "BPC_Barba",
-      "x": 473536,
-      "y": -179930,
-      "z": -57,
+      "x": 473531,
+      "y": -179937,
+      "z": -53,
       "ownerName": "kmsten",
       "customName": null
     },
@@ -966,9 +966,9 @@
     {
       "entityId": 30621589,
       "asset": "BPC_RIS",
-      "x": -824483,
-      "y": -155949,
-      "z": 23190,
+      "x": -796318,
+      "y": -300646,
+      "z": 15041,
       "ownerName": "Niga",
       "customName": null
     },
@@ -1030,7 +1030,7 @@
       "entityId": 30900875,
       "asset": "BPC_Rager",
       "x": 467788,
-      "y": -236410,
+      "y": -236408,
       "z": 6930,
       "ownerName": "Добряк",
       "customName": null
@@ -1075,7 +1075,7 @@
       "entityId": 31055183,
       "asset": "BPC_WolfsWagen",
       "x": -800647,
-      "y": -276421,
+      "y": -276422,
       "z": 16733,
       "ownerName": "Niga",
       "customName": null
@@ -1164,7 +1164,7 @@
     {
       "entityId": 31332181,
       "asset": "BPC_RIS",
-      "x": 178285,
+      "x": 178284,
       "y": 37474,
       "z": 29728,
       "ownerName": null,
@@ -1399,7 +1399,7 @@
       "entityId": 31936574,
       "asset": "BPC_Dirtbike",
       "x": 509370,
-      "y": -247671,
+      "y": -247670,
       "z": 3271,
       "ownerName": "D69",
       "customName": null
@@ -1641,9 +1641,9 @@
     {
       "entityId": 32606881,
       "asset": "BPC_Laika",
-      "x": -607716,
-      "y": -543171,
-      "z": 4141,
+      "x": -615024,
+      "y": -551151,
+      "z": 2280,
       "ownerName": "Victor_Vilkouskas",
       "customName": null
     },
@@ -1768,8 +1768,8 @@
       "entityId": 33083899,
       "asset": "BPC_SidecarBike",
       "x": 175921,
-      "y": 112916,
-      "z": 31549,
+      "y": 112930,
+      "z": 31550,
       "ownerName": null,
       "customName": null
     },
@@ -1810,5 +1810,5 @@
       "customName": null
     }
   ],
-  "updated": "2026-09-15T18:47:51.791Z"
+  "updated": "2026-09-15T18:48:51.802Z"
 }
