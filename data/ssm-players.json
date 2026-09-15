@@ -1,20 +1,20 @@
 {
-  "online": 8,
+  "online": 7,
   "players": [
     {
       "steamId": "76561198028600444",
       "name": "Ольга",
-      "sessionSeconds": 9459,
+      "sessionSeconds": 9519,
       "playTimeSeconds": 55716,
       "money": 915924,
       "gold": 155,
       "fame": 650,
-      "rank": 8
+      "rank": 9
     },
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 6275,
+      "sessionSeconds": 6335,
       "playTimeSeconds": 78042,
       "money": 24072,
       "gold": 140,
@@ -24,7 +24,7 @@
     {
       "steamId": "76561198068992719",
       "name": "Alina",
-      "sessionSeconds": 6148,
+      "sessionSeconds": 6208,
       "playTimeSeconds": 39383,
       "money": 1003389,
       "gold": 460,
@@ -32,19 +32,9 @@
       "rank": 18
     },
     {
-      "steamId": "76561198071060590",
-      "name": "Niga",
-      "sessionSeconds": 5418,
-      "playTimeSeconds": 53370,
-      "money": 1145035,
-      "gold": 15,
-      "fame": 3807,
-      "rank": 10
-    },
-    {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 4112,
+      "sessionSeconds": 4172,
       "playTimeSeconds": 60709,
       "money": 1028329,
       "gold": 65,
@@ -54,17 +44,17 @@
     {
       "steamId": "76561198067720439",
       "name": "Genih",
-      "sessionSeconds": 2652,
+      "sessionSeconds": 2712,
       "playTimeSeconds": 77125,
       "money": 2312035,
       "gold": 614,
-      "fame": 10937,
+      "fame": 10938,
       "rank": 3
     },
     {
       "steamId": "76561199699294853",
       "name": "ПАТRИК",
-      "sessionSeconds": 507,
+      "sessionSeconds": 567,
       "playTimeSeconds": 1304,
       "money": 645157,
       "gold": 843,
@@ -74,7 +64,7 @@
     {
       "steamId": "76561198199442735",
       "name": "The_Lorg",
-      "sessionSeconds": 70,
+      "sessionSeconds": 130,
       "playTimeSeconds": 28273,
       "money": 823657,
       "gold": 164,
@@ -82,5 +72,5 @@
       "rank": 23
     }
   ],
-  "updated": "2026-09-15T10:48:48.175Z"
+  "updated": "2026-09-15T10:49:48.181Z"
 }
