@@ -1,10 +1,10 @@
 {
-  "online": 10,
+  "online": 11,
   "players": [
     {
       "steamId": "76561198028600444",
       "name": "Ольга",
-      "sessionSeconds": 10539,
+      "sessionSeconds": 10599,
       "playTimeSeconds": 55716,
       "money": 916924,
       "gold": 160,
@@ -14,7 +14,7 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 7355,
+      "sessionSeconds": 7415,
       "playTimeSeconds": 78042,
       "money": 22252,
       "gold": 145,
@@ -24,17 +24,17 @@
     {
       "steamId": "76561198068992719",
       "name": "Alina",
-      "sessionSeconds": 7228,
+      "sessionSeconds": 7288,
       "playTimeSeconds": 39383,
-      "money": 1003389,
-      "gold": 460,
-      "fame": 3420,
+      "money": 1004389,
+      "gold": 465,
+      "fame": 3430,
       "rank": 18
     },
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 5192,
+      "sessionSeconds": 5252,
       "playTimeSeconds": 60709,
       "money": 1024494,
       "gold": 65,
@@ -44,7 +44,7 @@
     {
       "steamId": "76561199699294853",
       "name": "ПАТRИК",
-      "sessionSeconds": 1587,
+      "sessionSeconds": 1647,
       "playTimeSeconds": 1304,
       "money": 645157,
       "gold": 843,
@@ -54,7 +54,7 @@
     {
       "steamId": "76561198199442735",
       "name": "The_Lorg",
-      "sessionSeconds": 1150,
+      "sessionSeconds": 1210,
       "playTimeSeconds": 28273,
       "money": 823657,
       "gold": 164,
@@ -64,7 +64,7 @@
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 1008,
+      "sessionSeconds": 1068,
       "playTimeSeconds": 58830,
       "money": 1145035,
       "gold": 15,
@@ -74,7 +74,7 @@
     {
       "steamId": "76561199189470290",
       "name": "Konffetka",
-      "sessionSeconds": 954,
+      "sessionSeconds": 1014,
       "playTimeSeconds": 51429,
       "money": 1425546,
       "gold": 192,
@@ -84,7 +84,7 @@
     {
       "steamId": "76561198067720439",
       "name": "Genih",
-      "sessionSeconds": 746,
+      "sessionSeconds": 806,
       "playTimeSeconds": 79909,
       "money": 2293375,
       "gold": 614,
@@ -94,13 +94,23 @@
     {
       "steamId": "76561198869337858",
       "name": "Shelby",
-      "sessionSeconds": 647,
+      "sessionSeconds": 707,
       "playTimeSeconds": 401,
       "money": 2550223,
       "gold": 380,
       "fame": 23635,
       "rank": 73
+    },
+    {
+      "steamId": "76561198382114262",
+      "name": "Montana",
+      "sessionSeconds": 55,
+      "playTimeSeconds": 13107,
+      "money": 1584410,
+      "gold": 2635,
+      "fame": 2757,
+      "rank": 33
     }
   ],
-  "updated": "2026-09-15T11:06:48.327Z"
+  "updated": "2026-09-15T11:07:48.341Z"
 }
