@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561198150941258",
       "name": "LINOCHKA",
-      "sessionSeconds": 1376,
+      "sessionSeconds": 1436,
       "playTimeSeconds": 6927,
       "money": 999043,
       "gold": 30,
       "fame": 220,
       "rank": 46
+    },
+    {
+      "steamId": "76561199404896383",
+      "name": "Victor_Vilkouskas",
+      "sessionSeconds": 59,
+      "playTimeSeconds": 54147,
+      "money": 1363283,
+      "gold": 417,
+      "fame": 1623,
+      "rank": 11
     }
   ],
-  "updated": "2026-09-15T15:03:50.112Z"
+  "updated": "2026-09-15T15:04:50.126Z"
 }
