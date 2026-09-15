@@ -42,6 +42,16 @@
     },
     {
       "rank": 5,
+      "steamId": "76561198028600444",
+      "name": "Ольга",
+      "playTimeSeconds": 74197,
+      "money": 927096,
+      "gold": 175,
+      "fame": 717,
+      "isOnline": false
+    },
+    {
+      "rank": 6,
       "steamId": "76561198178260974",
       "name": "Noblesko",
       "playTimeSeconds": 72858,
@@ -51,7 +61,7 @@
       "isOnline": true
     },
     {
-      "rank": 6,
+      "rank": 7,
       "steamId": "76561199580351165",
       "name": "ШРинат",
       "playTimeSeconds": 67431,
@@ -61,7 +71,7 @@
       "isOnline": false
     },
     {
-      "rank": 7,
+      "rank": 8,
       "steamId": "76561199246198020",
       "name": "Komodo",
       "playTimeSeconds": 63471,
@@ -71,23 +81,13 @@
       "isOnline": true
     },
     {
-      "rank": 8,
+      "rank": 9,
       "steamId": "76561198071060590",
       "name": "Niga",
       "playTimeSeconds": 58830,
       "money": 1148035,
       "gold": 30,
-      "fame": 3858,
-      "isOnline": true
-    },
-    {
-      "rank": 9,
-      "steamId": "76561198028600444",
-      "name": "Ольга",
-      "playTimeSeconds": 55716,
-      "money": 927096,
-      "gold": 175,
-      "fame": 717,
+      "fame": 3859,
       "isOnline": true
     },
     {
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-15T14:10:49.709Z"
+  "updated": "2026-09-15T14:11:49.723Z"
 }
