@@ -2,6 +2,16 @@
   "leaderboard": [
     {
       "rank": 1,
+      "steamId": "76561198067720439",
+      "name": "Genih",
+      "playTimeSeconds": 104637,
+      "money": 2093141,
+      "gold": 539,
+      "fame": 11010,
+      "isOnline": false
+    },
+    {
+      "rank": 2,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "playTimeSeconds": 99204,
@@ -11,23 +21,13 @@
       "isOnline": false
     },
     {
-      "rank": 2,
+      "rank": 3,
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
       "playTimeSeconds": 96533,
       "money": 1504234,
       "gold": 592,
       "fame": 36004,
-      "isOnline": true
-    },
-    {
-      "rank": 3,
-      "steamId": "76561198067720439",
-      "name": "Genih",
-      "playTimeSeconds": 90405,
-      "money": 2093141,
-      "gold": 539,
-      "fame": 11010,
       "isOnline": true
     },
     {
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-15T19:21:51.996Z"
+  "updated": "2026-09-15T19:22:52.009Z"
 }
