@@ -62,6 +62,16 @@
     },
     {
       "rank": 7,
+      "steamId": "76561199246198020",
+      "name": "Komodo",
+      "playTimeSeconds": 69403,
+      "money": 1121505,
+      "gold": 157,
+      "fame": 1605,
+      "isOnline": false
+    },
+    {
+      "rank": 8,
       "steamId": "76561199580351165",
       "name": "ШРинат",
       "playTimeSeconds": 67431,
@@ -69,16 +79,6 @@
       "gold": 3836,
       "fame": 26742,
       "isOnline": false
-    },
-    {
-      "rank": 8,
-      "steamId": "76561199246198020",
-      "name": "Komodo",
-      "playTimeSeconds": 63471,
-      "money": 1121505,
-      "gold": 157,
-      "fame": 1605,
-      "isOnline": true
     },
     {
       "rank": 9,
@@ -117,7 +117,7 @@
       "playTimeSeconds": 48648,
       "money": 1363283,
       "gold": 417,
-      "fame": 1622,
+      "fame": 1623,
       "isOnline": true
     },
     {
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-15T14:58:50.090Z"
+  "updated": "2026-09-15T14:59:50.092Z"
 }
