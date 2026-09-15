@@ -795,8 +795,8 @@
     {
       "entityId": 29240045,
       "asset": "BPC_Dirtbike",
-      "x": 512232,
-      "y": -228555,
+      "x": 512233,
+      "y": -228556,
       "z": 4692,
       "ownerName": "YaNkei",
       "customName": null
@@ -1128,8 +1128,8 @@
     {
       "entityId": 31100228,
       "asset": "BPC_WolfsWagen",
-      "x": 531388,
-      "y": -181503,
+      "x": 531390,
+      "y": -181501,
       "z": 1707,
       "ownerName": "bolollo",
       "customName": null
@@ -1155,9 +1155,9 @@
     {
       "entityId": 31191595,
       "asset": "BPC_Barba",
-      "x": 525305,
-      "y": -175949,
-      "z": -55,
+      "x": 525304,
+      "y": -175944,
+      "z": -54,
       "ownerName": "bolollo",
       "customName": null
     },
@@ -1426,7 +1426,7 @@
       "entityId": 31936574,
       "asset": "BPC_Dirtbike",
       "x": 509338,
-      "y": -247738,
+      "y": -247737,
       "z": 3270,
       "ownerName": "D69",
       "customName": null
@@ -1677,9 +1677,9 @@
     {
       "entityId": 32651706,
       "asset": "BPC_Dinghy",
-      "x": 565965,
-      "y": -227376,
-      "z": -26,
+      "x": 565988,
+      "y": -227411,
+      "z": -28,
       "ownerName": "Clumsy",
       "customName": null
     },
@@ -1817,7 +1817,16 @@
       "z": 469,
       "ownerName": "GodMiller",
       "customName": null
+    },
+    {
+      "entityId": 33088346,
+      "asset": "BPC_Kinglet_Mariner",
+      "x": 503995,
+      "y": -219153,
+      "z": 18225,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-15T05:39:42.240Z"
+  "updated": "2026-09-15T05:40:42.242Z"
 }
