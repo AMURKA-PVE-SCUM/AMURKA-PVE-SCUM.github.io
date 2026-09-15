@@ -42,6 +42,16 @@
     },
     {
       "rank": 5,
+      "steamId": "76561198028600444",
+      "name": "Ольга",
+      "playTimeSeconds": 85078,
+      "money": 937348,
+      "gold": 190,
+      "fame": 786,
+      "isOnline": false
+    },
+    {
+      "rank": 6,
       "steamId": "76561198178260974",
       "name": "Noblesko",
       "playTimeSeconds": 80792,
@@ -49,16 +59,6 @@
       "gold": 80,
       "fame": 376,
       "isOnline": false
-    },
-    {
-      "rank": 6,
-      "steamId": "76561198028600444",
-      "name": "Ольга",
-      "playTimeSeconds": 74197,
-      "money": 936348,
-      "gold": 185,
-      "fame": 776,
-      "isOnline": true
     },
     {
       "rank": 7,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-15T18:46:51.780Z"
+  "updated": "2026-09-15T18:47:51.791Z"
 }
