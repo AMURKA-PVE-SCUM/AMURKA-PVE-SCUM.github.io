@@ -1,10 +1,10 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 6924,
+      "sessionSeconds": 6984,
       "playTimeSeconds": 52793,
       "money": 1026329,
       "gold": 55,
@@ -14,7 +14,7 @@
     {
       "steamId": "76561198068992719",
       "name": "Alina",
-      "sessionSeconds": 3615,
+      "sessionSeconds": 3675,
       "playTimeSeconds": 32783,
       "money": 1002389,
       "gold": 455,
@@ -24,17 +24,17 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 3579,
+      "sessionSeconds": 3639,
       "playTimeSeconds": 71550,
-      "money": 28295,
-      "gold": 130,
-      "fame": 362,
+      "money": 29295,
+      "gold": 135,
+      "fame": 372,
       "rank": 4
     },
     {
       "steamId": "76561199846653258",
       "name": "Koshka",
-      "sessionSeconds": 2949,
+      "sessionSeconds": 3009,
       "playTimeSeconds": 9481,
       "money": 797417,
       "gold": 75,
@@ -44,13 +44,23 @@
     {
       "steamId": "76561198775651698",
       "name": "Добряк",
-      "sessionSeconds": 576,
+      "sessionSeconds": 636,
       "playTimeSeconds": 6650,
       "money": 4101988,
       "gold": 1085,
       "fame": 11053,
       "rank": 41
+    },
+    {
+      "steamId": "76561198028600444",
+      "name": "Ольга",
+      "sessionSeconds": 34,
+      "playTimeSeconds": 52757,
+      "money": 914924,
+      "gold": 150,
+      "fame": 633,
+      "rank": 10
     }
   ],
-  "updated": "2026-09-15T08:10:43.373Z"
+  "updated": "2026-09-15T08:11:43.386Z"
 }
