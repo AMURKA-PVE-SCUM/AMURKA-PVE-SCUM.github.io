@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561198070555721",
       "name": "Anskor",
-      "sessionSeconds": 232,
+      "sessionSeconds": 292,
       "playTimeSeconds": 13638,
       "money": 4551,
       "gold": 15,
       "fame": 142,
       "rank": 37
+    },
+    {
+      "steamId": "76561198063204711",
+      "name": "Maxik",
+      "sessionSeconds": 27,
+      "playTimeSeconds": 12269,
+      "money": 3314,
+      "gold": 15,
+      "fame": 49,
+      "rank": 43
     }
   ],
-  "updated": "2026-09-15T21:03:52.718Z"
+  "updated": "2026-09-15T21:04:52.732Z"
 }
