@@ -87,11 +87,21 @@
       "playTimeSeconds": 61915,
       "money": 1150735,
       "gold": 35,
-      "fame": 3880,
+      "fame": 3881,
       "isOnline": true
     },
     {
       "rank": 10,
+      "steamId": "76561199404896383",
+      "name": "Victor_Vilkouskas",
+      "playTimeSeconds": 54710,
+      "money": 1363283,
+      "gold": 417,
+      "fame": 1624,
+      "isOnline": false
+    },
+    {
+      "rank": 11,
       "steamId": "76561199189470290",
       "name": "Konffetka",
       "playTimeSeconds": 54301,
@@ -99,16 +109,6 @@
       "gold": 187,
       "fame": 39324,
       "isOnline": false
-    },
-    {
-      "rank": 11,
-      "steamId": "76561199404896383",
-      "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 54147,
-      "money": 1363283,
-      "gold": 417,
-      "fame": 1624,
-      "isOnline": true
     },
     {
       "rank": 12,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-15T15:12:50.204Z"
+  "updated": "2026-09-15T15:13:50.213Z"
 }
