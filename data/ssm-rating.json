@@ -67,7 +67,7 @@
       "playTimeSeconds": 60709,
       "money": 1047709,
       "gold": 75,
-      "fame": 340,
+      "fame": 341,
       "isOnline": true
     },
     {
@@ -132,6 +132,16 @@
     },
     {
       "rank": 14,
+      "steamId": "76561198029476275",
+      "name": "XEH",
+      "playTimeSeconds": 45183,
+      "money": 1224251,
+      "gold": 161,
+      "fame": 1074,
+      "isOnline": false
+    },
+    {
+      "rank": 15,
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
       "playTimeSeconds": 44820,
@@ -139,16 +149,6 @@
       "gold": 95,
       "fame": 459,
       "isOnline": false
-    },
-    {
-      "rank": 15,
-      "steamId": "76561198029476275",
-      "name": "XEH",
-      "playTimeSeconds": 44545,
-      "money": 1224251,
-      "gold": 161,
-      "fame": 1074,
-      "isOnline": true
     },
     {
       "rank": 16,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-15T12:45:49.082Z"
+  "updated": "2026-09-15T12:46:49.086Z"
 }
