@@ -3,7 +3,7 @@
     {
       "entityId": 19118683,
       "asset": "BPC_Rager",
-      "x": -274857,
+      "x": -274858,
       "y": -592872,
       "z": 148,
       "ownerName": "NetrezvbIi_Kot",
@@ -30,7 +30,7 @@
     {
       "entityId": 19118816,
       "asset": "BPC_Cruiser",
-      "x": -276962,
+      "x": -276961,
       "y": -589793,
       "z": 154,
       "ownerName": "NetrezvbIi_Kot",
@@ -183,7 +183,7 @@
     {
       "entityId": 23973748,
       "asset": "BPC_Cruiser",
-      "x": -276650,
+      "x": -276651,
       "y": -589793,
       "z": 154,
       "ownerName": "Raskalbasman",
@@ -354,8 +354,8 @@
     {
       "entityId": 26521933,
       "asset": "BPC_Dirtbike",
-      "x": -277121,
-      "y": -589786,
+      "x": -277122,
+      "y": -589788,
       "z": 146,
       "ownerName": "NetrezvbIi_Kot",
       "customName": null
@@ -391,7 +391,7 @@
       "entityId": 27126421,
       "asset": "BPC_Tractor",
       "x": -275905,
-      "y": -593431,
+      "y": -593433,
       "z": 107,
       "ownerName": "Raskalbasman",
       "customName": null
@@ -678,8 +678,8 @@
     {
       "entityId": 29033926,
       "asset": "BPC_Cruiser",
-      "x": -276812,
-      "y": -589796,
+      "x": -276810,
+      "y": -589794,
       "z": 154,
       "ownerName": "NetrezvbIi_Kot",
       "customName": null
@@ -1605,7 +1605,7 @@
     {
       "entityId": 32477333,
       "asset": "BPC_Barba",
-      "x": 367427,
+      "x": 367426,
       "y": -640644,
       "z": 11,
       "ownerName": "Genih",
@@ -1817,7 +1817,16 @@
       "z": 11614,
       "ownerName": null,
       "customName": null
+    },
+    {
+      "entityId": 33091278,
+      "asset": "BPC_MountainBike",
+      "x": -310107,
+      "y": -616923,
+      "z": 3961,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-15T06:00:42.377Z"
+  "updated": "2026-09-15T06:01:42.388Z"
 }
