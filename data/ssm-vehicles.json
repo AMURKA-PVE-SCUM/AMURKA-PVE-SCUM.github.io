@@ -1056,7 +1056,7 @@
     {
       "entityId": 30940957,
       "asset": "BPC_RIS",
-      "x": 555278,
+      "x": 555274,
       "y": 312125,
       "z": 242,
       "ownerName": "The_Lorg",
@@ -1272,9 +1272,9 @@
     {
       "entityId": 31544864,
       "asset": "BPC_SidecarBike",
-      "x": 555063,
-      "y": 312335,
-      "z": 221,
+      "x": 555054,
+      "y": 312345,
+      "z": 220,
       "ownerName": null,
       "customName": null
     },
@@ -1407,8 +1407,8 @@
     {
       "entityId": 31936574,
       "asset": "BPC_Dirtbike",
-      "x": 509353,
-      "y": -247711,
+      "x": 509354,
+      "y": -247710,
       "z": 3271,
       "ownerName": "D69",
       "customName": null
@@ -1515,9 +1515,9 @@
     {
       "entityId": 32237420,
       "asset": "BPC_Barba",
-      "x": 159007,
-      "y": -846620,
-      "z": -81,
+      "x": 158608,
+      "y": -846867,
+      "z": -32,
       "ownerName": "Ольга",
       "customName": null
     },
@@ -1740,7 +1740,7 @@
     {
       "entityId": 32850748,
       "asset": "BPC_RIS",
-      "x": 555126,
+      "x": 555128,
       "y": 312122,
       "z": 242,
       "ownerName": "Noblesko",
@@ -1776,9 +1776,9 @@
     {
       "entityId": 33043329,
       "asset": "BPC_Kinglet_Duster",
-      "x": 551413,
-      "y": 313614,
-      "z": 367,
+      "x": 551419,
+      "y": 313615,
+      "z": 366,
       "ownerName": "Noblesko",
       "customName": null
     },
@@ -1817,7 +1817,16 @@
       "z": 11614,
       "ownerName": null,
       "customName": null
+    },
+    {
+      "entityId": 33120488,
+      "asset": "BPC_Kinglet_Mariner",
+      "x": 238162,
+      "y": -196205,
+      "z": 21809,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-15T10:20:47.991Z"
+  "updated": "2026-09-15T10:21:48.000Z"
 }
