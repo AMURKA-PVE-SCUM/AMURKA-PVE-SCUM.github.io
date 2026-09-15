@@ -1,20 +1,10 @@
 {
-  "online": 8,
+  "online": 7,
   "players": [
-    {
-      "steamId": "76561198178260974",
-      "name": "Noblesko",
-      "sessionSeconds": 7894,
-      "playTimeSeconds": 72858,
-      "money": 831821,
-      "gold": 80,
-      "fame": 376,
-      "rank": 6
-    },
     {
       "steamId": "76561198382114262",
       "name": "Montana",
-      "sessionSeconds": 7467,
+      "sessionSeconds": 7527,
       "playTimeSeconds": 17849,
       "money": 1707499,
       "gold": 2650,
@@ -24,7 +14,7 @@
     {
       "steamId": "76561199246198020",
       "name": "Komodo",
-      "sessionSeconds": 4233,
+      "sessionSeconds": 4293,
       "playTimeSeconds": 63471,
       "money": 1083660,
       "gold": 157,
@@ -34,9 +24,9 @@
     {
       "steamId": "76561198150941258",
       "name": "LINOCHKA",
-      "sessionSeconds": 4173,
+      "sessionSeconds": 4233,
       "playTimeSeconds": 1004,
-      "money": 1000043,
+      "money": 999043,
       "gold": 30,
       "fame": 218,
       "rank": 69
@@ -44,7 +34,7 @@
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 3715,
+      "sessionSeconds": 3775,
       "playTimeSeconds": 48648,
       "money": 1362253,
       "gold": 417,
@@ -54,7 +44,7 @@
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 1301,
+      "sessionSeconds": 1361,
       "playTimeSeconds": 58830,
       "money": 1149735,
       "gold": 30,
@@ -64,17 +54,17 @@
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 1050,
+      "sessionSeconds": 1110,
       "playTimeSeconds": 74213,
       "money": 1047709,
       "gold": 75,
       "fame": 344,
-      "rank": 4
+      "rank": 5
     },
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 611,
+      "sessionSeconds": 671,
       "playTimeSeconds": 96985,
       "money": 38229,
       "gold": 160,
@@ -82,5 +72,5 @@
       "rank": 1
     }
   ],
-  "updated": "2026-09-15T14:30:49.865Z"
+  "updated": "2026-09-15T14:31:49.872Z"
 }
