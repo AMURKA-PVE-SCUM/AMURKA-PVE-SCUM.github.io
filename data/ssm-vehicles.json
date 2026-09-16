@@ -1,6 +1,15 @@
 {
   "vehicles": [
     {
+      "entityId": 0,
+      "asset": "BPC_CityBike",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "ownerName": null,
+      "customName": null
+    },
+    {
       "entityId": 19118683,
       "asset": "BPC_Rager",
       "x": -274863,
@@ -1110,9 +1119,9 @@
     {
       "entityId": 31381709,
       "asset": "BPC_Rager",
-      "x": 525577,
-      "y": -195539,
-      "z": 1145,
+      "x": 525579,
+      "y": -195542,
+      "z": 1146,
       "ownerName": "Ebzhik",
       "customName": null
     },
@@ -1808,16 +1817,7 @@
       "z": 13368,
       "ownerName": null,
       "customName": null
-    },
-    {
-      "entityId": 33341469,
-      "asset": "BPC_CityBike",
-      "x": -519751,
-      "y": -660454,
-      "z": -277,
-      "ownerName": "Mazay",
-      "customName": null
     }
   ],
-  "updated": "2026-09-16T15:57:04.865Z"
+  "updated": "2026-09-16T15:58:04.879Z"
 }
