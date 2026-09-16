@@ -1072,15 +1072,6 @@
       "customName": null
     },
     {
-      "entityId": 31183224,
-      "asset": "BPC_Tractor",
-      "x": 336821,
-      "y": -366163,
-      "z": 12687,
-      "ownerName": "alekx838",
-      "customName": null
-    },
-    {
       "entityId": 31191595,
       "asset": "BPC_Barba",
       "x": 525308,
@@ -1095,15 +1086,6 @@
       "x": 229563,
       "y": -198555,
       "z": 22587,
-      "ownerName": "Konffetka",
-      "customName": null
-    },
-    {
-      "entityId": 31223674,
-      "asset": "BPC_Tractor",
-      "x": 336469,
-      "y": -366400,
-      "z": 12687,
       "ownerName": "Konffetka",
       "customName": null
     },
@@ -1632,9 +1614,9 @@
     {
       "entityId": 32711425,
       "asset": "BPC_Dinghy",
-      "x": -634036,
-      "y": -567810,
-      "z": -25,
+      "x": -554696,
+      "y": -561954,
+      "z": -3,
       "ownerName": "VERSUS_65_",
       "customName": null
     },
@@ -1803,9 +1785,9 @@
     {
       "entityId": 33288393,
       "asset": "BPC_Dirtbike",
-      "x": 349141,
-      "y": -441930,
-      "z": 5457,
+      "x": 370516,
+      "y": -300832,
+      "z": 16709,
       "ownerName": "Koshka",
       "customName": null
     },
@@ -1817,7 +1799,25 @@
       "z": 512,
       "ownerName": null,
       "customName": null
+    },
+    {
+      "entityId": 33299204,
+      "asset": "BPC_Tractor",
+      "x": -128283,
+      "y": 344330,
+      "z": 74559,
+      "ownerName": null,
+      "customName": null
+    },
+    {
+      "entityId": 33299205,
+      "asset": "BPC_Tractor",
+      "x": -55067,
+      "y": -73628,
+      "z": 36751,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-16T11:22:02.796Z"
+  "updated": "2026-09-16T11:23:02.809Z"
 }
