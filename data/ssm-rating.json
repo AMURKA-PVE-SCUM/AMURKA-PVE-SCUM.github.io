@@ -17,7 +17,7 @@
       "playTimeSeconds": 114946,
       "money": 1630091,
       "gold": 597,
-      "fame": 36392,
+      "fame": 36393,
       "isOnline": true
     },
     {
@@ -92,6 +92,16 @@
     },
     {
       "rank": 10,
+      "steamId": "76561199404896383",
+      "name": "Victor_Vilkouskas",
+      "playTimeSeconds": 69589,
+      "money": 1498959,
+      "gold": 428,
+      "fame": 2067,
+      "isOnline": false
+    },
+    {
+      "rank": 11,
       "steamId": "76561199580351165",
       "name": "ШРинат",
       "playTimeSeconds": 67431,
@@ -99,16 +109,6 @@
       "gold": 3836,
       "fame": 26742,
       "isOnline": false
-    },
-    {
-      "rank": 11,
-      "steamId": "76561199404896383",
-      "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 65662,
-      "money": 1498959,
-      "gold": 428,
-      "fame": 2067,
-      "isOnline": true
     },
     {
       "rank": 12,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-16T12:28:03.311Z"
+  "updated": "2026-09-16T12:29:03.313Z"
 }
