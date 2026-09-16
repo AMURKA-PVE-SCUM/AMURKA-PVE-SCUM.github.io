@@ -22,22 +22,22 @@
     },
     {
       "rank": 3,
+      "steamId": "76561198790887864",
+      "name": "Roma",
+      "playTimeSeconds": 123398,
+      "money": 1054799,
+      "gold": 125,
+      "fame": 504,
+      "isOnline": false
+    },
+    {
+      "rank": 4,
       "steamId": "76561198067720439",
       "name": "Genih",
       "playTimeSeconds": 119270,
       "money": 1957866,
       "gold": 564,
       "fame": 11122,
-      "isOnline": true
-    },
-    {
-      "rank": 4,
-      "steamId": "76561198790887864",
-      "name": "Roma",
-      "playTimeSeconds": 107820,
-      "money": 1054799,
-      "gold": 125,
-      "fame": 504,
       "isOnline": true
     },
     {
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-16T19:26:06.435Z"
+  "updated": "2026-09-16T19:27:06.450Z"
 }
