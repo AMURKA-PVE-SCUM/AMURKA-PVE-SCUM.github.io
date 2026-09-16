@@ -588,8 +588,8 @@
     {
       "entityId": 28863351,
       "asset": "BPC_Rager",
-      "x": -198761,
-      "y": -34900,
+      "x": -198771,
+      "y": -34890,
       "z": 35726,
       "ownerName": "Shelby",
       "customName": null
@@ -903,7 +903,7 @@
     {
       "entityId": 30372717,
       "asset": "BPC_CityBike",
-      "x": -175036,
+      "x": -175037,
       "y": -26487,
       "z": 36047,
       "ownerName": null,
@@ -1011,8 +1011,8 @@
     {
       "entityId": 30940957,
       "asset": "BPC_RIS",
-      "x": 555246,
-      "y": 312351,
+      "x": 555242,
+      "y": 312352,
       "z": 242,
       "ownerName": "The_Lorg",
       "customName": null
@@ -1029,7 +1029,7 @@
     {
       "entityId": 31031636,
       "asset": "BPC_Cruiser",
-      "x": -198983,
+      "x": -198982,
       "y": -31719,
       "z": 35695,
       "ownerName": "Shelby",
@@ -1144,15 +1144,6 @@
       "customName": null
     },
     {
-      "entityId": 31413918,
-      "asset": "BPC_Cruiser",
-      "x": 375052,
-      "y": 366970,
-      "z": 20159,
-      "ownerName": null,
-      "customName": null
-    },
-    {
       "entityId": 31413955,
       "asset": "BPC_Cruiser",
       "x": 212477,
@@ -1182,9 +1173,9 @@
     {
       "entityId": 31544864,
       "asset": "BPC_SidecarBike",
-      "x": 554004,
-      "y": 313056,
-      "z": 110,
+      "x": 553993,
+      "y": 313057,
+      "z": 111,
       "ownerName": "Noblesko",
       "customName": null
     },
@@ -1209,7 +1200,7 @@
     {
       "entityId": 31602545,
       "asset": "BPC_WolfsWagen",
-      "x": 555106,
+      "x": 555107,
       "y": 312964,
       "z": 239,
       "ownerName": "The_Lorg",
@@ -1327,7 +1318,7 @@
       "entityId": 31947159,
       "asset": "BPC_CityBike",
       "x": -214923,
-      "y": -24094,
+      "y": -24095,
       "z": 35694,
       "ownerName": null,
       "customName": null
@@ -1632,16 +1623,16 @@
     {
       "entityId": 32822300,
       "asset": "BPC_Laika",
-      "x": 455136,
-      "y": 405553,
-      "z": 11609,
+      "x": 417313,
+      "y": 468447,
+      "z": 12411,
       "ownerName": "Roma",
       "customName": null
     },
     {
       "entityId": 32850748,
       "asset": "BPC_RIS",
-      "x": 555127,
+      "x": 555131,
       "y": 312292,
       "z": 242,
       "ownerName": "Noblesko",
@@ -1677,8 +1668,8 @@
     {
       "entityId": 33043329,
       "asset": "BPC_Kinglet_Duster",
-      "x": 553461,
-      "y": 316069,
+      "x": 553462,
+      "y": 316068,
       "z": 297,
       "ownerName": "Noblesko",
       "customName": null
@@ -1795,7 +1786,7 @@
       "entityId": 33299204,
       "asset": "BPC_Tractor",
       "x": -128284,
-      "y": 344331,
+      "y": 344332,
       "z": 74560,
       "ownerName": null,
       "customName": null
@@ -1817,7 +1808,16 @@
       "z": 13368,
       "ownerName": null,
       "customName": null
+    },
+    {
+      "entityId": 33345016,
+      "asset": "BPC_Cruiser",
+      "x": -117529,
+      "y": -358219,
+      "z": 15120,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-16T16:08:04.949Z"
+  "updated": "2026-09-16T16:09:04.954Z"
 }
