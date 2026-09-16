@@ -11,6 +11,15 @@
     },
     {
       "entityId": 0,
+      "asset": "BPC_Cruiser",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "ownerName": null,
+      "customName": null
+    },
+    {
+      "entityId": 0,
       "asset": "BPC_Rager",
       "x": 0,
       "y": 0,
@@ -30,15 +39,6 @@
     {
       "entityId": 0,
       "asset": "BPC_Tractor",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "ownerName": null,
-      "customName": null
-    },
-    {
-      "entityId": 0,
-      "asset": "BPC_Cruiser",
       "x": 0,
       "y": 0,
       "z": 0,
@@ -417,9 +417,9 @@
     {
       "entityId": 27125618,
       "asset": "BPC_Rager",
-      "x": -20656,
-      "y": -89768,
-      "z": 34844,
+      "x": -99985,
+      "y": -65789,
+      "z": 36809,
       "ownerName": "Genih",
       "customName": null
     },
@@ -948,7 +948,7 @@
     {
       "entityId": 30467959,
       "asset": "BPC_Kinglet_Mariner",
-      "x": -324054,
+      "x": -324055,
       "y": 2484,
       "z": 35745,
       "ownerName": "Skeleton",
@@ -1065,9 +1065,9 @@
     {
       "entityId": 31055183,
       "asset": "BPC_WolfsWagen",
-      "x": -430337,
-      "y": 79218,
-      "z": 36976,
+      "x": -396851,
+      "y": -4107,
+      "z": 35087,
       "ownerName": "Niga",
       "customName": null
     },
@@ -1171,15 +1171,6 @@
       "customName": null
     },
     {
-      "entityId": 31431058,
-      "asset": "BPC_RIS",
-      "x": 26227,
-      "y": -213931,
-      "z": 23675,
-      "ownerName": null,
-      "customName": null
-    },
-    {
       "entityId": 31477280,
       "asset": "BPC_Dirtbike",
       "x": -85458,
@@ -1227,8 +1218,8 @@
     {
       "entityId": 31604790,
       "asset": "BPC_SidecarBike",
-      "x": -110667,
-      "y": -66900,
+      "x": -110664,
+      "y": -66889,
       "z": 36890,
       "ownerName": null,
       "customName": null
@@ -1560,9 +1551,9 @@
     {
       "entityId": 32606881,
       "asset": "BPC_Laika",
-      "x": -67837,
-      "y": 201814,
-      "z": 71348,
+      "x": -97078,
+      "y": 191803,
+      "z": 72342,
       "ownerName": "Victor_Vilkouskas",
       "customName": null
     },
@@ -1853,7 +1844,16 @@
       "z": 628,
       "ownerName": null,
       "customName": null
+    },
+    {
+      "entityId": 33364565,
+      "asset": "BPC_RIS",
+      "x": -169820,
+      "y": -695353,
+      "z": 848,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-16T18:38:06.061Z"
+  "updated": "2026-09-16T18:39:06.067Z"
 }
