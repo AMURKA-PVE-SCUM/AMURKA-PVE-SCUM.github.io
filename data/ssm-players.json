@@ -1,30 +1,20 @@
 {
-  "online": 7,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198106059918",
       "name": "Пепа Петрович",
-      "sessionSeconds": 14885,
+      "sessionSeconds": 14945,
       "playTimeSeconds": 20639,
-      "money": 216422,
+      "money": 218422,
       "gold": 492,
-      "fame": 2374,
+      "fame": 2384,
       "rank": 34
-    },
-    {
-      "steamId": "76561198337811646",
-      "name": "VERSUS_65_",
-      "sessionSeconds": 13243,
-      "playTimeSeconds": 115694,
-      "money": 59652,
-      "gold": 195,
-      "fame": 542,
-      "rank": 1
     },
     {
       "steamId": "76561198271336608",
       "name": "Валерка",
-      "sessionSeconds": 12782,
+      "sessionSeconds": 12842,
       "playTimeSeconds": 12090,
       "money": 888610,
       "gold": 60,
@@ -34,7 +24,7 @@
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 9494,
+      "sessionSeconds": 9554,
       "playTimeSeconds": 79310,
       "money": 1408130,
       "gold": 65,
@@ -44,7 +34,7 @@
     {
       "steamId": "76561198382114262",
       "name": "Montana",
-      "sessionSeconds": 7318,
+      "sessionSeconds": 7378,
       "playTimeSeconds": 29588,
       "money": 1932182,
       "gold": 2660,
@@ -54,9 +44,9 @@
     {
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
-      "sessionSeconds": 4634,
+      "sessionSeconds": 4694,
       "playTimeSeconds": 114946,
-      "money": 1630091,
+      "money": 1619291,
       "gold": 597,
       "fame": 36401,
       "rank": 2
@@ -64,7 +54,7 @@
     {
       "steamId": "76561198008281090",
       "name": "Стрелок",
-      "sessionSeconds": 220,
+      "sessionSeconds": 280,
       "playTimeSeconds": 7038,
       "money": 203916,
       "gold": 210,
@@ -72,5 +62,5 @@
       "rank": 55
     }
   ],
-  "updated": "2026-09-16T12:50:03.450Z"
+  "updated": "2026-09-16T12:51:03.457Z"
 }
