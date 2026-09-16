@@ -471,9 +471,9 @@
     {
       "entityId": 28204355,
       "asset": "BPC_Rager",
-      "x": -797821,
-      "y": -184956,
-      "z": 26528,
+      "x": -797825,
+      "y": -184953,
+      "z": 26527,
       "ownerName": "Черкес",
       "customName": null
     },
@@ -732,9 +732,9 @@
     {
       "entityId": 29042900,
       "asset": "BPC_Kinglet_Duster",
-      "x": -714178,
-      "y": -183849,
-      "z": 31250,
+      "x": -851845,
+      "y": -187128,
+      "z": 21725,
       "ownerName": "Пепа Петрович",
       "customName": null
     },
@@ -993,9 +993,9 @@
     {
       "entityId": 30926042,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 523375,
-      "y": 556090,
-      "z": 12447,
+      "x": 509876,
+      "y": 565663,
+      "z": 10617,
       "ownerName": "ZlayaBabka1989",
       "customName": null
     },
@@ -1497,9 +1497,9 @@
     {
       "entityId": 32340767,
       "asset": "BPC_Rager",
-      "x": 90372,
-      "y": 229344,
-      "z": 38655,
+      "x": 79041,
+      "y": 250875,
+      "z": 40184,
       "ownerName": "Валерка",
       "customName": null
     },
@@ -1569,8 +1569,8 @@
     {
       "entityId": 32535063,
       "asset": "BPC_CityBike",
-      "x": -863885,
-      "y": -170973,
+      "x": -863883,
+      "y": -170974,
       "z": 21510,
       "ownerName": "Alina",
       "customName": null
@@ -1808,7 +1808,16 @@
       "z": 12356,
       "ownerName": "Domo",
       "customName": null
+    },
+    {
+      "entityId": 33288393,
+      "asset": "BPC_Dirtbike",
+      "x": 573178,
+      "y": -224651,
+      "z": 352,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-16T09:36:58.248Z"
+  "updated": "2026-09-16T09:37:58.249Z"
 }
