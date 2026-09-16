@@ -20,6 +20,15 @@
     },
     {
       "entityId": 0,
+      "asset": "BPC_Laika",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "ownerName": null,
+      "customName": null
+    },
+    {
+      "entityId": 0,
       "asset": "BPC_Tractor",
       "x": 0,
       "y": 0,
@@ -399,9 +408,9 @@
     {
       "entityId": 27125618,
       "asset": "BPC_Rager",
-      "x": 224194,
-      "y": -63125,
-      "z": 28184,
+      "x": 236471,
+      "y": -39348,
+      "z": 25135,
       "ownerName": "Genih",
       "customName": null
     },
@@ -642,8 +651,8 @@
     {
       "entityId": 29033897,
       "asset": "BPC_RIS",
-      "x": 263010,
-      "y": -7993,
+      "x": 263011,
+      "y": -7999,
       "z": 24214,
       "ownerName": "Немезида",
       "customName": null
@@ -679,7 +688,7 @@
       "entityId": 29033931,
       "asset": "BPC_Tractor",
       "x": 265041,
-      "y": -8322,
+      "y": -8323,
       "z": 24109,
       "ownerName": "Немезида",
       "customName": null
@@ -705,8 +714,8 @@
     {
       "entityId": 29033969,
       "asset": "BPC_SidecarBike",
-      "x": 263153,
-      "y": -8016,
+      "x": 263158,
+      "y": -8018,
       "z": 24183,
       "ownerName": "Немезида",
       "customName": null
@@ -823,7 +832,7 @@
       "entityId": 29628016,
       "asset": "BPC_WolfsWagen",
       "x": 266044,
-      "y": -8297,
+      "y": -8298,
       "z": 24147,
       "ownerName": "ALIGATOR",
       "customName": null
@@ -984,7 +993,7 @@
     {
       "entityId": 30813502,
       "asset": "BPC_Rager",
-      "x": 264182,
+      "x": 264181,
       "y": -5483,
       "z": 24505,
       "ownerName": "angell",
@@ -993,8 +1002,8 @@
     {
       "entityId": 30875057,
       "asset": "BPC_Rager",
-      "x": 262717,
-      "y": -7205,
+      "x": 262716,
+      "y": -7207,
       "z": 24295,
       "ownerName": "НеБро",
       "customName": null
@@ -1542,9 +1551,9 @@
     {
       "entityId": 32606881,
       "asset": "BPC_Laika",
-      "x": -198832,
-      "y": 184694,
-      "z": 72465,
+      "x": -201958,
+      "y": 188267,
+      "z": 72441,
       "ownerName": "Victor_Vilkouskas",
       "customName": null
     },
@@ -1623,9 +1632,9 @@
     {
       "entityId": 32822300,
       "asset": "BPC_Laika",
-      "x": -669398,
-      "y": 323985,
-      "z": 64731,
+      "x": -635721,
+      "y": 330413,
+      "z": 67059,
       "ownerName": "Roma",
       "customName": null
     },
@@ -1837,15 +1846,6 @@
       "customName": null
     },
     {
-      "entityId": 33361961,
-      "asset": "BPC_Laika",
-      "x": 420466,
-      "y": -165772,
-      "z": -197,
-      "ownerName": null,
-      "customName": null
-    },
-    {
       "entityId": 33362040,
       "asset": "BPC_Cruiser",
       "x": 419326,
@@ -1855,5 +1855,5 @@
       "customName": null
     }
   ],
-  "updated": "2026-09-16T18:27:05.972Z"
+  "updated": "2026-09-16T18:28:05.987Z"
 }
