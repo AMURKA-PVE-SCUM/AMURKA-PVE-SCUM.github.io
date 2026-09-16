@@ -37,6 +37,15 @@
       "customName": null
     },
     {
+      "entityId": 0,
+      "asset": "BPC_Cruiser",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "ownerName": null,
+      "customName": null
+    },
+    {
       "entityId": 19118683,
       "asset": "BPC_Rager",
       "x": -274863,
@@ -1551,9 +1560,9 @@
     {
       "entityId": 32606881,
       "asset": "BPC_Laika",
-      "x": -201958,
-      "y": 188267,
-      "z": 72441,
+      "x": -205800,
+      "y": 195715,
+      "z": 71711,
       "ownerName": "Victor_Vilkouskas",
       "customName": null
     },
@@ -1632,9 +1641,9 @@
     {
       "entityId": 32822300,
       "asset": "BPC_Laika",
-      "x": -635721,
-      "y": 330413,
-      "z": 67059,
+      "x": -583670,
+      "y": 313186,
+      "z": 64484,
       "ownerName": "Roma",
       "customName": null
     },
@@ -1731,8 +1740,8 @@
     {
       "entityId": 33205152,
       "asset": "BPC_RIS",
-      "x": 73499,
-      "y": 477660,
+      "x": 73503,
+      "y": 477663,
       "z": 31096,
       "ownerName": null,
       "customName": null
@@ -1844,16 +1853,7 @@
       "z": 628,
       "ownerName": null,
       "customName": null
-    },
-    {
-      "entityId": 33362040,
-      "asset": "BPC_Cruiser",
-      "x": 419326,
-      "y": -165503,
-      "z": -220,
-      "ownerName": null,
-      "customName": null
     }
   ],
-  "updated": "2026-09-16T18:28:05.987Z"
+  "updated": "2026-09-16T18:29:05.992Z"
 }
