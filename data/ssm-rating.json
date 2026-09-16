@@ -27,7 +27,7 @@
       "playTimeSeconds": 111675,
       "money": 2094141,
       "gold": 544,
-      "fame": 11046,
+      "fame": 11047,
       "isOnline": true
     },
     {
@@ -42,6 +42,16 @@
     },
     {
       "rank": 5,
+      "steamId": "76561198071060590",
+      "name": "Niga",
+      "playTimeSeconds": 93249,
+      "money": 1438781,
+      "gold": 70,
+      "fame": 4090,
+      "isOnline": false
+    },
+    {
+      "rank": 6,
       "steamId": "76561198028600444",
       "name": "Ольга",
       "playTimeSeconds": 92418,
@@ -49,16 +59,6 @@
       "gold": 190,
       "fame": 838,
       "isOnline": false
-    },
-    {
-      "rank": 6,
-      "steamId": "76561198071060590",
-      "name": "Niga",
-      "playTimeSeconds": 90714,
-      "money": 1438781,
-      "gold": 70,
-      "fame": 4090,
-      "isOnline": true
     },
     {
       "rank": 7,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-16T14:09:04.003Z"
+  "updated": "2026-09-16T14:10:04.010Z"
 }
