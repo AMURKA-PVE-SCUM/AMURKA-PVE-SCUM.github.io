@@ -1,20 +1,10 @@
 {
-  "online": 10,
+  "online": 8,
   "players": [
-    {
-      "steamId": "76561199846653258",
-      "name": "Koshka",
-      "sessionSeconds": 24527,
-      "playTimeSeconds": 43261,
-      "money": 873485,
-      "gold": 95,
-      "fame": 323,
-      "rank": 19
-    },
     {
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
-      "sessionSeconds": 21432,
+      "sessionSeconds": 21492,
       "playTimeSeconds": 141092,
       "money": 1404538,
       "gold": 607,
@@ -22,19 +12,9 @@
       "rank": 1
     },
     {
-      "steamId": "76561198022734828",
-      "name": "ArBuzova",
-      "sessionSeconds": 21206,
-      "playTimeSeconds": 22092,
-      "money": 1019424,
-      "gold": 50,
-      "fame": 187,
-      "rank": 36
-    },
-    {
       "steamId": "76561199189470290",
       "name": "Konffetka",
-      "sessionSeconds": 21170,
+      "sessionSeconds": 21230,
       "playTimeSeconds": 77379,
       "money": 734327,
       "gold": 227,
@@ -44,7 +24,7 @@
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 17865,
+      "sessionSeconds": 17925,
       "playTimeSeconds": 69589,
       "money": 1502959,
       "gold": 448,
@@ -54,7 +34,7 @@
     {
       "steamId": "76561198070555721",
       "name": "Anskor",
-      "sessionSeconds": 11270,
+      "sessionSeconds": 11330,
       "playTimeSeconds": 17861,
       "money": 9682,
       "gold": 35,
@@ -64,9 +44,9 @@
     {
       "steamId": "76561198063204711",
       "name": "Maxik",
-      "sessionSeconds": 8099,
+      "sessionSeconds": 8159,
       "playTimeSeconds": 16732,
-      "money": 7752,
+      "money": 8748,
       "gold": 30,
       "fame": 93,
       "rank": 42
@@ -74,7 +54,7 @@
     {
       "steamId": "76561198961886900",
       "name": "Rostov",
-      "sessionSeconds": 6994,
+      "sessionSeconds": 7054,
       "playTimeSeconds": 0,
       "money": 674767,
       "gold": 168,
@@ -84,7 +64,7 @@
     {
       "steamId": "76561198067720439",
       "name": "Genih",
-      "sessionSeconds": 733,
+      "sessionSeconds": 793,
       "playTimeSeconds": 135422,
       "money": 1949060,
       "gold": 569,
@@ -94,7 +74,7 @@
     {
       "steamId": "76561198033318089",
       "name": "gr",
-      "sessionSeconds": 215,
+      "sessionSeconds": 275,
       "playTimeSeconds": 30,
       "money": 0,
       "gold": 0,
@@ -102,5 +82,5 @@
       "rank": 95
     }
   ],
-  "updated": "2026-09-16T20:57:07.159Z"
+  "updated": "2026-09-16T20:58:07.174Z"
 }
