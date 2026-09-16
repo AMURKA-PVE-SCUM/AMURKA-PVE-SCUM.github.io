@@ -1,10 +1,10 @@
 {
-  "online": 10,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198106059918",
       "name": "Пепа Петрович",
-      "sessionSeconds": 3660,
+      "sessionSeconds": 3720,
       "playTimeSeconds": 11278,
       "money": 254210,
       "gold": 477,
@@ -12,29 +12,19 @@
       "rank": 49
     },
     {
-      "steamId": "76561198147377540",
-      "name": "mihail_casper",
-      "sessionSeconds": 3142,
-      "playTimeSeconds": 18925,
-      "money": 1012174,
-      "gold": 15,
-      "fame": 80,
-      "rank": 33
-    },
-    {
       "steamId": "76561199846653258",
       "name": "Koshka",
-      "sessionSeconds": 2352,
+      "sessionSeconds": 2412,
       "playTimeSeconds": 25021,
       "money": 846825,
       "gold": 85,
-      "fame": 273,
+      "fame": 274,
       "rank": 28
     },
     {
       "steamId": "76561198068992719",
       "name": "Alina",
-      "sessionSeconds": 2340,
+      "sessionSeconds": 2400,
       "playTimeSeconds": 81908,
       "money": 1009389,
       "gold": 490,
@@ -44,7 +34,7 @@
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 2225,
+      "sessionSeconds": 2285,
       "playTimeSeconds": 98370,
       "money": 1050242,
       "gold": 95,
@@ -54,7 +44,7 @@
     {
       "steamId": "76561198118854827",
       "name": "Mersy Deson",
-      "sessionSeconds": 2192,
+      "sessionSeconds": 2252,
       "playTimeSeconds": 16311,
       "money": 67821,
       "gold": 1848,
@@ -64,7 +54,7 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 2018,
+      "sessionSeconds": 2078,
       "playTimeSeconds": 115694,
       "money": 38379,
       "gold": 180,
@@ -74,7 +64,7 @@
     {
       "steamId": "76561198271336608",
       "name": "Валерка",
-      "sessionSeconds": 1557,
+      "sessionSeconds": 1617,
       "playTimeSeconds": 12090,
       "money": 1027709,
       "gold": 45,
@@ -84,7 +74,7 @@
     {
       "steamId": "76561198028621423",
       "name": "Lesnik",
-      "sessionSeconds": 1497,
+      "sessionSeconds": 1557,
       "playTimeSeconds": 39016,
       "money": 786434,
       "gold": 1928,
@@ -94,7 +84,7 @@
     {
       "steamId": "76561198156375337",
       "name": "Domo",
-      "sessionSeconds": 27,
+      "sessionSeconds": 87,
       "playTimeSeconds": 25501,
       "money": 1393218,
       "gold": 662,
@@ -102,5 +92,5 @@
       "rank": 27
     }
   ],
-  "updated": "2026-09-16T09:42:58.278Z"
+  "updated": "2026-09-16T09:43:58.287Z"
 }
