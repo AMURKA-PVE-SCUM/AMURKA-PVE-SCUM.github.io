@@ -147,8 +147,8 @@
     {
       "entityId": 22603288,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 224405,
-      "y": 3214,
+      "x": 224406,
+      "y": 3213,
       "z": 25445,
       "ownerName": "Jane Doe",
       "customName": null
@@ -381,9 +381,9 @@
     {
       "entityId": 27125618,
       "asset": "BPC_Rager",
-      "x": 223167,
-      "y": -111482,
-      "z": 27858,
+      "x": 271787,
+      "y": -58823,
+      "z": 24259,
       "ownerName": "Genih",
       "customName": null
     },
@@ -1605,8 +1605,8 @@
     {
       "entityId": 32822300,
       "asset": "BPC_Laika",
-      "x": -862658,
-      "y": 558764,
+      "x": -862657,
+      "y": 558763,
       "z": 61324,
       "ownerName": "Roma",
       "customName": null
@@ -1844,7 +1844,16 @@
       "z": 137,
       "ownerName": null,
       "customName": null
+    },
+    {
+      "entityId": 33362040,
+      "asset": "BPC_Cruiser",
+      "x": 416721,
+      "y": -166835,
+      "z": 285,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-16T18:14:05.841Z"
+  "updated": "2026-09-16T18:15:05.854Z"
 }
