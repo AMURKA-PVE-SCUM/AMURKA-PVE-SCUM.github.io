@@ -1,16 +1,56 @@
 {
-  "online": 1,
+  "online": 5,
   "players": [
+    {
+      "steamId": "76561198110930486",
+      "name": "GodMiller",
+      "sessionSeconds": 70524,
+      "playTimeSeconds": 7072,
+      "money": 182572,
+      "gold": 34,
+      "fame": 217,
+      "rank": 15
+    },
+    {
+      "steamId": "76561199846653258",
+      "name": "Koshka",
+      "sessionSeconds": 22865,
+      "playTimeSeconds": 14029,
+      "money": 121094,
+      "gold": 95,
+      "fame": 391,
+      "rank": 11
+    },
+    {
+      "steamId": "76561198156375337",
+      "name": "Domo",
+      "sessionSeconds": 22529,
+      "playTimeSeconds": 6058,
+      "money": 3391356,
+      "gold": 772,
+      "fame": 1009,
+      "rank": 17
+    },
+    {
+      "steamId": "76561199404896383",
+      "name": "Victor_Vilkouskas",
+      "sessionSeconds": 22509,
+      "playTimeSeconds": 45047,
+      "money": 1388934,
+      "gold": 493,
+      "fame": 2468,
+      "rank": 1
+    },
     {
       "steamId": "76561198372320271",
       "name": "ADA",
-      "sessionSeconds": 1601,
-      "playTimeSeconds": 1,
+      "sessionSeconds": 1661,
+      "playTimeSeconds": 1627,
       "money": 188395,
       "gold": 7,
       "fame": 1699,
-      "rank": 35
+      "rank": 26
     }
   ],
-  "updated": "2026-09-17T21:00:21.586Z"
+  "updated": "2026-09-17T21:01:21.601Z"
 }
