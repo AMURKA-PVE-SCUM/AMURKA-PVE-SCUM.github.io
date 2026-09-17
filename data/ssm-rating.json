@@ -57,11 +57,21 @@
       "playTimeSeconds": 20722,
       "money": 688210,
       "gold": 212,
-      "fame": 39473,
+      "fame": 39474,
       "isOnline": true
     },
     {
       "rank": 7,
+      "steamId": "76561198071060590",
+      "name": "Niga",
+      "playTimeSeconds": 18799,
+      "money": 1536595,
+      "gold": 110,
+      "fame": 4233,
+      "isOnline": false
+    },
+    {
+      "rank": 8,
       "steamId": "76561199142177393",
       "name": "Murka",
       "playTimeSeconds": 17670,
@@ -69,16 +79,6 @@
       "gold": 40,
       "fame": 228,
       "isOnline": false
-    },
-    {
-      "rank": 8,
-      "steamId": "76561198071060590",
-      "name": "Niga",
-      "playTimeSeconds": 17094,
-      "money": 1536595,
-      "gold": 110,
-      "fame": 4233,
-      "isOnline": true
     },
     {
       "rank": 9,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-17T21:32:21.784Z"
+  "updated": "2026-09-17T21:33:21.798Z"
 }
