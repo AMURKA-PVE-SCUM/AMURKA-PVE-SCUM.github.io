@@ -25,7 +25,7 @@
       "steamId": "76561198936806390",
       "name": "YaNkei",
       "playTimeSeconds": 29662,
-      "money": 1761982,
+      "money": 1767820,
       "gold": 455,
       "fame": 6057,
       "isOnline": true
@@ -67,11 +67,21 @@
       "playTimeSeconds": 10442,
       "money": 116735,
       "gold": 95,
-      "fame": 386,
+      "fame": 387,
       "isOnline": true
     },
     {
       "rank": 8,
+      "steamId": "76561198028600444",
+      "name": "Ольга",
+      "playTimeSeconds": 10207,
+      "money": 947273,
+      "gold": 160,
+      "fame": 954,
+      "isOnline": false
+    },
+    {
+      "rank": 9,
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
       "playTimeSeconds": 10169,
@@ -81,7 +91,7 @@
       "isOnline": false
     },
     {
-      "rank": 9,
+      "rank": 10,
       "steamId": "76561198110930486",
       "name": "GodMiller",
       "playTimeSeconds": 7072,
@@ -89,16 +99,6 @@
       "gold": 34,
       "fame": 217,
       "isOnline": false
-    },
-    {
-      "rank": 10,
-      "steamId": "76561198028600444",
-      "name": "Ольга",
-      "playTimeSeconds": 6300,
-      "money": 947273,
-      "gold": 160,
-      "fame": 954,
-      "isOnline": true
     },
     {
       "rank": 11,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-17T18:39:20.575Z"
+  "updated": "2026-09-17T18:40:20.577Z"
 }
