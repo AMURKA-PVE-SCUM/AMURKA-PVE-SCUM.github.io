@@ -1,20 +1,20 @@
 {
-  "online": 8,
+  "online": 7,
   "players": [
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 10532,
+      "sessionSeconds": 10592,
       "playTimeSeconds": 2686,
       "money": 110113,
       "gold": 555,
       "fame": 2448,
-      "rank": 7
+      "rank": 8
     },
     {
       "steamId": "76561199142177393",
       "name": "Murka",
-      "sessionSeconds": 10388,
+      "sessionSeconds": 10448,
       "playTimeSeconds": 0,
       "money": 298,
       "gold": 30,
@@ -24,7 +24,7 @@
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 10210,
+      "sessionSeconds": 10270,
       "playTimeSeconds": 6351,
       "money": 1042841,
       "gold": 140,
@@ -32,29 +32,19 @@
       "rank": 3
     },
     {
-      "steamId": "76561198337811646",
-      "name": "VERSUS_65_",
-      "sessionSeconds": 4893,
-      "playTimeSeconds": 0,
-      "money": 80554,
-      "gold": 200,
-      "fame": 558,
-      "rank": 55
-    },
-    {
       "steamId": "76561199000739219",
       "name": "Yakytenok",
-      "sessionSeconds": 4138,
+      "sessionSeconds": 4198,
       "playTimeSeconds": 0,
       "money": 721256,
       "gold": 45,
       "fame": 171,
-      "rank": 54
+      "rank": 55
     },
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 1079,
+      "sessionSeconds": 1139,
       "playTimeSeconds": 22816,
       "money": 1376623,
       "gold": 468,
@@ -64,23 +54,23 @@
     {
       "steamId": "76561198028621423",
       "name": "Lesnik",
-      "sessionSeconds": 988,
+      "sessionSeconds": 1048,
       "playTimeSeconds": 58,
       "money": 1788434,
       "gold": 1938,
       "fame": 2465,
-      "rank": 15
+      "rank": 16
     },
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 418,
+      "sessionSeconds": 478,
       "playTimeSeconds": 42,
       "money": 1537927,
       "gold": 90,
       "fame": 4171,
-      "rank": 16
+      "rank": 17
     }
   ],
-  "updated": "2026-09-17T12:01:17.610Z"
+  "updated": "2026-09-17T12:02:17.623Z"
 }
