@@ -1209,8 +1209,8 @@
     {
       "entityId": 31794499,
       "asset": "BPC_WolfsWagen",
-      "x": -260177,
-      "y": 14597,
+      "x": -260176,
+      "y": 14596,
       "z": 36180,
       "ownerName": null,
       "customName": null
@@ -1808,7 +1808,16 @@
       "z": 35087,
       "ownerName": "Koshka",
       "customName": null
+    },
+    {
+      "entityId": 33401762,
+      "asset": "BPC_Kinglet_Mariner",
+      "x": -260072,
+      "y": -1919,
+      "z": 45808,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-17T08:44:12.298Z"
+  "updated": "2026-09-17T08:45:12.307Z"
 }
