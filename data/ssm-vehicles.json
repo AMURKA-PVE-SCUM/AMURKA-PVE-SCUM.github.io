@@ -829,24 +829,6 @@
       "customName": null
     },
     {
-      "entityId": 30070342,
-      "asset": "BPC_BigRaft",
-      "x": 473009,
-      "y": -179200,
-      "z": 7,
-      "ownerName": "kmsten",
-      "customName": null
-    },
-    {
-      "entityId": 30322568,
-      "asset": "BPC_Barba",
-      "x": 473509,
-      "y": -179930,
-      "z": -62,
-      "ownerName": "kmsten",
-      "customName": null
-    },
-    {
       "entityId": 30326190,
       "asset": "BPC_Rager",
       "x": 224089,
@@ -1218,9 +1200,9 @@
     {
       "entityId": 31947159,
       "asset": "BPC_CityBike",
-      "x": 416315,
-      "y": -165078,
-      "z": 168,
+      "x": 418523,
+      "y": -167037,
+      "z": 162,
       "ownerName": null,
       "customName": null
     },
@@ -1443,9 +1425,9 @@
     {
       "entityId": 32606881,
       "asset": "BPC_Laika",
-      "x": -509445,
-      "y": -291634,
-      "z": 13052,
+      "x": -528995,
+      "y": -305501,
+      "z": 11788,
       "ownerName": "Victor_Vilkouskas",
       "customName": null
     },
@@ -1790,7 +1772,43 @@
       "z": 67122,
       "ownerName": null,
       "customName": null
+    },
+    {
+      "entityId": 33490495,
+      "asset": "BPC_Barba",
+      "x": -39669,
+      "y": -484193,
+      "z": -30,
+      "ownerName": null,
+      "customName": null
+    },
+    {
+      "entityId": 33490500,
+      "asset": "BPC_Dinghy",
+      "x": 521247,
+      "y": -86484,
+      "z": -27,
+      "ownerName": null,
+      "customName": null
+    },
+    {
+      "entityId": 33490509,
+      "asset": "BPC_Dinghy",
+      "x": 484661,
+      "y": 169465,
+      "z": 7984,
+      "ownerName": null,
+      "customName": null
+    },
+    {
+      "entityId": 33490516,
+      "asset": "BPC_Barba",
+      "x": -207280,
+      "y": 227326,
+      "z": 69296,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-17T17:19:19.912Z"
+  "updated": "2026-09-17T17:20:19.927Z"
 }
