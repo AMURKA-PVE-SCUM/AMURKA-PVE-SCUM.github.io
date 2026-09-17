@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 8535,
+      "sessionSeconds": 8595,
       "playTimeSeconds": 0,
       "money": 1403279,
       "gold": 458,
       "fame": 2257,
       "rank": 15
+    },
+    {
+      "steamId": "76561199437572702",
+      "name": "QQQ",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 0,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "rank": 101
     }
   ],
-  "updated": "2026-09-17T06:54:11.582Z"
+  "updated": "2026-09-17T06:55:11.591Z"
 }
