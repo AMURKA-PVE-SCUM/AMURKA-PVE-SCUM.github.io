@@ -1,10 +1,10 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 16053,
+      "sessionSeconds": 16113,
       "playTimeSeconds": 2686,
       "money": 112113,
       "gold": 565,
@@ -14,7 +14,7 @@
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 15731,
+      "sessionSeconds": 15791,
       "playTimeSeconds": 6351,
       "money": 1044841,
       "gold": 150,
@@ -24,7 +24,7 @@
     {
       "steamId": "76561199000739219",
       "name": "Yakytenok",
-      "sessionSeconds": 9659,
+      "sessionSeconds": 9719,
       "playTimeSeconds": 0,
       "money": 681471,
       "gold": 50,
@@ -34,17 +34,17 @@
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 6599,
+      "sessionSeconds": 6660,
       "playTimeSeconds": 22816,
       "money": 1383952,
       "gold": 473,
-      "fame": 2398,
+      "fame": 2399,
       "rank": 1
     },
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 2825,
+      "sessionSeconds": 2885,
       "playTimeSeconds": 569,
       "money": 1537927,
       "gold": 90,
@@ -54,7 +54,7 @@
     {
       "steamId": "76561198936806390",
       "name": "YaNkei",
-      "sessionSeconds": 753,
+      "sessionSeconds": 813,
       "playTimeSeconds": 13031,
       "money": 1758982,
       "gold": 440,
@@ -64,13 +64,23 @@
     {
       "steamId": "76561198008281090",
       "name": "Стрелок",
-      "sessionSeconds": 73,
+      "sessionSeconds": 133,
       "playTimeSeconds": 0,
       "money": 203916,
       "gold": 210,
       "fame": 950,
       "rank": 23
+    },
+    {
+      "steamId": "76561199142177393",
+      "name": "Murka",
+      "sessionSeconds": 31,
+      "playTimeSeconds": 13819,
+      "money": 5371,
+      "gold": 35,
+      "fame": 214,
+      "rank": 2
     }
   ],
-  "updated": "2026-09-17T13:33:18.322Z"
+  "updated": "2026-09-17T13:34:18.333Z"
 }
