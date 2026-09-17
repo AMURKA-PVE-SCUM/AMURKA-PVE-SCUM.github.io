@@ -1,15 +1,6 @@
 {
   "vehicles": [
     {
-      "entityId": 0,
-      "asset": "BPC_Kinglet_Mariner",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "ownerName": null,
-      "customName": null
-    },
-    {
       "entityId": 19118683,
       "asset": "BPC_Rager",
       "x": -274863,
@@ -799,15 +790,6 @@
       "y": -8298,
       "z": 24147,
       "ownerName": "ALIGATOR",
-      "customName": null
-    },
-    {
-      "entityId": 29642625,
-      "asset": "BPC_Laika",
-      "x": -432336,
-      "y": -799794,
-      "z": 17735,
-      "ownerName": "Taurus",
       "customName": null
     },
     {
@@ -1801,5 +1783,5 @@
       "customName": null
     }
   ],
-  "updated": "2026-09-17T09:00:12.421Z"
+  "updated": "2026-09-17T09:03:12.441Z"
 }
