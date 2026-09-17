@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 494,
+      "sessionSeconds": 554,
       "playTimeSeconds": 0,
       "money": 1502959,
       "gold": 448,
       "fame": 2128,
       "rank": 12
+    },
+    {
+      "steamId": "76561198936806390",
+      "name": "YaNkei",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 0,
+      "money": 1802849,
+      "gold": 430,
+      "fame": 5968,
+      "rank": 84
     }
   ],
-  "updated": "2026-09-17T04:40:10.664Z"
+  "updated": "2026-09-17T04:41:10.674Z"
 }
