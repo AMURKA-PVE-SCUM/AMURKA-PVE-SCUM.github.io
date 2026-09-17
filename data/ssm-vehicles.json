@@ -12,8 +12,8 @@
     {
       "entityId": 19118710,
       "asset": "BPC_SidecarBike",
-      "x": -322068,
-      "y": 6812,
+      "x": -322063,
+      "y": 6817,
       "z": 35694,
       "ownerName": "Skeleton",
       "customName": null
@@ -84,8 +84,8 @@
     {
       "entityId": 20299118,
       "asset": "BPC_RIS",
-      "x": -323679,
-      "y": 8204,
+      "x": -323676,
+      "y": 8203,
       "z": 35730,
       "ownerName": "Skeleton",
       "customName": null
@@ -201,7 +201,7 @@
     {
       "entityId": 24218492,
       "asset": "BPC_Cruiser",
-      "x": -324428,
+      "x": -324427,
       "y": 8328,
       "z": 35695,
       "ownerName": "ШРинат",
@@ -861,15 +861,6 @@
       "x": -175038,
       "y": -26487,
       "z": 36047,
-      "ownerName": null,
-      "customName": null
-    },
-    {
-      "entityId": 30372800,
-      "asset": "BPC_MountainBike",
-      "x": -313139,
-      "y": 6290,
-      "z": 35692,
       "ownerName": null,
       "customName": null
     },
@@ -1551,9 +1542,9 @@
     {
       "entityId": 32822300,
       "asset": "BPC_Laika",
-      "x": -317930,
-      "y": -61543,
-      "z": 34379,
+      "x": -394142,
+      "y": -4475,
+      "z": 35217,
       "ownerName": "Roma",
       "customName": null
     },
@@ -1781,7 +1772,16 @@
       "z": 35744,
       "ownerName": "Mazay",
       "customName": null
+    },
+    {
+      "entityId": 33427983,
+      "asset": "BPC_CityBike",
+      "x": 272762,
+      "y": 439647,
+      "z": 25946,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-17T11:07:17.225Z"
+  "updated": "2026-09-17T11:08:17.240Z"
 }
