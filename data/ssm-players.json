@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561198110930486",
       "name": "GodMiller",
-      "sessionSeconds": 2592,
+      "sessionSeconds": 2652,
       "playTimeSeconds": 3,
       "money": 116910,
       "gold": 29,
       "fame": 203,
       "rank": 1
+    },
+    {
+      "steamId": "76561198068992719",
+      "name": "Alina",
+      "sessionSeconds": 45,
+      "playTimeSeconds": 1,
+      "money": 1011389,
+      "gold": 500,
+      "fame": 3546,
+      "rank": 2
     }
   ],
-  "updated": "2026-09-17T02:09:09.539Z"
+  "updated": "2026-09-17T02:10:09.544Z"
 }
