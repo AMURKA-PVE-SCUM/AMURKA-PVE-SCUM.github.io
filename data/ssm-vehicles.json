@@ -1,6 +1,15 @@
 {
   "vehicles": [
     {
+      "entityId": 0,
+      "asset": "BPC_Kinglet_Mariner",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "ownerName": null,
+      "customName": null
+    },
+    {
       "entityId": 19118683,
       "asset": "BPC_Rager",
       "x": -274863,
@@ -426,8 +435,8 @@
     {
       "entityId": 27315188,
       "asset": "BPC_Dirtbike",
-      "x": -198650,
-      "y": -31373,
+      "x": -198649,
+      "y": -31372,
       "z": 35687,
       "ownerName": "ZlayaBabka1989",
       "customName": null
@@ -1799,16 +1808,7 @@
       "z": 35087,
       "ownerName": "Koshka",
       "customName": null
-    },
-    {
-      "entityId": 33400724,
-      "asset": "BPC_Kinglet_Mariner",
-      "x": 246437,
-      "y": -593757,
-      "z": 24,
-      "ownerName": "Mazay",
-      "customName": null
     }
   ],
-  "updated": "2026-09-17T08:31:12.209Z"
+  "updated": "2026-09-17T08:32:12.222Z"
 }
