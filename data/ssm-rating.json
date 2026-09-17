@@ -12,6 +12,16 @@
     },
     {
       "rank": 2,
+      "steamId": "76561198936806390",
+      "name": "YaNkei",
+      "playTimeSeconds": 6970,
+      "money": 1757982,
+      "gold": 435,
+      "fame": 5985,
+      "isOnline": false
+    },
+    {
+      "rank": 3,
       "steamId": "76561198110930486",
       "name": "GodMiller",
       "playTimeSeconds": 6219,
@@ -21,7 +31,7 @@
       "isOnline": false
     },
     {
-      "rank": 3,
+      "rank": 4,
       "steamId": "76561199846653258",
       "name": "Koshka",
       "playTimeSeconds": 2679,
@@ -29,16 +39,6 @@
       "gold": 95,
       "fame": 375,
       "isOnline": false
-    },
-    {
-      "rank": 4,
-      "steamId": "76561198936806390",
-      "name": "YaNkei",
-      "playTimeSeconds": 2649,
-      "money": 1757982,
-      "gold": 435,
-      "fame": 5985,
-      "isOnline": true
     },
     {
       "rank": 5,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-17T08:29:12.204Z"
+  "updated": "2026-09-17T08:30:12.206Z"
 }
