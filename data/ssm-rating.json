@@ -27,7 +27,7 @@
       "playTimeSeconds": 19030,
       "money": 1760982,
       "gold": 450,
-      "fame": 6036,
+      "fame": 6037,
       "isOnline": true
     },
     {
@@ -107,7 +107,7 @@
       "playTimeSeconds": 3011,
       "money": 980324,
       "gold": 55,
-      "fame": 224,
+      "fame": 225,
       "isOnline": true
     },
     {
@@ -137,11 +137,21 @@
       "playTimeSeconds": 1645,
       "money": 1947061,
       "gold": 574,
-      "fame": 11152,
+      "fame": 11153,
       "isOnline": true
     },
     {
       "rank": 15,
+      "steamId": "76561198022523272",
+      "name": "Tolikx201",
+      "playTimeSeconds": 1611,
+      "money": 330715,
+      "gold": 223,
+      "fame": 209,
+      "isOnline": false
+    },
+    {
+      "rank": 16,
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "playTimeSeconds": 1551,
@@ -149,16 +159,6 @@
       "gold": 1938,
       "fame": 2465,
       "isOnline": false
-    },
-    {
-      "rank": 16,
-      "steamId": "76561198022523272",
-      "name": "Tolikx201",
-      "playTimeSeconds": 1545,
-      "money": 330715,
-      "gold": 223,
-      "fame": 209,
-      "isOnline": true
     },
     {
       "rank": 17,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-17T16:11:19.453Z"
+  "updated": "2026-09-17T16:12:19.462Z"
 }
