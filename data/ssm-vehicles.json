@@ -766,15 +766,6 @@
       "customName": null
     },
     {
-      "entityId": 29336365,
-      "asset": "BPC_Kinglet_Mariner",
-      "x": -355115,
-      "y": -449141,
-      "z": 6490,
-      "ownerName": "MOXSY",
-      "customName": null
-    },
-    {
       "entityId": 29586143,
       "asset": "BPC_Kinglet_Duster",
       "x": -201242,
@@ -1488,7 +1479,7 @@
     {
       "entityId": 32606881,
       "asset": "BPC_Laika",
-      "x": -344978,
+      "x": -344979,
       "y": -494809,
       "z": 257,
       "ownerName": "Victor_Vilkouskas",
@@ -1799,7 +1790,16 @@
       "z": 69429,
       "ownerName": "Anskor",
       "customName": null
+    },
+    {
+      "entityId": 33394462,
+      "asset": "BPC_Kinglet_Mariner",
+      "x": 512136,
+      "y": -555085,
+      "z": -3,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-17T04:31:10.590Z"
+  "updated": "2026-09-17T04:32:10.591Z"
 }
