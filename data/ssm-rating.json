@@ -42,6 +42,16 @@
     },
     {
       "rank": 5,
+      "steamId": "76561198071060590",
+      "name": "Niga",
+      "playTimeSeconds": 21061,
+      "money": 1536595,
+      "gold": 110,
+      "fame": 4235,
+      "isOnline": false
+    },
+    {
+      "rank": 6,
       "steamId": "76561198022734828",
       "name": "ArBuzova",
       "playTimeSeconds": 20729,
@@ -51,23 +61,13 @@
       "isOnline": false
     },
     {
-      "rank": 6,
+      "rank": 7,
       "steamId": "76561199189470290",
       "name": "Konffetka",
       "playTimeSeconds": 20722,
       "money": 689210,
       "gold": 217,
       "fame": 39485,
-      "isOnline": true
-    },
-    {
-      "rank": 7,
-      "steamId": "76561198071060590",
-      "name": "Niga",
-      "playTimeSeconds": 18799,
-      "money": 1536595,
-      "gold": 110,
-      "fame": 4235,
       "isOnline": true
     },
     {
@@ -87,7 +87,7 @@
       "playTimeSeconds": 16381,
       "money": 1316389,
       "gold": 632,
-      "fame": 36522,
+      "fame": 36523,
       "isOnline": true
     },
     {
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-17T22:10:22.073Z"
+  "updated": "2026-09-17T22:11:22.082Z"
 }
