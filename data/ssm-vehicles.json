@@ -372,9 +372,9 @@
     {
       "entityId": 27125618,
       "asset": "BPC_Rager",
-      "x": -464495,
-      "y": -233721,
-      "z": 19291,
+      "x": -433156,
+      "y": -191075,
+      "z": 30405,
       "ownerName": "Genih",
       "customName": null
     },
@@ -1108,15 +1108,6 @@
       "customName": null
     },
     {
-      "entityId": 31678334,
-      "asset": "BPC_MountainBike",
-      "x": -489670,
-      "y": -186387,
-      "z": 21386,
-      "ownerName": null,
-      "customName": null
-    },
-    {
       "entityId": 31684951,
       "asset": "BPC_CityBike",
       "x": -241530,
@@ -1808,7 +1799,16 @@
       "z": 212,
       "ownerName": null,
       "customName": null
+    },
+    {
+      "entityId": 33508785,
+      "asset": "BPC_CityBike",
+      "x": -261283,
+      "y": 380921,
+      "z": 77790,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-17T19:37:21.023Z"
+  "updated": "2026-09-17T19:38:21.024Z"
 }
