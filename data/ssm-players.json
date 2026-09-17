@@ -1,10 +1,10 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 11827,
+      "sessionSeconds": 11887,
       "playTimeSeconds": 35976,
       "money": 1391102,
       "gold": 488,
@@ -14,7 +14,7 @@
     {
       "steamId": "76561198067720439",
       "name": "Genih",
-      "sessionSeconds": 10754,
+      "sessionSeconds": 10814,
       "playTimeSeconds": 1645,
       "money": 1936201,
       "gold": 579,
@@ -24,7 +24,7 @@
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 10405,
+      "sessionSeconds": 10465,
       "playTimeSeconds": 27328,
       "money": 1044277,
       "gold": 165,
@@ -34,7 +34,7 @@
     {
       "steamId": "76561199189470290",
       "name": "Konffetka",
-      "sessionSeconds": 8482,
+      "sessionSeconds": 8542,
       "playTimeSeconds": 1662,
       "money": 720660,
       "gold": 237,
@@ -44,7 +44,7 @@
     {
       "steamId": "76561198022734828",
       "name": "ArBuzova",
-      "sessionSeconds": 7322,
+      "sessionSeconds": 7382,
       "playTimeSeconds": 3011,
       "money": 1005166,
       "gold": 65,
@@ -54,17 +54,17 @@
     {
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
-      "sessionSeconds": 5036,
+      "sessionSeconds": 5096,
       "playTimeSeconds": 783,
       "money": 1350588,
       "gold": 612,
-      "fame": 36492,
+      "fame": 36493,
       "rank": 25
     },
     {
       "steamId": "76561198028600444",
       "name": "Ольга",
-      "sessionSeconds": 1724,
+      "sessionSeconds": 1784,
       "playTimeSeconds": 6300,
       "money": 946273,
       "gold": 155,
@@ -74,13 +74,23 @@
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 391,
+      "sessionSeconds": 451,
       "playTimeSeconds": 29622,
       "money": 114113,
       "gold": 575,
       "fame": 2500,
       "rank": 3
+    },
+    {
+      "steamId": "76561198318136237",
+      "name": "Krakozavr",
+      "sessionSeconds": 42,
+      "playTimeSeconds": 0,
+      "money": 13238,
+      "gold": 20,
+      "fame": 194,
+      "rank": 91
     }
   ],
-  "updated": "2026-09-17T18:03:20.278Z"
+  "updated": "2026-09-17T18:04:20.280Z"
 }
