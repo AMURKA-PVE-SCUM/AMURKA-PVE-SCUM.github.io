@@ -1,10 +1,10 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561199846653258",
       "name": "Koshka",
-      "sessionSeconds": 1502,
+      "sessionSeconds": 1562,
       "playTimeSeconds": 3907,
       "money": 176012,
       "gold": 95,
@@ -12,9 +12,19 @@
       "rank": 11
     },
     {
+      "steamId": "76561198156375337",
+      "name": "Domo",
+      "sessionSeconds": 1227,
+      "playTimeSeconds": 3570,
+      "money": 3396118,
+      "gold": 777,
+      "fame": 1010,
+      "rank": 12
+    },
+    {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 1146,
+      "sessionSeconds": 1206,
       "playTimeSeconds": 31810,
       "money": 1384952,
       "gold": 478,
@@ -24,7 +34,7 @@
     {
       "steamId": "76561199189470290",
       "name": "Konffetka",
-      "sessionSeconds": 100,
+      "sessionSeconds": 160,
       "playTimeSeconds": 0,
       "money": 734327,
       "gold": 227,
@@ -34,7 +44,7 @@
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 96,
+      "sessionSeconds": 156,
       "playTimeSeconds": 8640,
       "money": 1539927,
       "gold": 100,
@@ -44,7 +54,7 @@
     {
       "steamId": "76561198936806390",
       "name": "YaNkei",
-      "sessionSeconds": 91,
+      "sessionSeconds": 151,
       "playTimeSeconds": 19030,
       "money": 1759982,
       "gold": 445,
@@ -54,7 +64,7 @@
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 76,
+      "sessionSeconds": 136,
       "playTimeSeconds": 23985,
       "money": 113113,
       "gold": 570,
@@ -64,7 +74,7 @@
     {
       "steamId": "76561198067720439",
       "name": "Genih",
-      "sessionSeconds": 73,
+      "sessionSeconds": 133,
       "playTimeSeconds": 1645,
       "money": 1949060,
       "gold": 569,
@@ -74,7 +84,7 @@
     {
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "sessionSeconds": 0,
+      "sessionSeconds": 60,
       "playTimeSeconds": 0,
       "money": 89290,
       "gold": 95,
@@ -82,5 +92,5 @@
       "rank": 39
     }
   ],
-  "updated": "2026-09-17T15:05:19.030Z"
+  "updated": "2026-09-17T15:06:19.032Z"
 }
