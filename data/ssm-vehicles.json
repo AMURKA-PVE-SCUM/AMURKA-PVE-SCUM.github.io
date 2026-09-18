@@ -345,9 +345,9 @@
     {
       "entityId": 27125762,
       "asset": "BPC_Rager",
-      "x": 235156,
-      "y": -197834,
-      "z": 22103,
+      "x": 235786,
+      "y": -198852,
+      "z": 22191,
       "ownerName": "Rostov",
       "customName": null
     },
@@ -822,8 +822,8 @@
     {
       "entityId": 30900875,
       "asset": "BPC_Rager",
-      "x": 481251,
-      "y": -231830,
+      "x": 481252,
+      "y": -231829,
       "z": 5344,
       "ownerName": "Добряк",
       "customName": null
@@ -1065,8 +1065,8 @@
     {
       "entityId": 31936574,
       "asset": "BPC_Dirtbike",
-      "x": 509342,
-      "y": -247668,
+      "x": 509341,
+      "y": -247669,
       "z": 3271,
       "ownerName": "D69",
       "customName": null
@@ -1471,8 +1471,8 @@
       "entityId": 33268521,
       "asset": "BPC_Dirtbike",
       "x": 509213,
-      "y": -232867,
-      "z": 5187,
+      "y": -232866,
+      "z": 5188,
       "ownerName": "Пепа Петрович",
       "customName": null
     },
@@ -1817,7 +1817,16 @@
       "z": -21,
       "ownerName": null,
       "customName": null
+    },
+    {
+      "entityId": 33686646,
+      "asset": "BPC_MountainBike",
+      "x": -154445,
+      "y": 289531,
+      "z": 69600,
+      "ownerName": "Maxik",
+      "customName": null
     }
   ],
-  "updated": "2026-09-18T21:20:35.999Z"
+  "updated": "2026-09-18T21:21:35.999Z"
 }
