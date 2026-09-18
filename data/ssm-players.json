@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561198199442735",
       "name": "The_Lorg",
-      "sessionSeconds": 3493,
+      "sessionSeconds": 3553,
       "playTimeSeconds": 6040,
       "money": 824235,
       "gold": 174,
       "fame": 1986,
       "rank": 21
+    },
+    {
+      "steamId": "76561199404896383",
+      "name": "Victor_Vilkouskas",
+      "sessionSeconds": 9,
+      "playTimeSeconds": 53079,
+      "money": 1403589,
+      "gold": 503,
+      "fame": 2527,
+      "rank": 1
     }
   ],
-  "updated": "2026-09-18T06:09:25.683Z"
+  "updated": "2026-09-18T06:10:25.685Z"
 }
