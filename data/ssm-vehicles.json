@@ -129,8 +129,8 @@
     {
       "entityId": 22603288,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 224482,
-      "y": 3158,
+      "x": 224485,
+      "y": 3156,
       "z": 25433,
       "ownerName": "Jane Doe",
       "customName": null
@@ -244,15 +244,6 @@
       "customName": null
     },
     {
-      "entityId": 24864486,
-      "asset": "BPC_WolfsWagen",
-      "x": 243989,
-      "y": 38490,
-      "z": 27151,
-      "ownerName": "bezzubov1990",
-      "customName": null
-    },
-    {
       "entityId": 25025592,
       "asset": "BPC_Rager",
       "x": 211950,
@@ -310,7 +301,7 @@
       "entityId": 26023295,
       "asset": "BPC_Rager",
       "x": 260787,
-      "y": 66686,
+      "y": 66687,
       "z": 26177,
       "ownerName": "August",
       "customName": null
@@ -399,8 +390,8 @@
     {
       "entityId": 27273911,
       "asset": "BPC_Laika",
-      "x": 242743,
-      "y": 40149,
+      "x": 242741,
+      "y": 40150,
       "z": 27207,
       "ownerName": "bezzubov1990",
       "customName": null
@@ -813,7 +804,7 @@
     {
       "entityId": 30326190,
       "asset": "BPC_Rager",
-      "x": 512204,
+      "x": 512205,
       "y": -227592,
       "z": 4670,
       "ownerName": "YaNkei",
@@ -1056,8 +1047,8 @@
     {
       "entityId": 31592947,
       "asset": "BPC_Cruiser",
-      "x": 20650,
-      "y": -678532,
+      "x": 23497,
+      "y": -675531,
       "z": 247,
       "ownerName": "Ольга",
       "customName": null
@@ -1254,9 +1245,9 @@
     {
       "entityId": 32248726,
       "asset": "BPC_SidecarBike",
-      "x": -152773,
-      "y": 289231,
-      "z": 69598,
+      "x": -141098,
+      "y": 259029,
+      "z": 69381,
       "ownerName": "Pupsik",
       "customName": null
     },
@@ -1817,7 +1808,16 @@
       "z": 39491,
       "ownerName": "BlackStalker",
       "customName": null
+    },
+    {
+      "entityId": 33594881,
+      "asset": "BPC_WolfsWagen",
+      "x": -863781,
+      "y": -847411,
+      "z": 1729,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-18T11:52:31.830Z"
+  "updated": "2026-09-18T11:53:31.831Z"
 }
