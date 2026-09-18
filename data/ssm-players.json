@@ -1,10 +1,10 @@
 {
-  "online": 3,
+  "online": 4,
   "players": [
     {
       "steamId": "76561198199442735",
       "name": "The_Lorg",
-      "sessionSeconds": 5053,
+      "sessionSeconds": 5113,
       "playTimeSeconds": 6040,
       "money": 825235,
       "gold": 179,
@@ -14,23 +14,33 @@
     {
       "steamId": "76561198053503933",
       "name": "BlackStalker",
-      "sessionSeconds": 1319,
+      "sessionSeconds": 1379,
       "playTimeSeconds": 0,
       "money": 518520,
       "gold": 80,
-      "fame": 435,
+      "fame": 436,
       "rank": 106
     },
     {
       "steamId": "76561198069537958",
       "name": "Биба",
-      "sessionSeconds": 263,
+      "sessionSeconds": 323,
       "playTimeSeconds": 244,
       "money": 0,
       "gold": 0,
       "fame": 1,
       "rank": 35
+    },
+    {
+      "steamId": "76561199025384857",
+      "name": "Pupsik",
+      "sessionSeconds": 1,
+      "playTimeSeconds": 4922,
+      "money": 1045972,
+      "gold": 20,
+      "fame": 174,
+      "rank": 23
     }
   ],
-  "updated": "2026-09-18T06:35:25.867Z"
+  "updated": "2026-09-18T06:36:25.872Z"
 }
