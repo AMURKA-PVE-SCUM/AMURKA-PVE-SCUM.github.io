@@ -201,8 +201,8 @@
     {
       "entityId": 24233970,
       "asset": "BPC_Rager",
-      "x": 313619,
-      "y": -206138,
+      "x": 313623,
+      "y": -206148,
       "z": 15250,
       "ownerName": "7_62",
       "customName": null
@@ -310,7 +310,7 @@
       "entityId": 26324602,
       "asset": "BPC_Kinglet_Duster",
       "x": 225534,
-      "y": -197458,
+      "y": -197459,
       "z": 22922,
       "ownerName": "zloy",
       "customName": null
@@ -775,15 +775,6 @@
       "customName": null
     },
     {
-      "entityId": 30025437,
-      "asset": "BPC_Barba",
-      "x": 381880,
-      "y": -786362,
-      "z": 7,
-      "ownerName": null,
-      "customName": null
-    },
-    {
       "entityId": 30326190,
       "asset": "BPC_Rager",
       "x": 229207,
@@ -1065,9 +1056,9 @@
     {
       "entityId": 31873779,
       "asset": "BPC_SidecarBike",
-      "x": 276417,
-      "y": -160543,
-      "z": 16029,
+      "x": 276428,
+      "y": -160534,
+      "z": 16028,
       "ownerName": "Vinsector",
       "customName": null
     },
@@ -1453,7 +1444,7 @@
       "entityId": 33086232,
       "asset": "BPC_Kinglet_Duster",
       "x": 229851,
-      "y": -202402,
+      "y": -202401,
       "z": 23153,
       "ownerName": "GodMiller",
       "customName": null
@@ -1461,8 +1452,8 @@
     {
       "entityId": 33089043,
       "asset": "BPC_Kinglet_Duster",
-      "x": 231803,
-      "y": -201671,
+      "x": 231806,
+      "y": -201670,
       "z": 22243,
       "ownerName": "yuriiermolenko861",
       "customName": null
@@ -1804,7 +1795,7 @@
       "entityId": 33608213,
       "asset": "BPC_WolfsWagen",
       "x": 297608,
-      "y": -187715,
+      "y": -187716,
       "z": 14260,
       "ownerName": null,
       "customName": null
@@ -1821,12 +1812,21 @@
     {
       "entityId": 33628111,
       "asset": "BPC_Dirtbike",
-      "x": 426250,
-      "y": -240887,
-      "z": 11346,
+      "x": 292480,
+      "y": -201429,
+      "z": 14918,
       "ownerName": "zloy",
+      "customName": null
+    },
+    {
+      "entityId": 33649272,
+      "asset": "BPC_Barba",
+      "x": -180902,
+      "y": -880343,
+      "z": 24,
+      "ownerName": null,
       "customName": null
     }
   ],
-  "updated": "2026-09-18T18:08:34.562Z"
+  "updated": "2026-09-18T18:09:34.576Z"
 }
