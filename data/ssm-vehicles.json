@@ -1675,15 +1675,6 @@
       "customName": null
     },
     {
-      "entityId": 33490516,
-      "asset": "BPC_Barba",
-      "x": -159464,
-      "y": 290682,
-      "z": 69285,
-      "ownerName": null,
-      "customName": null
-    },
-    {
       "entityId": 33496311,
       "asset": "BPC_MountainBike",
       "x": 498876,
@@ -1826,7 +1817,16 @@
       "z": 71510,
       "ownerName": "Maxik",
       "customName": null
+    },
+    {
+      "entityId": 33689554,
+      "asset": "BPC_Barba",
+      "x": 184822,
+      "y": -697320,
+      "z": -44,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-18T21:52:36.259Z"
+  "updated": "2026-09-18T21:53:36.268Z"
 }
