@@ -552,7 +552,7 @@
     {
       "entityId": 28863348,
       "asset": "BPC_WolfsWagen",
-      "x": -197805,
+      "x": -197804,
       "y": -36159,
       "z": 35712,
       "ownerName": "Oleg_Tehnic",
@@ -561,8 +561,8 @@
     {
       "entityId": 28863351,
       "asset": "BPC_Rager",
-      "x": -198540,
-      "y": -35132,
+      "x": -198530,
+      "y": -35143,
       "z": 35726,
       "ownerName": "Shelby",
       "customName": null
@@ -706,8 +706,8 @@
       "entityId": 29042900,
       "asset": "BPC_Kinglet_Duster",
       "x": 508265,
-      "y": -231378,
-      "z": 5130,
+      "y": -231376,
+      "z": 5129,
       "ownerName": "Пепа Петрович",
       "customName": null
     },
@@ -817,15 +817,6 @@
       "y": -200482,
       "z": 22861,
       "ownerName": "YaNkei",
-      "customName": null
-    },
-    {
-      "entityId": 30372717,
-      "asset": "BPC_CityBike",
-      "x": -175037,
-      "y": -26486,
-      "z": 36047,
-      "ownerName": null,
       "customName": null
     },
     {
@@ -976,7 +967,7 @@
       "entityId": 31175754,
       "asset": "BPC_Kinglet_Mariner",
       "x": 513663,
-      "y": -225178,
+      "y": -225176,
       "z": 4323,
       "ownerName": "kmsten",
       "customName": null
@@ -1452,9 +1443,9 @@
     {
       "entityId": 32822300,
       "asset": "BPC_Laika",
-      "x": 406949,
-      "y": -167342,
-      "z": 972,
+      "x": 435209,
+      "y": -168446,
+      "z": 252,
       "ownerName": "Roma",
       "customName": null
     },
@@ -1569,8 +1560,8 @@
     {
       "entityId": 33286809,
       "asset": "BPC_Laika",
-      "x": -175722,
-      "y": -26245,
+      "x": -175721,
+      "y": -26244,
       "z": 36087,
       "ownerName": "Mazay",
       "customName": null
@@ -1794,9 +1785,9 @@
     {
       "entityId": 33562333,
       "asset": "BPC_Dirtbike",
-      "x": -244921,
-      "y": -15730,
-      "z": 35688,
+      "x": -108112,
+      "y": -63416,
+      "z": 37136,
       "ownerName": "BlackStalker",
       "customName": null
     },
@@ -1808,7 +1799,16 @@
       "z": 35644,
       "ownerName": null,
       "customName": null
+    },
+    {
+      "entityId": 33563590,
+      "asset": "BPC_MountainBike",
+      "x": 459347,
+      "y": -805715,
+      "z": 341,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-18T07:32:26.248Z"
+  "updated": "2026-09-18T07:33:26.249Z"
 }
