@@ -31,7 +31,7 @@
       "entityId": 19118829,
       "asset": "BPC_RIS",
       "x": 174245,
-      "y": -564269,
+      "y": -564268,
       "z": 69,
       "ownerName": "Ra",
       "customName": null
@@ -138,7 +138,7 @@
     {
       "entityId": 22805761,
       "asset": "BPC_Cruiser",
-      "x": 172583,
+      "x": 172584,
       "y": -563461,
       "z": 96,
       "ownerName": "ViTa_MiN_Ka",
@@ -256,7 +256,7 @@
       "entityId": 25171668,
       "asset": "BPC_MountainBike",
       "x": 173469,
-      "y": -562698,
+      "y": -562699,
       "z": 88,
       "ownerName": "Ra",
       "customName": null
@@ -385,15 +385,6 @@
       "y": -229813,
       "z": 20362,
       "ownerName": "ADA",
-      "customName": null
-    },
-    {
-      "entityId": 27273911,
-      "asset": "BPC_Laika",
-      "x": 242743,
-      "y": 40149,
-      "z": 27207,
-      "ownerName": "bezzubov1990",
       "customName": null
     },
     {
@@ -1047,9 +1038,9 @@
     {
       "entityId": 31592947,
       "asset": "BPC_Cruiser",
-      "x": 24314,
-      "y": -701410,
-      "z": 4896,
+      "x": 20320,
+      "y": -680443,
+      "z": 249,
       "ownerName": "Ольга",
       "customName": null
     },
@@ -1826,7 +1817,16 @@
       "z": 1729,
       "ownerName": null,
       "customName": null
+    },
+    {
+      "entityId": 33597271,
+      "asset": "BPC_Laika",
+      "x": 570839,
+      "y": 330695,
+      "z": 454,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-18T12:22:32.024Z"
+  "updated": "2026-09-18T12:23:32.036Z"
 }
