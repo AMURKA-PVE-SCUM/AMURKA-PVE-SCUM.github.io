@@ -670,7 +670,7 @@
       "entityId": 29042900,
       "asset": "BPC_Kinglet_Duster",
       "x": 508264,
-      "y": -231354,
+      "y": -231353,
       "z": 5128,
       "ownerName": "Пепа Петрович",
       "customName": null
@@ -1033,15 +1033,6 @@
       "y": -197685,
       "z": 22884,
       "ownerName": "Vinsector",
-      "customName": null
-    },
-    {
-      "entityId": 31884930,
-      "asset": "BPC_WolfsWagen",
-      "x": 485758,
-      "y": -345222,
-      "z": 4155,
-      "ownerName": null,
       "customName": null
     },
     {
@@ -1749,8 +1740,8 @@
     {
       "entityId": 33608059,
       "asset": "BPC_WolfsWagen",
-      "x": 393100,
-      "y": -237503,
+      "x": 393102,
+      "y": -237505,
       "z": 11893,
       "ownerName": null,
       "customName": null
@@ -1767,9 +1758,9 @@
     {
       "entityId": 33609630,
       "asset": "BPC_Kinglet_Duster",
-      "x": 333901,
-      "y": -306218,
-      "z": 30708,
+      "x": 476301,
+      "y": -480573,
+      "z": 13790,
       "ownerName": null,
       "customName": null
     },
@@ -1817,7 +1808,16 @@
       "z": -44,
       "ownerName": null,
       "customName": null
+    },
+    {
+      "entityId": 33690568,
+      "asset": "BPC_WolfsWagen",
+      "x": 357165,
+      "y": 209489,
+      "z": 20994,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-18T22:10:36.418Z"
+  "updated": "2026-09-18T22:11:36.421Z"
 }
