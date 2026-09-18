@@ -14,31 +14,31 @@
       "rank": 2,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 54811,
+      "playTimeSeconds": 57313,
       "money": 1022888,
       "gold": 180,
       "fame": 684,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 3,
       "steamId": "76561198936806390",
       "name": "YaNkei",
-      "playTimeSeconds": 34934,
+      "playTimeSeconds": 40216,
       "money": 1916809,
       "gold": 466,
       "fame": 6208,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 4,
       "steamId": "76561198071060590",
       "name": "Niga",
-      "playTimeSeconds": 29658,
+      "playTimeSeconds": 34919,
       "money": 1784188,
       "gold": 121,
       "fame": 4530,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 5,
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561198110930486",
+      "name": "GodMiller",
+      "playTimeSeconds": 13972,
+      "money": 98790,
+      "gold": 39,
+      "fame": 246,
+      "isOnline": true
+    },
+    {
+      "rank": 16,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "playTimeSeconds": 13601,
@@ -149,16 +159,6 @@
       "gold": 210,
       "fame": 584,
       "isOnline": false
-    },
-    {
-      "rank": 16,
-      "steamId": "76561198110930486",
-      "name": "GodMiller",
-      "playTimeSeconds": 13551,
-      "money": 98790,
-      "gold": 39,
-      "fame": 246,
-      "isOnline": true
     },
     {
       "rank": 17,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-18T15:00:33.170Z"
+  "updated": "2026-09-18T15:01:33.182Z"
 }
