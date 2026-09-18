@@ -17,8 +17,8 @@
       "playTimeSeconds": 54811,
       "money": 1025767,
       "gold": 180,
-      "fame": 677,
-      "isOnline": false
+      "fame": 676,
+      "isOnline": true
     },
     {
       "rank": 3,
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561198337811646",
+      "name": "VERSUS_65_",
+      "playTimeSeconds": 13601,
+      "money": 84305,
+      "gold": 210,
+      "fame": 584,
+      "isOnline": false
+    },
+    {
+      "rank": 16,
       "steamId": "76561198110930486",
       "name": "GodMiller",
       "playTimeSeconds": 13549,
@@ -151,7 +161,7 @@
       "isOnline": false
     },
     {
-      "rank": 16,
+      "rank": 17,
       "steamId": "76561199000739219",
       "name": "Yakytenok",
       "playTimeSeconds": 12858,
@@ -161,7 +171,7 @@
       "isOnline": false
     },
     {
-      "rank": 17,
+      "rank": 18,
       "steamId": "76561198199442735",
       "name": "The_Lorg",
       "playTimeSeconds": 11463,
@@ -171,7 +181,7 @@
       "isOnline": true
     },
     {
-      "rank": 18,
+      "rank": 19,
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
       "playTimeSeconds": 10169,
@@ -179,16 +189,6 @@
       "gold": 105,
       "fame": 500,
       "isOnline": false
-    },
-    {
-      "rank": 19,
-      "steamId": "76561198337811646",
-      "name": "VERSUS_65_",
-      "playTimeSeconds": 8869,
-      "money": 84305,
-      "gold": 210,
-      "fame": 584,
-      "isOnline": true
     },
     {
       "rank": 20,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-18T14:18:32.868Z"
+  "updated": "2026-09-18T14:19:32.878Z"
 }
