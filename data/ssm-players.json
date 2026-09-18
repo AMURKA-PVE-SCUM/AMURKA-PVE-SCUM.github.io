@@ -1,10 +1,10 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198110930486",
       "name": "GodMiller",
-      "sessionSeconds": 17796,
+      "sessionSeconds": 17856,
       "playTimeSeconds": 9277,
       "money": 139444,
       "gold": 34,
@@ -14,9 +14,9 @@
     {
       "steamId": "76561198053503933",
       "name": "BlackStalker",
-      "sessionSeconds": 6180,
+      "sessionSeconds": 6240,
       "playTimeSeconds": 0,
-      "money": 333086,
+      "money": 334446,
       "gold": 85,
       "fame": 454,
       "rank": 106
@@ -24,7 +24,7 @@
     {
       "steamId": "76561199025384857",
       "name": "Pupsik",
-      "sessionSeconds": 4801,
+      "sessionSeconds": 4861,
       "playTimeSeconds": 4922,
       "money": 1046972,
       "gold": 25,
@@ -34,7 +34,7 @@
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 3155,
+      "sessionSeconds": 3215,
       "playTimeSeconds": 39831,
       "money": 1045277,
       "gold": 170,
@@ -44,7 +44,7 @@
     {
       "steamId": "76561198069537958",
       "name": "Биба",
-      "sessionSeconds": 3071,
+      "sessionSeconds": 3131,
       "playTimeSeconds": 2255,
       "money": 0,
       "gold": 0,
@@ -54,7 +54,7 @@
     {
       "steamId": "76561198271336608",
       "name": "Валерка",
-      "sessionSeconds": 1363,
+      "sessionSeconds": 1423,
       "playTimeSeconds": 0,
       "money": 889610,
       "gold": 65,
@@ -64,13 +64,23 @@
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 74,
+      "sessionSeconds": 134,
       "playTimeSeconds": 21062,
       "money": 1536595,
       "gold": 110,
       "fame": 4235,
       "rank": 8
+    },
+    {
+      "steamId": "76561199846653258",
+      "name": "Koshka",
+      "sessionSeconds": 39,
+      "playTimeSeconds": 14031,
+      "money": 121094,
+      "gold": 95,
+      "fame": 391,
+      "rank": 11
     }
   ],
-  "updated": "2026-09-18T07:56:26.416Z"
+  "updated": "2026-09-18T07:57:26.417Z"
 }
