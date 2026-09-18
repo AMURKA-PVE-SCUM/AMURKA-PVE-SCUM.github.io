@@ -8,7 +8,7 @@
       "money": 1403589,
       "gold": 503,
       "fame": 2529,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 2,
@@ -27,7 +27,7 @@
       "playTimeSeconds": 33343,
       "money": 1912064,
       "gold": 461,
-      "fame": 6190,
+      "fame": 6191,
       "isOnline": true
     },
     {
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561198053503933",
+      "name": "BlackStalker",
+      "playTimeSeconds": 11261,
+      "money": 335576,
+      "gold": 90,
+      "fame": 467,
+      "isOnline": false
+    },
+    {
+      "rank": 16,
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "playTimeSeconds": 11158,
@@ -151,7 +161,7 @@
       "isOnline": true
     },
     {
-      "rank": 16,
+      "rank": 17,
       "steamId": "76561198028600444",
       "name": "Ольга",
       "playTimeSeconds": 10207,
@@ -161,7 +171,7 @@
       "isOnline": false
     },
     {
-      "rank": 17,
+      "rank": 18,
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
       "playTimeSeconds": 10169,
@@ -169,16 +179,6 @@
       "gold": 105,
       "fame": 500,
       "isOnline": false
-    },
-    {
-      "rank": 18,
-      "steamId": "76561198053503933",
-      "name": "BlackStalker",
-      "playTimeSeconds": 9232,
-      "money": 335576,
-      "gold": 90,
-      "fame": 467,
-      "isOnline": true
     },
     {
       "rank": 19,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-18T09:40:27.145Z"
+  "updated": "2026-09-18T09:41:27.158Z"
 }
