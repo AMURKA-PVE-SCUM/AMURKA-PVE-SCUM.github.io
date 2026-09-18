@@ -1,30 +1,20 @@
 {
-  "online": 4,
+  "online": 3,
   "players": [
     {
       "steamId": "76561199025384857",
       "name": "Pupsik",
-      "sessionSeconds": 8989,
+      "sessionSeconds": 9049,
       "playTimeSeconds": 13273,
       "money": 1012075,
       "gold": 40,
       "fame": 270,
-      "rank": 15
-    },
-    {
-      "steamId": "76561198028600444",
-      "name": "Ольга",
-      "sessionSeconds": 4232,
-      "playTimeSeconds": 10207,
-      "money": 949043,
-      "gold": 165,
-      "fame": 1021,
-      "rank": 18
+      "rank": 16
     },
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 1381,
+      "sessionSeconds": 1441,
       "playTimeSeconds": 59812,
       "money": 1405056,
       "gold": 508,
@@ -34,7 +24,7 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 43,
+      "sessionSeconds": 103,
       "playTimeSeconds": 8869,
       "money": 81554,
       "gold": 205,
@@ -42,5 +32,5 @@
       "rank": 20
     }
   ],
-  "updated": "2026-09-18T13:00:32.288Z"
+  "updated": "2026-09-18T13:01:32.300Z"
 }
