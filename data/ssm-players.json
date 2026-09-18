@@ -1,10 +1,10 @@
 {
-  "online": 9,
+  "online": 10,
   "players": [
     {
       "steamId": "76561199189470290",
       "name": "Konffetka",
-      "sessionSeconds": 2935,
+      "sessionSeconds": 2995,
       "playTimeSeconds": 48778,
       "money": 693210,
       "gold": 237,
@@ -14,7 +14,7 @@
     {
       "steamId": "76561198063204711",
       "name": "Maxik",
-      "sessionSeconds": 2125,
+      "sessionSeconds": 2185,
       "playTimeSeconds": 1652,
       "money": 1006660,
       "gold": 40,
@@ -24,7 +24,7 @@
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 281,
+      "sessionSeconds": 341,
       "playTimeSeconds": 38335,
       "money": 115113,
       "gold": 580,
@@ -34,7 +34,7 @@
     {
       "steamId": "76561198067720439",
       "name": "Genih",
-      "sessionSeconds": 271,
+      "sessionSeconds": 331,
       "playTimeSeconds": 50221,
       "money": 1907568,
       "gold": 614,
@@ -44,7 +44,7 @@
     {
       "steamId": "76561198022734828",
       "name": "ArBuzova",
-      "sessionSeconds": 241,
+      "sessionSeconds": 301,
       "playTimeSeconds": 43696,
       "money": 1057650,
       "gold": 100,
@@ -54,7 +54,7 @@
     {
       "steamId": "76561198318136237",
       "name": "Krakozavr",
-      "sessionSeconds": 202,
+      "sessionSeconds": 262,
       "playTimeSeconds": 27510,
       "money": 59696,
       "gold": 45,
@@ -64,7 +64,7 @@
     {
       "steamId": "76561198198157306",
       "name": "alekx838",
-      "sessionSeconds": 97,
+      "sessionSeconds": 157,
       "playTimeSeconds": 15584,
       "money": 414543,
       "gold": 132,
@@ -74,7 +74,7 @@
     {
       "steamId": "76561198961886900",
       "name": "Rostov",
-      "sessionSeconds": 9,
+      "sessionSeconds": 69,
       "playTimeSeconds": 3909,
       "money": 675767,
       "gold": 173,
@@ -84,13 +84,23 @@
     {
       "steamId": "76561198172370895",
       "name": "Vinsector",
-      "sessionSeconds": 0,
+      "sessionSeconds": 60,
       "playTimeSeconds": 18259,
       "money": 3700,
       "gold": 20,
       "fame": 73,
       "rank": 14
+    },
+    {
+      "steamId": "76561198071060590",
+      "name": "Niga",
+      "sessionSeconds": 42,
+      "playTimeSeconds": 56292,
+      "money": 1803621,
+      "gold": 146,
+      "fame": 4603,
+      "rank": 4
     }
   ],
-  "updated": "2026-09-18T21:08:35.915Z"
+  "updated": "2026-09-18T21:09:35.916Z"
 }
