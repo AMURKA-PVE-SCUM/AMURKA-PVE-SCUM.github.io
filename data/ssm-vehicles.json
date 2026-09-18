@@ -354,9 +354,9 @@
     {
       "entityId": 27125618,
       "asset": "BPC_Rager",
-      "x": 568458,
-      "y": 152040,
-      "z": 2352,
+      "x": 557692,
+      "y": 147093,
+      "z": 3382,
       "ownerName": "Genih",
       "customName": null
     },
@@ -543,8 +543,8 @@
     {
       "entityId": 28863351,
       "asset": "BPC_Rager",
-      "x": -198476,
-      "y": -35201,
+      "x": -198467,
+      "y": -35211,
       "z": 35726,
       "ownerName": "Shelby",
       "customName": null
@@ -633,8 +633,8 @@
     {
       "entityId": 29033956,
       "asset": "BPC_Laika",
-      "x": -198403,
-      "y": -35440,
+      "x": -198395,
+      "y": -35455,
       "z": 35727,
       "ownerName": "Mersy Deson",
       "customName": null
@@ -895,7 +895,7 @@
       "entityId": 31031636,
       "asset": "BPC_Cruiser",
       "x": -198962,
-      "y": -31719,
+      "y": -31718,
       "z": 35695,
       "ownerName": "Shelby",
       "customName": null
@@ -903,9 +903,9 @@
     {
       "entityId": 31055183,
       "asset": "BPC_WolfsWagen",
-      "x": 354836,
-      "y": 335890,
-      "z": 21596,
+      "x": 328973,
+      "y": 357960,
+      "z": 20902,
       "ownerName": "Niga",
       "customName": null
     },
@@ -1059,24 +1059,6 @@
       "x": -241530,
       "y": -734646,
       "z": 5819,
-      "ownerName": null,
-      "customName": null
-    },
-    {
-      "entityId": 31786144,
-      "asset": "BPC_WolfsWagen",
-      "x": 303846,
-      "y": 378066,
-      "z": 21508,
-      "ownerName": null,
-      "customName": null
-    },
-    {
-      "entityId": 31794499,
-      "asset": "BPC_WolfsWagen",
-      "x": -260165,
-      "y": 14587,
-      "z": 36181,
       "ownerName": null,
       "customName": null
     },
@@ -1542,9 +1524,9 @@
     {
       "entityId": 33286809,
       "asset": "BPC_Laika",
-      "x": -175721,
-      "y": -26244,
-      "z": 36087,
+      "x": -225662,
+      "y": -11267,
+      "z": 35921,
       "ownerName": "Mazay",
       "customName": null
     },
@@ -1817,7 +1799,25 @@
       "z": 452,
       "ownerName": null,
       "customName": null
+    },
+    {
+      "entityId": 33608059,
+      "asset": "BPC_WolfsWagen",
+      "x": 396735,
+      "y": -235966,
+      "z": 11894,
+      "ownerName": null,
+      "customName": null
+    },
+    {
+      "entityId": 33608213,
+      "asset": "BPC_WolfsWagen",
+      "x": 297601,
+      "y": -187713,
+      "z": 14263,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-18T14:31:32.935Z"
+  "updated": "2026-09-18T14:32:32.945Z"
 }
