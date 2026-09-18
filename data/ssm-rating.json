@@ -92,6 +92,16 @@
     },
     {
       "rank": 10,
+      "steamId": "76561198028600444",
+      "name": "Ольга",
+      "playTimeSeconds": 19373,
+      "money": 954942,
+      "gold": 170,
+      "fame": 1071,
+      "isOnline": false
+    },
+    {
+      "rank": 11,
       "steamId": "76561199142177393",
       "name": "Murka",
       "playTimeSeconds": 17670,
@@ -101,7 +111,7 @@
       "isOnline": false
     },
     {
-      "rank": 11,
+      "rank": 12,
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "playTimeSeconds": 17231,
@@ -111,7 +121,7 @@
       "isOnline": false
     },
     {
-      "rank": 12,
+      "rank": 13,
       "steamId": "76561199846653258",
       "name": "Koshka",
       "playTimeSeconds": 17206,
@@ -121,7 +131,7 @@
       "isOnline": false
     },
     {
-      "rank": 13,
+      "rank": 14,
       "steamId": "76561198053503933",
       "name": "BlackStalker",
       "playTimeSeconds": 16900,
@@ -129,16 +139,6 @@
       "gold": 95,
       "fame": 481,
       "isOnline": false
-    },
-    {
-      "rank": 14,
-      "steamId": "76561198028600444",
-      "name": "Ольга",
-      "playTimeSeconds": 14493,
-      "money": 954942,
-      "gold": 170,
-      "fame": 1071,
-      "isOnline": true
     },
     {
       "rank": 15,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-18T14:23:32.901Z"
+  "updated": "2026-09-18T14:24:32.903Z"
 }
