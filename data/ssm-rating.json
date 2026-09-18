@@ -22,6 +22,16 @@
     },
     {
       "rank": 3,
+      "steamId": "76561198071060590",
+      "name": "Niga",
+      "playTimeSeconds": 48694,
+      "money": 1811149,
+      "gold": 136,
+      "fame": 4574,
+      "isOnline": false
+    },
+    {
+      "rank": 4,
       "steamId": "76561199189470290",
       "name": "Konffetka",
       "playTimeSeconds": 40242,
@@ -31,7 +41,7 @@
       "isOnline": true
     },
     {
-      "rank": 4,
+      "rank": 5,
       "steamId": "76561198936806390",
       "name": "YaNkei",
       "playTimeSeconds": 40216,
@@ -41,7 +51,7 @@
       "isOnline": true
     },
     {
-      "rank": 5,
+      "rank": 6,
       "steamId": "76561198067720439",
       "name": "Genih",
       "playTimeSeconds": 40105,
@@ -51,7 +61,7 @@
       "isOnline": true
     },
     {
-      "rank": 6,
+      "rank": 7,
       "steamId": "76561199025384857",
       "name": "Pupsik",
       "playTimeSeconds": 35829,
@@ -59,16 +69,6 @@
       "gold": 40,
       "fame": 153,
       "isOnline": false
-    },
-    {
-      "rank": 7,
-      "steamId": "76561198071060590",
-      "name": "Niga",
-      "playTimeSeconds": 34919,
-      "money": 1811149,
-      "gold": 136,
-      "fame": 4574,
-      "isOnline": true
     },
     {
       "rank": 8,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-18T18:52:34.910Z"
+  "updated": "2026-09-18T18:53:34.921Z"
 }
