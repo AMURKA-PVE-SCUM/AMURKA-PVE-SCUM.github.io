@@ -17,7 +17,7 @@
       "playTimeSeconds": 54811,
       "money": 1022988,
       "gold": 180,
-      "fame": 678,
+      "fame": 679,
       "isOnline": true
     },
     {
@@ -37,7 +37,7 @@
       "playTimeSeconds": 29658,
       "money": 1784188,
       "gold": 121,
-      "fame": 4529,
+      "fame": 4530,
       "isOnline": true
     },
     {
@@ -162,6 +162,16 @@
     },
     {
       "rank": 17,
+      "steamId": "76561198199442735",
+      "name": "The_Lorg",
+      "playTimeSeconds": 13505,
+      "money": 825235,
+      "gold": 179,
+      "fame": 2002,
+      "isOnline": false
+    },
+    {
+      "rank": 18,
       "steamId": "76561199000739219",
       "name": "Yakytenok",
       "playTimeSeconds": 12858,
@@ -169,16 +179,6 @@
       "gold": 55,
       "fame": 202,
       "isOnline": false
-    },
-    {
-      "rank": 18,
-      "steamId": "76561198199442735",
-      "name": "The_Lorg",
-      "playTimeSeconds": 11463,
-      "money": 825235,
-      "gold": 179,
-      "fame": 2002,
-      "isOnline": true
     },
     {
       "rank": 19,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-18T14:46:33.037Z"
+  "updated": "2026-09-18T14:47:33.051Z"
 }
