@@ -1,10 +1,10 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198053503933",
       "name": "BlackStalker",
-      "sessionSeconds": 5475,
+      "sessionSeconds": 5535,
       "playTimeSeconds": 11261,
       "money": 335376,
       "gold": 95,
@@ -14,7 +14,7 @@
     {
       "steamId": "76561199025384857",
       "name": "Pupsik",
-      "sessionSeconds": 4968,
+      "sessionSeconds": 5028,
       "playTimeSeconds": 13273,
       "money": 1046899,
       "gold": 35,
@@ -24,7 +24,7 @@
     {
       "steamId": "76561199846653258",
       "name": "Koshka",
-      "sessionSeconds": 1518,
+      "sessionSeconds": 1578,
       "playTimeSeconds": 14112,
       "money": 121019,
       "gold": 95,
@@ -34,23 +34,33 @@
     {
       "steamId": "76561198028600444",
       "name": "Ольга",
-      "sessionSeconds": 212,
+      "sessionSeconds": 272,
       "playTimeSeconds": 10207,
-      "money": 948773,
+      "money": 951623,
       "gold": 160,
-      "fame": 959,
+      "fame": 974,
       "rank": 18
     },
     {
       "steamId": "76561199188476908",
       "name": "НеБро",
-      "sessionSeconds": 52,
+      "sessionSeconds": 112,
       "playTimeSeconds": 0,
-      "money": 106950,
-      "gold": 110,
-      "fame": 519,
+      "money": 105950,
+      "gold": 105,
+      "fame": 515,
       "rank": 108
+    },
+    {
+      "steamId": "76561198337811646",
+      "name": "VERSUS_65_",
+      "sessionSeconds": 40,
+      "playTimeSeconds": 4936,
+      "money": 80554,
+      "gold": 200,
+      "fame": 558,
+      "rank": 26
     }
   ],
-  "updated": "2026-09-18T11:53:31.831Z"
+  "updated": "2026-09-18T11:54:31.832Z"
 }
