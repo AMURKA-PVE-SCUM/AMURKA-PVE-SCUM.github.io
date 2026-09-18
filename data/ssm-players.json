@@ -1,10 +1,10 @@
 {
-  "online": 7,
+  "online": 9,
   "players": [
     {
       "steamId": "76561199189470290",
       "name": "Konffetka",
-      "sessionSeconds": 2875,
+      "sessionSeconds": 2935,
       "playTimeSeconds": 48778,
       "money": 693210,
       "gold": 237,
@@ -14,27 +14,27 @@
     {
       "steamId": "76561198063204711",
       "name": "Maxik",
-      "sessionSeconds": 2065,
+      "sessionSeconds": 2125,
       "playTimeSeconds": 1652,
       "money": 1006660,
       "gold": 40,
-      "fame": 120,
+      "fame": 121,
       "rank": 42
     },
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 221,
+      "sessionSeconds": 281,
       "playTimeSeconds": 38335,
       "money": 115113,
       "gold": 580,
-      "fame": 2517,
+      "fame": 2518,
       "rank": 9
     },
     {
       "steamId": "76561198067720439",
       "name": "Genih",
-      "sessionSeconds": 211,
+      "sessionSeconds": 271,
       "playTimeSeconds": 50221,
       "money": 1907568,
       "gold": 614,
@@ -44,7 +44,7 @@
     {
       "steamId": "76561198022734828",
       "name": "ArBuzova",
-      "sessionSeconds": 181,
+      "sessionSeconds": 241,
       "playTimeSeconds": 43696,
       "money": 1057650,
       "gold": 100,
@@ -54,7 +54,7 @@
     {
       "steamId": "76561198318136237",
       "name": "Krakozavr",
-      "sessionSeconds": 142,
+      "sessionSeconds": 202,
       "playTimeSeconds": 27510,
       "money": 59696,
       "gold": 45,
@@ -64,13 +64,33 @@
     {
       "steamId": "76561198198157306",
       "name": "alekx838",
-      "sessionSeconds": 37,
+      "sessionSeconds": 97,
       "playTimeSeconds": 15584,
       "money": 414543,
       "gold": 132,
       "fame": 4689,
       "rank": 18
+    },
+    {
+      "steamId": "76561198961886900",
+      "name": "Rostov",
+      "sessionSeconds": 9,
+      "playTimeSeconds": 3909,
+      "money": 675767,
+      "gold": 173,
+      "fame": 1787,
+      "rank": 33
+    },
+    {
+      "steamId": "76561198172370895",
+      "name": "Vinsector",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 18259,
+      "money": 3700,
+      "gold": 20,
+      "fame": 73,
+      "rank": 14
     }
   ],
-  "updated": "2026-09-18T21:07:35.914Z"
+  "updated": "2026-09-18T21:08:35.915Z"
 }
