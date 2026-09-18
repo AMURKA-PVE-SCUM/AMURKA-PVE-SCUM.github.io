@@ -2,22 +2,22 @@
   "leaderboard": [
     {
       "rank": 1,
+      "steamId": "76561198790887864",
+      "name": "Roma",
+      "playTimeSeconds": 76426,
+      "money": 1012908,
+      "gold": 200,
+      "fame": 730,
+      "isOnline": false
+    },
+    {
+      "rank": 2,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
       "playTimeSeconds": 65291,
       "money": 1487366,
       "gold": 518,
       "fame": 2738,
-      "isOnline": true
-    },
-    {
-      "rank": 2,
-      "steamId": "76561198790887864",
-      "name": "Roma",
-      "playTimeSeconds": 59200,
-      "money": 1012908,
-      "gold": 200,
-      "fame": 730,
       "isOnline": true
     },
     {
@@ -85,7 +85,7 @@
       "steamId": "76561198022734828",
       "name": "ArBuzova",
       "playTimeSeconds": 24087,
-      "money": 1056795,
+      "money": 1056695,
       "gold": 95,
       "fame": 462,
       "isOnline": true
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-18T20:22:35.611Z"
+  "updated": "2026-09-18T20:23:35.624Z"
 }
