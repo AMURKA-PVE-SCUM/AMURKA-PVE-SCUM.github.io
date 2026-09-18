@@ -129,8 +129,8 @@
     {
       "entityId": 22603288,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 224499,
-      "y": 3148,
+      "x": 224502,
+      "y": 3147,
       "z": 25431,
       "ownerName": "Jane Doe",
       "customName": null
@@ -307,15 +307,6 @@
       "customName": null
     },
     {
-      "entityId": 26050094,
-      "asset": "BPC_Kinglet_Duster",
-      "x": 242961,
-      "y": 38836,
-      "z": 27095,
-      "ownerName": "Paff_111",
-      "customName": null
-    },
-    {
       "entityId": 26324602,
       "asset": "BPC_Kinglet_Duster",
       "x": 224249,
@@ -354,9 +345,9 @@
     {
       "entityId": 27125618,
       "asset": "BPC_Rager",
-      "x": 390736,
-      "y": 62503,
-      "z": 12856,
+      "x": 312166,
+      "y": -16947,
+      "z": 24587,
       "ownerName": "Genih",
       "customName": null
     },
@@ -768,7 +759,7 @@
     {
       "entityId": 29725382,
       "asset": "BPC_Kinglet_Duster",
-      "x": 261171,
+      "x": 261172,
       "y": -1083,
       "z": 24557,
       "ownerName": "angell",
@@ -1524,9 +1515,9 @@
     {
       "entityId": 33286809,
       "asset": "BPC_Laika",
-      "x": -412320,
-      "y": -227784,
-      "z": 27339,
+      "x": -397772,
+      "y": -315199,
+      "z": 3217,
       "ownerName": "Domo",
       "customName": null
     },
@@ -1569,9 +1560,9 @@
     {
       "entityId": 33318110,
       "asset": "BPC_RIS",
-      "x": -429887,
-      "y": -277883,
-      "z": 13362,
+      "x": -429886,
+      "y": -277885,
+      "z": 13361,
       "ownerName": null,
       "customName": null
     },
@@ -1817,7 +1808,16 @@
       "z": 14260,
       "ownerName": null,
       "customName": null
+    },
+    {
+      "entityId": 33609630,
+      "asset": "BPC_Kinglet_Duster",
+      "x": -276213,
+      "y": -36879,
+      "z": 35645,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-18T14:40:33.017Z"
+  "updated": "2026-09-18T14:41:33.018Z"
 }
