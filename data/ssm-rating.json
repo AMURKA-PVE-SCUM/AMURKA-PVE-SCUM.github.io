@@ -102,6 +102,16 @@
     },
     {
       "rank": 11,
+      "steamId": "76561198053503933",
+      "name": "BlackStalker",
+      "playTimeSeconds": 16900,
+      "money": 335376,
+      "gold": 95,
+      "fame": 481,
+      "isOnline": false
+    },
+    {
+      "rank": 12,
       "steamId": "76561199846653258",
       "name": "Koshka",
       "playTimeSeconds": 14112,
@@ -111,7 +121,7 @@
       "isOnline": true
     },
     {
-      "rank": 12,
+      "rank": 13,
       "steamId": "76561198110930486",
       "name": "GodMiller",
       "playTimeSeconds": 13549,
@@ -121,7 +131,7 @@
       "isOnline": false
     },
     {
-      "rank": 13,
+      "rank": 14,
       "steamId": "76561199025384857",
       "name": "Pupsik",
       "playTimeSeconds": 13273,
@@ -131,7 +141,7 @@
       "isOnline": true
     },
     {
-      "rank": 14,
+      "rank": 15,
       "steamId": "76561199000739219",
       "name": "Yakytenok",
       "playTimeSeconds": 12858,
@@ -141,7 +151,7 @@
       "isOnline": false
     },
     {
-      "rank": 15,
+      "rank": 16,
       "steamId": "76561198199442735",
       "name": "The_Lorg",
       "playTimeSeconds": 11463,
@@ -149,16 +159,6 @@
       "gold": 179,
       "fame": 1998,
       "isOnline": false
-    },
-    {
-      "rank": 16,
-      "steamId": "76561198053503933",
-      "name": "BlackStalker",
-      "playTimeSeconds": 11261,
-      "money": 335376,
-      "gold": 95,
-      "fame": 481,
-      "isOnline": true
     },
     {
       "rank": 17,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-18T11:55:31.837Z"
+  "updated": "2026-09-18T11:56:31.837Z"
 }
