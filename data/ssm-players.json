@@ -1,10 +1,10 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198028600444",
       "name": "Ольга",
-      "sessionSeconds": 4642,
+      "sessionSeconds": 4702,
       "playTimeSeconds": 14493,
       "money": 954942,
       "gold": 170,
@@ -14,7 +14,7 @@
     {
       "steamId": "76561198936806390",
       "name": "YaNkei",
-      "sessionSeconds": 2878,
+      "sessionSeconds": 2938,
       "playTimeSeconds": 34934,
       "money": 1915809,
       "gold": 461,
@@ -24,7 +24,7 @@
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 2857,
+      "sessionSeconds": 2917,
       "playTimeSeconds": 29658,
       "money": 1783188,
       "gold": 116,
@@ -34,9 +34,9 @@
     {
       "steamId": "76561198022734828",
       "name": "ArBuzova",
-      "sessionSeconds": 1612,
+      "sessionSeconds": 1672,
       "playTimeSeconds": 20729,
-      "money": 1021324,
+      "money": 1021224,
       "gold": 75,
       "fame": 298,
       "rank": 10
@@ -44,7 +44,7 @@
     {
       "steamId": "76561198067720439",
       "name": "Genih",
-      "sessionSeconds": 647,
+      "sessionSeconds": 707,
       "playTimeSeconds": 26612,
       "money": 1930590,
       "gold": 594,
@@ -54,7 +54,7 @@
     {
       "steamId": "76561199189470290",
       "name": "Konffetka",
-      "sessionSeconds": 453,
+      "sessionSeconds": 513,
       "playTimeSeconds": 24846,
       "money": 689210,
       "gold": 217,
@@ -64,23 +64,33 @@
     {
       "steamId": "76561198199442735",
       "name": "The_Lorg",
-      "sessionSeconds": 432,
+      "sessionSeconds": 492,
       "playTimeSeconds": 11463,
       "money": 825235,
       "gold": 179,
-      "fame": 1998,
+      "fame": 1999,
       "rank": 19
     },
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 98,
+      "sessionSeconds": 158,
       "playTimeSeconds": 54811,
       "money": 1025767,
       "gold": 180,
       "fame": 677,
       "rank": 2
+    },
+    {
+      "steamId": "76561199025384857",
+      "name": "Pupsik",
+      "sessionSeconds": 31,
+      "playTimeSeconds": 23772,
+      "money": 1012075,
+      "gold": 40,
+      "fame": 271,
+      "rank": 8
     }
   ],
-  "updated": "2026-09-18T14:20:32.884Z"
+  "updated": "2026-09-18T14:21:32.891Z"
 }
