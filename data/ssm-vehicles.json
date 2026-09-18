@@ -10,15 +10,6 @@
       "customName": null
     },
     {
-      "entityId": 19118710,
-      "asset": "BPC_SidecarBike",
-      "x": -322071,
-      "y": 6817,
-      "z": 35694,
-      "ownerName": "Skeleton",
-      "customName": null
-    },
-    {
       "entityId": 19118719,
       "asset": "BPC_Rager",
       "x": -274850,
@@ -201,7 +192,7 @@
     {
       "entityId": 24218492,
       "asset": "BPC_Cruiser",
-      "x": -324428,
+      "x": -324429,
       "y": 8326,
       "z": 35695,
       "ownerName": "ШРинат",
@@ -948,7 +939,7 @@
     {
       "entityId": 31055183,
       "asset": "BPC_WolfsWagen",
-      "x": -415187,
+      "x": -415186,
       "y": -15260,
       "z": 34940,
       "ownerName": "Niga",
@@ -1461,9 +1452,9 @@
     {
       "entityId": 32822300,
       "asset": "BPC_Laika",
-      "x": 297689,
-      "y": -190863,
-      "z": 14224,
+      "x": 324177,
+      "y": -202537,
+      "z": 14647,
       "ownerName": "Roma",
       "customName": null
     },
@@ -1803,12 +1794,21 @@
     {
       "entityId": 33562333,
       "asset": "BPC_Dirtbike",
-      "x": -439347,
-      "y": 59258,
-      "z": 35439,
+      "x": -357209,
+      "y": 14450,
+      "z": 35318,
       "ownerName": "BlackStalker",
+      "customName": null
+    },
+    {
+      "entityId": 33563256,
+      "asset": "BPC_SidecarBike",
+      "x": -25700,
+      "y": 528463,
+      "z": 35647,
+      "ownerName": null,
       "customName": null
     }
   ],
-  "updated": "2026-09-18T07:29:26.232Z"
+  "updated": "2026-09-18T07:30:26.233Z"
 }
