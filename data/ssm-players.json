@@ -1,5 +1,26 @@
 {
-  "online": 0,
-  "players": [],
-  "updated": "2026-09-18T09:06:26.897Z"
+  "online": 2,
+  "players": [
+    {
+      "steamId": "76561198053503933",
+      "name": "BlackStalker",
+      "sessionSeconds": 43,
+      "playTimeSeconds": 9232,
+      "money": 335576,
+      "gold": 90,
+      "fame": 466,
+      "rank": 19
+    },
+    {
+      "steamId": "76561198790887864",
+      "name": "Roma",
+      "sessionSeconds": 19,
+      "playTimeSeconds": 46833,
+      "money": 1046277,
+      "gold": 175,
+      "fame": 661,
+      "rank": 2
+    }
+  ],
+  "updated": "2026-09-18T09:07:26.900Z"
 }
