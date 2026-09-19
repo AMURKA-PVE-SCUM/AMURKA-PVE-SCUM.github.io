@@ -120,8 +120,8 @@
     {
       "entityId": 22603288,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 224560,
-      "y": 3115,
+      "x": 224562,
+      "y": 3114,
       "z": 25425,
       "ownerName": "Jane Doe",
       "customName": "Rocinante"
@@ -301,7 +301,7 @@
       "entityId": 26023295,
       "asset": "BPC_Rager",
       "x": 260788,
-      "y": 66688,
+      "y": 66689,
       "z": 26177,
       "ownerName": "August",
       "customName": "August"
@@ -706,7 +706,7 @@
       "entityId": 29628016,
       "asset": "BPC_WolfsWagen",
       "x": 266046,
-      "y": -8297,
+      "y": -8299,
       "z": 24147,
       "ownerName": "ALIGATOR",
       "customName": "ФАНТОЦЫ"
@@ -796,7 +796,7 @@
       "entityId": 30875057,
       "asset": "BPC_Rager",
       "x": 262718,
-      "y": -7316,
+      "y": -7319,
       "z": 24287,
       "ownerName": "НеБро",
       "customName": "RAPTOR"
@@ -1776,9 +1776,9 @@
     {
       "entityId": 33718094,
       "asset": "BPC_Dirtbike",
-      "x": 374402,
-      "y": -160468,
-      "z": 6864,
+      "x": 271636,
+      "y": 53704,
+      "z": 26232,
       "ownerName": "Sleng",
       "customName": null
     },
@@ -1871,7 +1871,25 @@
       "z": 7948,
       "ownerName": null,
       "customName": null
+    },
+    {
+      "entityId": 33846084,
+      "asset": "BPC_SidecarBike",
+      "x": 416099,
+      "y": -57566,
+      "z": 10235,
+      "ownerName": null,
+      "customName": null
+    },
+    {
+      "entityId": 33846086,
+      "asset": "BPC_RIS",
+      "x": -169447,
+      "y": -408379,
+      "z": 1564,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-19T15:23:47.824Z"
+  "updated": "2026-09-19T15:24:47.829Z"
 }
