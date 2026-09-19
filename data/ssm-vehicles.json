@@ -269,8 +269,8 @@
       "asset": "BPC_WolfsWagen",
       "assetId": "Vehicle:BPC_WolfsWagen",
       "alias": "",
-      "x": 149007.109375,
-      "y": 237018.265625,
+      "x": 149007.125,
+      "y": 237018.25,
       "lastAccess": "2026-09-19 18:38:41",
       "automatic": 1,
       "functional": 1,
@@ -2021,8 +2021,8 @@
       "asset": "BPC_Rager",
       "assetId": "Vehicle:BPC_Rager",
       "alias": "",
-      "x": 182555.90625,
-      "y": 239827.953125,
+      "x": 72527.921875,
+      "y": 317485.5,
       "lastAccess": "2026-09-19 21:26:24",
       "automatic": 1,
       "functional": 1,
@@ -2437,5 +2437,5 @@
       "forbiddenZoneSeconds": 0
     }
   ],
-  "updated": "2026-09-19T21:27:50.476Z"
+  "updated": "2026-09-19T21:28:50.477Z"
 }
