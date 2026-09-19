@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "sessionSeconds": 2461,
+      "sessionSeconds": 2521,
       "playTimeSeconds": 10169,
       "money": 110367,
       "gold": 105,
       "fame": 513,
       "rank": 26
+    },
+    {
+      "steamId": "76561198041539804",
+      "name": "Ded_13",
+      "sessionSeconds": 10,
+      "playTimeSeconds": 1,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "rank": 55
     }
   ],
-  "updated": "2026-09-19T02:08:38.070Z"
+  "updated": "2026-09-19T02:09:38.072Z"
 }
