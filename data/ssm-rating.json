@@ -28,7 +28,7 @@
       "money": 1114256,
       "gold": 491,
       "fame": 6292,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 4,
@@ -162,6 +162,16 @@
     },
     {
       "rank": 17,
+      "steamId": "76561198128211851",
+      "name": "zloy",
+      "playTimeSeconds": 18343,
+      "money": 4224880,
+      "gold": 213,
+      "fame": 21871,
+      "isOnline": false
+    },
+    {
+      "rank": 18,
       "steamId": "76561199142177393",
       "name": "Murka",
       "playTimeSeconds": 17670,
@@ -171,7 +181,7 @@
       "isOnline": false
     },
     {
-      "rank": 18,
+      "rank": 19,
       "steamId": "76561198053503933",
       "name": "BlackStalker",
       "playTimeSeconds": 16900,
@@ -181,7 +191,7 @@
       "isOnline": false
     },
     {
-      "rank": 19,
+      "rank": 20,
       "steamId": "76561198110930486",
       "name": "GodMiller",
       "playTimeSeconds": 14417,
@@ -189,17 +199,7 @@
       "gold": 39,
       "fame": 247,
       "isOnline": false
-    },
-    {
-      "rank": 20,
-      "steamId": "76561198337811646",
-      "name": "VERSUS_65_",
-      "playTimeSeconds": 14200,
-      "money": 84305,
-      "gold": 210,
-      "fame": 589,
-      "isOnline": true
     }
   ],
-  "updated": "2026-09-19T06:10:39.857Z"
+  "updated": "2026-09-19T06:11:39.860Z"
 }
