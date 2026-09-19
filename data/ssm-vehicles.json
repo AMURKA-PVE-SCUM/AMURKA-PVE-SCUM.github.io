@@ -579,8 +579,8 @@
     {
       "entityId": 29033924,
       "asset": "BPC_RIS",
-      "x": 202922,
-      "y": -667337,
+      "x": 202923,
+      "y": -667333,
       "z": 4699,
       "ownerName": "Бен Гур",
       "customName": null
@@ -1036,15 +1036,6 @@
       "customName": null
     },
     {
-      "entityId": 31936090,
-      "asset": "BPC_Tractor",
-      "x": -560370,
-      "y": 150427,
-      "z": 38465,
-      "ownerName": null,
-      "customName": null
-    },
-    {
       "entityId": 31936574,
       "asset": "BPC_Dirtbike",
       "x": 509342,
@@ -1272,9 +1263,9 @@
     {
       "entityId": 32606881,
       "asset": "BPC_Laika",
-      "x": -577429,
-      "y": 207308,
-      "z": 42688,
+      "x": -548159,
+      "y": 139924,
+      "z": 36620,
       "ownerName": "Victor_Vilkouskas",
       "customName": null
     },
@@ -1830,21 +1821,30 @@
     {
       "entityId": 33718094,
       "asset": "BPC_Dirtbike",
-      "x": 166889,
-      "y": -562579,
-      "z": 2193,
+      "x": 205930,
+      "y": -663394,
+      "z": 3887,
       "ownerName": "Ded_13",
       "customName": null
     },
     {
       "entityId": 33724138,
       "asset": "BPC_Cruiser",
-      "x": 141370,
-      "y": -298958,
-      "z": 21673,
+      "x": 122811,
+      "y": -297390,
+      "z": 21970,
       "ownerName": "YaNkei",
+      "customName": null
+    },
+    {
+      "entityId": 33737625,
+      "asset": "BPC_Tractor",
+      "x": -535626,
+      "y": 466305,
+      "z": 80873,
+      "ownerName": null,
       "customName": null
     }
   ],
-  "updated": "2026-09-19T06:56:40.204Z"
+  "updated": "2026-09-19T06:57:40.213Z"
 }
