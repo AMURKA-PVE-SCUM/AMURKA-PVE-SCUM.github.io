@@ -59,7 +59,7 @@
       "asset": "BPC_Kinglet_Mariner",
       "x": -277277,
       "y": -585297,
-      "z": 54,
+      "z": 55,
       "ownerName": "Raskalbasman",
       "customName": "TOURIST 123"
     },
@@ -706,7 +706,7 @@
       "entityId": 29042900,
       "asset": "BPC_Kinglet_Duster",
       "x": 508408,
-      "y": -231491,
+      "y": -231488,
       "z": 5134,
       "ownerName": "Пепа Петрович",
       "customName": "пепа"
@@ -777,7 +777,7 @@
     {
       "entityId": 29731640,
       "asset": "BPC_Kinglet_Duster",
-      "x": 232209,
+      "x": 232208,
       "y": -203690,
       "z": 22935,
       "ownerName": "yuriiermolenko861",
@@ -813,7 +813,7 @@
     {
       "entityId": 30623657,
       "asset": "BPC_Laika",
-      "x": 230667,
+      "x": 230668,
       "y": -201886,
       "z": 22435,
       "ownerName": "kmsten",
@@ -850,7 +850,7 @@
       "entityId": 30900875,
       "asset": "BPC_Rager",
       "x": 481297,
-      "y": -231804,
+      "y": -231803,
       "z": 5343,
       "ownerName": "Добряк",
       "customName": "Добряк"
@@ -913,7 +913,7 @@
       "entityId": 31100228,
       "asset": "BPC_WolfsWagen",
       "x": 531439,
-      "y": -181498,
+      "y": -181497,
       "z": 1709,
       "ownerName": "bolollo",
       "customName": null
@@ -976,7 +976,7 @@
       "entityId": 31381709,
       "asset": "BPC_Rager",
       "x": 525526,
-      "y": -195607,
+      "y": -195606,
       "z": 1146,
       "ownerName": "Ebzhik",
       "customName": "Ebzhik"
@@ -1048,7 +1048,7 @@
       "entityId": 31684951,
       "asset": "BPC_CityBike",
       "x": -241530,
-      "y": -734646,
+      "y": -734647,
       "z": 5819,
       "ownerName": null,
       "customName": null
@@ -1209,9 +1209,9 @@
     {
       "entityId": 32404597,
       "asset": "BPC_Laika",
-      "x": -401196,
-      "y": -651244,
-      "z": 5557,
+      "x": -256014,
+      "y": -694982,
+      "z": 5332,
       "ownerName": "Prostyak",
       "customName": null
     },
@@ -1353,7 +1353,7 @@
     {
       "entityId": 32807903,
       "asset": "BPC_Kinglet_Duster",
-      "x": 239829,
+      "x": 239830,
       "y": -177617,
       "z": 21689,
       "ownerName": "Yakytenok",
@@ -1416,7 +1416,7 @@
     {
       "entityId": 33086232,
       "asset": "BPC_Kinglet_Duster",
-      "x": 229851,
+      "x": 229850,
       "y": -202389,
       "z": 23153,
       "ownerName": "GodMiller",
@@ -1425,8 +1425,8 @@
     {
       "entityId": 33089043,
       "asset": "BPC_Kinglet_Duster",
-      "x": 233063,
-      "y": -202101,
+      "x": 233066,
+      "y": -202100,
       "z": 22121,
       "ownerName": "yuriiermolenko861",
       "customName": "ЮРКА"
@@ -1461,8 +1461,8 @@
     {
       "entityId": 33268521,
       "asset": "BPC_Dirtbike",
-      "x": 508865,
-      "y": -232720,
+      "x": 508864,
+      "y": -232719,
       "z": 5197,
       "ownerName": "Пепа Петрович",
       "customName": null
@@ -1569,8 +1569,8 @@
     {
       "entityId": 33394462,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 226530,
-      "y": -204175,
+      "x": 226532,
+      "y": -204176,
       "z": 22712,
       "ownerName": null,
       "customName": null
@@ -1606,7 +1606,7 @@
       "entityId": 33429305,
       "asset": "BPC_Dirtbike",
       "x": 508399,
-      "y": -258783,
+      "y": -258782,
       "z": 2212,
       "ownerName": "Murka",
       "customName": null
@@ -1614,9 +1614,9 @@
     {
       "entityId": 33475328,
       "asset": "BPC_Dirtbike",
-      "x": 520126,
-      "y": -253890,
-      "z": 1238,
+      "x": 520129,
+      "y": -253892,
+      "z": 1237,
       "ownerName": "ArBuzova",
       "customName": "Кроссовер"
     },
@@ -1740,9 +1740,9 @@
     {
       "entityId": 33608059,
       "asset": "BPC_WolfsWagen",
-      "x": 512187,
-      "y": -228176,
-      "z": 4700,
+      "x": 512192,
+      "y": -228177,
+      "z": 4699,
       "ownerName": "Ded_13",
       "customName": null
     },
@@ -1760,15 +1760,15 @@
       "asset": "BPC_Kinglet_Duster",
       "x": 241189,
       "y": -198601,
-      "z": 22208,
+      "z": 22209,
       "ownerName": null,
       "customName": null
     },
     {
       "entityId": 33628111,
       "asset": "BPC_Dirtbike",
-      "x": 225350,
-      "y": -198245,
+      "x": 225349,
+      "y": -198246,
       "z": 22978,
       "ownerName": "zloy",
       "customName": null
@@ -1869,24 +1869,6 @@
       "x": 555587,
       "y": -816027,
       "z": 37,
-      "ownerName": null,
-      "customName": null
-    },
-    {
-      "entityId": 33787283,
-      "asset": "BPC_Kinglet_Mariner",
-      "x": 489512,
-      "y": -832449,
-      "z": 3887,
-      "ownerName": "Mazay",
-      "customName": null
-    },
-    {
-      "entityId": 33797122,
-      "asset": "BPC_Kinglet_Mariner",
-      "x": 532122,
-      "y": -814910,
-      "z": 5458,
       "ownerName": null,
       "customName": null
     },
@@ -1999,5 +1981,5 @@
       "customName": null
     }
   ],
-  "updated": "2026-09-19T13:09:46.791Z"
+  "updated": "2026-09-19T13:10:46.803Z"
 }
