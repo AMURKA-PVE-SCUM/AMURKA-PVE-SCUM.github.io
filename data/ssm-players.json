@@ -1,10 +1,20 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
+    {
+      "steamId": "76561198041539804",
+      "name": "Ded_13",
+      "sessionSeconds": 3430,
+      "playTimeSeconds": 3073,
+      "money": 1000000,
+      "gold": 0,
+      "fame": 106,
+      "rank": 41
+    },
     {
       "steamId": "76561198028621423",
       "name": "Lesnik",
-      "sessionSeconds": 115,
+      "sessionSeconds": 175,
       "playTimeSeconds": 19301,
       "money": 6013,
       "gold": 3813,
@@ -12,5 +22,5 @@
       "rank": 15
     }
   ],
-  "updated": "2026-09-19T03:05:38.448Z"
+  "updated": "2026-09-19T03:06:38.462Z"
 }
