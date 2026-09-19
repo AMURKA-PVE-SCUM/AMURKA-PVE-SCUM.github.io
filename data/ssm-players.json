@@ -1,5 +1,5 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198121549932",
@@ -32,6 +32,16 @@
       "rank": 115
     },
     {
+      "steamId": "76561198790887864",
+      "name": "Roma\u0000",
+      "sessionSeconds": null,
+      "playTimeSeconds": 76426,
+      "money": 1012908,
+      "gold": 200,
+      "fame": 729,
+      "rank": 2
+    },
+    {
       "steamId": "76561198041539804",
       "name": "Ded_13\u0000",
       "sessionSeconds": null,
@@ -52,5 +62,5 @@
       "rank": 1
     }
   ],
-  "updated": "2026-09-19T07:31:40.504Z"
+  "updated": "2026-09-19T07:32:40.519Z"
 }
