@@ -228,8 +228,8 @@
     {
       "entityId": 24233970,
       "asset": "BPC_Rager",
-      "x": 313545,
-      "y": -205942,
+      "x": 313542,
+      "y": -205932,
       "z": 15250,
       "ownerName": "7_62",
       "customName": "ВЕДРО 7_62"
@@ -327,8 +327,8 @@
     {
       "entityId": 26324602,
       "asset": "BPC_Kinglet_Duster",
-      "x": 224864,
-      "y": -196753,
+      "x": 224865,
+      "y": -196751,
       "z": 23055,
       "ownerName": "zloy",
       "customName": null
@@ -786,9 +786,9 @@
     {
       "entityId": 30326190,
       "asset": "BPC_Rager",
-      "x": 468610,
-      "y": -545896,
-      "z": 5282,
+      "x": 393431,
+      "y": -514770,
+      "z": 7452,
       "ownerName": "YaNkei",
       "customName": "Yan"
     },
@@ -1092,9 +1092,9 @@
     {
       "entityId": 32033869,
       "asset": "BPC_WolfsWagen",
-      "x": -521166,
-      "y": 294908,
-      "z": 51988,
+      "x": -552008,
+      "y": 295033,
+      "z": 55289,
       "ownerName": "Vinsector",
       "customName": "Граст"
     },
@@ -1110,9 +1110,9 @@
     {
       "entityId": 32062848,
       "asset": "BPC_Laika",
-      "x": 141841,
-      "y": 14986,
-      "z": 29678,
+      "x": 148396,
+      "y": 24514,
+      "z": 29735,
       "ownerName": "brantozavr_voin2",
       "customName": "brantomobil"
     },
@@ -1326,8 +1326,8 @@
     {
       "entityId": 32710350,
       "asset": "BPC_Rager",
-      "x": 155179,
-      "y": -28146,
+      "x": 155180,
+      "y": -28150,
       "z": 32477,
       "ownerName": "Lesnik",
       "customName": "RAM-Lesnika"
@@ -1434,9 +1434,9 @@
     {
       "entityId": 33089043,
       "asset": "BPC_Kinglet_Duster",
-      "x": 233028,
-      "y": -202113,
-      "z": 22125,
+      "x": 233031,
+      "y": -202112,
+      "z": 22124,
       "ownerName": "yuriiermolenko861",
       "customName": "ЮРКА"
     },
@@ -1749,9 +1749,9 @@
     {
       "entityId": 33608059,
       "asset": "BPC_WolfsWagen",
-      "x": 384205,
-      "y": -227583,
-      "z": 12506,
+      "x": 250060,
+      "y": -255019,
+      "z": 14967,
       "ownerName": "Ded_13",
       "customName": null
     },
@@ -1902,9 +1902,9 @@
     {
       "entityId": 33793784,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 542450,
-      "y": -787342,
-      "z": 16,
+      "x": 542446,
+      "y": -787341,
+      "z": 27,
       "ownerName": null,
       "customName": null
     },
@@ -1920,12 +1920,21 @@
     {
       "entityId": 33794621,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 555555,
-      "y": -812342,
-      "z": 2,
+      "x": 555542,
+      "y": -812329,
+      "z": -2,
+      "ownerName": null,
+      "customName": null
+    },
+    {
+      "entityId": 33795295,
+      "asset": "BPC_Kinglet_Mariner",
+      "x": 554398,
+      "y": -811351,
+      "z": 171,
       "ownerName": null,
       "customName": null
     }
   ],
-  "updated": "2026-09-19T10:52:45.784Z"
+  "updated": "2026-09-19T10:53:45.787Z"
 }
