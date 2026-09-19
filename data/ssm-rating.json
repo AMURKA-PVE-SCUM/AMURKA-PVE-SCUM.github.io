@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198790887864",
       "name": "Roma\u0000",
-      "playTimeSeconds": 93882,
+      "playTimeSeconds": 93942,
       "money": 1016625,
       "gold": 225,
       "fame": 807,
@@ -44,11 +44,11 @@
       "rank": 5,
       "steamId": "76561198936806390",
       "name": "YaNkei\u0000",
-      "playTimeSeconds": 75028,
+      "playTimeSeconds": 75065,
       "money": 1120119,
       "gold": 501,
       "fame": 6360,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 6,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198198157306",
       "name": "alekx838\u0000",
-      "playTimeSeconds": 32122,
+      "playTimeSeconds": 32182,
       "money": 470064,
       "gold": 152,
       "fame": 4759,
@@ -172,6 +172,16 @@
     },
     {
       "rank": 18,
+      "steamId": "76561198121549932",
+      "name": "Prostyak\u0000",
+      "playTimeSeconds": 22831,
+      "money": 994627,
+      "gold": 36,
+      "fame": 328,
+      "isOnline": true
+    },
+    {
+      "rank": 19,
       "steamId": "76561198053503933",
       "name": "BlackStalker\u0000",
       "playTimeSeconds": 22778,
@@ -179,16 +189,6 @@
       "gold": 100,
       "fame": 496,
       "isOnline": false
-    },
-    {
-      "rank": 19,
-      "steamId": "76561198121549932",
-      "name": "Prostyak\u0000",
-      "playTimeSeconds": 22771,
-      "money": 994627,
-      "gold": 36,
-      "fame": 332,
-      "isOnline": true
     },
     {
       "rank": 20,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-19T14:36:47.451Z"
+  "updated": "2026-09-19T14:37:47.455Z"
 }
