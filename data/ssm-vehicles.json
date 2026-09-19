@@ -450,7 +450,7 @@
       "assetId": "Vehicle:BPC_Dirtbike",
       "alias": "",
       "x": 508398.96875,
-      "y": -258776.5,
+      "y": -258776.484375,
       "lastAccess": "2026-09-17 14:35:48",
       "automatic": 1,
       "functional": 1,
@@ -953,8 +953,8 @@
       "asset": "BPC_Laika",
       "assetId": "Vehicle:BPC_Laika",
       "alias": "",
-      "x": 522415.78125,
-      "y": -222214.015625,
+      "x": 336424.21875,
+      "y": -363850.59375,
       "lastAccess": "2026-09-19 23:43:35",
       "automatic": 1,
       "functional": 1,
@@ -1409,8 +1409,8 @@
       "asset": "BPC_Rager",
       "assetId": "Vehicle:BPC_Rager",
       "alias": "",
-      "x": 481314.8125,
-      "y": -231789.84375,
+      "x": 481316.4375,
+      "y": -231789.34375,
       "lastAccess": "2026-09-17 06:20:14",
       "automatic": 1,
       "functional": 1,
@@ -2437,5 +2437,5 @@
       "forbiddenZoneSeconds": 0
     }
   ],
-  "updated": "2026-09-19T23:44:51.514Z"
+  "updated": "2026-09-19T23:45:51.521Z"
 }
