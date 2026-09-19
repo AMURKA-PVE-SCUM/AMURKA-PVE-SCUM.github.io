@@ -1,6 +1,16 @@
 {
-  "online": 3,
+  "online": 4,
   "players": [
+    {
+      "steamId": "76561198121549932",
+      "name": "Prostyak\u0000",
+      "sessionSeconds": null,
+      "playTimeSeconds": 0,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "rank": null
+    },
     {
       "steamId": "76561198198157306",
       "name": "alekx838\u0000",
@@ -32,5 +42,5 @@
       "rank": 1
     }
   ],
-  "updated": "2026-09-19T07:25:40.440Z"
+  "updated": "2026-09-19T07:26:40.441Z"
 }
