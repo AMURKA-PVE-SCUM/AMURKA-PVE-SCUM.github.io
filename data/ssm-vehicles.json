@@ -137,8 +137,8 @@
       "asset": "BPC_Tractor",
       "assetId": "Vehicle:BPC_Tractor",
       "alias": "",
-      "x": -535608.4375,
-      "y": 466322.65625,
+      "x": -535606.375,
+      "y": 466324.5625,
       "lastAccess": "2026-09-19 06:56:49",
       "automatic": 1,
       "functional": 1,
@@ -2021,8 +2021,8 @@
       "asset": "BPC_Rager",
       "assetId": "Vehicle:BPC_Rager",
       "alias": "",
-      "x": -572860.5,
-      "y": 561059.3125,
+      "x": -540535.75,
+      "y": 469035.71875,
       "lastAccess": "2026-09-19 22:17:33",
       "automatic": 1,
       "functional": 1,
@@ -2437,5 +2437,5 @@
       "forbiddenZoneSeconds": 0
     }
   ],
-  "updated": "2026-09-19T22:22:50.875Z"
+  "updated": "2026-09-19T22:23:50.877Z"
 }
