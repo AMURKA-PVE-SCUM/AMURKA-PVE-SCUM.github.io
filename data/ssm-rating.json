@@ -58,7 +58,7 @@
       "money": 695210,
       "gold": 247,
       "fame": 39577,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 7,
@@ -178,10 +178,20 @@
       "money": 89190,
       "gold": 39,
       "fame": 247,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 19,
+      "steamId": "76561198337811646",
+      "name": "VERSUS_65_",
+      "playTimeSeconds": 14200,
+      "money": 84305,
+      "gold": 210,
+      "fame": 585,
+      "isOnline": false
+    },
+    {
+      "rank": 20,
       "steamId": "76561198128211851",
       "name": "zloy",
       "playTimeSeconds": 13828,
@@ -189,17 +199,7 @@
       "gold": 208,
       "fame": 21746,
       "isOnline": false
-    },
-    {
-      "rank": 20,
-      "steamId": "76561198337811646",
-      "name": "VERSUS_65_",
-      "playTimeSeconds": 13601,
-      "money": 84305,
-      "gold": 210,
-      "fame": 585,
-      "isOnline": true
     }
   ],
-  "updated": "2026-09-19T00:49:37.512Z"
+  "updated": "2026-09-19T00:50:37.512Z"
 }
