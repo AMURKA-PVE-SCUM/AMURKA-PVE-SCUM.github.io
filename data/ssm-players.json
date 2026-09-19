@@ -1,26 +1,86 @@
 {
-  "online": 2,
+  "online": 8,
   "players": [
+    {
+      "steamId": "76561198071060590",
+      "name": "Niga\u0000",
+      "sessionSeconds": 2501,
+      "playTimeSeconds": 60094,
+      "money": 1813985,
+      "gold": 146,
+      "fame": 4607,
+      "rank": 4
+    },
     {
       "steamId": "76561198399306435",
       "name": "MasSawka\u0000",
-      "sessionSeconds": 1436,
-      "playTimeSeconds": 1319,
+      "sessionSeconds": 1496,
+      "playTimeSeconds": 1379,
       "money": 0,
       "gold": 0,
       "fame": 3,
       "rank": 50
     },
     {
+      "steamId": "76561199020076791",
+      "name": "Sleng\u0000",
+      "sessionSeconds": 1343,
+      "playTimeSeconds": 1158,
+      "money": 0,
+      "gold": 0,
+      "fame": 3,
+      "rank": 52
+    },
+    {
+      "steamId": "76561198041539804",
+      "name": "Ded_13\u0000",
+      "sessionSeconds": 13,
+      "playTimeSeconds": 20456,
+      "money": 1099825,
+      "gold": 16,
+      "fame": 461,
+      "rank": 17
+    },
+    {
+      "steamId": "76561198121549932",
+      "name": "Prostyak\u0000",
+      "sessionSeconds": 13,
+      "playTimeSeconds": 3147,
+      "money": 1001800,
+      "gold": 5,
+      "fame": 28,
+      "rank": 43
+    },
+    {
+      "steamId": "76561198337531947",
+      "name": "brantozavr_voin2\u0000",
+      "sessionSeconds": 13,
+      "playTimeSeconds": 28746,
+      "money": 109236,
+      "gold": 115,
+      "fame": 559,
+      "rank": 13
+    },
+    {
+      "steamId": "76561198053503933",
+      "name": "BlackStalker\u0000",
+      "sessionSeconds": 13,
+      "playTimeSeconds": 20062,
+      "money": 336376,
+      "gold": 100,
+      "fame": 494,
+      "rank": 18
+    },
+    {
       "steamId": "76561198790887864",
       "name": "Roma\u0000",
       "sessionSeconds": 13,
-      "playTimeSeconds": 79570,
+      "playTimeSeconds": 79630,
       "money": 1012925,
       "gold": 205,
       "fame": 749,
       "rank": 1
     }
   ],
-  "updated": "2026-09-19T09:03:41.198Z"
+  "updated": "2026-09-19T09:04:41.211Z"
 }
