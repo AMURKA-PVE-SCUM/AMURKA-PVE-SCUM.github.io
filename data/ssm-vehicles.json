@@ -49,7 +49,7 @@
       "entityId": 19145321,
       "asset": "BPC_Rager",
       "x": 174344,
-      "y": -563978,
+      "y": -563977,
       "z": 80,
       "ownerName": "ViTa_MiN_Ka",
       "customName": "ViTa_MiN_Ka"
@@ -82,15 +82,6 @@
       "customName": "Вжик-Lesnika"
     },
     {
-      "entityId": 20299118,
-      "asset": "BPC_RIS",
-      "x": -323680,
-      "y": 8205,
-      "z": 35730,
-      "ownerName": "Skeleton",
-      "customName": "sloniks"
-    },
-    {
       "entityId": 20541909,
       "asset": "BPC_Rager",
       "x": 40509,
@@ -102,20 +93,11 @@
     {
       "entityId": 20547870,
       "asset": "BPC_Laika",
-      "x": 173968,
+      "x": 173969,
       "y": -564440,
       "z": 81,
       "ownerName": "Ra",
       "customName": "Ra"
-    },
-    {
-      "entityId": 20813915,
-      "asset": "BPC_Cruiser",
-      "x": -323216,
-      "y": 7992,
-      "z": 35709,
-      "ownerName": "Skeleton",
-      "customName": "Skeleton"
     },
     {
       "entityId": 21165876,
@@ -363,9 +345,9 @@
     {
       "entityId": 27125618,
       "asset": "BPC_Rager",
-      "x": 157607,
-      "y": 40518,
-      "z": 29821,
+      "x": 141577,
+      "y": 16311,
+      "z": 29716,
       "ownerName": "Genih",
       "customName": "Тигруля"
     },
@@ -615,9 +597,9 @@
     {
       "entityId": 29033924,
       "asset": "BPC_RIS",
-      "x": 202933,
-      "y": -667293,
-      "z": 4699,
+      "x": 202934,
+      "y": -667290,
+      "z": 4700,
       "ownerName": "Бен Гур",
       "customName": "Бен Гур"
     },
@@ -1200,7 +1182,7 @@
     {
       "entityId": 32371365,
       "asset": "BPC_Tractor",
-      "x": 206283,
+      "x": 206282,
       "y": -510001,
       "z": 684,
       "ownerName": null,
@@ -1209,9 +1191,9 @@
     {
       "entityId": 32404597,
       "asset": "BPC_Laika",
-      "x": 84900,
-      "y": -712089,
-      "z": 7055,
+      "x": 170029,
+      "y": -515107,
+      "z": 3405,
       "ownerName": "Prostyak",
       "customName": null
     },
@@ -1983,12 +1965,21 @@
     {
       "entityId": 33816320,
       "asset": "BPC_Cruiser",
-      "x": -252965,
-      "y": -13455,
-      "z": 35788,
+      "x": -263707,
+      "y": -10153,
+      "z": 35695,
+      "ownerName": null,
+      "customName": null
+    },
+    {
+      "entityId": 33816435,
+      "asset": "BPC_RIS",
+      "x": -123671,
+      "y": -337613,
+      "z": 16419,
       "ownerName": null,
       "customName": null
     }
   ],
-  "updated": "2026-09-19T13:29:46.958Z"
+  "updated": "2026-09-19T13:30:46.963Z"
 }
