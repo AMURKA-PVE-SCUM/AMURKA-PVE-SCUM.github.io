@@ -552,7 +552,7 @@
     {
       "entityId": 28863348,
       "asset": "BPC_WolfsWagen",
-      "x": -197798,
+      "x": -197797,
       "y": -36159,
       "z": 35712,
       "ownerName": "Oleg_Tehnic",
@@ -561,8 +561,8 @@
     {
       "entityId": 28863351,
       "asset": "BPC_Rager",
-      "x": -198473,
-      "y": -35207,
+      "x": -198483,
+      "y": -35196,
       "z": 35726,
       "ownerName": "Shelby",
       "customName": "ⓈⒽⒺⓁⒷⓎ"
@@ -651,8 +651,8 @@
     {
       "entityId": 29033956,
       "asset": "BPC_Laika",
-      "x": -198347,
-      "y": -35566,
+      "x": -198348,
+      "y": -35565,
       "z": 35727,
       "ownerName": "Mersy Deson",
       "customName": "Mersy Deson"
@@ -885,7 +885,7 @@
     {
       "entityId": 31031636,
       "asset": "BPC_Cruiser",
-      "x": -198953,
+      "x": -198952,
       "y": -31718,
       "z": 35695,
       "ownerName": "Shelby",
@@ -894,9 +894,9 @@
     {
       "entityId": 31055183,
       "asset": "BPC_WolfsWagen",
-      "x": -488880,
-      "y": 179853,
-      "z": 38014,
+      "x": -494622,
+      "y": 183665,
+      "z": 37963,
       "ownerName": "Niga",
       "customName": null
     },
@@ -1102,7 +1102,7 @@
       "entityId": 32033869,
       "asset": "BPC_WolfsWagen",
       "x": -494173,
-      "y": 183480,
+      "y": 183479,
       "z": 37972,
       "ownerName": "Vinsector",
       "customName": "Граст"
@@ -1380,9 +1380,9 @@
     {
       "entityId": 32822300,
       "asset": "BPC_Laika",
-      "x": 388191,
-      "y": -531110,
-      "z": 8945,
+      "x": 412218,
+      "y": -554505,
+      "z": 6078,
       "ownerName": "Roma",
       "customName": "Roma"
     },
@@ -1587,9 +1587,9 @@
     {
       "entityId": 33394462,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 351307,
-      "y": -70264,
-      "z": 14120,
+      "x": 351377,
+      "y": -70258,
+      "z": 14133,
       "ownerName": null,
       "customName": null
     },
@@ -1857,9 +1857,9 @@
     {
       "entityId": 33718094,
       "asset": "BPC_Dirtbike",
-      "x": -331154,
-      "y": -2792,
-      "z": 35681,
+      "x": -96187,
+      "y": -66806,
+      "z": 36641,
       "ownerName": "Ded_13",
       "customName": null
     },
@@ -1898,7 +1898,25 @@
       "z": 5,
       "ownerName": "Mazay",
       "customName": null
+    },
+    {
+      "entityId": 33793756,
+      "asset": "BPC_Kinglet_Mariner",
+      "x": 554744,
+      "y": -812862,
+      "z": 40,
+      "ownerName": null,
+      "customName": null
+    },
+    {
+      "entityId": 33793784,
+      "asset": "BPC_Kinglet_Mariner",
+      "x": 554567,
+      "y": -811835,
+      "z": 149,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-19T10:41:45.696Z"
+  "updated": "2026-09-19T10:42:45.710Z"
 }
