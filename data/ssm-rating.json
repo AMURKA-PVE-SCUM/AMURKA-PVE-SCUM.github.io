@@ -102,6 +102,16 @@
     },
     {
       "rank": 11,
+      "steamId": "76561198028621423",
+      "name": "Lesnik",
+      "playTimeSeconds": 27777,
+      "money": 4683,
+      "gold": 3823,
+      "fame": 2557,
+      "isOnline": false
+    },
+    {
+      "rank": 12,
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
       "playTimeSeconds": 25641,
@@ -111,23 +121,13 @@
       "isOnline": false
     },
     {
-      "rank": 12,
+      "rank": 13,
       "steamId": "76561198198157306",
       "name": "alekx838",
       "playTimeSeconds": 24980,
       "money": 468064,
       "gold": 142,
       "fame": 4724,
-      "isOnline": true
-    },
-    {
-      "rank": 13,
-      "steamId": "76561198028621423",
-      "name": "Lesnik",
-      "playTimeSeconds": 23819,
-      "money": 4683,
-      "gold": 3823,
-      "fame": 2557,
       "isOnline": true
     },
     {
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-19T07:13:40.369Z"
+  "updated": "2026-09-19T07:14:40.369Z"
 }
