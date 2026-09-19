@@ -1,31 +1,41 @@
 {
-  "online": 4,
+  "online": 5,
   "players": [
     {
       "steamId": "76561198790887864",
       "name": "Roma\u0000",
-      "sessionSeconds": 11510,
-      "playTimeSeconds": 98941,
+      "sessionSeconds": 11570,
+      "playTimeSeconds": 99001,
       "money": 1020075,
       "gold": 230,
-      "fame": 839,
+      "fame": 840,
       "rank": 1
     },
     {
       "steamId": "76561198071060590",
       "name": "Niga\u0000",
-      "sessionSeconds": 4698,
-      "playTimeSeconds": 77706,
+      "sessionSeconds": 4758,
+      "playTimeSeconds": 77766,
       "money": 1777127,
       "gold": 171,
       "fame": 4675,
       "rank": 3
     },
     {
+      "steamId": "76561198022734828",
+      "name": "ArBuzova\u0000",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 49228,
+      "money": 1056767,
+      "gold": 100,
+      "fame": 487,
+      "rank": 9
+    },
+    {
       "steamId": "76561198069537958",
       "name": "Биба\u0000",
       "sessionSeconds": 15,
-      "playTimeSeconds": 24218,
+      "playTimeSeconds": 24278,
       "money": 7692,
       "gold": 25,
       "fame": 51,
@@ -35,12 +45,12 @@
       "steamId": "76561198029476275",
       "name": "XEH\u0000",
       "sessionSeconds": 15,
-      "playTimeSeconds": 15012,
+      "playTimeSeconds": 15072,
       "money": 1225251,
       "gold": 166,
       "fame": 1098,
       "rank": 28
     }
   ],
-  "updated": "2026-09-19T16:10:48.138Z"
+  "updated": "2026-09-19T16:11:48.147Z"
 }
