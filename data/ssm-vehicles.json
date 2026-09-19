@@ -894,9 +894,9 @@
     {
       "entityId": 31055183,
       "asset": "BPC_WolfsWagen",
-      "x": -511810,
-      "y": 236005,
-      "z": 41944,
+      "x": -533491,
+      "y": 260810,
+      "z": 47269,
       "ownerName": "Niga",
       "customName": null
     },
@@ -1092,9 +1092,9 @@
     {
       "entityId": 32033869,
       "asset": "BPC_WolfsWagen",
-      "x": -505114,
-      "y": 185483,
-      "z": 37710,
+      "x": -573114,
+      "y": 233334,
+      "z": 46003,
       "ownerName": "Vinsector",
       "customName": "Граст"
     },
@@ -1110,9 +1110,9 @@
     {
       "entityId": 32062848,
       "asset": "BPC_Laika",
-      "x": 155329,
-      "y": 43064,
-      "z": 29829,
+      "x": 166050,
+      "y": 37686,
+      "z": 29793,
       "ownerName": "brantozavr_voin2",
       "customName": "brantomobil"
     },
@@ -1371,9 +1371,9 @@
     {
       "entityId": 32822300,
       "asset": "BPC_Laika",
-      "x": 425565,
+      "x": 425564,
       "y": -573933,
-      "z": 670,
+      "z": 669,
       "ownerName": "Roma",
       "customName": "Roma"
     },
@@ -1749,9 +1749,9 @@
     {
       "entityId": 33608059,
       "asset": "BPC_WolfsWagen",
-      "x": 392903,
-      "y": -237643,
-      "z": 11918,
+      "x": 397112,
+      "y": -234487,
+      "z": 11870,
       "ownerName": "Ded_13",
       "customName": null
     },
@@ -1904,10 +1904,28 @@
       "asset": "BPC_Kinglet_Mariner",
       "x": 542448,
       "y": -787341,
-      "z": 20,
+      "z": 19,
+      "ownerName": null,
+      "customName": null
+    },
+    {
+      "entityId": 33794565,
+      "asset": "BPC_Kinglet_Mariner",
+      "x": 554576,
+      "y": -812629,
+      "z": 62,
+      "ownerName": null,
+      "customName": null
+    },
+    {
+      "entityId": 33794621,
+      "asset": "BPC_Kinglet_Mariner",
+      "x": 554991,
+      "y": -811600,
+      "z": 37,
       "ownerName": null,
       "customName": null
     }
   ],
-  "updated": "2026-09-19T10:47:45.753Z"
+  "updated": "2026-09-19T10:48:45.756Z"
 }
