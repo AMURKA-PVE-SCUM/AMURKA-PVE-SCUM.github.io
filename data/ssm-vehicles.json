@@ -228,8 +228,8 @@
     {
       "entityId": 24233970,
       "asset": "BPC_Rager",
-      "x": 313552,
-      "y": -205963,
+      "x": 313548,
+      "y": -205952,
       "z": 15250,
       "ownerName": "7_62",
       "customName": "ВЕДРО 7_62"
@@ -786,9 +786,9 @@
     {
       "entityId": 30326190,
       "asset": "BPC_Rager",
-      "x": 229400,
-      "y": -202537,
-      "z": 22638,
+      "x": 313335,
+      "y": -291095,
+      "z": 16794,
       "ownerName": "YaNkei",
       "customName": "Yan"
     },
@@ -894,9 +894,9 @@
     {
       "entityId": 31055183,
       "asset": "BPC_WolfsWagen",
-      "x": -329208,
-      "y": 216048,
-      "z": 84134,
+      "x": -320877,
+      "y": 212619,
+      "z": 82923,
       "ownerName": "Niga",
       "customName": null
     },
@@ -1103,8 +1103,8 @@
       "asset": "BPC_WolfsWagen",
       "x": -494347,
       "y": 181498,
-      "z": 37980,
-      "ownerName": null,
+      "z": 37979,
+      "ownerName": "Vinsector",
       "customName": null
     },
     {
@@ -1119,9 +1119,9 @@
     {
       "entityId": 32062848,
       "asset": "BPC_Laika",
-      "x": 26020,
-      "y": -105803,
-      "z": 33668,
+      "x": 165413,
+      "y": -132518,
+      "z": 27545,
       "ownerName": "brantozavr_voin2",
       "customName": "brantomobil"
     },
@@ -1534,7 +1534,7 @@
       "entityId": 33299205,
       "asset": "BPC_Tractor",
       "x": -55088,
-      "y": -73627,
+      "y": -73628,
       "z": 36751,
       "ownerName": null,
       "customName": null
@@ -1857,9 +1857,9 @@
     {
       "entityId": 33718094,
       "asset": "BPC_Dirtbike",
-      "x": -23256,
-      "y": -151160,
-      "z": 33569,
+      "x": -115799,
+      "y": -60856,
+      "z": 37269,
       "ownerName": "Ded_13",
       "customName": null
     },
@@ -1880,7 +1880,25 @@
       "z": 12657,
       "ownerName": "test01",
       "customName": "test01"
+    },
+    {
+      "entityId": 33787263,
+      "asset": "BPC_Kinglet_Mariner",
+      "x": 555985,
+      "y": -815990,
+      "z": 84,
+      "ownerName": null,
+      "customName": null
+    },
+    {
+      "entityId": 33787283,
+      "asset": "BPC_Kinglet_Mariner",
+      "x": 555382,
+      "y": -815280,
+      "z": 83,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-19T10:10:41.713Z"
+  "updated": "2026-09-19T10:11:41.723Z"
 }
