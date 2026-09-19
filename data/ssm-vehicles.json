@@ -1353,8 +1353,8 @@
     {
       "entityId": 32712719,
       "asset": "BPC_Rager",
-      "x": 241199,
-      "y": -177562,
+      "x": 241430,
+      "y": -177368,
       "z": 21849,
       "ownerName": "Yakytenok",
       "customName": "Yakyt"
@@ -1894,7 +1894,7 @@
       "entityId": 33793756,
       "asset": "BPC_Kinglet_Mariner",
       "x": 567408,
-      "y": -800284,
+      "y": -800285,
       "z": 81,
       "ownerName": null,
       "customName": null
@@ -1902,9 +1902,9 @@
     {
       "entityId": 33793784,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 540712,
-      "y": -787384,
-      "z": 54,
+      "x": 540681,
+      "y": -787390,
+      "z": -16,
       "ownerName": null,
       "customName": null
     },
@@ -1920,9 +1920,9 @@
     {
       "entityId": 33794621,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 582930,
-      "y": -810689,
-      "z": 46,
+      "x": 582944,
+      "y": -810593,
+      "z": 42,
       "ownerName": null,
       "customName": null
     },
@@ -2001,12 +2001,39 @@
     {
       "entityId": 33805996,
       "asset": "BPC_Dinghy",
-      "x": 555148,
-      "y": -813794,
-      "z": 94,
+      "x": 555206,
+      "y": -813802,
+      "z": -24,
+      "ownerName": null,
+      "customName": null
+    },
+    {
+      "entityId": 33806050,
+      "asset": "BPC_Dinghy",
+      "x": 555043,
+      "y": -813436,
+      "z": -21,
+      "ownerName": null,
+      "customName": null
+    },
+    {
+      "entityId": 33806075,
+      "asset": "BPC_Dinghy",
+      "x": 555093,
+      "y": -812985,
+      "z": -33,
+      "ownerName": null,
+      "customName": null
+    },
+    {
+      "entityId": 33806097,
+      "asset": "BPC_Dinghy",
+      "x": 555096,
+      "y": -812382,
+      "z": 95,
       "ownerName": null,
       "customName": null
     }
   ],
-  "updated": "2026-09-19T12:04:46.330Z"
+  "updated": "2026-09-19T12:05:46.332Z"
 }
