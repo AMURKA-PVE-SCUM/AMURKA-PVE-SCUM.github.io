@@ -1,11 +1,11 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561199020076791",
       "name": "Sleng\u0000",
-      "sessionSeconds": 8241,
-      "playTimeSeconds": 22453,
+      "sessionSeconds": 8301,
+      "playTimeSeconds": 22513,
       "money": 50280,
       "gold": 30,
       "fame": 94,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198121549932",
       "name": "Prostyak\u0000",
-      "sessionSeconds": 5445,
-      "playTimeSeconds": 24272,
+      "sessionSeconds": 5505,
+      "playTimeSeconds": 24332,
       "money": 994627,
       "gold": 36,
       "fame": 328,
@@ -24,18 +24,28 @@
     {
       "steamId": "76561198071060590",
       "name": "Niga\u0000",
-      "sessionSeconds": 797,
-      "playTimeSeconds": 76254,
+      "sessionSeconds": 857,
+      "playTimeSeconds": 76314,
       "money": 1660318,
       "gold": 171,
       "fame": 4673,
-      "rank": 4
+      "rank": 3
+    },
+    {
+      "steamId": "76561198172370895",
+      "name": "Vinsector\u0000",
+      "sessionSeconds": 20,
+      "playTimeSeconds": 39206,
+      "money": 4489,
+      "gold": 45,
+      "fame": 0,
+      "rank": 11
     },
     {
       "steamId": "76561198069537958",
       "name": "Биба\u0000",
       "sessionSeconds": 20,
-      "playTimeSeconds": 20519,
+      "playTimeSeconds": 20579,
       "money": 6692,
       "gold": 20,
       "fame": 33,
@@ -45,12 +55,12 @@
       "steamId": "76561198041539804",
       "name": "Ded_13\u0000",
       "sessionSeconds": 20,
-      "playTimeSeconds": 38798,
+      "playTimeSeconds": 38858,
       "money": 945590,
       "gold": 41,
       "fame": 602,
       "rank": 12
     }
   ],
-  "updated": "2026-09-19T15:05:47.654Z"
+  "updated": "2026-09-19T15:06:47.665Z"
 }
