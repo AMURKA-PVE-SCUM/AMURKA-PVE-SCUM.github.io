@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198790887864",
       "name": "Roma\u0000",
-      "playTimeSeconds": 86064,
+      "playTimeSeconds": 86124,
       "money": 1014625,
       "gold": 215,
       "fame": 779,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198936806390",
       "name": "YaNkei\u0000",
-      "playTimeSeconds": 71916,
+      "playTimeSeconds": 71976,
       "money": 1119119,
       "gold": 496,
       "fame": 6348,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198071060590",
       "name": "Niga\u0000",
-      "playTimeSeconds": 66531,
+      "playTimeSeconds": 66591,
       "money": 1782359,
       "gold": 156,
       "fame": 4635,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198067720439",
       "name": "Genih\u0000",
-      "playTimeSeconds": 63317,
+      "playTimeSeconds": 63377,
       "money": 1910368,
       "gold": 629,
       "fame": 11332,
@@ -54,11 +54,11 @@
       "rank": 6,
       "steamId": "76561199189470290",
       "name": "Konffetka\u0000",
-      "playTimeSeconds": 61188,
+      "playTimeSeconds": 61236,
       "money": 696110,
       "gold": 252,
       "fame": 39590,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 7,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2\u0000",
-      "playTimeSeconds": 33852,
+      "playTimeSeconds": 33912,
       "money": 111236,
       "gold": 125,
       "fame": 584,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198172370895",
       "name": "Vinsector\u0000",
-      "playTimeSeconds": 27419,
+      "playTimeSeconds": 27479,
       "money": 1489,
       "gold": 30,
       "fame": 202,
@@ -134,8 +134,8 @@
       "rank": 14,
       "steamId": "76561198041539804",
       "name": "Ded_13\u0000",
-      "playTimeSeconds": 26686,
-      "money": 1097720,
+      "playTimeSeconds": 26746,
+      "money": 1095867,
       "gold": 26,
       "fame": 491,
       "isOnline": true
@@ -182,6 +182,16 @@
     },
     {
       "rank": 19,
+      "steamId": "76561198002612600",
+      "name": "Малафьяна\u0000",
+      "playTimeSeconds": 19392,
+      "money": 1007800,
+      "gold": 40,
+      "fame": 214,
+      "isOnline": true
+    },
+    {
+      "rank": 20,
       "steamId": "76561198028600444",
       "name": "Ольга",
       "playTimeSeconds": 19373,
@@ -189,17 +199,7 @@
       "gold": 170,
       "fame": 1071,
       "isOnline": false
-    },
-    {
-      "rank": 20,
-      "steamId": "76561198002612600",
-      "name": "Малафьяна\u0000",
-      "playTimeSeconds": 19332,
-      "money": 1007800,
-      "gold": 40,
-      "fame": 214,
-      "isOnline": true
     }
   ],
-  "updated": "2026-09-19T10:52:45.784Z"
+  "updated": "2026-09-19T10:53:45.787Z"
 }
