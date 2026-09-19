@@ -201,7 +201,7 @@
     {
       "entityId": 24218492,
       "asset": "BPC_Cruiser",
-      "x": -324431,
+      "x": -324430,
       "y": 8321,
       "z": 35695,
       "ownerName": "ШРинат",
@@ -309,8 +309,8 @@
     {
       "entityId": 26324602,
       "asset": "BPC_Kinglet_Duster",
-      "x": 224869,
-      "y": -196731,
+      "x": 224870,
+      "y": -196729,
       "z": 23054,
       "ownerName": "zloy",
       "customName": null
@@ -336,9 +336,9 @@
     {
       "entityId": 27125618,
       "asset": "BPC_Rager",
-      "x": -252806,
-      "y": -14900,
-      "z": 35726,
+      "x": -276403,
+      "y": -1316,
+      "z": 35837,
       "ownerName": "Genih",
       "customName": "Тигруля"
     },
@@ -346,7 +346,7 @@
       "entityId": 27125762,
       "asset": "BPC_Rager",
       "x": 235728,
-      "y": -198848,
+      "y": -198849,
       "z": 22191,
       "ownerName": "Rostov",
       "customName": "Rostov"
@@ -358,7 +358,7 @@
       "y": -593430,
       "z": 107,
       "ownerName": "Raskalbasman",
-      "customName": "Кошеле��"
+      "customName": "Кошелек"
     },
     {
       "entityId": 27130608,
@@ -534,8 +534,8 @@
     {
       "entityId": 28863351,
       "asset": "BPC_Rager",
-      "x": -198401,
-      "y": -35285,
+      "x": -198420,
+      "y": -35264,
       "z": 35726,
       "ownerName": "Shelby",
       "customName": "ⓈⒽⒺⓁⒷⓎ"
@@ -553,7 +553,7 @@
       "entityId": 28880943,
       "asset": "BPC_SidecarBike",
       "x": 227909,
-      "y": -198255,
+      "y": -198256,
       "z": 22761,
       "ownerName": "ПОТАСКУШКА",
       "customName": "ПОТАСКУШКА"
@@ -625,7 +625,7 @@
       "entityId": 29033956,
       "asset": "BPC_Laika",
       "x": -198347,
-      "y": -35565,
+      "y": -35566,
       "z": 35727,
       "ownerName": "Mersy Deson",
       "customName": "Mersy Deson"
@@ -709,7 +709,7 @@
       "y": -29517,
       "z": 35641,
       "ownerName": "Shelby",
-      "customName": "ⓈⒽⒺⓁⒷⓎ"
+      "customName": "ⓈⒽⒺ���ⒷⓎ"
     },
     {
       "entityId": 29586880,
@@ -733,8 +733,8 @@
       "entityId": 29667794,
       "asset": "BPC_Rager",
       "x": 223537,
-      "y": -198506,
-      "z": 23211,
+      "y": -198499,
+      "z": 23212,
       "ownerName": "zloy",
       "customName": "zloy"
     },
@@ -786,9 +786,9 @@
     {
       "entityId": 30623657,
       "asset": "BPC_Laika",
-      "x": 230669,
-      "y": -201885,
-      "z": 22434,
+      "x": 230685,
+      "y": -201889,
+      "z": 22440,
       "ownerName": "kmsten",
       "customName": "kmsten"
     },
@@ -858,7 +858,7 @@
     {
       "entityId": 31031636,
       "asset": "BPC_Cruiser",
-      "x": -198949,
+      "x": -198948,
       "y": -31718,
       "z": 35695,
       "ownerName": "Shelby",
@@ -1182,9 +1182,9 @@
     {
       "entityId": 32404597,
       "asset": "BPC_Laika",
-      "x": 466927,
-      "y": -511527,
-      "z": 5433,
+      "x": 492928,
+      "y": -517648,
+      "z": 3573,
       "ownerName": "Prostyak",
       "customName": null
     },
@@ -1387,20 +1387,11 @@
       "customName": null
     },
     {
-      "entityId": 33086232,
-      "asset": "BPC_Kinglet_Duster",
-      "x": 498962,
-      "y": -200017,
-      "z": 154,
-      "ownerName": "GodMiller",
-      "customName": null
-    },
-    {
       "entityId": 33089043,
       "asset": "BPC_Kinglet_Duster",
-      "x": 230767,
-      "y": -202345,
-      "z": 22331,
+      "x": 230764,
+      "y": -202386,
+      "z": 22342,
       "ownerName": "yuriiermolenko861",
       "customName": "ЮРКА"
     },
@@ -1542,7 +1533,7 @@
     {
       "entityId": 33394462,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 226532,
+      "x": 226534,
       "y": -204176,
       "z": 22712,
       "ownerName": null,
@@ -1803,7 +1794,7 @@
     {
       "entityId": 33697284,
       "asset": "BPC_CityBike",
-      "x": -174746,
+      "x": -174747,
       "y": -26150,
       "z": 36083,
       "ownerName": null,
@@ -1938,9 +1929,9 @@
     {
       "entityId": 33816320,
       "asset": "BPC_Cruiser",
-      "x": -280190,
-      "y": -8836,
-      "z": 35700,
+      "x": -166521,
+      "y": -46225,
+      "z": 36102,
       "ownerName": null,
       "customName": null
     },
@@ -1963,5 +1954,5 @@
       "customName": null
     }
   ],
-  "updated": "2026-09-19T13:38:47.009Z"
+  "updated": "2026-09-19T13:39:47.013Z"
 }
