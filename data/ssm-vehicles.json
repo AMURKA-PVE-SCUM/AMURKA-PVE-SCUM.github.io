@@ -912,8 +912,8 @@
     {
       "entityId": 31100228,
       "asset": "BPC_WolfsWagen",
-      "x": 531439,
-      "y": -181498,
+      "x": 531440,
+      "y": -181497,
       "z": 1709,
       "ownerName": "bolollo",
       "customName": null
@@ -976,7 +976,7 @@
       "entityId": 31381709,
       "asset": "BPC_Rager",
       "x": 525526,
-      "y": -195608,
+      "y": -195606,
       "z": 1146,
       "ownerName": "Ebzhik",
       "customName": "Ebzhik"
@@ -1218,9 +1218,9 @@
     {
       "entityId": 32404597,
       "asset": "BPC_Laika",
-      "x": 573143,
-      "y": -223545,
-      "z": 299,
+      "x": 564968,
+      "y": -217340,
+      "z": 969,
       "ownerName": "Prostyak",
       "customName": null
     },
@@ -1578,9 +1578,9 @@
     {
       "entityId": 33394462,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 227781,
-      "y": -186718,
-      "z": 22849,
+      "x": 227920,
+      "y": -203290,
+      "z": 22652,
       "ownerName": null,
       "customName": null
     },
@@ -1749,9 +1749,9 @@
     {
       "entityId": 33608059,
       "asset": "BPC_WolfsWagen",
-      "x": 571276,
-      "y": -223719,
-      "z": 284,
+      "x": 564011,
+      "y": -216898,
+      "z": 995,
       "ownerName": "Ded_13",
       "customName": null
     },
@@ -1902,9 +1902,9 @@
     {
       "entityId": 33793784,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 541072,
-      "y": -787281,
-      "z": 52,
+      "x": 540962,
+      "y": -787359,
+      "z": -29,
       "ownerName": null,
       "customName": null
     },
@@ -1920,9 +1920,9 @@
     {
       "entityId": 33794621,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 583076,
-      "y": -811054,
-      "z": 62,
+      "x": 582967,
+      "y": -810875,
+      "z": 59,
       "ownerName": null,
       "customName": null
     },
@@ -1956,21 +1956,39 @@
     {
       "entityId": 33800457,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 554868,
-      "y": -814416,
-      "z": 148,
+      "x": 554850,
+      "y": -814401,
+      "z": 45,
       "ownerName": null,
       "customName": null
     },
     {
       "entityId": 33800471,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 554522,
-      "y": -813300,
-      "z": 166,
+      "x": 554518,
+      "y": -813286,
+      "z": 71,
+      "ownerName": null,
+      "customName": null
+    },
+    {
+      "entityId": 33800491,
+      "asset": "BPC_Kinglet_Mariner",
+      "x": 554372,
+      "y": -812103,
+      "z": 84,
+      "ownerName": null,
+      "customName": null
+    },
+    {
+      "entityId": 33800495,
+      "asset": "BPC_Kinglet_Mariner",
+      "x": 554236,
+      "y": -810878,
+      "z": 109,
       "ownerName": null,
       "customName": null
     }
   ],
-  "updated": "2026-09-19T11:23:46.017Z"
+  "updated": "2026-09-19T11:24:46.031Z"
 }
