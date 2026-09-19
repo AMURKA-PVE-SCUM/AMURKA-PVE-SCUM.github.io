@@ -1,20 +1,20 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "sessionSeconds": 11411,
+      "sessionSeconds": 11471,
       "playTimeSeconds": 9086,
-      "money": 983215,
+      "money": 988310,
       "gold": 5,
-      "fame": 174,
+      "fame": 179,
       "rank": 27
     },
     {
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "sessionSeconds": 3692,
+      "sessionSeconds": 3752,
       "playTimeSeconds": 18489,
       "money": 112367,
       "gold": 115,
@@ -24,7 +24,7 @@
     {
       "steamId": "76561198128211851",
       "name": "zloy",
-      "sessionSeconds": 1418,
+      "sessionSeconds": 1478,
       "playTimeSeconds": 13828,
       "money": 4218295,
       "gold": 208,
@@ -34,7 +34,7 @@
     {
       "steamId": "76561198936806390",
       "name": "YaNkei",
-      "sessionSeconds": 1412,
+      "sessionSeconds": 1472,
       "playTimeSeconds": 60589,
       "money": 1939836,
       "gold": 491,
@@ -44,13 +44,23 @@
     {
       "steamId": "76561198033318089",
       "name": "test01",
-      "sessionSeconds": 4,
+      "sessionSeconds": 64,
       "playTimeSeconds": 0,
       "money": 0,
       "gold": 0,
       "fame": 0,
       "rank": 114
+    },
+    {
+      "steamId": "76561199025384857",
+      "name": "Pupsik",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 35829,
+      "money": 1004126,
+      "gold": 40,
+      "fame": 153,
+      "rank": 10
     }
   ],
-  "updated": "2026-09-19T05:19:39.482Z"
+  "updated": "2026-09-19T05:20:39.485Z"
 }
