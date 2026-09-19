@@ -22,6 +22,16 @@
     },
     {
       "rank": 3,
+      "steamId": "76561198071060590",
+      "name": "Niga\u0000",
+      "playTimeSeconds": 76314,
+      "money": 1660318,
+      "gold": 171,
+      "fame": 4673,
+      "isOnline": true
+    },
+    {
+      "rank": 4,
       "steamId": "76561198067720439",
       "name": "Genih\u0000",
       "playTimeSeconds": 76273,
@@ -29,16 +39,6 @@
       "gold": 644,
       "fame": 11397,
       "isOnline": false
-    },
-    {
-      "rank": 4,
-      "steamId": "76561198071060590",
-      "name": "Niga\u0000",
-      "playTimeSeconds": 76254,
-      "money": 1660318,
-      "gold": 171,
-      "fame": 4673,
-      "isOnline": true
     },
     {
       "rank": 5,
@@ -94,17 +94,17 @@
       "rank": 10,
       "steamId": "76561198172370895",
       "name": "Vinsector\u0000",
-      "playTimeSeconds": 39186,
+      "playTimeSeconds": 39206,
       "money": 4489,
       "gold": 45,
-      "fame": 252,
-      "isOnline": false
+      "fame": 0,
+      "isOnline": true
     },
     {
       "rank": 11,
       "steamId": "76561198041539804",
       "name": "Ded_13\u0000",
-      "playTimeSeconds": 38798,
+      "playTimeSeconds": 38858,
       "money": 945590,
       "gold": 41,
       "fame": 602,
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561198121549932",
       "name": "Prostyak\u0000",
-      "playTimeSeconds": 24272,
+      "playTimeSeconds": 24332,
       "money": 994627,
       "gold": 36,
       "fame": 328,
@@ -194,12 +194,12 @@
       "rank": 20,
       "steamId": "76561199020076791",
       "name": "Sleng\u0000",
-      "playTimeSeconds": 22453,
+      "playTimeSeconds": 22513,
       "money": 50280,
       "gold": 30,
       "fame": 94,
       "isOnline": true
     }
   ],
-  "updated": "2026-09-19T15:05:47.654Z"
+  "updated": "2026-09-19T15:06:47.665Z"
 }
