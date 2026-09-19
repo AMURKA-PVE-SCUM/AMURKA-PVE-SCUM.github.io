@@ -577,15 +577,6 @@
       "customName": null
     },
     {
-      "entityId": 29033897,
-      "asset": "BPC_RIS",
-      "x": 263033,
-      "y": -8022,
-      "z": 24211,
-      "ownerName": "Немезида",
-      "customName": "Немезида"
-    },
-    {
       "entityId": 29033924,
       "asset": "BPC_RIS",
       "x": 202935,
@@ -629,15 +620,6 @@
       "z": 35727,
       "ownerName": "Mersy Deson",
       "customName": "Mersy Deson"
-    },
-    {
-      "entityId": 29033969,
-      "asset": "BPC_SidecarBike",
-      "x": 263242,
-      "y": -8036,
-      "z": 24177,
-      "ownerName": "Немезида",
-      "customName": "Забери меня"
     },
     {
       "entityId": 29033988,
@@ -823,7 +805,7 @@
       "entityId": 30900875,
       "asset": "BPC_Rager",
       "x": 481300,
-      "y": -231799,
+      "y": -231798,
       "z": 5343,
       "ownerName": "Добряк",
       "customName": "Добряк"
@@ -867,9 +849,9 @@
     {
       "entityId": 31055183,
       "asset": "BPC_WolfsWagen",
-      "x": -220741,
-      "y": 77918,
-      "z": 62829,
+      "x": -197223,
+      "y": 68101,
+      "z": 64988,
       "ownerName": "Niga",
       "customName": null
     },
@@ -885,8 +867,8 @@
     {
       "entityId": 31100228,
       "asset": "BPC_WolfsWagen",
-      "x": 531440,
-      "y": -181496,
+      "x": 531439,
+      "y": -181499,
       "z": 1709,
       "ownerName": "bolollo",
       "customName": null
@@ -905,7 +887,7 @@
       "asset": "BPC_Barba",
       "x": 525296,
       "y": -175941,
-      "z": -56,
+      "z": -53,
       "ownerName": "bolollo",
       "customName": "bolollo L1"
     },
@@ -949,7 +931,7 @@
       "entityId": 31381709,
       "asset": "BPC_Rager",
       "x": 525527,
-      "y": -195606,
+      "y": -195605,
       "z": 1146,
       "ownerName": "Ebzhik",
       "customName": "Ebzhik"
@@ -1426,7 +1408,7 @@
       "entityId": 33268521,
       "asset": "BPC_Dirtbike",
       "x": 508859,
-      "y": -232712,
+      "y": -232711,
       "z": 5197,
       "ownerName": "Пепа Петрович",
       "customName": null
@@ -1542,8 +1524,8 @@
     {
       "entityId": 33400481,
       "asset": "BPC_Cruiser",
-      "x": 416196,
-      "y": -165023,
+      "x": 416199,
+      "y": -165020,
       "z": 185,
       "ownerName": "Koshka",
       "customName": "Нимбус-2000"
@@ -1704,9 +1686,9 @@
     {
       "entityId": 33608059,
       "asset": "BPC_WolfsWagen",
-      "x": 186342,
-      "y": 143554,
-      "z": 32097,
+      "x": 159138,
+      "y": 236655,
+      "z": 33364,
       "ownerName": "Ded_13",
       "customName": null
     },
@@ -1794,9 +1776,9 @@
     {
       "entityId": 33718094,
       "asset": "BPC_Dirtbike",
-      "x": 566579,
-      "y": -222190,
-      "z": 259,
+      "x": 374402,
+      "y": -160468,
+      "z": 6864,
       "ownerName": "Sleng",
       "customName": null
     },
@@ -1891,5 +1873,5 @@
       "customName": null
     }
   ],
-  "updated": "2026-09-19T15:22:47.812Z"
+  "updated": "2026-09-19T15:23:47.824Z"
 }
