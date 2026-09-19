@@ -336,9 +336,9 @@
     {
       "entityId": 27125618,
       "asset": "BPC_Rager",
-      "x": -160660,
-      "y": -65172,
-      "z": 36868,
+      "x": -323338,
+      "y": -844,
+      "z": 35726,
       "ownerName": "Genih",
       "customName": "Тигруля"
     },
@@ -358,7 +358,7 @@
       "y": -593430,
       "z": 107,
       "ownerName": "Raskalbasman",
-      "customName": "Кошеле��"
+      "customName": "Кошелек"
     },
     {
       "entityId": 27130608,
@@ -435,7 +435,7 @@
     {
       "entityId": 28303498,
       "asset": "BPC_Rager",
-      "x": -397278,
+      "x": -397277,
       "y": -12002,
       "z": 35151,
       "ownerName": "Pilligrim",
@@ -709,7 +709,7 @@
       "y": -29517,
       "z": 35641,
       "ownerName": "Shelby",
-      "customName": "ⓈⒽⒺⓁⒷⓎ"
+      "customName": "ⓈⒽⒺ��ⒷⓎ"
     },
     {
       "entityId": 29586880,
@@ -1067,7 +1067,7 @@
       "asset": "BPC_Dinghy",
       "x": -890764,
       "y": -852240,
-      "z": -25,
+      "z": -27,
       "ownerName": null,
       "customName": null
     },
@@ -1182,9 +1182,9 @@
     {
       "entityId": 32404597,
       "asset": "BPC_Laika",
-      "x": 386156,
-      "y": -505771,
-      "z": 5115,
+      "x": 250601,
+      "y": -444449,
+      "z": 9206,
       "ownerName": "Prostyak",
       "customName": null
     },
@@ -1335,9 +1335,9 @@
     {
       "entityId": 32822300,
       "asset": "BPC_Laika",
-      "x": 425552,
-      "y": -573940,
-      "z": 666,
+      "x": 400716,
+      "y": -557518,
+      "z": 4927,
       "ownerName": "Roma",
       "customName": "Roma"
     },
@@ -1551,9 +1551,9 @@
     {
       "entityId": 33427734,
       "asset": "BPC_Kinglet_Mariner",
-      "x": -148827,
-      "y": -113113,
-      "z": 43967,
+      "x": -212048,
+      "y": -24416,
+      "z": 35745,
       "ownerName": "Mazay",
       "customName": null
     },
@@ -1720,15 +1720,6 @@
       "customName": null
     },
     {
-      "entityId": 33609630,
-      "asset": "BPC_Kinglet_Duster",
-      "x": 565085,
-      "y": -222232,
-      "z": 208,
-      "ownerName": null,
-      "customName": null
-    },
-    {
       "entityId": 33628111,
       "asset": "BPC_Dirtbike",
       "x": 225348,
@@ -1785,9 +1776,9 @@
     {
       "entityId": 33696663,
       "asset": "BPC_Rager",
-      "x": -395588,
-      "y": -14690,
-      "z": 34876,
+      "x": -395582,
+      "y": -14691,
+      "z": 34875,
       "ownerName": "BETON",
       "customName": "BETON"
     },
@@ -1842,15 +1833,6 @@
       "x": 552942,
       "y": -812862,
       "z": 608,
-      "ownerName": null,
-      "customName": null
-    },
-    {
-      "entityId": 33800471,
-      "asset": "BPC_Kinglet_Mariner",
-      "x": 563905,
-      "y": -812358,
-      "z": 120,
       "ownerName": null,
       "customName": null
     },
@@ -1952,7 +1934,16 @@
       "z": 5203,
       "ownerName": null,
       "customName": null
+    },
+    {
+      "entityId": 33819055,
+      "asset": "BPC_Kinglet_Duster",
+      "x": 488852,
+      "y": 590894,
+      "z": 7948,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-19T13:48:47.082Z"
+  "updated": "2026-09-19T13:49:47.088Z"
 }
