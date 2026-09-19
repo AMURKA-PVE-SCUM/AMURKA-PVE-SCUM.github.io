@@ -462,7 +462,7 @@
     {
       "entityId": 28303498,
       "asset": "BPC_Rager",
-      "x": -397278,
+      "x": -397277,
       "y": -12002,
       "z": 35151,
       "ownerName": "Pilligrim",
@@ -894,9 +894,9 @@
     {
       "entityId": 31055183,
       "asset": "BPC_WolfsWagen",
-      "x": -152717,
-      "y": 288814,
-      "z": 69616,
+      "x": -228135,
+      "y": 236163,
+      "z": 74470,
       "ownerName": "Niga",
       "customName": null
     },
@@ -904,7 +904,7 @@
       "entityId": 31093993,
       "asset": "BPC_Laika",
       "x": -358276,
-      "y": 8927,
+      "y": 8926,
       "z": 35232,
       "ownerName": "YUmiel",
       "customName": "YUmiel"
@@ -913,7 +913,7 @@
       "entityId": 31100228,
       "asset": "BPC_WolfsWagen",
       "x": 531439,
-      "y": -181499,
+      "y": -181498,
       "z": 1709,
       "ownerName": "bolollo",
       "customName": null
@@ -1229,7 +1229,7 @@
       "asset": "BPC_RIS",
       "x": -134976,
       "y": 211331,
-      "z": 73560,
+      "z": 73561,
       "ownerName": "Komodo",
       "customName": "Komodo"
     },
@@ -1362,9 +1362,9 @@
     {
       "entityId": 32807903,
       "asset": "BPC_Kinglet_Duster",
-      "x": -560158,
-      "y": -90381,
-      "z": 65042,
+      "x": -395392,
+      "y": -125962,
+      "z": 46688,
       "ownerName": "Yakytenok",
       "customName": "злой якут"
     },
@@ -1749,9 +1749,9 @@
     {
       "entityId": 33608059,
       "asset": "BPC_WolfsWagen",
-      "x": 544369,
-      "y": -224994,
-      "z": 982,
+      "x": 571667,
+      "y": -227979,
+      "z": 281,
       "ownerName": "Ded_13",
       "customName": null
     },
@@ -1804,7 +1804,7 @@
       "entityId": 33686646,
       "asset": "BPC_MountainBike",
       "x": -205534,
-      "y": 205883,
+      "y": 205881,
       "z": 71185,
       "ownerName": "Maxik",
       "customName": "Горны"
@@ -1830,9 +1830,9 @@
     {
       "entityId": 33696663,
       "asset": "BPC_Rager",
-      "x": -395605,
-      "y": -14685,
-      "z": 34879,
+      "x": -395599,
+      "y": -14687,
+      "z": 34878,
       "ownerName": "BETON",
       "customName": "BETON"
     },
@@ -1903,8 +1903,8 @@
       "entityId": 33793784,
       "asset": "BPC_Kinglet_Mariner",
       "x": 540669,
-      "y": -787454,
-      "z": 22,
+      "y": -787453,
+      "z": 20,
       "ownerName": null,
       "customName": null
     },
@@ -1920,9 +1920,9 @@
     {
       "entityId": 33794621,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 583097,
-      "y": -810499,
-      "z": 30,
+      "x": 583107,
+      "y": -810497,
+      "z": 29,
       "ownerName": null,
       "customName": null
     },
@@ -2028,12 +2028,21 @@
     {
       "entityId": 33806097,
       "asset": "BPC_Dinghy",
-      "x": 558915,
-      "y": -819463,
-      "z": 42,
+      "x": 559506,
+      "y": -819229,
+      "z": -5,
+      "ownerName": null,
+      "customName": null
+    },
+    {
+      "entityId": 33807993,
+      "asset": "BPC_Laika",
+      "x": 553676,
+      "y": -812590,
+      "z": 234,
       "ownerName": null,
       "customName": null
     }
   ],
-  "updated": "2026-09-19T12:15:46.407Z"
+  "updated": "2026-09-19T12:16:46.416Z"
 }
