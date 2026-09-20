@@ -336,9 +336,9 @@
     {
       "entityId": 27125618,
       "asset": "BPC_Rager",
-      "x": -625522,
-      "y": -458064,
-      "z": 13713,
+      "x": -616094,
+      "y": -499410,
+      "z": 12672,
       "ownerName": "Genih",
       "customName": "Тигра"
     },
@@ -456,15 +456,6 @@
       "x": 302942,
       "y": 509503,
       "z": 19530,
-      "ownerName": "Никс",
-      "customName": "Никс"
-    },
-    {
-      "entityId": 28555823,
-      "asset": "BPC_Kinglet_Mariner",
-      "x": 304890,
-      "y": 507989,
-      "z": 19209,
       "ownerName": "Никс",
       "customName": "Никс"
     },
@@ -831,9 +822,9 @@
     {
       "entityId": 31055183,
       "asset": "BPC_WolfsWagen",
-      "x": 387853,
-      "y": 386084,
-      "z": 19368,
+      "x": 417497,
+      "y": 428279,
+      "z": 13931,
       "ownerName": "Niga",
       "customName": null
     },
@@ -1065,9 +1056,9 @@
     {
       "entityId": 32235994,
       "asset": "BPC_Cruiser",
-      "x": -624163,
-      "y": -459945,
-      "z": 13657,
+      "x": -615974,
+      "y": -499134,
+      "z": 12688,
       "ownerName": "Genih",
       "customName": null
     },
@@ -1110,9 +1101,9 @@
     {
       "entityId": 32340767,
       "asset": "BPC_Rager",
-      "x": 549189,
-      "y": 445788,
-      "z": 7189,
+      "x": 548985,
+      "y": 445575,
+      "z": 7198,
       "ownerName": "Валерка",
       "customName": null
     },
@@ -1200,9 +1191,9 @@
     {
       "entityId": 32606881,
       "asset": "BPC_Laika",
-      "x": -217598,
-      "y": -695320,
-      "z": 5685,
+      "x": -95723,
+      "y": -826669,
+      "z": 1904,
       "ownerName": "Victor_Vilkouskas",
       "customName": null
     },
@@ -1889,7 +1880,16 @@
       "z": 12273,
       "ownerName": "Krakozavr",
       "customName": null
+    },
+    {
+      "entityId": 34035084,
+      "asset": "BPC_Kinglet_Mariner",
+      "x": 512121,
+      "y": -555080,
+      "z": 2,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-20T16:18:02.862Z"
+  "updated": "2026-09-20T16:19:02.869Z"
 }
