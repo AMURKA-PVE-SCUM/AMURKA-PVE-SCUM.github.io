@@ -5,8 +5,8 @@
       "asset": "BPC_Dirtbike",
       "assetId": "Vehicle:BPC_Dirtbike",
       "alias": "",
-      "x": -132852.53125,
-      "y": -240921.75,
+      "x": -132852.5625,
+      "y": -240923.828125,
       "lastAccess": "2026-09-20 15:38:19",
       "automatic": 1,
       "functional": 1,
@@ -809,8 +809,8 @@
       "asset": "BPC_Laika",
       "assetId": "Vehicle:BPC_Laika",
       "alias": "",
-      "x": -410808.4375,
-      "y": -93872.71875,
+      "x": -410880,
+      "y": -106704.5,
       "lastAccess": "2026-09-20 15:46:23",
       "automatic": 1,
       "functional": 1,
@@ -2449,5 +2449,5 @@
       "forbiddenZoneSeconds": 0
     }
   ],
-  "updated": "2026-09-20T15:47:02.636Z"
+  "updated": "2026-09-20T15:48:02.650Z"
 }
