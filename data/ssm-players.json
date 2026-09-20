@@ -1,11 +1,11 @@
 {
-  "online": 5,
+  "online": 7,
   "players": [
     {
       "steamId": "76561198382114262",
       "name": "Montana\u0000",
       "sessionSeconds": 1,
-      "playTimeSeconds": 6519,
+      "playTimeSeconds": 6579,
       "money": 1933182,
       "gold": 2665,
       "fame": 2829,
@@ -15,7 +15,7 @@
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2\u0000",
       "sessionSeconds": 1,
-      "playTimeSeconds": 72090,
+      "playTimeSeconds": 72150,
       "money": 265364,
       "gold": 175,
       "fame": 771,
@@ -25,7 +25,7 @@
       "steamId": "76561198936806390",
       "name": "YaNkei\u0000",
       "sessionSeconds": 1,
-      "playTimeSeconds": 83521,
+      "playTimeSeconds": 83581,
       "money": 1117119,
       "gold": 506,
       "fame": 6390,
@@ -35,7 +35,7 @@
       "steamId": "76561198022734828",
       "name": "ArBuzova\u0000",
       "sessionSeconds": 1,
-      "playTimeSeconds": 79944,
+      "playTimeSeconds": 80004,
       "money": 1082180,
       "gold": 135,
       "fame": 600,
@@ -45,12 +45,32 @@
       "steamId": "76561198710984781",
       "name": "милка\u0000",
       "sessionSeconds": 1,
-      "playTimeSeconds": 841,
+      "playTimeSeconds": 901,
       "money": 0,
       "gold": 0,
       "fame": 0,
       "rank": 60
+    },
+    {
+      "steamId": "76561199020076791",
+      "name": "Sleng\u0000",
+      "sessionSeconds": 1,
+      "playTimeSeconds": 39942,
+      "money": 64337,
+      "gold": 55,
+      "fame": 167,
+      "rank": 16
+    },
+    {
+      "steamId": "76561198118646763",
+      "name": "Jane Doe\u0000",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 210,
+      "money": 12004,
+      "gold": 1452,
+      "fame": 7250,
+      "rank": 66
     }
   ],
-  "updated": "2026-09-20T10:59:00.452Z"
+  "updated": "2026-09-20T11:00:00.459Z"
 }
