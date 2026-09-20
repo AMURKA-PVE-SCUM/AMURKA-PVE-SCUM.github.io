@@ -867,8 +867,8 @@
     {
       "entityId": 31100228,
       "asset": "BPC_WolfsWagen",
-      "x": 531446,
-      "y": -181499,
+      "x": 531447,
+      "y": -181498,
       "z": 1710,
       "ownerName": "bolollo",
       "customName": null
@@ -930,8 +930,8 @@
     {
       "entityId": 31381709,
       "asset": "BPC_Rager",
-      "x": 525520,
-      "y": -195606,
+      "x": 525522,
+      "y": -195605,
       "z": 1145,
       "ownerName": "Ebzhik",
       "customName": "Ebzhik"
@@ -1390,7 +1390,7 @@
       "entityId": 33268521,
       "asset": "BPC_Dirtbike",
       "x": 508847,
-      "y": -232682,
+      "y": -232681,
       "z": 5198,
       "ownerName": "Пепа Петрович",
       "customName": null
@@ -1846,15 +1846,6 @@
       "customName": null
     },
     {
-      "entityId": 33819055,
-      "asset": "BPC_Kinglet_Duster",
-      "x": 488857,
-      "y": 590884,
-      "z": 7948,
-      "ownerName": null,
-      "customName": null
-    },
-    {
       "entityId": 33846084,
       "asset": "BPC_SidecarBike",
       "x": 416106,
@@ -1884,21 +1875,30 @@
     {
       "entityId": 33940356,
       "asset": "BPC_Laika",
-      "x": 556121,
-      "y": -173029,
-      "z": 1930,
+      "x": 556118,
+      "y": -173026,
+      "z": 1929,
       "ownerName": "BarmaleyZ",
       "customName": "Повозка Бармалея"
     },
     {
       "entityId": 33964047,
       "asset": "BPC_Barba",
-      "x": 510235,
-      "y": -486239,
-      "z": -35,
+      "x": 529878,
+      "y": -508815,
+      "z": -65,
       "ownerName": "MasSawka",
+      "customName": null
+    },
+    {
+      "entityId": 33965204,
+      "asset": "BPC_Kinglet_Duster",
+      "x": 488863,
+      "y": 590887,
+      "z": 8008,
+      "ownerName": null,
       "customName": null
     }
   ],
-  "updated": "2026-09-20T09:18:55.835Z"
+  "updated": "2026-09-20T09:19:55.848Z"
 }
