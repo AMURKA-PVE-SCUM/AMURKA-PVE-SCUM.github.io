@@ -1,16 +1,36 @@
 {
-  "online": 1,
+  "online": 3,
   "players": [
     {
       "steamId": "76561198121549932",
       "name": "Prostyak\u0000",
-      "sessionSeconds": 505,
-      "playTimeSeconds": 34550,
+      "sessionSeconds": 565,
+      "playTimeSeconds": 34610,
       "money": 1085660,
       "gold": 52,
       "fame": 590,
       "rank": 17
+    },
+    {
+      "steamId": "76561198399306435",
+      "name": "MasSawka\u0000",
+      "sessionSeconds": 7,
+      "playTimeSeconds": 20156,
+      "money": 11379,
+      "gold": 25,
+      "fame": 208,
+      "rank": 24
+    },
+    {
+      "steamId": "76561199020076791",
+      "name": "Sleng\u0000",
+      "sessionSeconds": 7,
+      "playTimeSeconds": 25963,
+      "money": 64780,
+      "gold": 35,
+      "fame": 115,
+      "rank": 20
     }
   ],
-  "updated": "2026-09-20T03:03:52.954Z"
+  "updated": "2026-09-20T03:04:52.965Z"
 }
