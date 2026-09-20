@@ -1,21 +1,31 @@
 {
-  "online": 4,
+  "online": 5,
   "players": [
     {
       "steamId": "76561198382114262",
       "name": "Montana\u0000",
       "sessionSeconds": 1,
-      "playTimeSeconds": 6283,
+      "playTimeSeconds": 6340,
       "money": 1933182,
       "gold": 2665,
       "fame": 2829,
       "rank": 42
     },
     {
+      "steamId": "76561198337531947",
+      "name": "brantozavr_voin2\u0000",
+      "sessionSeconds": 1,
+      "playTimeSeconds": 71911,
+      "money": 265364,
+      "gold": 175,
+      "fame": 771,
+      "rank": 9
+    },
+    {
       "steamId": "76561198936806390",
       "name": "YaNkei\u0000",
       "sessionSeconds": 1,
-      "playTimeSeconds": 83285,
+      "playTimeSeconds": 83342,
       "money": 1117119,
       "gold": 506,
       "fame": 6389,
@@ -25,7 +35,7 @@
       "steamId": "76561198022734828",
       "name": "ArBuzova\u0000",
       "sessionSeconds": 1,
-      "playTimeSeconds": 79708,
+      "playTimeSeconds": 79765,
       "money": 1082180,
       "gold": 135,
       "fame": 600,
@@ -35,12 +45,12 @@
       "steamId": "76561198710984781",
       "name": "милка\u0000",
       "sessionSeconds": 1,
-      "playTimeSeconds": 605,
+      "playTimeSeconds": 662,
       "money": 0,
       "gold": 0,
       "fame": 0,
       "rank": 61
     }
   ],
-  "updated": "2026-09-20T10:55:00.407Z"
+  "updated": "2026-09-20T10:56:00.422Z"
 }
