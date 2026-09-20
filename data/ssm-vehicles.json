@@ -102,7 +102,7 @@
     {
       "entityId": 21165876,
       "asset": "BPC_Dirtbike",
-      "x": -604052,
+      "x": -604051,
       "y": -491520,
       "z": 15581,
       "ownerName": "Завитинск",
@@ -175,7 +175,7 @@
       "entityId": 23687252,
       "asset": "BPC_Cruiser",
       "x": -603978,
-      "y": -491528,
+      "y": -491529,
       "z": 15588,
       "ownerName": "YUmiel",
       "customName": null
@@ -336,9 +336,9 @@
     {
       "entityId": 27125618,
       "asset": "BPC_Rager",
-      "x": -397551,
-      "y": -287040,
-      "z": 11351,
+      "x": -374874,
+      "y": -343156,
+      "z": 789,
       "ownerName": "Genih",
       "customName": "Тигра"
     },
@@ -363,8 +363,8 @@
     {
       "entityId": 27130608,
       "asset": "BPC_Laika",
-      "x": -630860,
-      "y": -475317,
+      "x": -630856,
+      "y": -475315,
       "z": 14094,
       "ownerName": "ADA",
       "customName": "ADA"
@@ -840,16 +840,16 @@
     {
       "entityId": 31055183,
       "asset": "BPC_WolfsWagen",
-      "x": 316387,
-      "y": 286982,
-      "z": 21902,
+      "x": 312208,
+      "y": 308976,
+      "z": 21750,
       "ownerName": "Niga",
       "customName": null
     },
     {
       "entityId": 31093993,
       "asset": "BPC_Laika",
-      "x": -603923,
+      "x": -603925,
       "y": -493350,
       "z": 15621,
       "ownerName": "YUmiel",
@@ -1029,9 +1029,9 @@
     {
       "entityId": 32062848,
       "asset": "BPC_Laika",
-      "x": -617215,
-      "y": -556308,
-      "z": 2387,
+      "x": -611447,
+      "y": -505567,
+      "z": 11704,
       "ownerName": "brantozavr_voin2",
       "customName": "brantomobil"
     },
@@ -1398,8 +1398,8 @@
     {
       "entityId": 33286809,
       "asset": "BPC_Laika",
-      "x": -347779,
-      "y": -360329,
+      "x": -347780,
+      "y": -360328,
       "z": 599,
       "ownerName": "Domo",
       "customName": null
@@ -1470,7 +1470,7 @@
     {
       "entityId": 33359562,
       "asset": "BPC_RIS",
-      "x": -344355,
+      "x": -344354,
       "y": -370246,
       "z": 627,
       "ownerName": null,
@@ -1900,5 +1900,5 @@
       "customName": null
     }
   ],
-  "updated": "2026-09-20T13:53:01.749Z"
+  "updated": "2026-09-20T13:54:01.760Z"
 }
