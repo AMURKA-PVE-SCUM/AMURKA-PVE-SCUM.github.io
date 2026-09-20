@@ -1,11 +1,21 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
+    {
+      "steamId": "76561198399306435",
+      "name": "MasSawka\u0000",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 26730,
+      "money": 56553,
+      "gold": 5,
+      "fame": 243,
+      "rank": 20
+    },
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_\u0000",
       "sessionSeconds": 15,
-      "playTimeSeconds": 23990,
+      "playTimeSeconds": 24049,
       "money": 59229,
       "gold": 220,
       "fame": 314,
@@ -15,7 +25,7 @@
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2\u0000",
       "sessionSeconds": 15,
-      "playTimeSeconds": 61499,
+      "playTimeSeconds": 61558,
       "money": 264911,
       "gold": 165,
       "fame": 744,
@@ -25,7 +35,7 @@
       "steamId": "76561198069537958",
       "name": "Биба\u0000",
       "sessionSeconds": 15,
-      "playTimeSeconds": 44912,
+      "playTimeSeconds": 44971,
       "money": 11685,
       "gold": 55,
       "fame": 145,
@@ -35,7 +45,7 @@
       "steamId": "76561198022734828",
       "name": "ArBuzova\u0000",
       "sessionSeconds": 15,
-      "playTimeSeconds": 69402,
+      "playTimeSeconds": 69461,
       "money": 1072955,
       "gold": 120,
       "fame": 562,
@@ -45,7 +55,7 @@
       "steamId": "76561198171976629",
       "name": "StarTerc_11rus\u0000",
       "sessionSeconds": 15,
-      "playTimeSeconds": 3844,
+      "playTimeSeconds": 3903,
       "money": 1000,
       "gold": 5,
       "fame": 18,
@@ -55,7 +65,7 @@
       "steamId": "76561198325068343",
       "name": "BarmaleyZ\u0000",
       "sessionSeconds": 15,
-      "playTimeSeconds": 736,
+      "playTimeSeconds": 795,
       "money": 20049,
       "gold": 40,
       "fame": 179,
@@ -65,22 +75,22 @@
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas\u0000",
       "sessionSeconds": 15,
-      "playTimeSeconds": 100302,
-      "money": 1641241,
-      "gold": 554,
-      "fame": 3067,
+      "playTimeSeconds": 100361,
+      "money": 1642241,
+      "gold": 559,
+      "fame": 3078,
       "rank": 2
     },
     {
       "steamId": "76561198804609242",
       "name": "Немезида\u0000",
       "sessionSeconds": 15,
-      "playTimeSeconds": 538,
+      "playTimeSeconds": 597,
       "money": 407162,
       "gold": 203,
       "fame": 2932,
       "rank": 59
     }
   ],
-  "updated": "2026-09-20T07:44:55.165Z"
+  "updated": "2026-09-20T07:45:55.171Z"
 }
