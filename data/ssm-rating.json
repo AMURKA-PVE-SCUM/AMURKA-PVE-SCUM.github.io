@@ -144,7 +144,7 @@
       "rank": 15,
       "steamId": "76561198028621423",
       "name": "Lesnik\u0000",
-      "playTimeSeconds": 31791,
+      "playTimeSeconds": 31851,
       "money": 5683,
       "gold": 3828,
       "fame": 2577,
@@ -162,6 +162,16 @@
     },
     {
       "rank": 17,
+      "steamId": "76561198121549932",
+      "name": "Prostyak\u0000",
+      "playTimeSeconds": 26613,
+      "money": 1035099,
+      "gold": 42,
+      "fame": 448,
+      "isOnline": true
+    },
+    {
+      "rank": 18,
       "steamId": "76561198002612600",
       "name": "Малафьяна\u0000",
       "playTimeSeconds": 26589,
@@ -169,16 +179,6 @@
       "gold": 50,
       "fame": 240,
       "isOnline": false
-    },
-    {
-      "rank": 18,
-      "steamId": "76561198121549932",
-      "name": "Prostyak\u0000",
-      "playTimeSeconds": 26553,
-      "money": 1035099,
-      "gold": 42,
-      "fame": 448,
-      "isOnline": true
     },
     {
       "rank": 19,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-20T00:13:51.750Z"
+  "updated": "2026-09-20T00:14:51.763Z"
 }
