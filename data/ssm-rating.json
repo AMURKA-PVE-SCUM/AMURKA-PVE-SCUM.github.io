@@ -94,11 +94,11 @@
       "rank": 10,
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2\u0000",
-      "playTimeSeconds": 45079,
+      "playTimeSeconds": 45101,
       "money": 175947,
       "gold": 140,
-      "fame": 0,
-      "isOnline": false
+      "fame": 643,
+      "isOnline": true
     },
     {
       "rank": 11,
@@ -132,6 +132,16 @@
     },
     {
       "rank": 14,
+      "steamId": "76561198121549932",
+      "name": "Prostyak\u0000",
+      "playTimeSeconds": 34904,
+      "money": 1044060,
+      "gold": 52,
+      "fame": 590,
+      "isOnline": true
+    },
+    {
+      "rank": 15,
       "steamId": "76561198069537958",
       "name": "Биба\u0000",
       "playTimeSeconds": 34874,
@@ -139,16 +149,6 @@
       "gold": 40,
       "fame": 94,
       "isOnline": false
-    },
-    {
-      "rank": 15,
-      "steamId": "76561198121549932",
-      "name": "Prostyak\u0000",
-      "playTimeSeconds": 34844,
-      "money": 1044060,
-      "gold": 52,
-      "fame": 590,
-      "isOnline": true
     },
     {
       "rank": 16,
@@ -184,7 +184,7 @@
       "rank": 19,
       "steamId": "76561199020076791",
       "name": "Sleng\u0000",
-      "playTimeSeconds": 26197,
+      "playTimeSeconds": 26257,
       "money": 64780,
       "gold": 35,
       "fame": 115,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-20T03:08:52.976Z"
+  "updated": "2026-09-20T03:09:52.987Z"
 }
