@@ -661,7 +661,7 @@
       "entityId": 29042900,
       "asset": "BPC_Kinglet_Duster",
       "x": 508413,
-      "y": -231438,
+      "y": -231435,
       "z": 5130,
       "ownerName": "Пепа Петрович",
       "customName": "пепа"
@@ -876,9 +876,9 @@
     {
       "entityId": 31175754,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 509302,
-      "y": -225950,
-      "z": 4867,
+      "x": 509296,
+      "y": -225901,
+      "z": 4860,
       "ownerName": "kmsten",
       "customName": "kmsten_сам"
     },
@@ -931,8 +931,8 @@
       "entityId": 31381709,
       "asset": "BPC_Rager",
       "x": 525520,
-      "y": -195606,
-      "z": 1145,
+      "y": -195604,
+      "z": 1144,
       "ownerName": "Ebzhik",
       "customName": "Ebzhik"
     },
@@ -1884,12 +1884,21 @@
     {
       "entityId": 33940356,
       "asset": "BPC_Laika",
-      "x": 556136,
-      "y": -173044,
-      "z": 1933,
+      "x": 556129,
+      "y": -173038,
+      "z": 1931,
       "ownerName": "BarmaleyZ",
       "customName": "Повозка Бармалея"
+    },
+    {
+      "entityId": 33964047,
+      "asset": "BPC_Barba",
+      "x": 570017,
+      "y": -231715,
+      "z": 77,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-20T09:04:55.737Z"
+  "updated": "2026-09-20T09:05:55.742Z"
 }
