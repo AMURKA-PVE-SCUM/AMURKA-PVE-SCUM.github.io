@@ -1,26 +1,36 @@
 {
-  "online": 2,
+  "online": 3,
   "players": [
     {
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "sessionSeconds": 4910,
-      "playTimeSeconds": 85068,
+      "sessionSeconds": 4970,
+      "playTimeSeconds": 85128,
       "money": 906358,
       "gold": 101,
-      "fame": 817,
+      "fame": 818,
       "rank": 11
+    },
+    {
+      "steamId": "76561198022523272",
+      "name": "Tolikx201",
+      "sessionSeconds": 2906,
+      "playTimeSeconds": 5326,
+      "money": 326932,
+      "gold": 223,
+      "fame": 213,
+      "rank": 54
     },
     {
       "steamId": "76561198382114262",
       "name": "Montana",
-      "sessionSeconds": 1019,
-      "playTimeSeconds": 24998,
-      "money": 2269969,
+      "sessionSeconds": 1079,
+      "playTimeSeconds": 25058,
+      "money": 2266985,
       "gold": 2685,
       "fame": 2874,
       "rank": 26
     }
   ],
-  "updated": "2026-09-21T15:05:12.964Z"
+  "updated": "2026-09-21T15:06:12.965Z"
 }
