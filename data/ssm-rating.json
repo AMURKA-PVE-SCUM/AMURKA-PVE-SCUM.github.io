@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198198157306",
       "name": "alekx838\u0000",
-      "playTimeSeconds": 99829,
+      "playTimeSeconds": 99887,
       "money": 1298216,
       "gold": 267,
       "fame": 4897,
@@ -104,11 +104,11 @@
       "rank": 11,
       "steamId": "76561198041539804",
       "name": "Ded_13\u0000",
-      "playTimeSeconds": 66421,
+      "playTimeSeconds": 66479,
       "money": 907124,
       "gold": 76,
       "fame": 701,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 12,
@@ -134,14 +134,24 @@
       "rank": 14,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_\u0000",
-      "playTimeSeconds": 51551,
+      "playTimeSeconds": 51609,
       "money": 59238,
       "gold": 255,
       "fame": 408,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 15,
+      "steamId": "76561198121549932",
+      "name": "Prostyak\u0000",
+      "playTimeSeconds": 48378,
+      "money": 1149586,
+      "gold": 72,
+      "fame": 788,
+      "isOnline": true
+    },
+    {
+      "rank": 16,
       "steamId": "76561199020076791",
       "name": "Sleng\u0000",
       "playTimeSeconds": 48354,
@@ -149,16 +159,6 @@
       "gold": 65,
       "fame": 202,
       "isOnline": false
-    },
-    {
-      "rank": 16,
-      "steamId": "76561198121549932",
-      "name": "Prostyak\u0000",
-      "playTimeSeconds": 48320,
-      "money": 1149586,
-      "gold": 72,
-      "fame": 788,
-      "isOnline": true
     },
     {
       "rank": 17,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-21T05:35:08.791Z"
+  "updated": "2026-09-21T05:36:08.798Z"
 }
