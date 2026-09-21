@@ -705,7 +705,7 @@
     {
       "entityId": 30799226,
       "asset": "BPC_Kinglet_Duster",
-      "x": 11821,
+      "x": 11824,
       "y": 261765,
       "z": 41722,
       "ownerName": "YUmiel",
@@ -768,9 +768,9 @@
     {
       "entityId": 31055183,
       "asset": "BPC_WolfsWagen",
-      "x": 449187,
-      "y": 262362,
-      "z": 17918,
+      "x": 436285,
+      "y": 305015,
+      "z": 16005,
       "ownerName": "Niga",
       "customName": null
     },
@@ -786,8 +786,8 @@
     {
       "entityId": 31100228,
       "asset": "BPC_WolfsWagen",
-      "x": 531491,
-      "y": -181432,
+      "x": 531493,
+      "y": -181429,
       "z": 1711,
       "ownerName": "bolollo",
       "customName": null
@@ -1522,15 +1522,6 @@
       "customName": null
     },
     {
-      "entityId": 33597271,
-      "asset": "BPC_Laika",
-      "x": -671718,
-      "y": -249361,
-      "z": 11198,
-      "ownerName": "Ded_13",
-      "customName": "Дед-777"
-    },
-    {
       "entityId": 33608059,
       "asset": "BPC_WolfsWagen",
       "x": 140648,
@@ -1705,7 +1696,7 @@
       "entityId": 33995049,
       "asset": "BPC_Dirtbike",
       "x": 519789,
-      "y": -253988,
+      "y": -253987,
       "z": 1307,
       "ownerName": "Krakozavr",
       "customName": null
@@ -1826,7 +1817,16 @@
       "z": 27129,
       "ownerName": "XEH",
       "customName": "XEH"
+    },
+    {
+      "entityId": 34208088,
+      "asset": "BPC_Laika",
+      "x": -851460,
+      "y": 81720,
+      "z": 41026,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-21T15:40:13.214Z"
+  "updated": "2026-09-21T15:41:13.229Z"
 }
