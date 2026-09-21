@@ -850,7 +850,7 @@
       "entityId": 31377808,
       "asset": "BPC_WolfsWagen",
       "x": 73782,
-      "y": 76723,
+      "y": 76722,
       "z": 34833,
       "ownerName": null,
       "customName": null
@@ -1488,9 +1488,9 @@
     {
       "entityId": 33562333,
       "asset": "BPC_Dirtbike",
-      "x": -397564,
-      "y": 133002,
-      "z": 40055,
+      "x": -397560,
+      "y": 133001,
+      "z": 40054,
       "ownerName": "BlackStalker",
       "customName": null
     },
@@ -1666,15 +1666,6 @@
       "customName": null
     },
     {
-      "entityId": 33816320,
-      "asset": "BPC_Cruiser",
-      "x": -15550,
-      "y": -123419,
-      "z": 33290,
-      "ownerName": null,
-      "customName": null
-    },
-    {
       "entityId": 33816435,
       "asset": "BPC_RIS",
       "x": -123671,
@@ -1776,9 +1767,9 @@
     {
       "entityId": 34130315,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 73874,
-      "y": -289921,
-      "z": 32760,
+      "x": 93381,
+      "y": 148632,
+      "z": 55808,
       "ownerName": "Sleng",
       "customName": null
     },
@@ -1844,7 +1835,16 @@
       "z": -4,
       "ownerName": null,
       "customName": null
+    },
+    {
+      "entityId": 34167479,
+      "asset": "BPC_Cruiser",
+      "x": -865036,
+      "y": -170756,
+      "z": 21554,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-21T10:22:10.826Z"
+  "updated": "2026-09-21T10:23:10.834Z"
 }
