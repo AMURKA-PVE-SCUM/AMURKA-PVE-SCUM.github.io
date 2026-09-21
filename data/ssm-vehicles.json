@@ -210,9 +210,9 @@
     {
       "entityId": 24233970,
       "asset": "BPC_Rager",
-      "x": 567700,
-      "y": -223437,
-      "z": 298,
+      "x": 569629,
+      "y": -224159,
+      "z": 296,
       "ownerName": "7_62",
       "customName": "ВЕДРО 7_62"
     },
@@ -516,8 +516,8 @@
     {
       "entityId": 28864213,
       "asset": "BPC_Laika",
-      "x": 320192,
-      "y": 275747,
+      "x": 320193,
+      "y": 275748,
       "z": 21495,
       "ownerName": "ПОТАСКУШКА",
       "customName": "ПОТАСКУШКА"
@@ -719,15 +719,6 @@
       "z": 32295,
       "ownerName": "Montana",
       "customName": "Montana"
-    },
-    {
-      "entityId": 30622232,
-      "asset": "BPC_Cruiser",
-      "x": 305133,
-      "y": 354747,
-      "z": 21222,
-      "ownerName": "Kalashik",
-      "customName": "TOYOTA CROWN"
     },
     {
       "entityId": 30623657,
@@ -1056,8 +1047,8 @@
     {
       "entityId": 32340767,
       "asset": "BPC_Rager",
-      "x": 549584,
-      "y": 446216,
+      "x": 549573,
+      "y": 446226,
       "z": 7195,
       "ownerName": "Валерка",
       "customName": null
@@ -1074,9 +1065,9 @@
     {
       "entityId": 32404597,
       "asset": "BPC_Laika",
-      "x": -301131,
-      "y": -4387,
-      "z": 35727,
+      "x": -434926,
+      "y": -96163,
+      "z": 31553,
       "ownerName": "Prostyak",
       "customName": null
     },
@@ -1119,9 +1110,9 @@
     {
       "entityId": 32477334,
       "asset": "BPC_Barba",
-      "x": -561841,
-      "y": -573979,
-      "z": -41,
+      "x": -503090,
+      "y": -555911,
+      "z": -57,
       "ownerName": "VERSUS_65_",
       "customName": null
     },
@@ -1146,7 +1137,7 @@
     {
       "entityId": 32606881,
       "asset": "BPC_Laika",
-      "x": 546889,
+      "x": 546888,
       "y": 438736,
       "z": 7234,
       "ownerName": "Victor_Vilkouskas",
@@ -1578,9 +1569,9 @@
     {
       "entityId": 33597271,
       "asset": "BPC_Laika",
-      "x": 231713,
-      "y": 259003,
-      "z": 29081,
+      "x": 338931,
+      "y": 327685,
+      "z": 20844,
       "ownerName": "Ded_13",
       "customName": "Дед-777"
     },
@@ -1768,8 +1759,8 @@
       "entityId": 33940356,
       "asset": "BPC_Laika",
       "x": 556166,
-      "y": -173274,
-      "z": 1961,
+      "y": -173271,
+      "z": 1960,
       "ownerName": "BarmaleyZ",
       "customName": "Повозка Бармалея"
     },
@@ -1853,7 +1844,16 @@
       "z": -27,
       "ownerName": "VERSUS_65_",
       "customName": null
+    },
+    {
+      "entityId": 34133572,
+      "asset": "BPC_Cruiser",
+      "x": 176068,
+      "y": -688425,
+      "z": 1562,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-21T07:51:09.750Z"
+  "updated": "2026-09-21T07:52:09.759Z"
 }
