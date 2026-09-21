@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198790887864",
       "name": "Roma\u0000",
-      "playTimeSeconds": 133854,
+      "playTimeSeconds": 133911,
       "money": 1047204,
       "gold": 275,
       "fame": 979,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas\u0000",
-      "playTimeSeconds": 128935,
+      "playTimeSeconds": 128992,
       "money": 1926125,
       "gold": 584,
       "fame": 3303,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198198157306",
       "name": "alekx838\u0000",
-      "playTimeSeconds": 110726,
+      "playTimeSeconds": 110783,
       "money": 1301929,
       "gold": 282,
       "fame": 4939,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198936806390",
       "name": "YaNkei\u0000",
-      "playTimeSeconds": 101878,
+      "playTimeSeconds": 101935,
       "money": 1147519,
       "gold": 527,
       "fame": 6714,
@@ -112,6 +112,16 @@
     },
     {
       "rank": 12,
+      "steamId": "76561198121549932",
+      "name": "Prostyak\u0000",
+      "playTimeSeconds": 60114,
+      "money": 1464118,
+      "gold": 89,
+      "fame": 1125,
+      "isOnline": true
+    },
+    {
+      "rank": 13,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_\u0000",
       "playTimeSeconds": 60070,
@@ -119,16 +129,6 @@
       "gold": 270,
       "fame": 444,
       "isOnline": false
-    },
-    {
-      "rank": 13,
-      "steamId": "76561198121549932",
-      "name": "Prostyak\u0000",
-      "playTimeSeconds": 60057,
-      "money": 1464118,
-      "gold": 89,
-      "fame": 1125,
-      "isOnline": true
     },
     {
       "rank": 14,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561199020076791",
       "name": "Sleng\u0000",
-      "playTimeSeconds": 52607,
+      "playTimeSeconds": 52664,
       "money": 64499,
       "gold": 70,
       "fame": 217,
@@ -173,12 +173,12 @@
     {
       "rank": 18,
       "steamId": "76561199025384857",
-      "name": "Pupsik",
-      "playTimeSeconds": 41221,
+      "name": "Pupsik\u0000",
+      "playTimeSeconds": 41233,
       "money": 1003926,
       "gold": 40,
-      "fame": 159,
-      "isOnline": false
+      "fame": 158,
+      "isOnline": true
     },
     {
       "rank": 19,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-21T08:53:10.160Z"
+  "updated": "2026-09-21T08:54:10.170Z"
 }
