@@ -1,11 +1,11 @@
 {
-  "online": 4,
+  "online": 5,
   "players": [
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 7781,
-      "playTimeSeconds": 75065,
+      "sessionSeconds": 7841,
+      "playTimeSeconds": 75126,
       "money": 125113,
       "gold": 630,
       "fame": 2643,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561199020076791",
       "name": "Sleng",
-      "sessionSeconds": 4843,
-      "playTimeSeconds": 53056,
+      "sessionSeconds": 4903,
+      "playTimeSeconds": 53116,
       "money": 64499,
       "gold": 70,
       "fame": 218,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198121549932",
       "name": "Prostyak",
-      "sessionSeconds": 4782,
-      "playTimeSeconds": 60506,
+      "sessionSeconds": 4842,
+      "playTimeSeconds": 60566,
       "money": 1464118,
       "gold": 89,
       "fame": 1125,
@@ -34,13 +34,23 @@
     {
       "steamId": "76561199127106578",
       "name": "MEDOED",
-      "sessionSeconds": 4314,
-      "playTimeSeconds": 7942,
+      "sessionSeconds": 4374,
+      "playTimeSeconds": 8002,
       "money": 1002000,
       "gold": 10,
       "fame": 39,
       "rank": 49
+    },
+    {
+      "steamId": "76561199025384857",
+      "name": "Pupsik",
+      "sessionSeconds": 593,
+      "playTimeSeconds": 41625,
+      "money": 1003926,
+      "gold": 40,
+      "fame": 158,
+      "rank": 19
     }
   ],
-  "updated": "2026-09-21T09:03:10.237Z"
+  "updated": "2026-09-21T09:04:10.253Z"
 }
