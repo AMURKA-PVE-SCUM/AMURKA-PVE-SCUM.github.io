@@ -507,8 +507,8 @@
     {
       "entityId": 28863351,
       "asset": "BPC_Rager",
-      "x": -198394,
-      "y": -35292,
+      "x": -198387,
+      "y": -35300,
       "z": 35726,
       "ownerName": "Shelby",
       "customName": "ⓈⒽⒺⓁⒷⓎ"
@@ -606,7 +606,7 @@
     {
       "entityId": 29033993,
       "asset": "BPC_Cruiser",
-      "x": -198808,
+      "x": -198807,
       "y": -31663,
       "z": 35695,
       "ownerName": "Bigvaer",
@@ -651,7 +651,7 @@
     {
       "entityId": 29586143,
       "asset": "BPC_Kinglet_Duster",
-      "x": -201209,
+      "x": -201208,
       "y": -29516,
       "z": 35641,
       "ownerName": "Shelby",
@@ -795,7 +795,7 @@
     {
       "entityId": 31031636,
       "asset": "BPC_Cruiser",
-      "x": -198943,
+      "x": -198942,
       "y": -31718,
       "z": 35695,
       "ownerName": "Shelby",
@@ -1074,9 +1074,9 @@
     {
       "entityId": 32404597,
       "asset": "BPC_Laika",
-      "x": 231779,
-      "y": -440232,
-      "z": 10200,
+      "x": 278887,
+      "y": -393289,
+      "z": 10112,
       "ownerName": "Prostyak",
       "customName": null
     },
@@ -1441,15 +1441,6 @@
       "customName": "Нимбус-2000"
     },
     {
-      "entityId": 33427734,
-      "asset": "BPC_Kinglet_Mariner",
-      "x": -455107,
-      "y": -56472,
-      "z": 34838,
-      "ownerName": "Mazay",
-      "customName": null
-    },
-    {
       "entityId": 33427983,
       "asset": "BPC_CityBike",
       "x": 279030,
@@ -1596,9 +1587,9 @@
     {
       "entityId": 33608059,
       "asset": "BPC_WolfsWagen",
-      "x": -334154,
-      "y": 6511,
-      "z": 35768,
+      "x": -112067,
+      "y": -62114,
+      "z": 37185,
       "ownerName": "Ded_13",
       "customName": null
     },
@@ -1677,9 +1668,9 @@
     {
       "entityId": 33697284,
       "asset": "BPC_CityBike",
-      "x": -175855,
-      "y": -26857,
-      "z": 36098,
+      "x": -175857,
+      "y": -26853,
+      "z": 36097,
       "ownerName": null,
       "customName": null
     },
@@ -1722,9 +1713,9 @@
     {
       "entityId": 33816320,
       "asset": "BPC_Cruiser",
-      "x": -194840,
-      "y": -15082,
-      "z": 36004,
+      "x": -194841,
+      "y": -15084,
+      "z": 36003,
       "ownerName": null,
       "customName": null
     },
@@ -1835,7 +1826,16 @@
       "z": 27053,
       "ownerName": "BETON",
       "customName": "BETON"
+    },
+    {
+      "entityId": 34130315,
+      "asset": "BPC_Kinglet_Mariner",
+      "x": 512121,
+      "y": -555080,
+      "z": 2,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-21T07:17:09.507Z"
+  "updated": "2026-09-21T07:18:09.516Z"
 }
