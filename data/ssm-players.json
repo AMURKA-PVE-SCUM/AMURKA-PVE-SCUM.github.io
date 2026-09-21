@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 19722,
-      "playTimeSeconds": 86435,
+      "sessionSeconds": 19782,
+      "playTimeSeconds": 86495,
       "money": 128113,
       "gold": 645,
       "fame": 2684,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 18467,
-      "playTimeSeconds": 143734,
+      "sessionSeconds": 18527,
+      "playTimeSeconds": 143794,
       "money": 1050204,
       "gold": 290,
       "fame": 1018,
@@ -25,7 +25,7 @@
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 21,
-      "playTimeSeconds": 69984,
+      "playTimeSeconds": 70044,
       "money": 22760,
       "gold": 285,
       "fame": 484,
@@ -35,17 +35,17 @@
       "steamId": "76561198041539804",
       "name": "Ded_13",
       "sessionSeconds": 21,
-      "playTimeSeconds": 78735,
+      "playTimeSeconds": 78795,
       "money": 906280,
       "gold": 91,
-      "fame": 794,
+      "fame": 795,
       "rank": 12
     },
     {
       "steamId": "76561198029476275",
       "name": "XEH",
       "sessionSeconds": 21,
-      "playTimeSeconds": 26446,
+      "playTimeSeconds": 26506,
       "money": 90138,
       "gold": 304,
       "fame": 1143,
@@ -55,22 +55,32 @@
       "steamId": "76561199823596261",
       "name": "MИХА",
       "sessionSeconds": 21,
-      "playTimeSeconds": 792,
+      "playTimeSeconds": 852,
       "money": 0,
       "gold": 0,
       "fame": 0,
-      "rank": 76
+      "rank": 75
     },
     {
       "steamId": "76561198132364463",
       "name": "AmbA",
       "sessionSeconds": 21,
-      "playTimeSeconds": 20304,
+      "playTimeSeconds": 20364,
       "money": 3000,
       "gold": 25,
       "fame": 167,
       "rank": 31
+    },
+    {
+      "steamId": "76561198363649162",
+      "name": "CyberPunk",
+      "sessionSeconds": 13,
+      "playTimeSeconds": 7398,
+      "money": 1000,
+      "gold": 10,
+      "fame": 131,
+      "rank": 50
     }
   ],
-  "updated": "2026-09-21T12:22:11.817Z"
+  "updated": "2026-09-21T12:23:11.831Z"
 }
