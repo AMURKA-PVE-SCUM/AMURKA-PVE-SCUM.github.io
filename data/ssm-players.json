@@ -1,5 +1,26 @@
 {
-  "online": 0,
-  "players": [],
-  "updated": "2026-09-21T02:22:07.399Z"
+  "online": 2,
+  "players": [
+    {
+      "steamId": "76561199099125866",
+      "name": "BETON\u0000",
+      "sessionSeconds": 13,
+      "playTimeSeconds": 29669,
+      "money": 911934,
+      "gold": 20,
+      "fame": 188,
+      "rank": 23
+    },
+    {
+      "steamId": "76561198068992719",
+      "name": "Alina\u0000",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 14394,
+      "money": 2011389,
+      "gold": 510,
+      "fame": 913,
+      "rank": 37
+    }
+  ],
+  "updated": "2026-09-21T02:23:07.412Z"
 }
