@@ -1,11 +1,11 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 17862,
-      "playTimeSeconds": 84578,
+      "sessionSeconds": 17922,
+      "playTimeSeconds": 84638,
       "money": 128113,
       "gold": 645,
       "fame": 2682,
@@ -14,18 +14,28 @@
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 16607,
-      "playTimeSeconds": 141877,
+      "sessionSeconds": 16667,
+      "playTimeSeconds": 141937,
       "money": 1049204,
       "gold": 285,
       "fame": 1006,
       "rank": 1
     },
     {
+      "steamId": "76561199404896383",
+      "name": "Victor_Vilkouskas",
+      "sessionSeconds": 11860,
+      "playTimeSeconds": 129803,
+      "money": 1926125,
+      "gold": 584,
+      "fame": 3304,
+      "rank": 3
+    },
+    {
       "steamId": "76561199025384857",
       "name": "Pupsik",
-      "sessionSeconds": 10614,
-      "playTimeSeconds": 51630,
+      "sessionSeconds": 10674,
+      "playTimeSeconds": 51690,
       "money": 989023,
       "gold": 50,
       "fame": 221,
@@ -35,17 +45,17 @@
       "steamId": "76561198869337858",
       "name": "Shelby",
       "sessionSeconds": 23,
-      "playTimeSeconds": 1406,
+      "playTimeSeconds": 1466,
       "money": 2550223,
       "gold": 380,
-      "fame": 23636,
+      "fame": 23637,
       "rank": 71
     },
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 23,
-      "playTimeSeconds": 68127,
+      "playTimeSeconds": 68187,
       "money": 21760,
       "gold": 280,
       "fame": 472,
@@ -55,7 +65,7 @@
       "steamId": "76561198041539804",
       "name": "Ded_13",
       "sessionSeconds": 23,
-      "playTimeSeconds": 76878,
+      "playTimeSeconds": 76938,
       "money": 906280,
       "gold": 91,
       "fame": 793,
@@ -65,7 +75,7 @@
       "steamId": "76561198363649162",
       "name": "CyberPunk",
       "sessionSeconds": 23,
-      "playTimeSeconds": 5970,
+      "playTimeSeconds": 6030,
       "money": 0,
       "gold": 5,
       "fame": 119,
@@ -75,12 +85,12 @@
       "steamId": "76561198029476275",
       "name": "XEH",
       "sessionSeconds": 23,
-      "playTimeSeconds": 24589,
+      "playTimeSeconds": 24649,
       "money": 90138,
       "gold": 304,
       "fame": 1140,
       "rank": 25
     }
   ],
-  "updated": "2026-09-21T11:51:11.571Z"
+  "updated": "2026-09-21T11:52:11.580Z"
 }
