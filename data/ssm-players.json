@@ -1,21 +1,21 @@
 {
-  "online": 9,
+  "online": 8,
   "players": [
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 13482,
-      "playTimeSeconds": 80205,
+      "sessionSeconds": 13542,
+      "playTimeSeconds": 80264,
       "money": 127113,
       "gold": 640,
-      "fame": 2669,
+      "fame": 0,
       "rank": 11
     },
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 12226,
-      "playTimeSeconds": 137504,
+      "sessionSeconds": 12286,
+      "playTimeSeconds": 137563,
       "money": 1048204,
       "gold": 280,
       "fame": 991,
@@ -24,28 +24,18 @@
     {
       "steamId": "76561198121549932",
       "name": "Prostyak",
-      "sessionSeconds": 10483,
-      "playTimeSeconds": 66183,
-      "money": 1689651,
+      "sessionSeconds": 10543,
+      "playTimeSeconds": 66242,
+      "money": 1755288,
       "gold": 99,
-      "fame": 1170,
+      "fame": 0,
       "rank": 13
-    },
-    {
-      "steamId": "76561198198157306",
-      "name": "alekx838",
-      "sessionSeconds": 7007,
-      "playTimeSeconds": 116395,
-      "money": 1297416,
-      "gold": 287,
-      "fame": 4958,
-      "rank": 6
     },
     {
       "steamId": "76561199025384857",
       "name": "Pupsik",
-      "sessionSeconds": 6233,
-      "playTimeSeconds": 47257,
+      "sessionSeconds": 6293,
+      "playTimeSeconds": 47316,
       "money": 988123,
       "gold": 45,
       "fame": 206,
@@ -55,7 +45,7 @@
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 29,
-      "playTimeSeconds": 63754,
+      "playTimeSeconds": 63813,
       "money": 20760,
       "gold": 275,
       "fame": 459,
@@ -65,7 +55,7 @@
       "steamId": "76561199801792277",
       "name": "Сол Хоггар",
       "sessionSeconds": 29,
-      "playTimeSeconds": 544,
+      "playTimeSeconds": 603,
       "money": 0,
       "gold": 0,
       "fame": 0,
@@ -75,22 +65,22 @@
       "steamId": "76561198132364463",
       "name": "AmbA",
       "sessionSeconds": 29,
-      "playTimeSeconds": 15399,
+      "playTimeSeconds": 15458,
       "money": 2000,
       "gold": 20,
-      "fame": 63,
+      "fame": 153,
       "rank": 37
     },
     {
       "steamId": "76561198363649162",
       "name": "CyberPunk",
       "sessionSeconds": 29,
-      "playTimeSeconds": 2438,
+      "playTimeSeconds": 2497,
       "money": 0,
       "gold": 0,
       "fame": 106,
       "rank": 64
     }
   ],
-  "updated": "2026-09-21T10:38:10.963Z"
+  "updated": "2026-09-21T10:39:10.965Z"
 }
