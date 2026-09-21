@@ -2,10 +2,20 @@
   "online": 6,
   "players": [
     {
+      "steamId": "76561198041539804",
+      "name": "Ded_13",
+      "sessionSeconds": 12,
+      "playTimeSeconds": 80284,
+      "money": 905358,
+      "gold": 96,
+      "fame": 804,
+      "rank": 12
+    },
+    {
       "steamId": "76561198790887864",
       "name": "Roma",
       "sessionSeconds": 6,
-      "playTimeSeconds": 148498,
+      "playTimeSeconds": 148558,
       "money": 1051204,
       "gold": 295,
       "fame": 1033,
@@ -15,27 +25,17 @@
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 6,
-      "playTimeSeconds": 74748,
+      "playTimeSeconds": 74808,
       "money": 46807,
       "gold": 290,
       "fame": 498,
       "rank": 13
     },
     {
-      "steamId": "76561199099125866",
-      "name": "BETON",
-      "sessionSeconds": 6,
-      "playTimeSeconds": 37792,
-      "money": 915244,
-      "gold": 30,
-      "fame": 225,
-      "rank": 21
-    },
-    {
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 6,
-      "playTimeSeconds": 91199,
+      "playTimeSeconds": 91259,
       "money": 130113,
       "gold": 655,
       "fame": 2707,
@@ -45,7 +45,7 @@
       "steamId": "76561199823596261",
       "name": "MИХА",
       "sessionSeconds": 6,
-      "playTimeSeconds": 5556,
+      "playTimeSeconds": 5616,
       "money": 1001000,
       "gold": 5,
       "fame": 16,
@@ -55,12 +55,12 @@
       "steamId": "76561198132364463",
       "name": "AmbA",
       "sessionSeconds": 6,
-      "playTimeSeconds": 25068,
+      "playTimeSeconds": 25128,
       "money": 26233,
       "gold": 30,
       "fame": 181,
       "rank": 25
     }
   ],
-  "updated": "2026-09-21T13:42:12.394Z"
+  "updated": "2026-09-21T13:43:12.394Z"
 }
