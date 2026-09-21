@@ -1,21 +1,31 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
+    {
+      "steamId": "76561199877063571",
+      "name": "Mazay",
+      "sessionSeconds": 9941,
+      "playTimeSeconds": 76670,
+      "money": 126113,
+      "gold": 635,
+      "fame": 2656,
+      "rank": 11
+    },
     {
       "steamId": "76561199020076791",
       "name": "Sleng",
-      "sessionSeconds": 6944,
-      "playTimeSeconds": 55153,
+      "sessionSeconds": 7004,
+      "playTimeSeconds": 55213,
       "money": 65499,
       "gold": 75,
-      "fame": 229,
+      "fame": 0,
       "rank": 16
     },
     {
       "steamId": "76561198121549932",
       "name": "Prostyak",
-      "sessionSeconds": 6882,
-      "playTimeSeconds": 62603,
+      "sessionSeconds": 6942,
+      "playTimeSeconds": 62663,
       "money": 1675379,
       "gold": 94,
       "fame": 1158,
@@ -24,28 +34,28 @@
     {
       "steamId": "76561199127106578",
       "name": "MEDOED",
-      "sessionSeconds": 6414,
-      "playTimeSeconds": 10039,
+      "sessionSeconds": 6474,
+      "playTimeSeconds": 10099,
       "money": 1002000,
       "gold": 10,
-      "fame": 140,
+      "fame": 141,
       "rank": 46
     },
     {
       "steamId": "76561198936806390",
       "name": "YaNkei",
-      "sessionSeconds": 5713,
-      "playTimeSeconds": 103200,
+      "sessionSeconds": 5773,
+      "playTimeSeconds": 103260,
       "money": 1148519,
       "gold": 532,
-      "fame": 6725,
+      "fame": 6727,
       "rank": 8
     },
     {
       "steamId": "76561198198157306",
       "name": "alekx838",
-      "sessionSeconds": 3406,
-      "playTimeSeconds": 112800,
+      "sessionSeconds": 3466,
+      "playTimeSeconds": 112860,
       "money": 1296416,
       "gold": 282,
       "fame": 4946,
@@ -54,8 +64,8 @@
     {
       "steamId": "76561199025384857",
       "name": "Pupsik",
-      "sessionSeconds": 2633,
-      "playTimeSeconds": 43662,
+      "sessionSeconds": 2693,
+      "playTimeSeconds": 43722,
       "money": 1003926,
       "gold": 40,
       "fame": 161,
@@ -65,12 +75,12 @@
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 4,
-      "playTimeSeconds": 60159,
+      "playTimeSeconds": 60219,
       "money": 23199,
       "gold": 270,
       "fame": 445,
       "rank": 14
     }
   ],
-  "updated": "2026-09-21T09:38:10.531Z"
+  "updated": "2026-09-21T09:39:10.536Z"
 }
