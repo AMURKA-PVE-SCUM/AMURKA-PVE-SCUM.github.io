@@ -1,11 +1,21 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
+    {
+      "steamId": "76561199404896383",
+      "name": "Victor_Vilkouskas",
+      "sessionSeconds": 6383,
+      "playTimeSeconds": 135002,
+      "money": 1960199,
+      "gold": 589,
+      "fame": 3375,
+      "rank": 2
+    },
     {
       "steamId": "76561198022523272",
       "name": "Tolikx201",
-      "sessionSeconds": 5306,
-      "playTimeSeconds": 7722,
+      "sessionSeconds": 5366,
+      "playTimeSeconds": 7782,
       "money": 636112,
       "gold": 228,
       "fame": 224,
@@ -14,8 +24,8 @@
     {
       "steamId": "76561198382114262",
       "name": "Montana",
-      "sessionSeconds": 3479,
-      "playTimeSeconds": 27454,
+      "sessionSeconds": 3539,
+      "playTimeSeconds": 27514,
       "money": 2267985,
       "gold": 2690,
       "fame": 2883,
@@ -25,7 +35,7 @@
       "steamId": "76561199823596261",
       "name": "MИХА",
       "sessionSeconds": 29,
-      "playTimeSeconds": 12602,
+      "playTimeSeconds": 12662,
       "money": 1002900,
       "gold": 15,
       "fame": 46,
@@ -35,7 +45,7 @@
       "steamId": "76561198199442735",
       "name": "The_Lorg",
       "sessionSeconds": 29,
-      "playTimeSeconds": 15103,
+      "playTimeSeconds": 15163,
       "money": 825235,
       "gold": 179,
       "fame": 2003,
@@ -45,12 +55,12 @@
       "steamId": "76561198071060590",
       "name": "Niga",
       "sessionSeconds": 29,
-      "playTimeSeconds": 126947,
+      "playTimeSeconds": 127007,
       "money": 1776823,
       "gold": 206,
-      "fame": 4791,
+      "fame": 4792,
       "rank": 4
     }
   ],
-  "updated": "2026-09-21T15:46:13.266Z"
+  "updated": "2026-09-21T15:47:13.279Z"
 }
