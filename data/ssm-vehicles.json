@@ -462,8 +462,8 @@
     {
       "entityId": 28787684,
       "asset": "BPC_Rager",
-      "x": 370176,
-      "y": -479634,
+      "x": 370180,
+      "y": -479632,
       "z": 4852,
       "ownerName": "Annygelyator",
       "customName": "RAM TRX Annygelyator"
@@ -642,9 +642,9 @@
     {
       "entityId": 29219462,
       "asset": "BPC_Rager",
-      "x": 145834,
+      "x": 145835,
       "y": -299756,
-      "z": 20359,
+      "z": 20358,
       "ownerName": "Sergeant",
       "customName": "Sergeant"
     },
@@ -1650,8 +1650,8 @@
     {
       "entityId": 33718094,
       "asset": "BPC_Dirtbike",
-      "x": 151664,
-      "y": 238323,
+      "x": 151665,
+      "y": 238321,
       "z": 34004,
       "ownerName": "Sleng",
       "customName": null
@@ -1708,15 +1708,6 @@
       "y": 228836,
       "z": 5185,
       "ownerName": "Victor_Vilkouskas",
-      "customName": null
-    },
-    {
-      "entityId": 33846084,
-      "asset": "BPC_SidecarBike",
-      "x": -268435,
-      "y": -45832,
-      "z": 35683,
-      "ownerName": "AmbA",
       "customName": null
     },
     {
@@ -1853,7 +1844,16 @@
       "z": -13,
       "ownerName": null,
       "customName": null
+    },
+    {
+      "entityId": 34158642,
+      "asset": "BPC_SidecarBike",
+      "x": 102580,
+      "y": 274267,
+      "z": 41072,
+      "ownerName": null,
+      "customName": null
     }
   ],
-  "updated": "2026-09-21T09:43:10.547Z"
+  "updated": "2026-09-21T09:44:10.548Z"
 }
