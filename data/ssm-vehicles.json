@@ -60,7 +60,7 @@
       "x": -277280,
       "y": -585302,
       "z": 54,
-      "ownerName": "Raskalbasman",
+      "ownerName": null,
       "customName": "TOURIST 123"
     },
     {
@@ -120,8 +120,8 @@
     {
       "entityId": 22603288,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 224152,
-      "y": 3163,
+      "x": 224153,
+      "y": 3162,
       "z": 25493,
       "ownerName": "Jane Doe",
       "customName": "Rocinante"
@@ -184,7 +184,7 @@
       "entityId": 23973748,
       "asset": "BPC_Cruiser",
       "x": -276656,
-      "y": -589794,
+      "y": -589793,
       "z": 154,
       "ownerName": "Raskalbasman",
       "customName": "подарок МАШЕ"
@@ -354,8 +354,8 @@
     {
       "entityId": 27126421,
       "asset": "BPC_Tractor",
-      "x": -275906,
-      "y": -593434,
+      "x": -275907,
+      "y": -593435,
       "z": 106,
       "ownerName": "Raskalbasman",
       "customName": "Кошелек"
@@ -390,8 +390,8 @@
     {
       "entityId": 27335918,
       "asset": "BPC_Tractor",
-      "x": 153267,
-      "y": 39186,
+      "x": 153266,
+      "y": 39188,
       "z": 29678,
       "ownerName": "Рanterа",
       "customName": "Pantera"
@@ -561,7 +561,7 @@
     {
       "entityId": 29033926,
       "asset": "BPC_Cruiser",
-      "x": -276805,
+      "x": -276804,
       "y": -589793,
       "z": 154,
       "ownerName": "NetrezvbIi_Kot",
@@ -631,15 +631,6 @@
       "customName": "пепа"
     },
     {
-      "entityId": 29112269,
-      "asset": "BPC_Kinglet_Mariner",
-      "x": -277275,
-      "y": -586235,
-      "z": 54,
-      "ownerName": null,
-      "customName": null
-    },
-    {
       "entityId": 29219462,
       "asset": "BPC_Rager",
       "x": 145835,
@@ -687,8 +678,8 @@
     {
       "entityId": 29725382,
       "asset": "BPC_Kinglet_Duster",
-      "x": 261205,
-      "y": -1051,
+      "x": 261206,
+      "y": -1050,
       "z": 24556,
       "ownerName": "angell",
       "customName": "ANGELL мести"
@@ -1165,7 +1156,7 @@
       "entityId": 32710350,
       "asset": "BPC_Rager",
       "x": 154637,
-      "y": -28330,
+      "y": -28334,
       "z": 32477,
       "ownerName": "Lesnik",
       "customName": "RAM-Lesnika"
@@ -1381,7 +1372,7 @@
       "entityId": 33351894,
       "asset": "BPC_WolfsWagen",
       "x": 153559,
-      "y": 29148,
+      "y": 29149,
       "z": 29777,
       "ownerName": null,
       "customName": null
@@ -1561,7 +1552,7 @@
       "entityId": 33608059,
       "asset": "BPC_WolfsWagen",
       "x": 140647,
-      "y": 23092,
+      "y": 23091,
       "z": 29770,
       "ownerName": "Sleng",
       "customName": null
@@ -1786,7 +1777,7 @@
       "entityId": 34118080,
       "asset": "BPC_Kinglet_Mariner",
       "x": 258786,
-      "y": 46736,
+      "y": 46737,
       "z": 27053,
       "ownerName": "BETON",
       "customName": "BETON"
@@ -1794,9 +1785,9 @@
     {
       "entityId": 34130315,
       "asset": "BPC_Kinglet_Mariner",
-      "x": 153247,
-      "y": 237489,
-      "z": 33941,
+      "x": 194807,
+      "y": -96317,
+      "z": 42919,
       "ownerName": "Sleng",
       "customName": null
     },
@@ -1855,5 +1846,5 @@
       "customName": null
     }
   ],
-  "updated": "2026-09-21T10:07:10.714Z"
+  "updated": "2026-09-21T10:08:10.722Z"
 }
