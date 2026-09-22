@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 5,
   "players": [
     {
       "steamId": "76561199099125866",
       "name": "BETON",
-      "sessionSeconds": 42,
-      "playTimeSeconds": 44532,
+      "sessionSeconds": 102,
+      "playTimeSeconds": 44592,
       "money": 888013,
       "gold": 40,
       "fame": 260,
@@ -18,7 +18,7 @@
       "playTimeSeconds": 2056,
       "money": 13540,
       "gold": 0,
-      "fame": 514,
+      "fame": 515,
       "rank": 72
     },
     {
@@ -30,16 +30,6 @@
       "gold": 305,
       "fame": 541,
       "rank": 13
-    },
-    {
-      "steamId": "76561198453542295",
-      "name": "LONER",
-      "sessionSeconds": null,
-      "playTimeSeconds": 6935,
-      "money": 5894,
-      "gold": 10,
-      "fame": 51,
-      "rank": 54
     },
     {
       "steamId": "76561199823596261",
@@ -62,5 +52,5 @@
       "rank": 24
     }
   ],
-  "updated": "2026-09-22T05:47:24.587Z"
+  "updated": "2026-09-22T05:48:24.599Z"
 }
