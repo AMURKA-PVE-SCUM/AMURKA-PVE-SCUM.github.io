@@ -1,6 +1,16 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
+    {
+      "steamId": "76561199188476908",
+      "name": "НеБро",
+      "sessionSeconds": null,
+      "playTimeSeconds": 2056,
+      "money": 13540,
+      "gold": 0,
+      "fame": 513,
+      "rank": 72
+    },
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
@@ -38,7 +48,7 @@
       "playTimeSeconds": 155509,
       "money": 2060109,
       "gold": 610,
-      "fame": 3674,
+      "fame": 3676,
       "rank": 2
     },
     {
@@ -52,5 +62,5 @@
       "rank": 24
     }
   ],
-  "updated": "2026-09-22T05:24:24.396Z"
+  "updated": "2026-09-22T05:25:24.405Z"
 }
