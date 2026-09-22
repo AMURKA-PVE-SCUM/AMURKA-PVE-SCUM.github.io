@@ -1,76 +1,86 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 13411,
-      "playTimeSeconds": 91961,
+      "sessionSeconds": 13471,
+      "playTimeSeconds": 92021,
       "money": 37980,
       "gold": 320,
-      "fame": 584,
+      "fame": 0,
       "rank": 12
     },
     {
       "steamId": "76561199020076791",
       "name": "Sleng",
-      "sessionSeconds": 7024,
-      "playTimeSeconds": 64209,
+      "sessionSeconds": 7084,
+      "playTimeSeconds": 64269,
       "money": 60453,
       "gold": 85,
-      "fame": 266,
+      "fame": 0,
       "rank": 15
     },
     {
       "steamId": "76561199127106578",
       "name": "MEDOED",
-      "sessionSeconds": 5711,
-      "playTimeSeconds": 18347,
+      "sessionSeconds": 5771,
+      "playTimeSeconds": 18407,
       "money": 1005000,
       "gold": 25,
-      "fame": 188,
+      "fame": 0,
       "rank": 39
     },
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 5513,
-      "playTimeSeconds": 168278,
+      "sessionSeconds": 5573,
+      "playTimeSeconds": 168338,
       "money": 1030722,
       "gold": 310,
-      "fame": 1058,
+      "fame": 0,
       "rank": 1
     },
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 102273,
+      "sessionSeconds": 29,
+      "playTimeSeconds": 102333,
       "money": 131113,
       "gold": 660,
-      "fame": 2725,
+      "fame": 0,
       "rank": 10
     },
     {
       "steamId": "76561198271336608",
       "name": "Валерка",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 21518,
+      "sessionSeconds": 29,
+      "playTimeSeconds": 21578,
       "money": 473415,
       "gold": 80,
-      "fame": 475,
-      "rank": 35
+      "fame": 0,
+      "rank": 34
+    },
+    {
+      "steamId": "76561198068992719",
+      "name": "Alina",
+      "sessionSeconds": 29,
+      "playTimeSeconds": 26146,
+      "money": 2014389,
+      "gold": 525,
+      "fame": 0,
+      "rank": 29
     },
     {
       "steamId": "76561198268163742",
       "name": "GrayFoxy",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 4465,
+      "sessionSeconds": 29,
+      "playTimeSeconds": 4525,
       "money": 1000,
       "gold": 5,
-      "fame": 18,
+      "fame": 0,
       "rank": 59
     }
   ],
-  "updated": "2026-09-22T10:12:26.626Z"
+  "updated": "2026-09-22T10:13:26.632Z"
 }
