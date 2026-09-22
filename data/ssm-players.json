@@ -1,11 +1,11 @@
 {
-  "online": 2,
+  "online": 3,
   "players": [
     {
       "steamId": "76561198156375337",
       "name": "Domo",
-      "sessionSeconds": 1474,
-      "playTimeSeconds": 23116,
+      "sessionSeconds": 1534,
+      "playTimeSeconds": 23176,
       "money": 3402356,
       "gold": 762,
       "fame": 1070,
@@ -14,13 +14,23 @@
     {
       "steamId": "76561199823596261",
       "name": "MИХА",
-      "sessionSeconds": 668,
-      "playTimeSeconds": 49475,
+      "sessionSeconds": 728,
+      "playTimeSeconds": 49535,
       "money": 1043921,
       "gold": 60,
       "fame": 246,
       "rank": 19
+    },
+    {
+      "steamId": "76561198453542295",
+      "name": "LONER",
+      "sessionSeconds": 24,
+      "playTimeSeconds": 4705,
+      "money": 900,
+      "gold": 5,
+      "fame": 20,
+      "rank": 56
     }
   ],
-  "updated": "2026-09-22T04:14:23.905Z"
+  "updated": "2026-09-22T04:15:23.905Z"
 }
