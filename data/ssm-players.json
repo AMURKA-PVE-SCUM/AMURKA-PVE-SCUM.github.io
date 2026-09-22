@@ -1,11 +1,11 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 13374,
-      "playTimeSeconds": 175829,
+      "sessionSeconds": 13434,
+      "playTimeSeconds": 175889,
       "money": 1093193,
       "gold": 320,
       "fame": 1118,
@@ -15,27 +15,37 @@
       "steamId": "76561198350597550",
       "name": "GREWNIK",
       "sessionSeconds": 20,
-      "playTimeSeconds": 22768,
-      "money": 1011022,
+      "playTimeSeconds": 22828,
+      "money": 1011432,
       "gold": 20,
-      "fame": 61,
+      "fame": 66,
       "rank": 35
     },
     {
       "steamId": "76561198061663790",
       "name": "yloo",
       "sessionSeconds": 20,
-      "playTimeSeconds": 539,
+      "playTimeSeconds": 599,
       "money": 1000000,
       "gold": 0,
       "fame": 0,
       "rank": 85
     },
     {
+      "steamId": "76561199025384857",
+      "name": "Pupsik",
+      "sessionSeconds": 20,
+      "playTimeSeconds": 52615,
+      "money": 990023,
+      "gold": 55,
+      "fame": 231,
+      "rank": 19
+    },
+    {
       "steamId": "76561198453542295",
       "name": "LONER",
       "sessionSeconds": 20,
-      "playTimeSeconds": 16916,
+      "playTimeSeconds": 16976,
       "money": 41695,
       "gold": 25,
       "fame": 125,
@@ -45,17 +55,17 @@
       "steamId": "76561199244636054",
       "name": "_PsixichkA_",
       "sessionSeconds": 20,
-      "playTimeSeconds": 7570,
+      "playTimeSeconds": 7630,
       "money": 1262156,
       "gold": 135,
-      "fame": 528,
+      "fame": 529,
       "rank": 55
     },
     {
       "steamId": "76561198230911236",
       "name": "TOR",
       "sessionSeconds": 20,
-      "playTimeSeconds": 6459,
+      "playTimeSeconds": 6519,
       "money": 1493970,
       "gold": 140,
       "fame": 576,
@@ -65,7 +75,7 @@
       "steamId": "76561198215398893",
       "name": "Shmulkee",
       "sessionSeconds": 20,
-      "playTimeSeconds": 681,
+      "playTimeSeconds": 741,
       "money": 1000000,
       "gold": 0,
       "fame": 3,
@@ -75,12 +85,12 @@
       "steamId": "76561199801792277",
       "name": "Сол Хоггар",
       "sessionSeconds": 20,
-      "playTimeSeconds": 12083,
+      "playTimeSeconds": 12143,
       "money": 23871,
       "gold": 10,
       "fame": 120,
       "rank": 47
     }
   ],
-  "updated": "2026-09-22T12:23:27.670Z"
+  "updated": "2026-09-22T12:24:27.673Z"
 }
