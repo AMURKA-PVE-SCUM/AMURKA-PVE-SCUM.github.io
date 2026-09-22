@@ -373,3 +373,17 @@
 .nav-bottom .nav-play-mobile:hover {
     color: var(--bg);
 }
+
+/* Touch Support Dropdown Open State */
+.nav-item.dropdown-open .nav-dropdown {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+.nav-item.dropdown-open .nav-link .arrow {
+    transform: rotate(180deg);
+}
+.nav-item.dropdown-open .nav-link {
+    color: var(--text);
+    background: rgba(255, 255, 255, 0.04);
+}

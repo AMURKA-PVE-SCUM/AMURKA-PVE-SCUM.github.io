@@ -32,6 +32,46 @@ document.addEventListener('DOMContentLoaded', () => {
         navbar.classList.toggle('scrolled', window.scrollY > 50);
     });
 
+    // ── Navbar Dropdowns (Touch Support) ──
+    document.querySelectorAll('.nav-item').forEach(item => {
+        const dropdown = item.querySelector('.nav-dropdown');
+        if (dropdown) {
+            const link = item.querySelector('.nav-link');
+            if (link) {
+                link.addEventListener('click', (e) => {
+                    e.preventDefault(); // Prevent default link behavior
+                    const isOpen = item.classList.contains('dropdown-open');
+
+                    // Close all other dropdowns
+                    document.querySelectorAll('.nav-item.dropdown-open').forEach(openItem => {
+                        openItem.classList.remove('dropdown-open');
+                    });
+
+                    // Toggle current dropdown
+                    if (!isOpen) {
+                        item.classList.add('dropdown-open');
+                    }
+                });
+            }
+        }
+    });
+
+    // Close dropdowns when clicking outside
+    document.addEventListener('click', (e) => {
+        if (!e.target.closest('.nav-item')) {
+            document.querySelectorAll('.nav-item.dropdown-open').forEach(item => {
+                item.classList.remove('dropdown-open');
+            });
+        }
+    });
+
+    // Close dropdowns on scroll to simulate hover-out
+    window.addEventListener('scroll', () => {
+        document.querySelectorAll('.nav-item.dropdown-open').forEach(item => {
+            item.classList.remove('dropdown-open');
+        });
+    });
+
     // ── Mobile Nav Toggle ──
     const navToggle = document.getElementById('navToggle');
     const navMobile = document.getElementById('navMobile');
