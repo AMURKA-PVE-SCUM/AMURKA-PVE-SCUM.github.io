@@ -1,6 +1,16 @@
 {
-  "online": 6,
+  "online": 7,
   "players": [
+    {
+      "steamId": "76561199099125866",
+      "name": "BETON",
+      "sessionSeconds": 13,
+      "playTimeSeconds": 44472,
+      "money": 888013,
+      "gold": 40,
+      "fame": 260,
+      "rank": 20
+    },
     {
       "steamId": "76561199188476908",
       "name": "НеБро",
@@ -48,7 +58,7 @@
       "playTimeSeconds": 36829,
       "money": 131869,
       "gold": 319,
-      "fame": 1206,
+      "fame": 1207,
       "rank": 24
     },
     {
@@ -62,5 +72,5 @@
       "rank": 2
     }
   ],
-  "updated": "2026-09-22T05:45:24.566Z"
+  "updated": "2026-09-22T05:46:24.573Z"
 }
