@@ -1,5 +1,16 @@
 {
-  "online": 0,
-  "players": [],
-  "updated": "2026-09-22T03:36:23.639Z"
+  "online": 1,
+  "players": [
+    {
+      "steamId": "76561198156375337",
+      "name": "Domo",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 21300,
+      "money": 3388356,
+      "gold": 757,
+      "fame": 0,
+      "rank": 34
+    }
+  ],
+  "updated": "2026-09-22T03:37:23.640Z"
 }
