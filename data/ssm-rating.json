@@ -8,7 +8,7 @@
       "money": 1093193,
       "gold": 320,
       "fame": 1117,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 2,
@@ -18,7 +18,7 @@
       "money": 2172373,
       "gold": 620,
       "fame": 0,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 3,
@@ -138,7 +138,7 @@
       "money": 111453,
       "gold": 90,
       "fame": 0,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 15,
@@ -148,7 +148,7 @@
       "money": 1048621,
       "gold": 85,
       "fame": 326,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 16,
@@ -174,11 +174,11 @@
       "rank": 18,
       "steamId": "76561199025384857",
       "name": "Pupsik",
-      "playTimeSeconds": 51971,
+      "playTimeSeconds": 52021,
       "money": 989023,
       "gold": 50,
-      "fame": 0,
-      "isOnline": false
+      "fame": 221,
+      "isOnline": true
     },
     {
       "rank": 19,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-22T12:02:27.512Z"
+  "updated": "2026-09-22T12:03:27.527Z"
 }
