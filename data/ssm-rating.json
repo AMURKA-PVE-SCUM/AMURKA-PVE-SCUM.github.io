@@ -8,7 +8,7 @@
       "money": 1084363,
       "gold": 340,
       "fame": 0,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 2,
@@ -28,7 +28,7 @@
       "money": 1686301,
       "gold": 729,
       "fame": 0,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 4,
@@ -38,7 +38,7 @@
       "money": 606912,
       "gold": 342,
       "fame": 0,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 5,
@@ -48,7 +48,7 @@
       "money": 2036435,
       "gold": 231,
       "fame": 0,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 6,
@@ -104,11 +104,11 @@
       "rank": 11,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 98184,
+      "playTimeSeconds": 98211,
       "money": 39980,
       "gold": 330,
-      "fame": 0,
-      "isOnline": false
+      "fame": 608,
+      "isOnline": true
     },
     {
       "rank": 12,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-23T03:34:38.167Z"
+  "updated": "2026-09-23T03:35:38.174Z"
 }
