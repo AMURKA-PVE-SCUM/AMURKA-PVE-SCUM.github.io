@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 7,
   "players": [
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 53315,
-      "playTimeSeconds": 149913,
+      "sessionSeconds": 53375,
+      "playTimeSeconds": 149973,
       "money": 2038435,
       "gold": 241,
       "fame": 4887,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 49991,
-      "playTimeSeconds": 192974,
+      "sessionSeconds": 50051,
+      "playTimeSeconds": 193034,
       "money": 1085363,
       "gold": 345,
       "fame": 1404,
@@ -25,17 +25,27 @@
       "steamId": "76561198350597550",
       "name": "GREWNIK",
       "sessionSeconds": 5,
-      "playTimeSeconds": 49168,
+      "playTimeSeconds": 49228,
       "money": 1058225,
       "gold": 55,
       "fame": 378,
       "rank": 22
     },
     {
+      "steamId": "76561198106059918",
+      "name": "Пепа Петрович",
+      "sessionSeconds": 5,
+      "playTimeSeconds": 7143,
+      "money": 240632,
+      "gold": 497,
+      "fame": 2455,
+      "rank": 59
+    },
+    {
       "steamId": "76561198453542295",
       "name": "LONER",
       "sessionSeconds": 5,
-      "playTimeSeconds": 24715,
+      "playTimeSeconds": 24775,
       "money": 80169,
       "gold": 35,
       "fame": 194,
@@ -45,7 +55,7 @@
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 5,
-      "playTimeSeconds": 105884,
+      "playTimeSeconds": 105944,
       "money": 41190,
       "gold": 340,
       "fame": 644,
@@ -55,12 +65,12 @@
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
       "sessionSeconds": 5,
-      "playTimeSeconds": 190055,
+      "playTimeSeconds": 190115,
       "money": 2291746,
       "gold": 655,
       "fame": 4232,
       "rank": 2
     }
   ],
-  "updated": "2026-09-23T07:51:40.021Z"
+  "updated": "2026-09-23T07:52:40.035Z"
 }
