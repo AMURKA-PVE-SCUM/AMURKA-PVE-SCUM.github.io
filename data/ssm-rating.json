@@ -2,6 +2,16 @@
   "leaderboard": [
     {
       "rank": 1,
+      "steamId": "76561198790887864",
+      "name": "Roma",
+      "playTimeSeconds": 204096,
+      "money": 1087363,
+      "gold": 355,
+      "fame": 1434,
+      "isOnline": true
+    },
+    {
+      "rank": 2,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
       "playTimeSeconds": 204048,
@@ -9,16 +19,6 @@
       "gold": 675,
       "fame": 4362,
       "isOnline": false
-    },
-    {
-      "rank": 2,
-      "steamId": "76561198790887864",
-      "name": "Roma",
-      "playTimeSeconds": 204036,
-      "money": 1087363,
-      "gold": 355,
-      "fame": 1434,
-      "isOnline": true
     },
     {
       "rank": 3,
@@ -124,17 +124,17 @@
       "rank": 13,
       "steamId": "76561198121549932",
       "name": "Prostyak",
-      "playTimeSeconds": 76823,
+      "playTimeSeconds": 76852,
       "money": 2016004,
       "gold": 114,
       "fame": 1397,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 14,
       "steamId": "76561198350597550",
       "name": "GREWNIK",
-      "playTimeSeconds": 72755,
+      "playTimeSeconds": 72815,
       "money": 1141624,
       "gold": 85,
       "fame": 605,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561198382114262",
       "name": "Montana",
-      "playTimeSeconds": 65427,
+      "playTimeSeconds": 65487,
       "money": 2922827,
       "gold": 2735,
       "fame": 2977,
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561199025384857",
       "name": "Pupsik",
-      "playTimeSeconds": 62610,
+      "playTimeSeconds": 62670,
       "money": 1083646,
       "gold": 65,
       "fame": 260,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-23T15:18:45.778Z"
+  "updated": "2026-09-23T15:19:45.788Z"
 }
