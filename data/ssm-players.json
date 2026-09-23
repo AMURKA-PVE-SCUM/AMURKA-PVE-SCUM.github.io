@@ -1,11 +1,11 @@
 {
-  "online": 9,
+  "online": 8,
   "players": [
     {
       "steamId": "76561199189470290",
       "name": "Konffetka",
-      "sessionSeconds": 102361,
-      "playTimeSeconds": 159493,
+      "sessionSeconds": 102421,
+      "playTimeSeconds": 159553,
       "money": 580442,
       "gold": 347,
       "fame": 39868,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198067720439",
       "name": "Genih",
-      "sessionSeconds": 99410,
-      "playTimeSeconds": 166573,
+      "sessionSeconds": 99470,
+      "playTimeSeconds": 166633,
       "money": 1686048,
       "gold": 734,
       "fame": 11669,
@@ -25,17 +25,17 @@
       "steamId": "76561198022734828",
       "name": "ArBuzova",
       "sessionSeconds": 18,
-      "playTimeSeconds": 142426,
+      "playTimeSeconds": 142486,
       "money": 668593,
       "gold": 205,
       "fame": 574,
-      "rank": 8
+      "rank": 7
     },
     {
       "steamId": "76561199206700564",
       "name": "_Adskiy_Yozhik_",
       "sessionSeconds": 18,
-      "playTimeSeconds": 14914,
+      "playTimeSeconds": 14974,
       "money": 920820,
       "gold": 45,
       "fame": 491,
@@ -45,7 +45,7 @@
       "steamId": "76561198350597550",
       "name": "GREWNIK",
       "sessionSeconds": 18,
-      "playTimeSeconds": 86186,
+      "playTimeSeconds": 86246,
       "money": 1144831,
       "gold": 105,
       "fame": 673,
@@ -55,7 +55,7 @@
       "steamId": "76561199244636054",
       "name": "_PsixichkA_",
       "sessionSeconds": 18,
-      "playTimeSeconds": 42389,
+      "playTimeSeconds": 42449,
       "money": 1362516,
       "gold": 175,
       "fame": 705,
@@ -65,7 +65,7 @@
       "steamId": "76561198230911236",
       "name": "TOR",
       "sessionSeconds": 18,
-      "playTimeSeconds": 33939,
+      "playTimeSeconds": 33999,
       "money": 1554392,
       "gold": 175,
       "fame": 673,
@@ -75,22 +75,12 @@
       "steamId": "76561198271336608",
       "name": "Валерка",
       "sessionSeconds": 18,
-      "playTimeSeconds": 33142,
+      "playTimeSeconds": 33202,
       "money": 357777,
       "gold": 95,
       "fame": 524,
       "rank": 34
-    },
-    {
-      "steamId": "76561198061663790",
-      "name": "yloo",
-      "sessionSeconds": 18,
-      "playTimeSeconds": 41482,
-      "money": 937955,
-      "gold": 50,
-      "fame": 261,
-      "rank": 29
     }
   ],
-  "updated": "2026-09-23T20:44:48.225Z"
+  "updated": "2026-09-23T20:45:48.229Z"
 }
