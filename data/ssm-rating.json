@@ -8,7 +8,7 @@
       "money": 1086363,
       "gold": 350,
       "fame": 1415,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 2,
@@ -28,7 +28,7 @@
       "money": 1686301,
       "gold": 729,
       "fame": 0,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 4,
@@ -38,7 +38,7 @@
       "money": 606912,
       "gold": 342,
       "fame": 0,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 5,
@@ -48,7 +48,7 @@
       "money": 2038435,
       "gold": 241,
       "fame": 4888,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 6,
@@ -184,11 +184,11 @@
       "rank": 19,
       "steamId": "76561198350597550",
       "name": "GREWNIK",
-      "playTimeSeconds": 53284,
+      "playTimeSeconds": 53295,
       "money": 1059225,
       "gold": 60,
       "fame": 389,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 20,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-23T09:01:40.576Z"
+  "updated": "2026-09-23T09:02:40.581Z"
 }
