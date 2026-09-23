@@ -1,31 +1,41 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 80537,
-      "playTimeSeconds": 207752,
-      "money": 1192781,
-      "gold": 360,
-      "fame": 1458,
+      "sessionSeconds": 80597,
+      "playTimeSeconds": 207811,
+      "money": 1193681,
+      "gold": 365,
+      "fame": 1468,
       "rank": 1
     },
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 16827,
-      "playTimeSeconds": 207252,
-      "money": 2269212,
+      "sessionSeconds": 16887,
+      "playTimeSeconds": 207311,
+      "money": 2269320,
       "gold": 575,
       "fame": 4390,
       "rank": 2
     },
     {
+      "steamId": "76561198082947468",
+      "name": "bolollo",
+      "sessionSeconds": 9,
+      "playTimeSeconds": 59,
+      "money": 836220,
+      "gold": 146,
+      "fame": 2413,
+      "rank": 102
+    },
+    {
       "steamId": "76561199025384857",
       "name": "Pupsik",
       "sessionSeconds": 9,
-      "playTimeSeconds": 66326,
+      "playTimeSeconds": 66385,
       "money": 1125255,
       "gold": 71,
       "fame": 477,
@@ -35,7 +45,7 @@
       "steamId": "76561198350597550",
       "name": "GREWNIK",
       "sessionSeconds": 9,
-      "playTimeSeconds": 76471,
+      "playTimeSeconds": 76530,
       "money": 1142624,
       "gold": 90,
       "fame": 619,
@@ -45,17 +55,17 @@
       "steamId": "76561199244636054",
       "name": "_PsixichkA_",
       "sessionSeconds": 9,
-      "playTimeSeconds": 26869,
+      "playTimeSeconds": 26928,
       "money": 1358716,
       "gold": 155,
       "fame": 649,
-      "rank": 34
+      "rank": 33
     },
     {
       "steamId": "76561198022734828",
       "name": "ArBuzova",
       "sessionSeconds": 9,
-      "playTimeSeconds": 128216,
+      "playTimeSeconds": 128275,
       "money": 666196,
       "gold": 185,
       "fame": 902,
@@ -65,7 +75,7 @@
       "steamId": "76561198029476275",
       "name": "XEH",
       "sessionSeconds": 9,
-      "playTimeSeconds": 44072,
+      "playTimeSeconds": 44131,
       "money": 133869,
       "gold": 329,
       "fame": 1235,
@@ -75,12 +85,12 @@
       "steamId": "76561198230911236",
       "name": "TOR",
       "sessionSeconds": 9,
-      "playTimeSeconds": 18379,
+      "playTimeSeconds": 18438,
       "money": 1554802,
       "gold": 155,
       "fame": 614,
       "rank": 45
     }
   ],
-  "updated": "2026-09-23T16:20:46.225Z"
+  "updated": "2026-09-23T16:21:46.233Z"
 }
