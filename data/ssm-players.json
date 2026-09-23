@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 2906,
-      "playTimeSeconds": 197787,
+      "sessionSeconds": 2966,
+      "playTimeSeconds": 197847,
       "money": 2260516,
       "gold": 665,
       "fame": 4296,
@@ -15,17 +15,27 @@
       "steamId": "76561198382114262",
       "name": "Montana",
       "sessionSeconds": 25,
-      "playTimeSeconds": 55509,
+      "playTimeSeconds": 55569,
       "money": 2682515,
       "gold": 2725,
-      "fame": 2959,
+      "fame": 2960,
       "rank": 19
+    },
+    {
+      "steamId": "76561198215398893",
+      "name": "Shmulkee",
+      "sessionSeconds": 25,
+      "playTimeSeconds": 21264,
+      "money": 973284,
+      "gold": 25,
+      "fame": 184,
+      "rank": 40
     },
     {
       "steamId": "76561198041539804",
       "name": "Ded_13",
       "sessionSeconds": 25,
-      "playTimeSeconds": 106339,
+      "playTimeSeconds": 106399,
       "money": 159264,
       "gold": 126,
       "fame": 889,
@@ -35,7 +45,7 @@
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "sessionSeconds": 25,
-      "playTimeSeconds": 42257,
+      "playTimeSeconds": 42317,
       "money": 6902,
       "gold": 3920,
       "fame": 2656,
@@ -45,7 +55,7 @@
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 25,
-      "playTimeSeconds": 120974,
+      "playTimeSeconds": 121034,
       "money": 70916,
       "gold": 360,
       "fame": 692,
@@ -55,22 +65,22 @@
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 25,
-      "playTimeSeconds": 129051,
+      "playTimeSeconds": 129111,
       "money": 139113,
       "gold": 700,
-      "fame": 2831,
+      "fame": 2832,
       "rank": 7
     },
     {
       "steamId": "76561198061663790",
       "name": "yloo",
       "sessionSeconds": 25,
-      "playTimeSeconds": 20512,
+      "playTimeSeconds": 20572,
       "money": 948488,
       "gold": 20,
       "fame": 163,
       "rank": 41
     }
   ],
-  "updated": "2026-09-23T12:28:44.524Z"
+  "updated": "2026-09-23T12:29:44.532Z"
 }
