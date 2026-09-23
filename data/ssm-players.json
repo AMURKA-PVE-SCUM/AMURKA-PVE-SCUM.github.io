@@ -1,11 +1,11 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 76097,
-      "playTimeSeconds": 203317,
+      "sessionSeconds": 76157,
+      "playTimeSeconds": 203377,
       "money": 1087363,
       "gold": 355,
       "fame": 1433,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198382114262",
       "name": "Montana",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 64708,
+      "sessionSeconds": 14,
+      "playTimeSeconds": 64768,
       "money": 2922827,
       "gold": 2735,
       "fame": 2976,
@@ -24,9 +24,9 @@
     {
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 115553,
-      "money": 190685,
+      "sessionSeconds": 14,
+      "playTimeSeconds": 115613,
+      "money": 162979,
       "gold": 136,
       "fame": 918,
       "rank": 12
@@ -34,8 +34,8 @@
     {
       "steamId": "76561198121549932",
       "name": "Prostyak",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 76104,
+      "sessionSeconds": 14,
+      "playTimeSeconds": 76164,
       "money": 2022299,
       "gold": 109,
       "fame": 1381,
@@ -44,13 +44,23 @@
     {
       "steamId": "76561199244636054",
       "name": "_PsixichkA_",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 22492,
+      "sessionSeconds": 14,
+      "playTimeSeconds": 22552,
       "money": 1308146,
       "gold": 150,
       "fame": 574,
       "rank": 40
+    },
+    {
+      "steamId": "76561199025384857",
+      "name": "Pupsik",
+      "sessionSeconds": 14,
+      "playTimeSeconds": 61951,
+      "money": 1083646,
+      "gold": 65,
+      "fame": 259,
+      "rank": 18
     }
   ],
-  "updated": "2026-09-23T15:06:45.683Z"
+  "updated": "2026-09-23T15:07:45.694Z"
 }
