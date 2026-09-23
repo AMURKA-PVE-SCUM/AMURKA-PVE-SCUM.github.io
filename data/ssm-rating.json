@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 204096,
+      "playTimeSeconds": 204156,
       "money": 1087363,
       "gold": 355,
       "fame": 1434,
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561198350597550",
       "name": "GREWNIK",
-      "playTimeSeconds": 72815,
+      "playTimeSeconds": 72875,
       "money": 1141624,
       "gold": 85,
       "fame": 605,
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561198382114262",
+      "name": "Montana",
+      "playTimeSeconds": 65547,
+      "money": 2922827,
+      "gold": 2735,
+      "fame": 2977,
+      "isOnline": true
+    },
+    {
+      "rank": 16,
       "steamId": "76561199020076791",
       "name": "Sleng",
       "playTimeSeconds": 65546,
@@ -151,20 +161,10 @@
       "isOnline": false
     },
     {
-      "rank": 16,
-      "steamId": "76561198382114262",
-      "name": "Montana",
-      "playTimeSeconds": 65487,
-      "money": 2922827,
-      "gold": 2735,
-      "fame": 2977,
-      "isOnline": true
-    },
-    {
       "rank": 17,
       "steamId": "76561199025384857",
       "name": "Pupsik",
-      "playTimeSeconds": 62670,
+      "playTimeSeconds": 62730,
       "money": 1083646,
       "gold": 65,
       "fame": 260,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-23T15:19:45.788Z"
+  "updated": "2026-09-23T15:20:45.803Z"
 }
