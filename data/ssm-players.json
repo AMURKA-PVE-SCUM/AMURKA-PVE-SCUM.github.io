@@ -1,11 +1,21 @@
 {
-  "online": 2,
+  "online": 3,
   "players": [
+    {
+      "steamId": "76561198230911236",
+      "name": "TOR",
+      "sessionSeconds": 2830,
+      "playTimeSeconds": 42108,
+      "money": 1546690,
+      "gold": 180,
+      "fame": 691,
+      "rank": 29
+    },
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 2681,
-      "playTimeSeconds": 147922,
+      "sessionSeconds": 2741,
+      "playTimeSeconds": 147982,
       "money": 144113,
       "gold": 725,
       "fame": 2891,
@@ -14,13 +24,13 @@
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 244,
-      "playTimeSeconds": 181597,
+      "sessionSeconds": 304,
+      "playTimeSeconds": 181657,
       "money": 2035854,
       "gold": 261,
       "fame": 4985,
       "rank": 3
     }
   ],
-  "updated": "2026-09-24T09:03:32.462Z"
+  "updated": "2026-09-24T09:04:32.469Z"
 }
