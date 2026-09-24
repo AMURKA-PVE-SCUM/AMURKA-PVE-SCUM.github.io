@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198230911236",
       "name": "TOR",
-      "sessionSeconds": 13569,
-      "playTimeSeconds": 52687,
+      "sessionSeconds": 13629,
+      "playTimeSeconds": 52747,
       "money": 1549690,
       "gold": 195,
       "fame": 731,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 13481,
-      "playTimeSeconds": 158555,
+      "sessionSeconds": 13541,
+      "playTimeSeconds": 158615,
       "money": 147113,
       "gold": 740,
       "fame": 2929,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 11044,
-      "playTimeSeconds": 192236,
+      "sessionSeconds": 11104,
+      "playTimeSeconds": 192296,
       "money": 2038854,
       "gold": 276,
       "fame": 5022,
@@ -35,7 +35,7 @@
       "steamId": "76561198184180030",
       "name": "Nazar",
       "sessionSeconds": 19,
-      "playTimeSeconds": 9606,
+      "playTimeSeconds": 9666,
       "money": 2000,
       "gold": 10,
       "fame": 35,
@@ -45,7 +45,7 @@
       "steamId": "76561199025384857",
       "name": "Pupsik",
       "sessionSeconds": 19,
-      "playTimeSeconds": 70865,
+      "playTimeSeconds": 70925,
       "money": 1127255,
       "gold": 81,
       "fame": 503,
@@ -55,12 +55,32 @@
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "sessionSeconds": 19,
-      "playTimeSeconds": 49827,
+      "playTimeSeconds": 49887,
       "money": 8902,
       "gold": 3930,
       "fame": 2683,
       "rank": 26
+    },
+    {
+      "steamId": "76561198775651698",
+      "name": "Добряк",
+      "sessionSeconds": 16,
+      "playTimeSeconds": 4282,
+      "money": 4100309,
+      "gold": 1090,
+      "fame": 11093,
+      "rank": 71
+    },
+    {
+      "steamId": "76561198041539804",
+      "name": "Ded_13",
+      "sessionSeconds": 12,
+      "playTimeSeconds": 119262,
+      "money": 130479,
+      "gold": 141,
+      "fame": 932,
+      "rank": 12
     }
   ],
-  "updated": "2026-09-24T12:03:33.750Z"
+  "updated": "2026-09-24T12:04:33.756Z"
 }
