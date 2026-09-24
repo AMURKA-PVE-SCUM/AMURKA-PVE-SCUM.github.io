@@ -1,11 +1,21 @@
 {
-  "online": 9,
+  "online": 8,
   "players": [
+    {
+      "steamId": "76561198028621423",
+      "name": "Lesnik",
+      "sessionSeconds": 64,
+      "playTimeSeconds": 46375,
+      "money": 7902,
+      "gold": 3925,
+      "fame": 2670,
+      "rank": 26
+    },
     {
       "steamId": "76561198936806390",
       "name": "YaNkei",
       "sessionSeconds": 10,
-      "playTimeSeconds": 129653,
+      "playTimeSeconds": 129713,
       "money": 1176704,
       "gold": 542,
       "fame": 6981,
@@ -15,7 +25,7 @@
       "steamId": "76561198198157306",
       "name": "alekx838",
       "sessionSeconds": 10,
-      "playTimeSeconds": 149515,
+      "playTimeSeconds": 149575,
       "money": 433436,
       "gold": 292,
       "fame": 5027,
@@ -25,7 +35,7 @@
       "steamId": "76561198071060590",
       "name": "Niga",
       "sessionSeconds": 10,
-      "playTimeSeconds": 178045,
+      "playTimeSeconds": 178105,
       "money": 2038935,
       "gold": 266,
       "fame": 4982,
@@ -35,7 +45,7 @@
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
       "sessionSeconds": 10,
-      "playTimeSeconds": 130182,
+      "playTimeSeconds": 130242,
       "money": 1367752,
       "gold": 665,
       "fame": 37474,
@@ -45,7 +55,7 @@
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 10,
-      "playTimeSeconds": 138487,
+      "playTimeSeconds": 138547,
       "money": 91484,
       "gold": 385,
       "fame": 759,
@@ -55,42 +65,22 @@
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
       "sessionSeconds": 10,
-      "playTimeSeconds": 226959,
+      "playTimeSeconds": 227019,
       "money": 2294707,
       "gold": 605,
       "fame": 4568,
       "rank": 1
     },
     {
-      "steamId": "76561199016885187",
-      "name": "Black Wolf",
-      "sessionSeconds": 10,
-      "playTimeSeconds": 1276,
-      "money": 0,
-      "gold": 0,
-      "fame": 3,
-      "rank": 89
-    },
-    {
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
       "sessionSeconds": 10,
-      "playTimeSeconds": 14780,
+      "playTimeSeconds": 14840,
       "money": 1008328,
       "gold": 247,
       "fame": 3317,
       "rank": 52
-    },
-    {
-      "steamId": "76561198028621423",
-      "name": "Lesnik",
-      "sessionSeconds": 4,
-      "playTimeSeconds": 46315,
-      "money": 7902,
-      "gold": 3925,
-      "fame": 2670,
-      "rank": 26
     }
   ],
-  "updated": "2026-09-24T08:01:31.980Z"
+  "updated": "2026-09-24T08:02:31.987Z"
 }
