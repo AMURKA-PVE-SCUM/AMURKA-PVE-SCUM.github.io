@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561198156375337",
       "name": "Domo",
-      "sessionSeconds": 112,
-      "playTimeSeconds": 35216,
+      "sessionSeconds": 172,
+      "playTimeSeconds": 35276,
       "money": 5402356,
       "gold": 862,
       "fame": 1393,
       "rank": 35
+    },
+    {
+      "steamId": "76561198071060590",
+      "name": "Niga",
+      "sessionSeconds": 16,
+      "playTimeSeconds": 204679,
+      "money": 2041854,
+      "gold": 291,
+      "fame": 5060,
+      "rank": 3
     }
   ],
-  "updated": "2026-09-24T15:39:35.256Z"
+  "updated": "2026-09-24T15:40:35.269Z"
 }
