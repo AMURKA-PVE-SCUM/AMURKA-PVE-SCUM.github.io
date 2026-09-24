@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198230911236",
       "name": "TOR",
-      "sessionSeconds": 4148,
-      "playTimeSeconds": 43425,
+      "sessionSeconds": 4208,
+      "playTimeSeconds": 43485,
       "money": 1546690,
       "gold": 180,
       "fame": 695,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 4060,
-      "playTimeSeconds": 149299,
+      "sessionSeconds": 4120,
+      "playTimeSeconds": 149359,
       "money": 144113,
       "gold": 725,
       "fame": 2892,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 1637,
-      "playTimeSeconds": 142925,
+      "sessionSeconds": 1697,
+      "playTimeSeconds": 142985,
       "money": 92484,
       "gold": 390,
       "fame": 772,
@@ -34,8 +34,8 @@
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 1623,
-      "playTimeSeconds": 182974,
+      "sessionSeconds": 1683,
+      "playTimeSeconds": 183034,
       "money": 2035854,
       "gold": 261,
       "fame": 4986,
@@ -45,17 +45,17 @@
       "steamId": "76561198184180030",
       "name": "Nazar",
       "sessionSeconds": 1,
-      "playTimeSeconds": 344,
+      "playTimeSeconds": 404,
       "money": 0,
       "gold": 0,
       "fame": 2,
-      "rank": 99
+      "rank": 98
     },
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
       "sessionSeconds": 1,
-      "playTimeSeconds": 230245,
+      "playTimeSeconds": 230305,
       "money": 2301954,
       "gold": 610,
       "fame": 4596,
@@ -65,12 +65,22 @@
       "steamId": "76561199801792277",
       "name": "Сол Хоггар",
       "sessionSeconds": 1,
-      "playTimeSeconds": 22182,
-      "money": 12011,
+      "playTimeSeconds": 22242,
+      "money": 9496,
       "gold": 25,
       "fame": 207,
       "rank": 42
+    },
+    {
+      "steamId": "76561199244636054",
+      "name": "_PsixichkA_",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 48522,
+      "money": 1363516,
+      "gold": 180,
+      "fame": 719,
+      "rank": 25
     }
   ],
-  "updated": "2026-09-24T09:26:32.634Z"
+  "updated": "2026-09-24T09:27:32.639Z"
 }
