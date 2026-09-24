@@ -1,11 +1,11 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198230911236",
       "name": "TOR",
-      "sessionSeconds": 3728,
-      "playTimeSeconds": 43006,
+      "sessionSeconds": 3788,
+      "playTimeSeconds": 43065,
       "money": 1546690,
       "gold": 180,
       "fame": 695,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 3640,
-      "playTimeSeconds": 148880,
+      "sessionSeconds": 3700,
+      "playTimeSeconds": 148939,
       "money": 144113,
       "gold": 725,
       "fame": 2892,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 1217,
-      "playTimeSeconds": 142506,
+      "sessionSeconds": 1277,
+      "playTimeSeconds": 142565,
       "money": 92484,
       "gold": 390,
       "fame": 772,
@@ -34,8 +34,8 @@
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 1203,
-      "playTimeSeconds": 182555,
+      "sessionSeconds": 1263,
+      "playTimeSeconds": 182614,
       "money": 2035854,
       "gold": 261,
       "fame": 4985,
@@ -45,12 +45,22 @@
       "steamId": "76561198271336608",
       "name": "Валерка",
       "sessionSeconds": 2,
-      "playTimeSeconds": 38764,
+      "playTimeSeconds": 38823,
       "money": 357777,
       "gold": 100,
       "fame": 536,
       "rank": 33
+    },
+    {
+      "steamId": "76561199801792277",
+      "name": "Сол Хоггар",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 21822,
+      "money": 9511,
+      "gold": 20,
+      "fame": 177,
+      "rank": 42
     }
   ],
-  "updated": "2026-09-24T09:19:32.584Z"
+  "updated": "2026-09-24T09:20:32.588Z"
 }
