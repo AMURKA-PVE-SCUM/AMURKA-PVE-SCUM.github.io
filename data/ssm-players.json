@@ -1,26 +1,36 @@
 {
-  "online": 2,
+  "online": 3,
   "players": [
     {
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
       "sessionSeconds": 26,
-      "playTimeSeconds": 33076,
-      "money": 1161542,
+      "playTimeSeconds": 33136,
+      "money": 1163873,
       "gold": 272,
-      "fame": 3422,
+      "fame": 3423,
       "rank": 36
     },
     {
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
       "sessionSeconds": 26,
-      "playTimeSeconds": 14697,
+      "playTimeSeconds": 14757,
       "money": 104082,
       "gold": 3297,
       "fame": 12776,
       "rank": 54
+    },
+    {
+      "steamId": "76561199807377476",
+      "name": "Director",
+      "sessionSeconds": 26,
+      "playTimeSeconds": 31,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "rank": 112
     }
   ],
-  "updated": "2026-09-24T22:33:38.494Z"
+  "updated": "2026-09-24T22:34:38.509Z"
 }
