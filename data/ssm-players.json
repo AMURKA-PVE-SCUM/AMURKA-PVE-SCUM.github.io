@@ -1,11 +1,11 @@
 {
-  "online": 4,
+  "online": 5,
   "players": [
     {
       "steamId": "76561198230911236",
       "name": "TOR",
-      "sessionSeconds": 3608,
-      "playTimeSeconds": 42886,
+      "sessionSeconds": 3668,
+      "playTimeSeconds": 42946,
       "money": 1546690,
       "gold": 180,
       "fame": 695,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 3520,
-      "playTimeSeconds": 148760,
+      "sessionSeconds": 3580,
+      "playTimeSeconds": 148820,
       "money": 144113,
       "gold": 725,
       "fame": 2892,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 1097,
-      "playTimeSeconds": 142386,
+      "sessionSeconds": 1157,
+      "playTimeSeconds": 142446,
       "money": 92484,
       "gold": 390,
       "fame": 772,
@@ -34,13 +34,23 @@
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 1083,
-      "playTimeSeconds": 182435,
+      "sessionSeconds": 1143,
+      "playTimeSeconds": 182495,
       "money": 2035854,
       "gold": 261,
       "fame": 4985,
       "rank": 3
+    },
+    {
+      "steamId": "76561198271336608",
+      "name": "Валерка",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 38704,
+      "money": 357777,
+      "gold": 100,
+      "fame": 536,
+      "rank": 33
     }
   ],
-  "updated": "2026-09-24T09:17:32.557Z"
+  "updated": "2026-09-24T09:18:32.569Z"
 }
