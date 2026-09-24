@@ -1,21 +1,11 @@
 {
-  "online": 6,
+  "online": 5,
   "players": [
-    {
-      "steamId": "76561198028621423",
-      "name": "Lesnik",
-      "sessionSeconds": 3484,
-      "playTimeSeconds": 49790,
-      "money": 8902,
-      "gold": 3930,
-      "fame": 2683,
-      "rank": 24
-    },
     {
       "steamId": "76561198230911236",
       "name": "TOR",
-      "sessionSeconds": 2528,
-      "playTimeSeconds": 42021,
+      "sessionSeconds": 2588,
+      "playTimeSeconds": 42081,
       "money": 1546690,
       "gold": 180,
       "fame": 691,
@@ -24,8 +14,8 @@
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 2440,
-      "playTimeSeconds": 147825,
+      "sessionSeconds": 2500,
+      "playTimeSeconds": 147885,
       "money": 144113,
       "gold": 725,
       "fame": 2891,
@@ -34,33 +24,33 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 17,
-      "playTimeSeconds": 141551,
+      "sessionSeconds": 77,
+      "playTimeSeconds": 141611,
       "money": 92484,
       "gold": 390,
-      "fame": 771,
+      "fame": 772,
       "rank": 9
+    },
+    {
+      "steamId": "76561198071060590",
+      "name": "Niga",
+      "sessionSeconds": 63,
+      "playTimeSeconds": 181580,
+      "money": 2035854,
+      "gold": 261,
+      "fame": 4985,
+      "rank": 3
     },
     {
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
       "sessionSeconds": 5,
-      "playTimeSeconds": 18255,
+      "playTimeSeconds": 18315,
       "money": 1019965,
       "gold": 252,
       "fame": 3330,
       "rank": 47
-    },
-    {
-      "steamId": "76561198071060590",
-      "name": "Niga",
-      "sessionSeconds": 3,
-      "playTimeSeconds": 181520,
-      "money": 2035854,
-      "gold": 261,
-      "fame": 4985,
-      "rank": 3
     }
   ],
-  "updated": "2026-09-24T08:59:32.424Z"
+  "updated": "2026-09-24T09:00:32.430Z"
 }
