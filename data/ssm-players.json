@@ -1,21 +1,31 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198230911236",
       "name": "TOR",
-      "sessionSeconds": 11778,
-      "playTimeSeconds": 76554,
+      "sessionSeconds": 11838,
+      "playTimeSeconds": 76613,
       "money": 1600575,
       "gold": 225,
       "fame": 835,
       "rank": 17
     },
     {
+      "steamId": "76561199562774415",
+      "name": "ALIGATOR",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 27923,
+      "money": 1070981,
+      "gold": 267,
+      "fame": 3380,
+      "rank": 40
+    },
+    {
       "steamId": "76561199206700564",
       "name": "_Adskiy_Yozhik_",
       "sessionSeconds": 3,
-      "playTimeSeconds": 27358,
+      "playTimeSeconds": 27417,
       "money": 917786,
       "gold": 60,
       "fame": 530,
@@ -25,7 +35,7 @@
       "steamId": "76561199244636054",
       "name": "_PsixichkA_",
       "sessionSeconds": 3,
-      "playTimeSeconds": 80806,
+      "playTimeSeconds": 80865,
       "money": 1374364,
       "gold": 220,
       "fame": 835,
@@ -35,7 +45,7 @@
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 3,
-      "playTimeSeconds": 181196,
+      "playTimeSeconds": 181255,
       "money": 152113,
       "gold": 765,
       "fame": 2993,
@@ -45,12 +55,12 @@
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
       "sessionSeconds": 3,
-      "playTimeSeconds": 9485,
+      "playTimeSeconds": 9544,
       "money": 105226,
       "gold": 3297,
       "fame": 12763,
       "rank": 59
     }
   ],
-  "updated": "2026-09-24T21:06:37.864Z"
+  "updated": "2026-09-24T21:07:37.877Z"
 }
