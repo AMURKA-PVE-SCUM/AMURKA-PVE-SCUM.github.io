@@ -1,5 +1,56 @@
 {
-  "online": 0,
-  "players": [],
-  "updated": "2026-09-24T15:56:35.391Z"
+  "online": 5,
+  "players": [
+    {
+      "steamId": "76561198041539804",
+      "name": "Ded_13",
+      "sessionSeconds": 25,
+      "playTimeSeconds": 125070,
+      "money": 132479,
+      "gold": 51,
+      "fame": 956,
+      "rank": 12
+    },
+    {
+      "steamId": "76561198184180030",
+      "name": "Nazar",
+      "sessionSeconds": 22,
+      "playTimeSeconds": 22003,
+      "money": 41766,
+      "gold": 25,
+      "fame": 177,
+      "rank": 43
+    },
+    {
+      "steamId": "76561198230911236",
+      "name": "TOR",
+      "sessionSeconds": 20,
+      "playTimeSeconds": 65125,
+      "money": 1589161,
+      "gold": 210,
+      "fame": 784,
+      "rank": 21
+    },
+    {
+      "steamId": "76561199404896383",
+      "name": "Victor_Vilkouskas",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 241391,
+      "money": 2396757,
+      "gold": 625,
+      "fame": 4686,
+      "rank": 1
+    },
+    {
+      "steamId": "76561199244636054",
+      "name": "_PsixichkA_",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 69918,
+      "money": 1368516,
+      "gold": 205,
+      "fame": 783,
+      "rank": 19
+    }
+  ],
+  "updated": "2026-09-24T15:57:35.405Z"
 }
