@@ -2,10 +2,20 @@
   "online": 8,
   "players": [
     {
+      "steamId": "76561198114495234",
+      "name": "Dumhamer",
+      "sessionSeconds": 23,
+      "playTimeSeconds": 18109,
+      "money": 3900,
+      "gold": 20,
+      "fame": 74,
+      "rank": 52
+    },
+    {
       "steamId": "76561198198157306",
       "name": "alekx838",
       "sessionSeconds": 23,
-      "playTimeSeconds": 152952,
+      "playTimeSeconds": 153012,
       "money": 434436,
       "gold": 297,
       "fame": 5039,
@@ -15,7 +25,7 @@
       "steamId": "76561199807377476",
       "name": "Director",
       "sessionSeconds": 23,
-      "playTimeSeconds": 23535,
+      "playTimeSeconds": 23595,
       "money": 878348,
       "gold": 6,
       "fame": 221,
@@ -25,17 +35,17 @@
       "steamId": "76561199025384857",
       "name": "Pupsik",
       "sessionSeconds": 23,
-      "playTimeSeconds": 103120,
-      "money": 1137229,
-      "gold": 121,
-      "fame": 763,
+      "playTimeSeconds": 103180,
+      "money": 1138229,
+      "gold": 126,
+      "fame": 773,
       "rank": 13
     },
     {
       "steamId": "76561199823596261",
       "name": "MИХА",
       "sessionSeconds": 23,
-      "playTimeSeconds": 99205,
+      "playTimeSeconds": 99265,
       "money": 1137930,
       "gold": 135,
       "fame": 623,
@@ -45,7 +55,7 @@
       "steamId": "76561198041539804",
       "name": "Ded_13",
       "sessionSeconds": 23,
-      "playTimeSeconds": 165150,
+      "playTimeSeconds": 165210,
       "money": 123642,
       "gold": 101,
       "fame": 1143,
@@ -55,7 +65,7 @@
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 23,
-      "playTimeSeconds": 191565,
+      "playTimeSeconds": 191625,
       "money": 155113,
       "gold": 780,
       "fame": 3030,
@@ -65,22 +75,12 @@
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
       "sessionSeconds": 23,
-      "playTimeSeconds": 22261,
+      "playTimeSeconds": 22321,
       "money": 63325,
       "gold": 3307,
-      "fame": 12821,
+      "fame": 12822,
       "rank": 46
-    },
-    {
-      "steamId": "76561198114495234",
-      "name": "Dumhamer",
-      "sessionSeconds": 13,
-      "playTimeSeconds": 18049,
-      "money": 3900,
-      "gold": 20,
-      "fame": 74,
-      "rank": 52
     }
   ],
-  "updated": "2026-09-25T15:30:51.437Z"
+  "updated": "2026-09-25T15:31:51.444Z"
 }
