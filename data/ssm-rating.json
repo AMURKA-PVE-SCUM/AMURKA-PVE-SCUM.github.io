@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198071060590",
       "name": "Niga",
-      "playTimeSeconds": 236963,
+      "playTimeSeconds": 237023,
       "money": 2027294,
       "gold": 326,
       "fame": 5228,
@@ -64,11 +64,11 @@
       "rank": 7,
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "playTimeSeconds": 163205,
+      "playTimeSeconds": 163228,
       "money": 122642,
       "gold": 96,
       "fame": 1131,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 8,
@@ -124,10 +124,10 @@
       "rank": 13,
       "steamId": "76561199823596261",
       "name": "MИХА",
-      "playTimeSeconds": 94302,
+      "playTimeSeconds": 94362,
       "money": 1134730,
       "gold": 125,
-      "fame": 587,
+      "fame": 588,
       "isOnline": true
     },
     {
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561198382114262",
+      "name": "Montana",
+      "playTimeSeconds": 86863,
+      "money": 3164068,
+      "gold": 2760,
+      "fame": 3046,
+      "isOnline": true
+    },
+    {
+      "rank": 16,
       "steamId": "76561198350597550",
       "name": "GREWNIK",
       "playTimeSeconds": 86857,
@@ -149,16 +159,6 @@
       "gold": 105,
       "fame": 729,
       "isOnline": false
-    },
-    {
-      "rank": 16,
-      "steamId": "76561198382114262",
-      "name": "Montana",
-      "playTimeSeconds": 86803,
-      "money": 3164068,
-      "gold": 2760,
-      "fame": 3046,
-      "isOnline": true
     },
     {
       "rank": 17,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-25T13:47:50.652Z"
+  "updated": "2026-09-25T13:48:50.664Z"
 }
