@@ -1,11 +1,11 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 492,
-      "playTimeSeconds": 273529,
+      "sessionSeconds": 552,
+      "playTimeSeconds": 273589,
       "money": 2532509,
       "gold": 619,
       "fame": 5166,
@@ -15,17 +15,17 @@
       "steamId": "76561198066957615",
       "name": "Dr_Daddy",
       "sessionSeconds": 9,
-      "playTimeSeconds": 11771,
+      "playTimeSeconds": 11831,
       "money": 1010947,
       "gold": 15,
       "fame": 58,
-      "rank": 60
+      "rank": 59
     },
     {
       "steamId": "76561198041539804",
       "name": "Ded_13",
       "sessionSeconds": 9,
-      "playTimeSeconds": 157213,
+      "playTimeSeconds": 157273,
       "money": 133268,
       "gold": 91,
       "fame": 1109,
@@ -35,22 +35,32 @@
       "steamId": "76561198382114262",
       "name": "Montana",
       "sessionSeconds": 9,
-      "playTimeSeconds": 80844,
+      "playTimeSeconds": 80904,
       "money": 3169068,
       "gold": 2755,
       "fame": 3032,
       "rank": 19
     },
     {
+      "steamId": "76561199823596261",
+      "name": "MИХА",
+      "sessionSeconds": 9,
+      "playTimeSeconds": 88370,
+      "money": 1133730,
+      "gold": 120,
+      "fame": 571,
+      "rank": 15
+    },
+    {
       "steamId": "76561199807377476",
       "name": "Director",
       "sessionSeconds": 9,
-      "playTimeSeconds": 11747,
-      "money": 940442,
+      "playTimeSeconds": 11807,
+      "money": 940942,
       "gold": 15,
-      "fame": 150,
+      "fame": 155,
       "rank": 61
     }
   ],
-  "updated": "2026-09-25T12:07:49.878Z"
+  "updated": "2026-09-25T12:08:49.886Z"
 }
