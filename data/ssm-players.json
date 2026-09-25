@@ -1,11 +1,11 @@
 {
-  "online": 9,
+  "online": 10,
   "players": [
     {
       "steamId": "76561198071060590",
       "name": "Niga",
       "sessionSeconds": 28,
-      "playTimeSeconds": 217877,
+      "playTimeSeconds": 217937,
       "money": 2026713,
       "gold": 301,
       "fame": 5160,
@@ -15,7 +15,7 @@
       "steamId": "76561198156375337",
       "name": "Domo",
       "sessionSeconds": 28,
-      "playTimeSeconds": 54212,
+      "playTimeSeconds": 54272,
       "money": 407356,
       "gold": 815,
       "fame": 2052,
@@ -25,7 +25,7 @@
       "steamId": "76561199025384857",
       "name": "Pupsik",
       "sessionSeconds": 28,
-      "playTimeSeconds": 90356,
+      "playTimeSeconds": 90416,
       "money": 1112083,
       "gold": 106,
       "fame": 653,
@@ -35,7 +35,7 @@
       "steamId": "76561198068992719",
       "name": "Alina",
       "sessionSeconds": 28,
-      "playTimeSeconds": 52684,
+      "playTimeSeconds": 52744,
       "money": 4021389,
       "gold": 660,
       "fame": 1348,
@@ -45,8 +45,8 @@
       "steamId": "76561199823596261",
       "name": "MИХА",
       "sessionSeconds": 28,
-      "playTimeSeconds": 73845,
-      "money": 1129622,
+      "playTimeSeconds": 73905,
+      "money": 1129730,
       "gold": 100,
       "fame": 445,
       "rank": 20
@@ -55,7 +55,7 @@
       "steamId": "76561198114495234",
       "name": "Dumhamer",
       "sessionSeconds": 28,
-      "playTimeSeconds": 4614,
+      "playTimeSeconds": 4674,
       "money": 1000,
       "gold": 5,
       "fame": 18,
@@ -65,17 +65,17 @@
       "steamId": "76561198018971277",
       "name": "SaintWolf",
       "sessionSeconds": 28,
-      "playTimeSeconds": 90,
+      "playTimeSeconds": 150,
       "money": 0,
       "gold": 0,
       "fame": 0,
-      "rank": 114
+      "rank": 111
     },
     {
       "steamId": "76561198775651698",
       "name": "Добряк",
       "sessionSeconds": 28,
-      "playTimeSeconds": 14505,
+      "playTimeSeconds": 14565,
       "money": 4124188,
       "gold": 1105,
       "fame": 11170,
@@ -85,12 +85,22 @@
       "steamId": "76561198790887864",
       "name": "Roma",
       "sessionSeconds": 28,
-      "playTimeSeconds": 229768,
+      "playTimeSeconds": 229828,
       "money": 1239598,
       "gold": 390,
       "fame": 1553,
       "rank": 2
+    },
+    {
+      "steamId": "76561198259078236",
+      "name": "DarkAvery",
+      "sessionSeconds": 28,
+      "playTimeSeconds": 48,
+      "money": 693440,
+      "gold": 120,
+      "fame": 951,
+      "rank": 115
     }
   ],
-  "updated": "2026-09-25T07:53:42.504Z"
+  "updated": "2026-09-25T07:54:42.517Z"
 }
