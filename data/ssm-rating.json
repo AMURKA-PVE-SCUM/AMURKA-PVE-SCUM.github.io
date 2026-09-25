@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 264209,
+      "playTimeSeconds": 264269,
       "money": 2530561,
       "gold": 604,
       "fame": 5006,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 234040,
+      "playTimeSeconds": 234100,
       "money": 1241598,
       "gold": 400,
       "fame": 1578,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198071060590",
       "name": "Niga",
-      "playTimeSeconds": 222971,
+      "playTimeSeconds": 223031,
       "money": 2023294,
       "gold": 306,
       "fame": 5177,
@@ -114,11 +114,11 @@
       "rank": 12,
       "steamId": "76561199025384857",
       "name": "Pupsik",
-      "playTimeSeconds": 95184,
+      "playTimeSeconds": 95217,
       "money": 1161250,
       "gold": 111,
       "fame": 713,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 13,
@@ -162,6 +162,16 @@
     },
     {
       "rank": 17,
+      "steamId": "76561199823596261",
+      "name": "MИХА",
+      "playTimeSeconds": 78870,
+      "money": 1130730,
+      "gold": 105,
+      "fame": 459,
+      "isOnline": true
+    },
+    {
+      "rank": 18,
       "steamId": "76561198230911236",
       "name": "TOR",
       "playTimeSeconds": 78815,
@@ -169,16 +179,6 @@
       "gold": 225,
       "fame": 837,
       "isOnline": false
-    },
-    {
-      "rank": 18,
-      "steamId": "76561199823596261",
-      "name": "MИХА",
-      "playTimeSeconds": 78810,
-      "money": 1130730,
-      "gold": 105,
-      "fame": 459,
-      "isOnline": true
     },
     {
       "rank": 19,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-25T09:21:43.184Z"
+  "updated": "2026-09-25T09:22:43.189Z"
 }
