@@ -1,11 +1,11 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198071060590",
       "name": "Niga",
       "sessionSeconds": 27,
-      "playTimeSeconds": 218716,
+      "playTimeSeconds": 218776,
       "money": 2022294,
       "gold": 301,
       "fame": 5161,
@@ -15,7 +15,7 @@
       "steamId": "76561198156375337",
       "name": "Domo",
       "sessionSeconds": 27,
-      "playTimeSeconds": 55051,
+      "playTimeSeconds": 55111,
       "money": 407356,
       "gold": 815,
       "fame": 2053,
@@ -25,7 +25,7 @@
       "steamId": "76561199025384857",
       "name": "Pupsik",
       "sessionSeconds": 27,
-      "playTimeSeconds": 91195,
+      "playTimeSeconds": 91255,
       "money": 1160250,
       "gold": 106,
       "fame": 704,
@@ -35,7 +35,7 @@
       "steamId": "76561199823596261",
       "name": "MИХА",
       "sessionSeconds": 27,
-      "playTimeSeconds": 74684,
+      "playTimeSeconds": 74744,
       "money": 1129730,
       "gold": 100,
       "fame": 446,
@@ -45,7 +45,7 @@
       "steamId": "76561198114495234",
       "name": "Dumhamer",
       "sessionSeconds": 27,
-      "playTimeSeconds": 5453,
+      "playTimeSeconds": 5513,
       "money": 900,
       "gold": 5,
       "fame": 20,
@@ -55,32 +55,42 @@
       "steamId": "76561198018971277",
       "name": "SaintWolf",
       "sessionSeconds": 27,
-      "playTimeSeconds": 929,
+      "playTimeSeconds": 989,
       "money": 0,
       "gold": 0,
-      "fame": 0,
-      "rank": 101
+      "fame": 1,
+      "rank": 100
     },
     {
       "steamId": "76561198790887864",
       "name": "Roma",
       "sessionSeconds": 27,
-      "playTimeSeconds": 230607,
+      "playTimeSeconds": 230667,
       "money": 1240598,
       "gold": 395,
       "fame": 1564,
       "rank": 2
     },
     {
+      "steamId": "76561198354046948",
+      "name": "Nelegal",
+      "sessionSeconds": 27,
+      "playTimeSeconds": 163,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "rank": 113
+    },
+    {
       "steamId": "76561198259078236",
       "name": "DarkAvery",
-      "sessionSeconds": 12,
-      "playTimeSeconds": 811,
+      "sessionSeconds": 27,
+      "playTimeSeconds": 871,
       "money": 1693440,
       "gold": 120,
       "fame": 951,
-      "rank": 104
+      "rank": 103
     }
   ],
-  "updated": "2026-09-25T08:07:42.654Z"
+  "updated": "2026-09-25T08:08:42.665Z"
 }
