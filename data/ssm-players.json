@@ -1,21 +1,21 @@
 {
-  "online": 4,
+  "online": 5,
   "players": [
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 22,
-      "playTimeSeconds": 214491,
-      "money": 161113,
-      "gold": 810,
-      "fame": 3113,
+      "playTimeSeconds": 214551,
+      "money": 162113,
+      "gold": 815,
+      "fame": 3123,
       "rank": 4
     },
     {
       "steamId": "76561199807377476",
       "name": "Director",
       "sessionSeconds": 22,
-      "playTimeSeconds": 36506,
+      "playTimeSeconds": 36566,
       "money": 72364,
       "gold": 26,
       "fame": 307,
@@ -25,22 +25,32 @@
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
       "sessionSeconds": 22,
-      "playTimeSeconds": 44589,
+      "playTimeSeconds": 44649,
       "money": 4959,
       "gold": 3335,
       "fame": 12922,
       "rank": 34
     },
     {
+      "steamId": "76561198800781114",
+      "name": "August",
+      "sessionSeconds": 22,
+      "playTimeSeconds": 25829,
+      "money": 453292,
+      "gold": 637,
+      "fame": 1680,
+      "rank": 48
+    },
+    {
       "steamId": "76561198220671051",
       "name": "Котэ_Вездессущий",
       "sessionSeconds": 22,
-      "playTimeSeconds": 478,
+      "playTimeSeconds": 538,
       "money": 0,
       "gold": 0,
       "fame": 2,
-      "rank": 116
+      "rank": 114
     }
   ],
-  "updated": "2026-09-25T22:01:54.474Z"
+  "updated": "2026-09-25T22:02:54.478Z"
 }
