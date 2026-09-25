@@ -1,21 +1,31 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198066957615",
       "name": "Dr_Daddy",
       "sessionSeconds": 3,
-      "playTimeSeconds": 15546,
+      "playTimeSeconds": 15606,
       "money": 1011947,
       "gold": 20,
       "fame": 71,
       "rank": 56
     },
     {
+      "steamId": "76561199580351165",
+      "name": "ШРинат",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 858,
+      "money": 7119502,
+      "gold": 3836,
+      "fame": 26743,
+      "rank": 106
+    },
+    {
       "steamId": "76561198041539804",
       "name": "Ded_13",
       "sessionSeconds": 3,
-      "playTimeSeconds": 160988,
+      "playTimeSeconds": 161048,
       "money": 122642,
       "gold": 96,
       "fame": 1123,
@@ -25,7 +35,7 @@
       "steamId": "76561198382114262",
       "name": "Montana",
       "sessionSeconds": 3,
-      "playTimeSeconds": 84619,
+      "playTimeSeconds": 84679,
       "money": 3164068,
       "gold": 2760,
       "fame": 3044,
@@ -35,7 +45,7 @@
       "steamId": "76561199823596261",
       "name": "MИХА",
       "sessionSeconds": 3,
-      "playTimeSeconds": 92085,
+      "playTimeSeconds": 92145,
       "money": 1134730,
       "gold": 125,
       "fame": 586,
@@ -45,7 +55,7 @@
       "steamId": "76561199807377476",
       "name": "Director",
       "sessionSeconds": 3,
-      "playTimeSeconds": 15522,
+      "playTimeSeconds": 15582,
       "money": 897372,
       "gold": 20,
       "fame": 188,
@@ -55,7 +65,7 @@
       "steamId": "76561198802007304",
       "name": "SEV",
       "sessionSeconds": 3,
-      "playTimeSeconds": 6603,
+      "playTimeSeconds": 6663,
       "money": 760,
       "gold": 5,
       "fame": 18,
@@ -65,12 +75,12 @@
       "steamId": "76561198071060590",
       "name": "Niga",
       "sessionSeconds": 3,
-      "playTimeSeconds": 234746,
+      "playTimeSeconds": 234806,
       "money": 2026294,
       "gold": 321,
       "fame": 5215,
       "rank": 3
     }
   ],
-  "updated": "2026-09-25T13:10:50.385Z"
+  "updated": "2026-09-25T13:11:50.399Z"
 }
