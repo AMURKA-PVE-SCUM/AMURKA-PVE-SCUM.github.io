@@ -1,11 +1,51 @@
 {
-  "online": 4,
+  "online": 8,
   "players": [
+    {
+      "steamId": "76561198120086834",
+      "name": "Myp3ilka",
+      "sessionSeconds": 10,
+      "playTimeSeconds": 31194,
+      "money": 1059,
+      "gold": 3315,
+      "fame": 12871,
+      "rank": 40
+    },
+    {
+      "steamId": "76561198029476275",
+      "name": "XEH",
+      "sessionSeconds": 10,
+      "playTimeSeconds": 64358,
+      "money": 114544,
+      "gold": 350,
+      "fame": 1398,
+      "rank": 23
+    },
+    {
+      "steamId": "76561199877063571",
+      "name": "Mazay",
+      "sessionSeconds": 10,
+      "playTimeSeconds": 200576,
+      "money": 158113,
+      "gold": 795,
+      "fame": 3060,
+      "rank": 4
+    },
+    {
+      "steamId": "76561199823596261",
+      "name": "MИХА",
+      "sessionSeconds": 10,
+      "playTimeSeconds": 108219,
+      "money": 1151695,
+      "gold": 145,
+      "fame": 704,
+      "rank": 13
+    },
     {
       "steamId": "76561198128211851",
       "name": "zloy",
-      "sessionSeconds": 11,
-      "playTimeSeconds": 32982,
+      "sessionSeconds": 10,
+      "playTimeSeconds": 33042,
       "money": 4276880,
       "gold": 224,
       "fame": 22110,
@@ -14,8 +54,8 @@
     {
       "steamId": "76561198071060590",
       "name": "Niga",
-      "sessionSeconds": 11,
-      "playTimeSeconds": 248067,
+      "sessionSeconds": 10,
+      "playTimeSeconds": 248127,
       "money": 2030294,
       "gold": 341,
       "fame": 5271,
@@ -24,8 +64,8 @@
     {
       "steamId": "76561198372320271",
       "name": "ADA",
-      "sessionSeconds": 11,
-      "playTimeSeconds": 30539,
+      "sessionSeconds": 10,
+      "playTimeSeconds": 30599,
       "money": 203762,
       "gold": 37,
       "fame": 1921,
@@ -34,13 +74,13 @@
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 11,
-      "playTimeSeconds": 242235,
+      "sessionSeconds": 10,
+      "playTimeSeconds": 242295,
       "money": 1243598,
       "gold": 410,
       "fame": 1605,
       "rank": 3
     }
   ],
-  "updated": "2026-09-25T18:03:52.643Z"
+  "updated": "2026-09-25T18:04:52.647Z"
 }
