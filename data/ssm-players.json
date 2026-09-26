@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 7,
   "players": [
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 3507,
-      "playTimeSeconds": 223740,
+      "sessionSeconds": 3567,
+      "playTimeSeconds": 223800,
       "money": 164113,
       "gold": 825,
       "fame": 3158,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198068992719",
       "name": "Alina",
-      "sessionSeconds": 2383,
-      "playTimeSeconds": 65868,
+      "sessionSeconds": 2443,
+      "playTimeSeconds": 65928,
       "money": 4000389,
       "gold": 700,
       "fame": 1592,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "sessionSeconds": 1145,
-      "playTimeSeconds": 183234,
+      "sessionSeconds": 1205,
+      "playTimeSeconds": 183294,
       "money": 46636,
       "gold": 126,
       "fame": 1221,
@@ -34,9 +34,9 @@
     {
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "sessionSeconds": 801,
-      "playTimeSeconds": 5983,
-      "money": 1008003,
+      "sessionSeconds": 861,
+      "playTimeSeconds": 6043,
+      "money": 1008772,
       "gold": 5,
       "fame": 20,
       "rank": 85
@@ -45,22 +45,32 @@
       "steamId": "76561199738233208",
       "name": "Бен Гур",
       "sessionSeconds": 15,
-      "playTimeSeconds": 31878,
+      "playTimeSeconds": 31938,
       "money": 101827,
       "gold": 85,
       "fame": 694,
-      "rank": 45
+      "rank": 44
     },
     {
       "steamId": "76561198008281090",
       "name": "Стрелок",
       "sessionSeconds": 15,
-      "playTimeSeconds": 7330,
+      "playTimeSeconds": 7390,
       "money": 204916,
       "gold": 215,
       "fame": 965,
       "rank": 81
+    },
+    {
+      "steamId": "76561198257833454",
+      "name": "KJIU3MA",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 18888,
+      "money": 1004800,
+      "gold": 25,
+      "fame": 80,
+      "rank": 56
     }
   ],
-  "updated": "2026-09-26T06:08:58.142Z"
+  "updated": "2026-09-26T06:09:58.153Z"
 }
