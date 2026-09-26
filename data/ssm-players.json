@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 9,
   "players": [
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 3927,
-      "playTimeSeconds": 224159,
+      "sessionSeconds": 3987,
+      "playTimeSeconds": 224219,
       "money": 164113,
       "gold": 825,
       "fame": 3158,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198068992719",
       "name": "Alina",
-      "sessionSeconds": 2803,
-      "playTimeSeconds": 66287,
+      "sessionSeconds": 2863,
+      "playTimeSeconds": 66347,
       "money": 4000389,
       "gold": 700,
       "fame": 1592,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "sessionSeconds": 1565,
-      "playTimeSeconds": 183653,
+      "sessionSeconds": 1625,
+      "playTimeSeconds": 183713,
       "money": 46636,
       "gold": 126,
       "fame": 1221,
@@ -34,8 +34,8 @@
     {
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "sessionSeconds": 1221,
-      "playTimeSeconds": 6402,
+      "sessionSeconds": 1281,
+      "playTimeSeconds": 6462,
       "money": 1008772,
       "gold": 5,
       "fame": 20,
@@ -45,17 +45,37 @@
       "steamId": "76561199738233208",
       "name": "Бен Гур",
       "sessionSeconds": 15,
-      "playTimeSeconds": 32297,
+      "playTimeSeconds": 32357,
       "money": 101827,
       "gold": 85,
       "fame": 694,
       "rank": 43
     },
     {
+      "steamId": "76561198022734828",
+      "name": "ArBuzova",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 150975,
+      "money": 721349,
+      "gold": 215,
+      "fame": 649,
+      "rank": 10
+    },
+    {
+      "steamId": "76561199025384857",
+      "name": "Pupsik",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 107770,
+      "money": 1138229,
+      "gold": 131,
+      "fame": 797,
+      "rank": 14
+    },
+    {
       "steamId": "76561198008281090",
       "name": "Стрелок",
       "sessionSeconds": 15,
-      "playTimeSeconds": 7749,
+      "playTimeSeconds": 7809,
       "money": 204916,
       "gold": 215,
       "fame": 965,
@@ -65,12 +85,12 @@
       "steamId": "76561198257833454",
       "name": "KJIU3MA",
       "sessionSeconds": 15,
-      "playTimeSeconds": 19247,
+      "playTimeSeconds": 19307,
       "money": 992746,
       "gold": 25,
       "fame": 81,
       "rank": 56
     }
   ],
-  "updated": "2026-09-26T06:15:58.190Z"
+  "updated": "2026-09-26T06:16:58.197Z"
 }
