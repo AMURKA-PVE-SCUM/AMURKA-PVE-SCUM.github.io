@@ -1,21 +1,41 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198156375337",
       "name": "Domo",
-      "sessionSeconds": 1065,
-      "playTimeSeconds": 80269,
-      "money": 514000,
-      "gold": 995,
-      "fame": 1027,
+      "sessionSeconds": 1125,
+      "playTimeSeconds": 80329,
+      "money": 464000,
+      "gold": 495,
+      "fame": 1028,
       "rank": 20
+    },
+    {
+      "steamId": "76561199823596261",
+      "name": "MИХА",
+      "sessionSeconds": 18,
+      "playTimeSeconds": 139188,
+      "money": 1161495,
+      "gold": 190,
+      "fame": 829,
+      "rank": 11
+    },
+    {
+      "steamId": "76561198041539804",
+      "name": "Ded_13",
+      "sessionSeconds": 18,
+      "playTimeSeconds": 198342,
+      "money": 29296,
+      "gold": 146,
+      "fame": 1289,
+      "rank": 5
     },
     {
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
       "sessionSeconds": 18,
-      "playTimeSeconds": 18919,
+      "playTimeSeconds": 18979,
       "money": 976697,
       "gold": 25,
       "fame": 80,
@@ -25,7 +45,7 @@
       "steamId": "76561198028600444",
       "name": "Ольга",
       "sessionSeconds": 18,
-      "playTimeSeconds": 35776,
+      "playTimeSeconds": 35836,
       "money": 882859,
       "gold": 170,
       "fame": 1182,
@@ -35,9 +55,9 @@
       "steamId": "76561198068992719",
       "name": "Alina",
       "sessionSeconds": 18,
-      "playTimeSeconds": 76604,
-      "money": 3898389,
-      "gold": 615,
+      "playTimeSeconds": 76664,
+      "money": 3948389,
+      "gold": 1115,
       "fame": 1634,
       "rank": 23
     },
@@ -45,7 +65,7 @@
       "steamId": "76561198077981589",
       "name": "Чилим",
       "sessionSeconds": 18,
-      "playTimeSeconds": 9265,
+      "playTimeSeconds": 9325,
       "money": 1009772,
       "gold": 10,
       "fame": 33,
@@ -55,22 +75,12 @@
       "steamId": "76561198802007304",
       "name": "SEV",
       "sessionSeconds": 18,
-      "playTimeSeconds": 9500,
+      "playTimeSeconds": 9560,
       "money": 1634,
       "gold": 10,
       "fame": 31,
       "rank": 80
-    },
-    {
-      "steamId": "76561198041539804",
-      "name": "Ded_13",
-      "sessionSeconds": 11,
-      "playTimeSeconds": 198282,
-      "money": 29296,
-      "gold": 146,
-      "fame": 1289,
-      "rank": 5
     }
   ],
-  "updated": "2026-09-26T12:05:04.508Z"
+  "updated": "2026-09-26T12:06:04.520Z"
 }
