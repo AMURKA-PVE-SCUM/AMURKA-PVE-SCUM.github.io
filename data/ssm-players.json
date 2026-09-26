@@ -1,11 +1,11 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198028621423",
       "name": "Lesnik",
-      "sessionSeconds": 1756,
-      "playTimeSeconds": 75463,
+      "sessionSeconds": 1816,
+      "playTimeSeconds": 75523,
       "money": 113462,
       "gold": 3965,
       "fame": 2826,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561199823596261",
       "name": "MИХА",
-      "sessionSeconds": 1140,
-      "playTimeSeconds": 119911,
+      "sessionSeconds": 1200,
+      "playTimeSeconds": 119971,
       "money": 1154695,
       "gold": 160,
       "fame": 743,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198050509760",
       "name": "СуровыйНуб",
-      "sessionSeconds": 508,
-      "playTimeSeconds": 18767,
+      "sessionSeconds": 568,
+      "playTimeSeconds": 18827,
       "money": 1006000,
       "gold": 30,
       "fame": 180,
@@ -35,7 +35,7 @@
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
       "sessionSeconds": 22,
-      "playTimeSeconds": 65385,
+      "playTimeSeconds": 65445,
       "money": -1041,
       "gold": 10,
       "fame": 13003,
@@ -45,12 +45,22 @@
       "steamId": "76561199103686708",
       "name": "DVmast3r",
       "sessionSeconds": 22,
-      "playTimeSeconds": 13316,
+      "playTimeSeconds": 13376,
       "money": 1900,
       "gold": 10,
       "fame": 48,
       "rank": 66
+    },
+    {
+      "steamId": "76561198259078236",
+      "name": "DarkAvery",
+      "sessionSeconds": 18,
+      "playTimeSeconds": 24134,
+      "money": 658147,
+      "gold": 130,
+      "fame": 1025,
+      "rank": 51
     }
   ],
-  "updated": "2026-09-26T04:44:57.505Z"
+  "updated": "2026-09-26T04:45:57.515Z"
 }
