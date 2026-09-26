@@ -1,21 +1,21 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198257833454",
       "name": "KJIU3MA",
-      "sessionSeconds": 13089,
-      "playTimeSeconds": 42853,
+      "sessionSeconds": 13149,
+      "playTimeSeconds": 42913,
       "money": 1047916,
       "gold": 55,
-      "fame": 265,
-      "rank": 39
+      "fame": 266,
+      "rank": 38
     },
     {
       "steamId": "76561198054083179",
       "name": "Roksi",
       "sessionSeconds": 1,
-      "playTimeSeconds": 40641,
+      "playTimeSeconds": 40701,
       "money": 825890,
       "gold": 56,
       "fame": 470,
@@ -25,7 +25,7 @@
       "steamId": "76561199823596261",
       "name": "MИХА",
       "sessionSeconds": 1,
-      "playTimeSeconds": 147856,
+      "playTimeSeconds": 147916,
       "money": 1158932,
       "gold": 200,
       "fame": 871,
@@ -35,7 +35,7 @@
       "steamId": "76561199246198020",
       "name": "Komodo",
       "sessionSeconds": 1,
-      "playTimeSeconds": 13375,
+      "playTimeSeconds": 13435,
       "money": 1161148,
       "gold": 227,
       "fame": 1794,
@@ -45,8 +45,8 @@
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
       "sessionSeconds": 1,
-      "playTimeSeconds": 72559,
-      "money": 959,
+      "playTimeSeconds": 72619,
+      "money": 2641,
       "gold": 20,
       "fame": 13039,
       "rank": 24
@@ -55,7 +55,7 @@
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 1,
-      "playTimeSeconds": 234974,
+      "playTimeSeconds": 235034,
       "money": 167113,
       "gold": 840,
       "fame": 3189,
@@ -65,12 +65,22 @@
       "steamId": "76561199807377476",
       "name": "Director",
       "sessionSeconds": 1,
-      "playTimeSeconds": 43444,
+      "playTimeSeconds": 43504,
       "money": 74364,
       "gold": 36,
       "fame": 336,
       "rank": 36
+    },
+    {
+      "steamId": "76561198022734828",
+      "name": "ArBuzova",
+      "sessionSeconds": 1,
+      "playTimeSeconds": 158493,
+      "money": 723349,
+      "gold": 225,
+      "fame": 676,
+      "rank": 9
     }
   ],
-  "updated": "2026-09-26T15:37:06.000Z"
+  "updated": "2026-09-26T15:38:06.010Z"
 }
