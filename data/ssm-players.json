@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
+    {
+      "steamId": "76561198050070023",
+      "name": "Oxymoron",
+      "sessionSeconds": 28,
+      "playTimeSeconds": 6449,
+      "money": 1001000,
+      "gold": 5,
+      "fame": 118,
+      "rank": 84
+    },
     {
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 90053,
+      "sessionSeconds": 28,
+      "playTimeSeconds": 90114,
       "money": 323987,
       "gold": 200,
-      "fame": 844,
+      "fame": 845,
       "rank": 16
     }
   ],
-  "updated": "2026-09-26T03:03:56.722Z"
+  "updated": "2026-09-26T03:04:56.733Z"
 }
