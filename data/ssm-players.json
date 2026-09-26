@@ -2,30 +2,40 @@
   "online": 5,
   "players": [
     {
+      "steamId": "76561199035719975",
+      "name": "Husky_v_Kaske",
+      "sessionSeconds": 32,
+      "playTimeSeconds": 6619,
+      "money": 1001000,
+      "gold": 5,
+      "fame": 126,
+      "rank": 84
+    },
+    {
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
       "sessionSeconds": 24,
-      "playTimeSeconds": 61787,
+      "playTimeSeconds": 61847,
       "money": -2041,
       "gold": 5,
-      "fame": 12988,
+      "fame": 12989,
       "rank": 27
     },
     {
       "steamId": "76561198050070023",
       "name": "Oxymoron",
       "sessionSeconds": 24,
-      "playTimeSeconds": 8808,
+      "playTimeSeconds": 8868,
       "money": 1065574,
       "gold": 10,
       "fame": 200,
-      "rank": 74
+      "rank": 73
     },
     {
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
       "sessionSeconds": 24,
-      "playTimeSeconds": 92473,
+      "playTimeSeconds": 92533,
       "money": 324087,
       "gold": 205,
       "fame": 858,
@@ -35,22 +45,12 @@
       "steamId": "76561199103686708",
       "name": "DVmast3r",
       "sessionSeconds": 24,
-      "playTimeSeconds": 9718,
+      "playTimeSeconds": 9778,
       "money": 1000,
       "gold": 5,
       "fame": 33,
       "rank": 71
-    },
-    {
-      "steamId": "76561199035719975",
-      "name": "Husky_v_Kaske",
-      "sessionSeconds": 1,
-      "playTimeSeconds": 6559,
-      "money": 1001000,
-      "gold": 5,
-      "fame": 126,
-      "rank": 84
     }
   ],
-  "updated": "2026-09-26T03:44:57.031Z"
+  "updated": "2026-09-26T03:45:57.045Z"
 }
