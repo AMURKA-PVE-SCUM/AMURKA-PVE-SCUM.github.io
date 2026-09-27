@@ -52,6 +52,16 @@
     },
     {
       "rank": 6,
+      "steamId": "76561198794536026",
+      "name": "Ayanakoji",
+      "playTimeSeconds": 20206,
+      "money": 109430,
+      "gold": 33,
+      "fame": 260,
+      "isOnline": true
+    },
+    {
+      "rank": 7,
       "steamId": "76561198077981589",
       "name": "Чилим",
       "playTimeSeconds": 20187,
@@ -59,16 +69,6 @@
       "gold": 45,
       "fame": 241,
       "isOnline": false
-    },
-    {
-      "rank": 7,
-      "steamId": "76561198794536026",
-      "name": "Ayanakoji",
-      "playTimeSeconds": 20146,
-      "money": 109430,
-      "gold": 33,
-      "fame": 260,
-      "isOnline": true
     },
     {
       "rank": 8,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561199076055725",
       "name": "ICE",
-      "playTimeSeconds": 12136,
+      "playTimeSeconds": 12196,
       "money": 981419,
       "gold": 15,
       "fame": 236,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-27T15:47:16.489Z"
+  "updated": "2026-09-27T15:48:16.489Z"
 }
