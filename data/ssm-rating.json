@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198802007304",
       "name": "SEV",
-      "playTimeSeconds": 8576,
+      "playTimeSeconds": 8636,
       "money": 11684,
       "gold": 30,
       "fame": 86,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 5059,
+      "playTimeSeconds": 5119,
       "money": 100314,
       "gold": 425,
       "fame": 865,
@@ -64,8 +64,8 @@
       "rank": 7,
       "steamId": "76561199025384857",
       "name": "Pupsik",
-      "playTimeSeconds": 4305,
-      "money": 1117883,
+      "playTimeSeconds": 4365,
+      "money": 1117102,
       "gold": 156,
       "fame": 969,
       "isOnline": true
@@ -82,6 +82,16 @@
     },
     {
       "rank": 9,
+      "steamId": "76561199738233208",
+      "name": "Бен Гур",
+      "playTimeSeconds": 3072,
+      "money": 93832,
+      "gold": 90,
+      "fame": 709,
+      "isOnline": true
+    },
+    {
+      "rank": 10,
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "playTimeSeconds": 3023,
@@ -89,16 +99,6 @@
       "gold": 4367,
       "fame": 2944,
       "isOnline": false
-    },
-    {
-      "rank": 10,
-      "steamId": "76561199738233208",
-      "name": "Бен Гур",
-      "playTimeSeconds": 3012,
-      "money": 93832,
-      "gold": 90,
-      "fame": 709,
-      "isOnline": true
     },
     {
       "rank": 11,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-27T04:38:11.561Z"
+  "updated": "2026-09-27T04:39:11.564Z"
 }
