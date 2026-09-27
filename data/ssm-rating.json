@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "playTimeSeconds": 24520,
+      "playTimeSeconds": 24580,
       "money": 110230,
       "gold": 38,
       "fame": 278,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198022734828",
       "name": "ArBuzova",
-      "playTimeSeconds": 21375,
+      "playTimeSeconds": 21435,
       "money": 789938,
       "gold": 170,
       "fame": 873,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198071060590",
       "name": "Niga",
-      "playTimeSeconds": 13843,
+      "playTimeSeconds": 13903,
       "money": 2182069,
       "gold": 377,
       "fame": 5674,
@@ -132,6 +132,16 @@
     },
     {
       "rank": 14,
+      "steamId": "76561198070555721",
+      "name": "Anskor",
+      "playTimeSeconds": 13417,
+      "money": 38417,
+      "gold": 60,
+      "fame": 291,
+      "isOnline": true
+    },
+    {
+      "rank": 15,
       "steamId": "76561198041539804",
       "name": "Ded_13",
       "playTimeSeconds": 13402,
@@ -141,17 +151,17 @@
       "isOnline": false
     },
     {
-      "rank": 15,
-      "steamId": "76561198070555721",
-      "name": "Anskor",
-      "playTimeSeconds": 13357,
-      "money": 38417,
-      "gold": 60,
-      "fame": 291,
+      "rank": 16,
+      "steamId": "76561198120086834",
+      "name": "Myp3ilka",
+      "playTimeSeconds": 13230,
+      "money": 197899,
+      "gold": 263,
+      "fame": 13641,
       "isOnline": true
     },
     {
-      "rank": 16,
+      "rank": 17,
       "steamId": "76561198220671051",
       "name": "Котэ_Вездессущий",
       "playTimeSeconds": 13176,
@@ -159,16 +169,6 @@
       "gold": 90,
       "fame": 545,
       "isOnline": false
-    },
-    {
-      "rank": 17,
-      "steamId": "76561198120086834",
-      "name": "Myp3ilka",
-      "playTimeSeconds": 13170,
-      "money": 197899,
-      "gold": 263,
-      "fame": 13641,
-      "isOnline": true
     },
     {
       "rank": 18,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-27T17:00:17.014Z"
+  "updated": "2026-09-27T17:01:17.020Z"
 }
