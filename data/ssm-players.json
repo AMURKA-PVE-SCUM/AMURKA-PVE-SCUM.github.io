@@ -1,11 +1,21 @@
 {
-  "online": 3,
+  "online": 4,
   "players": [
+    {
+      "steamId": "76561199562774415",
+      "name": "ALIGATOR",
+      "sessionSeconds": 18,
+      "playTimeSeconds": 5224,
+      "money": 1279870,
+      "gold": 317,
+      "fame": 3710,
+      "rank": 33
+    },
     {
       "steamId": "76561198121549932",
       "name": "Prostyak",
-      "sessionSeconds": 17,
-      "playTimeSeconds": 8187,
+      "sessionSeconds": 18,
+      "playTimeSeconds": 8247,
       "money": 2329261,
       "gold": 145,
       "fame": 1758,
@@ -14,23 +24,23 @@
     {
       "steamId": "76561199807377476",
       "name": "Director",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 24713,
+      "sessionSeconds": 18,
+      "playTimeSeconds": 24773,
       "money": 47911,
       "gold": 46,
       "fame": 150,
       "rank": 7
     },
     {
-      "steamId": "76561199562774415",
-      "name": "ALIGATOR",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 5164,
-      "money": 1279870,
-      "gold": 317,
-      "fame": 3710,
-      "rank": 33
+      "steamId": "76561198794536026",
+      "name": "Ayanakoji",
+      "sessionSeconds": 18,
+      "playTimeSeconds": 37612,
+      "money": 112930,
+      "gold": 53,
+      "fame": 403,
+      "rank": 1
     }
   ],
-  "updated": "2026-09-27T21:03:24.309Z"
+  "updated": "2026-09-27T21:04:24.311Z"
 }
