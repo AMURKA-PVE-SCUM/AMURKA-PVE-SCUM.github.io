@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 12086,
+      "playTimeSeconds": 12146,
       "money": 102314,
       "gold": 435,
       "fame": 896,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561199103686708",
       "name": "DVmast3r",
-      "playTimeSeconds": 10648,
+      "playTimeSeconds": 10708,
       "money": 5900,
       "gold": 30,
       "fame": 210,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 6534,
+      "playTimeSeconds": 6594,
       "money": 2533708,
       "gold": 944,
       "fame": 5393,
@@ -72,6 +72,16 @@
     },
     {
       "rank": 8,
+      "steamId": "76561198077981589",
+      "name": "Чилим",
+      "playTimeSeconds": 6235,
+      "money": 1012772,
+      "gold": 25,
+      "fame": 181,
+      "isOnline": true
+    },
+    {
+      "rank": 9,
       "steamId": "76561199025384857",
       "name": "Pupsik",
       "playTimeSeconds": 6218,
@@ -79,16 +89,6 @@
       "gold": 156,
       "fame": 971,
       "isOnline": false
-    },
-    {
-      "rank": 9,
-      "steamId": "76561198077981589",
-      "name": "Чилим",
-      "playTimeSeconds": 6175,
-      "money": 1012772,
-      "gold": 25,
-      "fame": 181,
-      "isOnline": true
     },
     {
       "rank": 10,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198257833454",
       "name": "KJIU3MA",
-      "playTimeSeconds": 3927,
+      "playTimeSeconds": 3987,
       "money": 904463,
       "gold": 5,
       "fame": 337,
@@ -144,17 +144,17 @@
       "rank": 15,
       "steamId": "76561198279946160",
       "name": "YUmiel",
-      "playTimeSeconds": 2625,
+      "playTimeSeconds": 2685,
       "money": 951586,
       "gold": 3770,
-      "fame": 923,
+      "fame": 924,
       "isOnline": true
     },
     {
       "rank": 16,
       "steamId": "76561198054083179",
       "name": "Roksi",
-      "playTimeSeconds": 2307,
+      "playTimeSeconds": 2367,
       "money": 561456,
       "gold": 76,
       "fame": 531,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-27T06:48:12.569Z"
+  "updated": "2026-09-27T06:49:12.570Z"
 }
