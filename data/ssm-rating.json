@@ -4,8 +4,8 @@
       "rank": 1,
       "steamId": "76561198802007304",
       "name": "SEV",
-      "playTimeSeconds": 9235,
-      "money": 11899,
+      "playTimeSeconds": 9295,
+      "money": 11989,
       "gold": 30,
       "fame": 86,
       "isOnline": true
@@ -34,10 +34,10 @@
       "rank": 4,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 5718,
+      "playTimeSeconds": 5778,
       "money": 100314,
       "gold": 425,
-      "fame": 865,
+      "fame": 866,
       "isOnline": true
     },
     {
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561199025384857",
       "name": "Pupsik",
-      "playTimeSeconds": 4964,
+      "playTimeSeconds": 5024,
       "money": 1117102,
       "gold": 156,
       "fame": 970,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561199738233208",
       "name": "Бен Гур",
-      "playTimeSeconds": 3671,
+      "playTimeSeconds": 3731,
       "money": 94832,
       "gold": 95,
       "fame": 719,
@@ -124,14 +124,24 @@
       "rank": 13,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 336,
+      "playTimeSeconds": 361,
       "money": 2524198,
       "gold": 939,
       "fame": 5307,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 14,
+      "steamId": "76561198139995845",
+      "name": "SeverGorod",
+      "playTimeSeconds": 246,
+      "money": 895502,
+      "gold": 125,
+      "fame": 1072,
+      "isOnline": true
+    },
+    {
+      "rank": 15,
       "steamId": "76561198008281090",
       "name": "Стрелок",
       "playTimeSeconds": 198,
@@ -139,16 +149,6 @@
       "gold": 225,
       "fame": 1000,
       "isOnline": false
-    },
-    {
-      "rank": 15,
-      "steamId": "76561198139995845",
-      "name": "SeverGorod",
-      "playTimeSeconds": 186,
-      "money": 895502,
-      "gold": 125,
-      "fame": 1072,
-      "isOnline": true
     },
     {
       "rank": 16,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-27T04:49:11.639Z"
+  "updated": "2026-09-27T04:50:11.645Z"
 }
