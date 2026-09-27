@@ -2,10 +2,20 @@
   "online": 6,
   "players": [
     {
+      "steamId": "76561199020076791",
+      "name": "Sleng",
+      "sessionSeconds": 27,
+      "playTimeSeconds": 5376,
+      "money": 112453,
+      "gold": 95,
+      "fame": 344,
+      "rank": 8
+    },
+    {
       "steamId": "76561198802007304",
       "name": "SEV",
       "sessionSeconds": 27,
-      "playTimeSeconds": 10973,
+      "playTimeSeconds": 11033,
       "money": 13093,
       "gold": 35,
       "fame": 98,
@@ -15,17 +25,17 @@
       "steamId": "76561199103686708",
       "name": "DVmast3r",
       "sessionSeconds": 27,
-      "playTimeSeconds": 6161,
+      "playTimeSeconds": 6221,
       "money": 4900,
       "gold": 25,
       "fame": 188,
-      "rank": 7
+      "rank": 6
     },
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
       "sessionSeconds": 27,
-      "playTimeSeconds": 1398,
+      "playTimeSeconds": 1458,
       "money": 2528198,
       "gold": 939,
       "fame": 5338,
@@ -35,7 +45,7 @@
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 27,
-      "playTimeSeconds": 7456,
+      "playTimeSeconds": 7516,
       "money": 101314,
       "gold": 430,
       "fame": 877,
@@ -45,22 +55,12 @@
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 27,
-      "playTimeSeconds": 1924,
+      "playTimeSeconds": 1984,
       "money": 895502,
       "gold": 125,
-      "fame": 1073,
+      "fame": 1074,
       "rank": 13
-    },
-    {
-      "steamId": "76561199020076791",
-      "name": "Sleng",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 5315,
-      "money": 112453,
-      "gold": 95,
-      "fame": 344,
-      "rank": 8
     }
   ],
-  "updated": "2026-09-27T05:18:11.860Z"
+  "updated": "2026-09-27T05:19:11.875Z"
 }
