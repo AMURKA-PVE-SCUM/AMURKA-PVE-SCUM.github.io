@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "playTimeSeconds": 30368,
+      "playTimeSeconds": 30428,
       "money": 112030,
       "gold": 48,
       "fame": 375,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 18509,
+      "playTimeSeconds": 18569,
       "money": 2823773,
       "gold": 964,
       "fame": 5450,
@@ -102,6 +102,16 @@
     },
     {
       "rank": 11,
+      "steamId": "76561199807377476",
+      "name": "Director",
+      "playTimeSeconds": 17496,
+      "money": 105211,
+      "gold": 91,
+      "fame": 268,
+      "isOnline": true
+    },
+    {
+      "rank": 12,
       "steamId": "76561198071060590",
       "name": "Niga",
       "playTimeSeconds": 17447,
@@ -109,16 +119,6 @@
       "gold": 382,
       "fame": 5689,
       "isOnline": false
-    },
-    {
-      "rank": 12,
-      "steamId": "76561199807377476",
-      "name": "Director",
-      "playTimeSeconds": 17436,
-      "money": 105211,
-      "gold": 91,
-      "fame": 268,
-      "isOnline": true
     },
     {
       "rank": 13,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-27T18:58:17.891Z"
+  "updated": "2026-09-27T18:59:17.899Z"
 }
