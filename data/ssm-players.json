@@ -1,12 +1,22 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
+    {
+      "steamId": "76561198257833454",
+      "name": "KJIU3MA",
+      "sessionSeconds": 76877,
+      "playTimeSeconds": 11393,
+      "money": 900700,
+      "gold": 15,
+      "fame": 378,
+      "rank": 6
+    },
     {
       "steamId": "76561198814504955",
       "name": "Venom",
-      "sessionSeconds": 66352,
-      "playTimeSeconds": 6013,
-      "money": 953443,
+      "sessionSeconds": 66412,
+      "playTimeSeconds": 6071,
+      "money": 955091,
       "gold": 55,
       "fame": 271,
       "rank": 15
@@ -15,7 +25,7 @@
       "steamId": "76561198220671051",
       "name": "Котэ_Вездессущий",
       "sessionSeconds": 13,
-      "playTimeSeconds": 8966,
+      "playTimeSeconds": 9024,
       "money": 390903,
       "gold": 85,
       "fame": 529,
@@ -25,7 +35,7 @@
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 13,
-      "playTimeSeconds": 18188,
+      "playTimeSeconds": 18246,
       "money": 104314,
       "gold": 445,
       "fame": 921,
@@ -35,7 +45,7 @@
       "steamId": "76561198802007304",
       "name": "SEV",
       "sessionSeconds": 13,
-      "playTimeSeconds": 19099,
+      "playTimeSeconds": 19157,
       "money": 13849,
       "gold": 45,
       "fame": 125,
@@ -45,12 +55,12 @@
       "steamId": "76561199020076791",
       "name": "Sleng",
       "sessionSeconds": 13,
-      "playTimeSeconds": 14159,
+      "playTimeSeconds": 14217,
       "money": 115453,
       "gold": 110,
       "fame": 356,
       "rank": 3
     }
   ],
-  "updated": "2026-09-27T09:19:13.611Z"
+  "updated": "2026-09-27T09:20:13.614Z"
 }
