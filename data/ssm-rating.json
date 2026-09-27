@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "playTimeSeconds": 23920,
+      "playTimeSeconds": 23980,
       "money": 110330,
       "gold": 38,
       "fame": 277,
@@ -52,6 +52,16 @@
     },
     {
       "rank": 6,
+      "steamId": "76561198022734828",
+      "name": "ArBuzova",
+      "playTimeSeconds": 20835,
+      "money": 789938,
+      "gold": 170,
+      "fame": 873,
+      "isOnline": true
+    },
+    {
+      "rank": 7,
       "steamId": "76561198814504955",
       "name": "Venom",
       "playTimeSeconds": 20781,
@@ -59,16 +69,6 @@
       "gold": 75,
       "fame": 352,
       "isOnline": false
-    },
-    {
-      "rank": 7,
-      "steamId": "76561198022734828",
-      "name": "ArBuzova",
-      "playTimeSeconds": 20775,
-      "money": 789938,
-      "gold": 170,
-      "fame": 873,
-      "isOnline": true
     },
     {
       "rank": 8,
@@ -104,10 +104,10 @@
       "rank": 11,
       "steamId": "76561199076055725",
       "name": "ICE",
-      "playTimeSeconds": 15910,
-      "money": 1050780,
+      "playTimeSeconds": 15970,
+      "money": 1051150,
       "gold": 20,
-      "fame": 339,
+      "fame": 344,
       "isOnline": true
     },
     {
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561198070555721",
       "name": "Anskor",
-      "playTimeSeconds": 12757,
+      "playTimeSeconds": 12817,
       "money": 38417,
       "gold": 60,
       "fame": 290,
@@ -174,7 +174,7 @@
       "rank": 18,
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
-      "playTimeSeconds": 12570,
+      "playTimeSeconds": 12630,
       "money": 197899,
       "gold": 263,
       "fame": 13640,
@@ -184,7 +184,7 @@
       "rank": 19,
       "steamId": "76561199684926739",
       "name": "Skeleton",
-      "playTimeSeconds": 12233,
+      "playTimeSeconds": 12293,
       "money": 3563505,
       "gold": 2383,
       "fame": 25714,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-27T16:50:16.920Z"
+  "updated": "2026-09-27T16:51:16.931Z"
 }
