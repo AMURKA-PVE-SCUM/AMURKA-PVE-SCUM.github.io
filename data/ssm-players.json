@@ -1,11 +1,11 @@
 {
-  "online": 2,
+  "online": 3,
   "players": [
     {
       "steamId": "76561198814504955",
       "name": "Venom",
-      "sessionSeconds": 86995,
-      "playTimeSeconds": 20581,
+      "sessionSeconds": 87055,
+      "playTimeSeconds": 20641,
       "money": 943886,
       "gold": 75,
       "fame": 352,
@@ -14,13 +14,23 @@
     {
       "steamId": "76561199807377476",
       "name": "Director",
-      "sessionSeconds": 10,
-      "playTimeSeconds": 4513,
+      "sessionSeconds": 17,
+      "playTimeSeconds": 4573,
       "money": 102911,
       "gold": 76,
       "fame": 484,
       "rank": 29
+    },
+    {
+      "steamId": "76561198070555721",
+      "name": "Anskor",
+      "sessionSeconds": 13,
+      "playTimeSeconds": 6406,
+      "money": 20752,
+      "gold": 50,
+      "fame": 256,
+      "rank": 26
     }
   ],
-  "updated": "2026-09-27T15:03:16.164Z"
+  "updated": "2026-09-27T15:04:16.169Z"
 }
