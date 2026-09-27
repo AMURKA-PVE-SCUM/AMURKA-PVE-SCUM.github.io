@@ -1,21 +1,21 @@
 {
-  "online": 3,
+  "online": 4,
   "players": [
     {
       "steamId": "76561198220671051",
       "name": "Котэ_Вездессущий",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 8306,
+      "sessionSeconds": 14,
+      "playTimeSeconds": 8366,
       "money": 389903,
       "gold": 80,
-      "fame": 518,
+      "fame": 519,
       "rank": 10
     },
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 17528,
+      "sessionSeconds": 14,
+      "playTimeSeconds": 17588,
       "money": 104314,
       "gold": 445,
       "fame": 920,
@@ -24,13 +24,23 @@
     {
       "steamId": "76561198802007304",
       "name": "SEV",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 18439,
+      "sessionSeconds": 14,
+      "playTimeSeconds": 18499,
       "money": 13849,
       "gold": 45,
       "fame": 125,
       "rank": 1
+    },
+    {
+      "steamId": "76561199020076791",
+      "name": "Sleng",
+      "sessionSeconds": 14,
+      "playTimeSeconds": 13559,
+      "money": 114453,
+      "gold": 105,
+      "fame": 345,
+      "rank": 3
     }
   ],
-  "updated": "2026-09-27T09:08:13.550Z"
+  "updated": "2026-09-27T09:09:13.565Z"
 }
