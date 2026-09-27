@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198802007304",
       "name": "SEV",
-      "playTimeSeconds": 6120,
+      "playTimeSeconds": 6180,
       "money": 9835,
       "gold": 25,
       "fame": 73,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561199020076791",
       "name": "Sleng",
-      "playTimeSeconds": 3189,
+      "playTimeSeconds": 3249,
       "money": 112453,
       "gold": 95,
       "fame": 343,
@@ -82,6 +82,16 @@
     },
     {
       "rank": 9,
+      "steamId": "76561199025384857",
+      "name": "Pupsik",
+      "playTimeSeconds": 1909,
+      "money": 1125270,
+      "gold": 151,
+      "fame": 942,
+      "isOnline": true
+    },
+    {
+      "rank": 10,
       "steamId": "76561198279946160",
       "name": "YUmiel",
       "playTimeSeconds": 1852,
@@ -91,20 +101,10 @@
       "isOnline": false
     },
     {
-      "rank": 10,
-      "steamId": "76561199025384857",
-      "name": "Pupsik",
-      "playTimeSeconds": 1849,
-      "money": 1128050,
-      "gold": 151,
-      "fame": 942,
-      "isOnline": true
-    },
-    {
       "rank": 11,
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "playTimeSeconds": 659,
+      "playTimeSeconds": 719,
       "money": 1010772,
       "gold": 15,
       "fame": 60,
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561199738233208",
       "name": "Бен Гур",
-      "playTimeSeconds": 556,
+      "playTimeSeconds": 616,
       "money": 102827,
       "gold": 90,
       "fame": 707,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-27T03:57:11.284Z"
+  "updated": "2026-09-27T03:58:11.284Z"
 }
