@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198802007304",
       "name": "SEV",
-      "playTimeSeconds": 4442,
+      "playTimeSeconds": 4502,
       "money": 9835,
       "gold": 25,
       "fame": 71,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561199020076791",
       "name": "Sleng",
-      "playTimeSeconds": 1511,
+      "playTimeSeconds": 1571,
       "money": 111453,
       "gold": 90,
       "fame": 332,
@@ -92,6 +92,16 @@
     },
     {
       "rank": 10,
+      "steamId": "76561199025384857",
+      "name": "Pupsik",
+      "playTimeSeconds": 231,
+      "money": 1128329,
+      "gold": 146,
+      "fame": 875,
+      "isOnline": true
+    },
+    {
+      "rank": 11,
       "steamId": "76561198008281090",
       "name": "Стрелок",
       "playTimeSeconds": 198,
@@ -99,16 +109,6 @@
       "gold": 225,
       "fame": 1000,
       "isOnline": false
-    },
-    {
-      "rank": 11,
-      "steamId": "76561199025384857",
-      "name": "Pupsik",
-      "playTimeSeconds": 171,
-      "money": 1128329,
-      "gold": 146,
-      "fame": 874,
-      "isOnline": true
     },
     {
       "rank": 12,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-27T03:29:11.064Z"
+  "updated": "2026-09-27T03:30:11.075Z"
 }
