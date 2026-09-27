@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "playTimeSeconds": 26078,
+      "playTimeSeconds": 26138,
       "money": 110030,
       "gold": 38,
       "fame": 281,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198022734828",
       "name": "ArBuzova",
-      "playTimeSeconds": 22933,
+      "playTimeSeconds": 22993,
       "money": 790938,
       "gold": 175,
       "fame": 888,
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561198071060590",
       "name": "Niga",
-      "playTimeSeconds": 15401,
+      "playTimeSeconds": 15461,
       "money": 2183069,
       "gold": 382,
       "fame": 5686,
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561198070555721",
       "name": "Anskor",
-      "playTimeSeconds": 14915,
+      "playTimeSeconds": 14975,
       "money": 39417,
       "gold": 65,
       "fame": 302,
@@ -144,7 +144,7 @@
       "rank": 15,
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
-      "playTimeSeconds": 14728,
+      "playTimeSeconds": 14788,
       "money": 320170,
       "gold": 253,
       "fame": 13632,
@@ -172,6 +172,16 @@
     },
     {
       "rank": 18,
+      "steamId": "76561199807377476",
+      "name": "Director",
+      "playTimeSeconds": 13127,
+      "money": 104411,
+      "gold": 86,
+      "fame": 519,
+      "isOnline": true
+    },
+    {
+      "rank": 19,
       "steamId": "76561198279946160",
       "name": "YUmiel",
       "playTimeSeconds": 13124,
@@ -179,16 +189,6 @@
       "gold": 4695,
       "fame": 968,
       "isOnline": false
-    },
-    {
-      "rank": 19,
-      "steamId": "76561199807377476",
-      "name": "Director",
-      "playTimeSeconds": 13067,
-      "money": 104411,
-      "gold": 86,
-      "fame": 519,
-      "isOnline": true
     },
     {
       "rank": 20,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-27T17:26:17.198Z"
+  "updated": "2026-09-27T17:27:17.210Z"
 }
