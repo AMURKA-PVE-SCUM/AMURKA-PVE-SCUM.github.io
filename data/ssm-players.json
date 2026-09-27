@@ -1,21 +1,41 @@
 {
-  "online": 4,
+  "online": 5,
   "players": [
     {
       "steamId": "76561198814504955",
       "name": "Venom",
-      "sessionSeconds": 59091,
-      "playTimeSeconds": 45,
+      "sessionSeconds": 59151,
+      "playTimeSeconds": 105,
       "money": 1010260,
       "gold": 45,
       "fame": 246,
       "rank": 21
     },
     {
+      "steamId": "76561198279946160",
+      "name": "YUmiel",
+      "sessionSeconds": 18,
+      "playTimeSeconds": 3942,
+      "money": 952586,
+      "gold": 3775,
+      "fame": 935,
+      "rank": 15
+    },
+    {
+      "steamId": "76561199404896383",
+      "name": "Victor_Vilkouskas",
+      "sessionSeconds": 18,
+      "playTimeSeconds": 8230,
+      "money": 2562823,
+      "gold": 949,
+      "fame": 5404,
+      "rank": 4
+    },
+    {
       "steamId": "76561199801792277",
       "name": "Сол Хоггар",
       "sessionSeconds": 18,
-      "playTimeSeconds": 630,
+      "playTimeSeconds": 690,
       "money": 29681,
       "gold": 45,
       "fame": 448,
@@ -25,22 +45,12 @@
       "steamId": "76561198022734828",
       "name": "ArBuzova",
       "sessionSeconds": 18,
-      "playTimeSeconds": 1534,
+      "playTimeSeconds": 1594,
       "money": 759867,
       "gold": 250,
       "fame": 774,
       "rank": 18
-    },
-    {
-      "steamId": "76561199404896383",
-      "name": "Victor_Vilkouskas",
-      "sessionSeconds": 18,
-      "playTimeSeconds": 8182,
-      "money": 2562823,
-      "gold": 949,
-      "fame": 5404,
-      "rank": 4
     }
   ],
-  "updated": "2026-09-27T07:18:12.768Z"
+  "updated": "2026-09-27T07:19:12.768Z"
 }
