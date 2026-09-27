@@ -1,86 +1,36 @@
 {
-  "online": 8,
+  "online": 3,
   "players": [
+    {
+      "steamId": "76561198156375337",
+      "name": "Domo",
+      "sessionSeconds": 70073,
+      "playTimeSeconds": 0,
+      "money": 466000,
+      "gold": 505,
+      "fame": 1049,
+      "rank": 55
+    },
     {
       "steamId": "76561198257833454",
       "name": "KJIU3MA",
-      "sessionSeconds": 69316,
-      "playTimeSeconds": 5486,
-      "money": 898275,
-      "gold": 5,
-      "fame": 338,
+      "sessionSeconds": 69376,
+      "playTimeSeconds": 5545,
+      "money": 899275,
+      "gold": 10,
+      "fame": 348,
       "rank": 11
     },
     {
-      "steamId": "76561199404896383",
-      "name": "Victor_Vilkouskas",
-      "sessionSeconds": 18,
-      "playTimeSeconds": 8093,
-      "money": 2562823,
-      "gold": 949,
-      "fame": 5404,
-      "rank": 4
-    },
-    {
-      "steamId": "76561198077981589",
-      "name": "Чилим",
-      "sessionSeconds": 18,
-      "playTimeSeconds": 7734,
-      "money": 1012772,
-      "gold": 25,
-      "fame": 183,
-      "rank": 5
-    },
-    {
-      "steamId": "76561198337811646",
-      "name": "VERSUS_65_",
-      "sessionSeconds": 18,
-      "playTimeSeconds": 13645,
-      "money": 103314,
-      "gold": 440,
-      "fame": 908,
-      "rank": 1
-    },
-    {
-      "steamId": "76561198054083179",
-      "name": "Roksi",
-      "sessionSeconds": 18,
-      "playTimeSeconds": 3866,
-      "money": 561456,
-      "gold": 76,
-      "fame": 536,
-      "rank": 15
-    },
-    {
-      "steamId": "76561198022734828",
-      "name": "ArBuzova",
-      "sessionSeconds": 18,
-      "playTimeSeconds": 1427,
-      "money": 759867,
-      "gold": 250,
-      "fame": 774,
-      "rank": 18
-    },
-    {
-      "steamId": "76561198279946160",
-      "name": "YUmiel",
-      "sessionSeconds": 18,
-      "playTimeSeconds": 3856,
-      "money": 951586,
-      "gold": 3770,
-      "fame": 925,
-      "rank": 16
-    },
-    {
-      "steamId": "76561199801792277",
-      "name": "Сол Хоггар",
-      "sessionSeconds": 18,
-      "playTimeSeconds": 523,
-      "money": 29681,
+      "steamId": "76561198814504955",
+      "name": "Venom",
+      "sessionSeconds": 58911,
+      "playTimeSeconds": 0,
+      "money": 1010260,
       "gold": 45,
-      "fame": 448,
-      "rank": 19
+      "fame": 246,
+      "rank": 166
     }
   ],
-  "updated": "2026-09-27T07:14:12.750Z"
+  "updated": "2026-09-27T07:15:12.757Z"
 }
