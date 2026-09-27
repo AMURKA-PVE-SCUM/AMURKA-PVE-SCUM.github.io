@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198802007304",
       "name": "SEV",
-      "playTimeSeconds": 16868,
+      "playTimeSeconds": 16928,
       "money": 8844,
       "gold": 40,
       "fame": 114,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561199020076791",
       "name": "Sleng",
-      "playTimeSeconds": 12111,
+      "playTimeSeconds": 12171,
       "money": 114453,
       "gold": 105,
       "fame": 344,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "playTimeSeconds": 11382,
+      "playTimeSeconds": 11442,
       "money": 1013772,
       "gold": 30,
       "fame": 200,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198257833454",
       "name": "KJIU3MA",
-      "playTimeSeconds": 9970,
+      "playTimeSeconds": 10030,
       "money": 902275,
       "gold": 15,
       "fame": 377,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198279946160",
       "name": "YUmiel",
-      "playTimeSeconds": 8386,
+      "playTimeSeconds": 8446,
       "money": 949061,
       "gold": 3780,
       "fame": 952,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561198054083179",
       "name": "Roksi",
-      "playTimeSeconds": 7475,
+      "playTimeSeconds": 7535,
       "money": 562456,
       "gold": 81,
       "fame": 550,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198022734828",
       "name": "ArBuzova",
-      "playTimeSeconds": 5668,
+      "playTimeSeconds": 5728,
       "money": 757447,
       "gold": 255,
       "fame": 795,
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561199801792277",
       "name": "Сол Хоггар",
-      "playTimeSeconds": 5227,
+      "playTimeSeconds": 5287,
       "money": 51208,
       "gold": 50,
       "fame": 506,
@@ -152,6 +152,16 @@
     },
     {
       "rank": 16,
+      "steamId": "76561198814504955",
+      "name": "Venom",
+      "playTimeSeconds": 4176,
+      "money": 1011060,
+      "gold": 50,
+      "fame": 260,
+      "isOnline": true
+    },
+    {
+      "rank": 17,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "playTimeSeconds": 4130,
@@ -159,16 +169,6 @@
       "gold": 130,
       "fame": 1086,
       "isOnline": false
-    },
-    {
-      "rank": 17,
-      "steamId": "76561198814504955",
-      "name": "Venom",
-      "playTimeSeconds": 4116,
-      "money": 1011060,
-      "gold": 50,
-      "fame": 260,
-      "isOnline": true
     },
     {
       "rank": 18,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-27T08:37:13.336Z"
+  "updated": "2026-09-27T08:38:13.347Z"
 }
