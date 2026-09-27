@@ -42,6 +42,16 @@
     },
     {
       "rank": 5,
+      "steamId": "76561198802007304",
+      "name": "SEV",
+      "playTimeSeconds": 3843,
+      "money": 9835,
+      "gold": 25,
+      "fame": 71,
+      "isOnline": true
+    },
+    {
+      "rank": 6,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "playTimeSeconds": 3808,
@@ -49,16 +59,6 @@
       "gold": 425,
       "fame": 864,
       "isOnline": false
-    },
-    {
-      "rank": 6,
-      "steamId": "76561198802007304",
-      "name": "SEV",
-      "playTimeSeconds": 3783,
-      "money": 9835,
-      "gold": 25,
-      "fame": 71,
-      "isOnline": true
     },
     {
       "rank": 7,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561199020076791",
       "name": "Sleng",
-      "playTimeSeconds": 852,
+      "playTimeSeconds": 912,
       "money": 111453,
       "gold": 90,
       "fame": 331,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-27T03:18:10.996Z"
+  "updated": "2026-09-27T03:19:11.008Z"
 }
