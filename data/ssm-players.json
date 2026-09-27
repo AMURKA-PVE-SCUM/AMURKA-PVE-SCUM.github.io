@@ -1,66 +1,36 @@
 {
-  "online": 6,
+  "online": 3,
   "players": [
+    {
+      "steamId": "76561198156375337",
+      "name": "Domo",
+      "sessionSeconds": 65633,
+      "playTimeSeconds": 0,
+      "money": 466000,
+      "gold": 505,
+      "fame": 1049,
+      "rank": 53
+    },
     {
       "steamId": "76561198257833454",
       "name": "KJIU3MA",
-      "sessionSeconds": 64875,
-      "playTimeSeconds": 1346,
+      "sessionSeconds": 64935,
+      "playTimeSeconds": 1365,
       "money": 903563,
       "gold": 0,
       "fame": 324,
       "rank": 16
     },
     {
-      "steamId": "76561198802007304",
-      "name": "SEV",
-      "sessionSeconds": 24,
-      "playTimeSeconds": 13489,
-      "money": 14252,
-      "gold": 40,
-      "fame": 109,
-      "rank": 1
-    },
-    {
-      "steamId": "76561199103686708",
-      "name": "DVmast3r",
-      "sessionSeconds": 24,
-      "playTimeSeconds": 8677,
-      "money": 5900,
-      "gold": 30,
-      "fame": 207,
-      "rank": 3
-    },
-    {
-      "steamId": "76561199404896383",
-      "name": "Victor_Vilkouskas",
-      "sessionSeconds": 24,
-      "playTimeSeconds": 3914,
-      "money": 2531358,
-      "gold": 944,
-      "fame": 5365,
-      "rank": 12
-    },
-    {
-      "steamId": "76561198054083179",
-      "name": "Roksi",
-      "sessionSeconds": 24,
-      "playTimeSeconds": 691,
-      "money": 563455,
-      "gold": 71,
-      "fame": 520,
-      "rank": 17
-    },
-    {
-      "steamId": "76561198077981589",
-      "name": "Чилим",
-      "sessionSeconds": 24,
-      "playTimeSeconds": 3441,
-      "money": 1011772,
-      "gold": 20,
-      "fame": 169,
-      "rank": 13
+      "steamId": "76561198814504955",
+      "name": "Venom",
+      "sessionSeconds": 54471,
+      "playTimeSeconds": 0,
+      "money": 1010260,
+      "gold": 45,
+      "fame": 246,
+      "rank": 166
     }
   ],
-  "updated": "2026-09-27T06:00:12.217Z"
+  "updated": "2026-09-27T06:01:12.225Z"
 }
