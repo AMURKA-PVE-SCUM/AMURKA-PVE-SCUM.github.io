@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561198833058323",
       "name": "DanielBovie",
       "sessionSeconds": 2,
-      "playTimeSeconds": 7264,
+      "playTimeSeconds": 7324,
       "money": 4300,
       "gold": 25,
       "fame": 73,
       "rank": 29
+    },
+    {
+      "steamId": "76561198864188269",
+      "name": "RedLis51",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 4834,
+      "money": 14325,
+      "gold": 20,
+      "fame": 61,
+      "rank": 32
     }
   ],
-  "updated": "2026-09-27T18:07:17.502Z"
+  "updated": "2026-09-27T18:08:17.515Z"
 }
