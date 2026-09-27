@@ -1,11 +1,21 @@
 {
-  "online": 8,
+  "online": 3,
   "players": [
+    {
+      "steamId": "76561198156375337",
+      "name": "Domo",
+      "sessionSeconds": 76434,
+      "playTimeSeconds": 79,
+      "money": 466000,
+      "gold": 505,
+      "fame": 1049,
+      "rank": 23
+    },
     {
       "steamId": "76561198257833454",
       "name": "KJIU3MA",
-      "sessionSeconds": 75677,
-      "playTimeSeconds": 11346,
+      "sessionSeconds": 75737,
+      "playTimeSeconds": 11375,
       "money": 900700,
       "gold": 15,
       "fame": 378,
@@ -14,73 +24,13 @@
     {
       "steamId": "76561198814504955",
       "name": "Venom",
-      "sessionSeconds": 65212,
-      "playTimeSeconds": 5492,
-      "money": 974175,
+      "sessionSeconds": 65272,
+      "playTimeSeconds": 5521,
+      "money": 974019,
       "gold": 55,
       "fame": 271,
       "rank": 16
-    },
-    {
-      "steamId": "76561198071060590",
-      "name": "Niga",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 3952,
-      "money": 2180069,
-      "gold": 367,
-      "fame": 5645,
-      "rank": 20
-    },
-    {
-      "steamId": "76561199020076791",
-      "name": "Sleng",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 13487,
-      "money": 114453,
-      "gold": 105,
-      "fame": 345,
-      "rank": 3
-    },
-    {
-      "steamId": "76561198802007304",
-      "name": "SEV",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 18244,
-      "money": 13849,
-      "gold": 45,
-      "fame": 125,
-      "rank": 1
-    },
-    {
-      "steamId": "76561198054083179",
-      "name": "Roksi",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 8851,
-      "money": 563456,
-      "gold": 86,
-      "fame": 561,
-      "rank": 8
-    },
-    {
-      "steamId": "76561198337811646",
-      "name": "VERSUS_65_",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 17258,
-      "money": 103314,
-      "gold": 440,
-      "fame": 910,
-      "rank": 2
-    },
-    {
-      "steamId": "76561198220671051",
-      "name": "Котэ_Вездессущий",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 8027,
-      "money": 389903,
-      "gold": 80,
-      "fame": 518,
-      "rank": 10
     }
   ],
-  "updated": "2026-09-27T09:00:13.506Z"
+  "updated": "2026-09-27T09:01:13.518Z"
 }
