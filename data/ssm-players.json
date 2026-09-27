@@ -1,11 +1,21 @@
 {
-  "online": 6,
+  "online": 3,
   "players": [
+    {
+      "steamId": "76561198156375337",
+      "name": "Domo",
+      "sessionSeconds": 98037,
+      "playTimeSeconds": 4324,
+      "money": 464000,
+      "gold": 495,
+      "fame": 1050,
+      "rank": 30
+    },
     {
       "steamId": "76561198257833454",
       "name": "KJIU3MA",
-      "sessionSeconds": 97279,
-      "playTimeSeconds": 28184,
+      "sessionSeconds": 97339,
+      "playTimeSeconds": 28211,
       "money": 916582,
       "gold": 40,
       "fame": 725,
@@ -14,53 +24,13 @@
     {
       "steamId": "76561198814504955",
       "name": "Venom",
-      "sessionSeconds": 86815,
-      "playTimeSeconds": 20541,
+      "sessionSeconds": 86875,
+      "playTimeSeconds": 20568,
       "money": 943886,
       "gold": 75,
       "fame": 352,
       "rank": 5
-    },
-    {
-      "steamId": "76561199076055725",
-      "name": "ICE",
-      "sessionSeconds": 17,
-      "playTimeSeconds": 9552,
-      "money": 974901,
-      "gold": 10,
-      "fame": 209,
-      "rank": 20
-    },
-    {
-      "steamId": "76561199877063571",
-      "name": "Mazay",
-      "sessionSeconds": 17,
-      "playTimeSeconds": 15802,
-      "money": 175574,
-      "gold": 900,
-      "fame": 3343,
-      "rank": 11
-    },
-    {
-      "steamId": "76561198070555721",
-      "name": "Anskor",
-      "sessionSeconds": 17,
-      "playTimeSeconds": 6366,
-      "money": 20752,
-      "gold": 50,
-      "fame": 256,
-      "rank": 26
-    },
-    {
-      "steamId": "76561198120086834",
-      "name": "Myp3ilka",
-      "sessionSeconds": 17,
-      "playTimeSeconds": 7090,
-      "money": 184572,
-      "gold": 180,
-      "fame": 13407,
-      "rank": 24
     }
   ],
-  "updated": "2026-09-27T15:00:16.127Z"
+  "updated": "2026-09-27T15:01:16.140Z"
 }
