@@ -1,36 +1,66 @@
 {
-  "online": 3,
+  "online": 6,
   "players": [
+    {
+      "steamId": "76561198257833454",
+      "name": "KJIU3MA",
+      "sessionSeconds": 97579,
+      "playTimeSeconds": 28257,
+      "money": 916582,
+      "gold": 40,
+      "fame": 725,
+      "rank": 2
+    },
     {
       "steamId": "76561198814504955",
       "name": "Venom",
-      "sessionSeconds": 87055,
-      "playTimeSeconds": 20641,
+      "sessionSeconds": 87115,
+      "playTimeSeconds": 20701,
       "money": 943886,
       "gold": 75,
       "fame": 352,
       "rank": 5
     },
     {
-      "steamId": "76561199807377476",
-      "name": "Director",
-      "sessionSeconds": 17,
-      "playTimeSeconds": 4573,
-      "money": 102911,
-      "gold": 76,
-      "fame": 484,
-      "rank": 29
+      "steamId": "76561198372320271",
+      "name": "ADA",
+      "sessionSeconds": 16,
+      "playTimeSeconds": 40,
+      "money": 204762,
+      "gold": 42,
+      "fame": 1935,
+      "rank": 39
+    },
+    {
+      "steamId": "76561199076055725",
+      "name": "ICE",
+      "sessionSeconds": 16,
+      "playTimeSeconds": 9619,
+      "money": 974901,
+      "gold": 10,
+      "fame": 209,
+      "rank": 20
     },
     {
       "steamId": "76561198070555721",
       "name": "Anskor",
-      "sessionSeconds": 13,
-      "playTimeSeconds": 6406,
+      "sessionSeconds": 16,
+      "playTimeSeconds": 6466,
       "money": 20752,
       "gold": 50,
       "fame": 256,
       "rank": 26
+    },
+    {
+      "steamId": "76561199807377476",
+      "name": "Director",
+      "sessionSeconds": 16,
+      "playTimeSeconds": 4633,
+      "money": 102911,
+      "gold": 76,
+      "fame": 484,
+      "rank": 29
     }
   ],
-  "updated": "2026-09-27T15:04:16.169Z"
+  "updated": "2026-09-27T15:05:16.178Z"
 }
