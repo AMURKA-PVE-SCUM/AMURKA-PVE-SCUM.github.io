@@ -1,31 +1,51 @@
 {
-  "online": 6,
+  "online": 7,
   "players": [
     {
       "steamId": "76561198257833454",
       "name": "KJIU3MA",
-      "sessionSeconds": 86898,
-      "playTimeSeconds": 17820,
+      "sessionSeconds": 86958,
+      "playTimeSeconds": 17879,
       "money": 908082,
       "gold": 25,
       "fame": 508,
       "rank": 5
     },
     {
+      "steamId": "76561198794536026",
+      "name": "Ayanakoji",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 7480,
+      "money": 209777,
+      "gold": 18,
+      "fame": 204,
+      "rank": 17
+    },
+    {
       "steamId": "76561198054083179",
       "name": "Roksi",
       "sessionSeconds": 0,
-      "playTimeSeconds": 18429,
+      "playTimeSeconds": 18488,
       "money": 565456,
       "gold": 96,
       "fame": 588,
       "rank": 4
     },
     {
+      "steamId": "76561198040457114",
+      "name": "100kwt",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 1171,
+      "money": 3912,
+      "gold": 15,
+      "fame": 46,
+      "rank": 27
+    },
+    {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 0,
-      "playTimeSeconds": 22591,
+      "playTimeSeconds": 22650,
       "money": 168728,
       "gold": 450,
       "fame": 934,
@@ -35,32 +55,22 @@
       "steamId": "76561198077981589",
       "name": "Чилим",
       "sessionSeconds": 0,
-      "playTimeSeconds": 12853,
+      "playTimeSeconds": 12912,
       "money": 1014772,
       "gold": 35,
       "fame": 211,
       "rank": 10
     },
     {
-      "steamId": "76561198040457114",
-      "name": "100kwt",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 1112,
-      "money": 3912,
-      "gold": 15,
-      "fame": 45,
-      "rank": 27
-    },
-    {
       "steamId": "76561198259078236",
       "name": "DarkAvery",
       "sessionSeconds": 0,
-      "playTimeSeconds": 1099,
+      "playTimeSeconds": 1158,
       "money": 657844,
       "gold": 140,
       "fame": 1058,
       "rank": 28
     }
   ],
-  "updated": "2026-09-27T12:07:14.856Z"
+  "updated": "2026-09-27T12:08:14.868Z"
 }
