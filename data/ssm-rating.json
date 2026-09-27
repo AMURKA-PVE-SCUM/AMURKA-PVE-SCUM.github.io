@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198802007304",
       "name": "SEV",
-      "playTimeSeconds": 10074,
+      "playTimeSeconds": 10134,
       "money": 13093,
       "gold": 35,
       "fame": 97,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 6557,
+      "playTimeSeconds": 6617,
       "money": 101314,
       "gold": 430,
       "fame": 876,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561199025384857",
       "name": "Pupsik",
-      "playTimeSeconds": 5803,
+      "playTimeSeconds": 5863,
       "money": 1117102,
       "gold": 156,
       "fame": 971,
@@ -52,6 +52,16 @@
     },
     {
       "rank": 6,
+      "steamId": "76561199103686708",
+      "name": "DVmast3r",
+      "playTimeSeconds": 5322,
+      "money": 4900,
+      "gold": 25,
+      "fame": 187,
+      "isOnline": true
+    },
+    {
+      "rank": 7,
       "steamId": "76561199020076791",
       "name": "Sleng",
       "playTimeSeconds": 5301,
@@ -61,21 +71,11 @@
       "isOnline": false
     },
     {
-      "rank": 7,
-      "steamId": "76561199103686708",
-      "name": "DVmast3r",
-      "playTimeSeconds": 5265,
-      "money": 4900,
-      "gold": 25,
-      "fame": 187,
-      "isOnline": false
-    },
-    {
       "rank": 8,
       "steamId": "76561199738233208",
       "name": "Бен Гур",
-      "playTimeSeconds": 4510,
-      "money": 136736,
+      "playTimeSeconds": 4570,
+      "money": 140759,
       "gold": 95,
       "fame": 730,
       "isOnline": true
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 1025,
+      "playTimeSeconds": 1085,
       "money": 895502,
       "gold": 125,
       "fame": 1072,
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 499,
+      "playTimeSeconds": 559,
       "money": 2524198,
       "gold": 939,
       "fame": 5307,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-27T05:03:11.744Z"
+  "updated": "2026-09-27T05:04:11.754Z"
 }
