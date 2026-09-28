@@ -1,11 +1,21 @@
 {
-  "online": 8,
+  "online": 10,
   "players": [
+    {
+      "steamId": "76561199877063571",
+      "name": "Mazay",
+      "sessionSeconds": 39208,
+      "playTimeSeconds": 56598,
+      "money": 186574,
+      "gold": 955,
+      "fame": 3497,
+      "rank": 2
+    },
     {
       "steamId": "76561198230911236",
       "name": "TOR",
-      "sessionSeconds": 34966,
-      "playTimeSeconds": 10952,
+      "sessionSeconds": 35025,
+      "playTimeSeconds": 11011,
       "money": 1603575,
       "gold": 240,
       "fame": 877,
@@ -14,8 +24,8 @@
     {
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "sessionSeconds": 34707,
-      "playTimeSeconds": 78153,
+      "sessionSeconds": 34767,
+      "playTimeSeconds": 78212,
       "money": 231465,
       "gold": 53,
       "fame": 531,
@@ -24,18 +34,28 @@
     {
       "steamId": "76561199244636054",
       "name": "_PsixichkA_",
-      "sessionSeconds": 12212,
-      "playTimeSeconds": 11546,
+      "sessionSeconds": 12272,
+      "playTimeSeconds": 11605,
       "money": 1374236,
       "gold": 240,
       "fame": 881,
       "rank": 33
     },
     {
+      "steamId": "76561199807377476",
+      "name": "Director",
+      "sessionSeconds": 9,
+      "playTimeSeconds": 46917,
+      "money": 1188582,
+      "gold": 192,
+      "fame": 703,
+      "rank": 4
+    },
+    {
       "steamId": "76561198029476275",
       "name": "XEH",
-      "sessionSeconds": 10,
-      "playTimeSeconds": 1260,
+      "sessionSeconds": 9,
+      "playTimeSeconds": 1319,
       "money": 117544,
       "gold": 365,
       "fame": 1437,
@@ -44,8 +64,8 @@
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 10,
-      "playTimeSeconds": 28618,
+      "sessionSeconds": 9,
+      "playTimeSeconds": 28677,
       "money": 2785316,
       "gold": 1204,
       "fame": 5542,
@@ -54,8 +74,8 @@
     {
       "steamId": "76561199738233208",
       "name": "Бен Гур",
-      "sessionSeconds": 10,
-      "playTimeSeconds": 11192,
+      "sessionSeconds": 9,
+      "playTimeSeconds": 11251,
       "money": 287386,
       "gold": 105,
       "fame": 865,
@@ -64,23 +84,23 @@
     {
       "steamId": "76561198042164968",
       "name": "MaxNick78",
-      "sessionSeconds": 10,
-      "playTimeSeconds": 4934,
+      "sessionSeconds": 9,
+      "playTimeSeconds": 4993,
       "money": 1001000,
       "gold": 5,
       "fame": 17,
       "rank": 51
     },
     {
-      "steamId": "76561199807377476",
-      "name": "Director",
-      "sessionSeconds": 6,
-      "playTimeSeconds": 46858,
-      "money": 1187582,
-      "gold": 187,
-      "fame": 693,
-      "rank": 4
+      "steamId": "76561198184180030",
+      "name": "Nazar",
+      "sessionSeconds": 9,
+      "playTimeSeconds": 12398,
+      "money": 39251,
+      "gold": 60,
+      "fame": 289,
+      "rank": 30
     }
   ],
-  "updated": "2026-09-28T18:04:33.497Z"
+  "updated": "2026-09-28T18:05:33.497Z"
 }
