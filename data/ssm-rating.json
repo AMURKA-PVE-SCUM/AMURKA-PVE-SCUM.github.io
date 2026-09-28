@@ -4,27 +4,27 @@
       "rank": 1,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "playTimeSeconds": 51778,
+      "playTimeSeconds": 51786,
       "money": 46221,
       "gold": 43,
       "fame": 456,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 2,
       "steamId": "76561198802007304",
       "name": "SEV",
-      "playTimeSeconds": 39057,
+      "playTimeSeconds": 39083,
       "money": 1031634,
       "gold": 105,
       "fame": 204,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 3,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 37452,
+      "playTimeSeconds": 37512,
       "money": 172728,
       "gold": 470,
       "fame": 991,
@@ -42,6 +42,16 @@
     },
     {
       "rank": 5,
+      "steamId": "76561198077981589",
+      "name": "Чилим",
+      "playTimeSeconds": 28981,
+      "money": 1152623,
+      "gold": 55,
+      "fame": 286,
+      "isOnline": true
+    },
+    {
+      "rank": 6,
       "steamId": "76561198257833454",
       "name": "KJIU3MA",
       "playTimeSeconds": 28927,
@@ -49,16 +59,6 @@
       "gold": 40,
       "fame": 725,
       "isOnline": false
-    },
-    {
-      "rank": 6,
-      "steamId": "76561198077981589",
-      "name": "Чилим",
-      "playTimeSeconds": 28922,
-      "money": 1152623,
-      "gold": 55,
-      "fame": 286,
-      "isOnline": true
     },
     {
       "rank": 7,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-28T09:03:29.557Z"
+  "updated": "2026-09-28T09:04:29.557Z"
 }
