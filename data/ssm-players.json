@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 7,
   "players": [
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 6084,
-      "playTimeSeconds": 33958,
+      "sessionSeconds": 6144,
+      "playTimeSeconds": 34018,
       "money": 180574,
       "gold": 925,
       "fame": 3408,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 2554,
-      "playTimeSeconds": 37226,
+      "sessionSeconds": 2614,
+      "playTimeSeconds": 37286,
       "money": 172728,
       "gold": 470,
       "fame": 991,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198230911236",
       "name": "TOR",
-      "sessionSeconds": 1901,
-      "playTimeSeconds": 1919,
+      "sessionSeconds": 1961,
+      "playTimeSeconds": 1979,
       "money": 1601575,
       "gold": 230,
       "fame": 848,
@@ -34,8 +34,8 @@
     {
       "steamId": "76561198802007304",
       "name": "SEV",
-      "sessionSeconds": 1704,
-      "playTimeSeconds": 38648,
+      "sessionSeconds": 1764,
+      "playTimeSeconds": 38708,
       "money": 1030634,
       "gold": 100,
       "fame": 193,
@@ -44,8 +44,8 @@
     {
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "sessionSeconds": 1649,
-      "playTimeSeconds": 28504,
+      "sessionSeconds": 1710,
+      "playTimeSeconds": 28564,
       "money": 1152623,
       "gold": 55,
       "fame": 285,
@@ -54,13 +54,23 @@
     {
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "sessionSeconds": 1643,
-      "playTimeSeconds": 51369,
+      "sessionSeconds": 1703,
+      "playTimeSeconds": 51429,
       "money": 45221,
       "gold": 38,
       "fame": 446,
       "rank": 1
+    },
+    {
+      "steamId": "76561199076055725",
+      "name": "ICE",
+      "sessionSeconds": 19,
+      "playTimeSeconds": 16296,
+      "money": 1051836,
+      "gold": 20,
+      "fame": 345,
+      "rank": 16
     }
   ],
-  "updated": "2026-09-28T08:53:29.501Z"
+  "updated": "2026-09-28T08:54:29.508Z"
 }
