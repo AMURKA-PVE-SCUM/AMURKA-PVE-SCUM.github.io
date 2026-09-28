@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "playTimeSeconds": 71254,
+      "playTimeSeconds": 71314,
       "money": 229465,
       "gold": 43,
       "fame": 502,
@@ -32,22 +32,22 @@
     },
     {
       "rank": 4,
-      "steamId": "76561198054083179",
-      "name": "Roksi",
-      "playTimeSeconds": 39986,
-      "money": 492502,
-      "gold": 127,
-      "fame": 974,
-      "isOnline": false
-    },
-    {
-      "rank": 5,
       "steamId": "76561199807377476",
       "name": "Director",
-      "playTimeSeconds": 39959,
+      "playTimeSeconds": 40019,
       "money": 1186582,
       "gold": 182,
       "fame": 671,
+      "isOnline": true
+    },
+    {
+      "rank": 5,
+      "steamId": "76561198054083179",
+      "name": "Roksi",
+      "playTimeSeconds": 40019,
+      "money": 492502,
+      "gold": 127,
+      "fame": 974,
       "isOnline": true
     },
     {
@@ -74,17 +74,17 @@
       "rank": 8,
       "steamId": "76561198257833454",
       "name": "KJIU3MA",
-      "playTimeSeconds": 29507,
+      "playTimeSeconds": 29567,
       "money": 916582,
       "gold": 40,
-      "fame": 725,
+      "fame": 726,
       "isOnline": true
     },
     {
       "rank": 9,
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
-      "playTimeSeconds": 28210,
+      "playTimeSeconds": 28270,
       "money": 0,
       "gold": 628,
       "fame": 13747,
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561199684926739",
       "name": "Skeleton",
-      "playTimeSeconds": 18939,
+      "playTimeSeconds": 18999,
       "money": 3563453,
       "gold": 2388,
       "fame": 25753,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-28T16:05:32.626Z"
+  "updated": "2026-09-28T16:06:32.627Z"
 }
