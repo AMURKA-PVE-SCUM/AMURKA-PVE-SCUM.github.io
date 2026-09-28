@@ -1,21 +1,21 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 4283,
-      "playTimeSeconds": 32160,
+      "sessionSeconds": 4344,
+      "playTimeSeconds": 32220,
       "money": 179574,
       "gold": 920,
-      "fame": 3396,
+      "fame": 3397,
       "rank": 5
     },
     {
       "steamId": "76561198156375337",
       "name": "Domo",
-      "sessionSeconds": 2149,
-      "playTimeSeconds": 6565,
+      "sessionSeconds": 2209,
+      "playTimeSeconds": 6625,
       "money": 464000,
       "gold": 495,
       "fame": 1051,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "sessionSeconds": 1787,
-      "playTimeSeconds": 26714,
+      "sessionSeconds": 1847,
+      "playTimeSeconds": 26774,
       "money": 1155483,
       "gold": 55,
       "fame": 278,
@@ -34,8 +34,8 @@
     {
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "sessionSeconds": 1562,
-      "playTimeSeconds": 49588,
+      "sessionSeconds": 1622,
+      "playTimeSeconds": 49648,
       "money": 45221,
       "gold": 68,
       "fame": 444,
@@ -44,8 +44,8 @@
     {
       "steamId": "76561199801792277",
       "name": "Сол Хоггар",
-      "sessionSeconds": 840,
-      "playTimeSeconds": 6797,
+      "sessionSeconds": 901,
+      "playTimeSeconds": 6857,
       "money": 62991,
       "gold": 55,
       "fame": 537,
@@ -54,8 +54,8 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 754,
-      "playTimeSeconds": 35428,
+      "sessionSeconds": 814,
+      "playTimeSeconds": 35488,
       "money": 171728,
       "gold": 465,
       "fame": 979,
@@ -64,13 +64,23 @@
     {
       "steamId": "76561198230911236",
       "name": "TOR",
-      "sessionSeconds": 101,
-      "playTimeSeconds": 121,
+      "sessionSeconds": 161,
+      "playTimeSeconds": 181,
       "money": 1600575,
       "gold": 225,
       "fame": 837,
-      "rank": 55
+      "rank": 54
+    },
+    {
+      "steamId": "76561198802007304",
+      "name": "SEV",
+      "sessionSeconds": 17,
+      "playTimeSeconds": 36910,
+      "money": 1030634,
+      "gold": 70,
+      "fame": 192,
+      "rank": 2
     }
   ],
-  "updated": "2026-09-28T08:23:29.306Z"
+  "updated": "2026-09-28T08:24:29.319Z"
 }
