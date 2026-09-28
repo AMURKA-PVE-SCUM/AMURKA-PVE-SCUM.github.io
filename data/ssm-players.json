@@ -1,21 +1,21 @@
 {
-  "online": 6,
+  "online": 7,
   "players": [
     {
       "steamId": "76561198802007304",
       "name": "SEV",
-      "sessionSeconds": 5365,
-      "playTimeSeconds": 42071,
+      "sessionSeconds": 5425,
+      "playTimeSeconds": 42131,
       "money": 1030634,
-      "gold": 100,
+      "gold": 0,
       "fame": 202,
       "rank": 2
     },
     {
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "sessionSeconds": 5303,
-      "playTimeSeconds": 54783,
+      "sessionSeconds": 5363,
+      "playTimeSeconds": 54843,
       "money": 46221,
       "gold": 43,
       "fame": 459,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198156375337",
       "name": "Domo",
-      "sessionSeconds": 3544,
-      "playTimeSeconds": 9797,
+      "sessionSeconds": 3604,
+      "playTimeSeconds": 9857,
       "money": 465000,
       "gold": 500,
       "fame": 1063,
@@ -34,8 +34,8 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 3290,
-      "playTimeSeconds": 40509,
+      "sessionSeconds": 3350,
+      "playTimeSeconds": 40569,
       "money": 160636,
       "gold": 475,
       "fame": 1004,
@@ -45,7 +45,7 @@
       "steamId": "76561197991701874",
       "name": "Baloo",
       "sessionSeconds": 17,
-      "playTimeSeconds": 1529,
+      "playTimeSeconds": 1589,
       "money": 800,
       "gold": 0,
       "fame": 14,
@@ -55,12 +55,22 @@
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
       "sessionSeconds": 17,
-      "playTimeSeconds": 10123,
-      "money": 1337732,
+      "playTimeSeconds": 10183,
+      "money": 1336937,
       "gold": 675,
       "fame": 37626,
-      "rank": 30
+      "rank": 29
+    },
+    {
+      "steamId": "76561198054083179",
+      "name": "Roksi",
+      "sessionSeconds": 17,
+      "playTimeSeconds": 26553,
+      "money": 550553,
+      "gold": 111,
+      "fame": 721,
+      "rank": 8
     }
   ],
-  "updated": "2026-09-28T09:54:29.931Z"
+  "updated": "2026-09-28T09:55:29.932Z"
 }
