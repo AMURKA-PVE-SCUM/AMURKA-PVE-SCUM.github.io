@@ -1,21 +1,61 @@
 {
-  "online": 3,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198230911236",
       "name": "TOR",
-      "sessionSeconds": 34905,
-      "playTimeSeconds": 10892,
+      "sessionSeconds": 34966,
+      "playTimeSeconds": 10952,
       "money": 1603575,
       "gold": 240,
       "fame": 877,
       "rank": 37
     },
     {
+      "steamId": "76561198794536026",
+      "name": "Ayanakoji",
+      "sessionSeconds": 34707,
+      "playTimeSeconds": 78153,
+      "money": 231465,
+      "gold": 53,
+      "fame": 531,
+      "rank": 1
+    },
+    {
+      "steamId": "76561199244636054",
+      "name": "_PsixichkA_",
+      "sessionSeconds": 12212,
+      "playTimeSeconds": 11546,
+      "money": 1374236,
+      "gold": 240,
+      "fame": 881,
+      "rank": 33
+    },
+    {
+      "steamId": "76561198029476275",
+      "name": "XEH",
+      "sessionSeconds": 10,
+      "playTimeSeconds": 1260,
+      "money": 117544,
+      "gold": 365,
+      "fame": 1437,
+      "rank": 59
+    },
+    {
+      "steamId": "76561199404896383",
+      "name": "Victor_Vilkouskas",
+      "sessionSeconds": 10,
+      "playTimeSeconds": 28618,
+      "money": 2785316,
+      "gold": 1204,
+      "fame": 5542,
+      "rank": 11
+    },
+    {
       "steamId": "76561199738233208",
       "name": "Бен Гур",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 11132,
+      "sessionSeconds": 10,
+      "playTimeSeconds": 11192,
       "money": 287386,
       "gold": 105,
       "fame": 865,
@@ -24,13 +64,23 @@
     {
       "steamId": "76561198042164968",
       "name": "MaxNick78",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 4874,
-      "money": 1000,
+      "sessionSeconds": 10,
+      "playTimeSeconds": 4934,
+      "money": 1001000,
       "gold": 5,
       "fame": 17,
       "rank": 51
+    },
+    {
+      "steamId": "76561199807377476",
+      "name": "Director",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 46858,
+      "money": 1187582,
+      "gold": 187,
+      "fame": 693,
+      "rank": 4
     }
   ],
-  "updated": "2026-09-28T18:03:33.488Z"
+  "updated": "2026-09-28T18:04:33.497Z"
 }
