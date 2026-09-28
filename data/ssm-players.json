@@ -1,11 +1,11 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 1674,
-      "playTimeSeconds": 31354,
+      "sessionSeconds": 1734,
+      "playTimeSeconds": 31414,
       "money": 170728,
       "gold": 460,
       "fame": 964,
@@ -14,18 +14,18 @@
     {
       "steamId": "76561199016885187",
       "name": "Black Wolf",
-      "sessionSeconds": 424,
-      "playTimeSeconds": 486,
+      "sessionSeconds": 484,
+      "playTimeSeconds": 546,
       "money": 0,
       "gold": 0,
-      "fame": 3,
+      "fame": 4,
       "rank": 50
     },
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 203,
-      "playTimeSeconds": 28085,
+      "sessionSeconds": 263,
+      "playTimeSeconds": 28145,
       "money": 178574,
       "gold": 915,
       "fame": 3383,
@@ -35,7 +35,7 @@
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
       "sessionSeconds": 29,
-      "playTimeSeconds": 7383,
+      "playTimeSeconds": 7443,
       "money": 1335352,
       "gold": 675,
       "fame": 37504,
@@ -45,12 +45,22 @@
       "steamId": "76561198077981589",
       "name": "Чилим",
       "sessionSeconds": 29,
-      "playTimeSeconds": 23666,
+      "playTimeSeconds": 23726,
       "money": 1154483,
       "gold": 50,
       "fame": 262,
       "rank": 9
+    },
+    {
+      "steamId": "76561199020076791",
+      "name": "Sleng",
+      "sessionSeconds": 12,
+      "playTimeSeconds": 19027,
+      "money": 116453,
+      "gold": 115,
+      "fame": 355,
+      "rank": 13
     }
   ],
-  "updated": "2026-09-28T07:15:28.861Z"
+  "updated": "2026-09-28T07:16:28.875Z"
 }
