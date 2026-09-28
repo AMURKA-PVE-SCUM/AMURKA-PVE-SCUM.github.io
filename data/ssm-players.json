@@ -1,21 +1,31 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
+    {
+      "steamId": "76561199877063571",
+      "name": "Mazay",
+      "sessionSeconds": 21866,
+      "playTimeSeconds": 39676,
+      "money": 181574,
+      "gold": 930,
+      "fame": 3422,
+      "rank": 4
+    },
     {
       "steamId": "76561198156375337",
       "name": "Domo",
-      "sessionSeconds": 15605,
-      "playTimeSeconds": 21510,
-      "money": 468000,
-      "gold": 515,
-      "fame": 1106,
+      "sessionSeconds": 15665,
+      "playTimeSeconds": 21570,
+      "money": 469000,
+      "gold": 520,
+      "fame": 1116,
       "rank": 13
     },
     {
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "sessionSeconds": 5370,
-      "playTimeSeconds": 30785,
+      "sessionSeconds": 5430,
+      "playTimeSeconds": 30845,
       "money": 293446,
       "gold": 201,
       "fame": 1675,
@@ -25,7 +35,7 @@
       "steamId": "76561198382114262",
       "name": "Montana",
       "sessionSeconds": 2,
-      "playTimeSeconds": 10188,
+      "playTimeSeconds": 10248,
       "money": 3405296,
       "gold": 2780,
       "fame": 3099,
@@ -35,7 +45,7 @@
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
       "sessionSeconds": 2,
-      "playTimeSeconds": 25820,
+      "playTimeSeconds": 25880,
       "money": 2825735,
       "gold": 1124,
       "fame": 5541,
@@ -45,8 +55,8 @@
       "steamId": "76561198054083179",
       "name": "Roksi",
       "sessionSeconds": 2,
-      "playTimeSeconds": 38320,
-      "money": 511765,
+      "playTimeSeconds": 38380,
+      "money": 521218,
       "gold": 127,
       "fame": 972,
       "rank": 5
@@ -55,8 +65,8 @@
       "steamId": "76561198121549932",
       "name": "Prostyak",
       "sessionSeconds": 2,
-      "playTimeSeconds": 20208,
-      "money": 2495395,
+      "playTimeSeconds": 20268,
+      "money": 2505472,
       "gold": 161,
       "fame": 2086,
       "rank": 15
@@ -65,12 +75,12 @@
       "steamId": "76561198145887104",
       "name": "Dr_DEP",
       "sessionSeconds": 2,
-      "playTimeSeconds": 13877,
+      "playTimeSeconds": 13937,
       "money": 22395,
       "gold": 15,
       "fame": 61,
       "rank": 22
     }
   ],
-  "updated": "2026-09-28T13:15:31.403Z"
+  "updated": "2026-09-28T13:16:31.409Z"
 }
