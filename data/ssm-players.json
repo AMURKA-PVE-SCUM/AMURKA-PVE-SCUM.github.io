@@ -1,11 +1,11 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198802007304",
       "name": "SEV",
-      "sessionSeconds": 4945,
-      "playTimeSeconds": 41651,
+      "sessionSeconds": 5005,
+      "playTimeSeconds": 41711,
       "money": 1030634,
       "gold": 100,
       "fame": 202,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "sessionSeconds": 4883,
-      "playTimeSeconds": 54363,
+      "sessionSeconds": 4943,
+      "playTimeSeconds": 54423,
       "money": 46221,
       "gold": 43,
       "fame": 458,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198156375337",
       "name": "Domo",
-      "sessionSeconds": 3124,
-      "playTimeSeconds": 9377,
+      "sessionSeconds": 3184,
+      "playTimeSeconds": 9437,
       "money": 465000,
       "gold": 500,
       "fame": 1063,
@@ -34,9 +34,9 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 2869,
-      "playTimeSeconds": 40089,
-      "money": 173728,
+      "sessionSeconds": 2929,
+      "playTimeSeconds": 40149,
+      "money": 160228,
       "gold": 475,
       "fame": 1004,
       "rank": 3
@@ -45,12 +45,22 @@
       "steamId": "76561197991701874",
       "name": "Baloo",
       "sessionSeconds": 18,
-      "playTimeSeconds": 1109,
-      "money": 500,
+      "playTimeSeconds": 1169,
+      "money": 800,
       "gold": 0,
-      "fame": 9,
+      "fame": 14,
       "rank": 51
+    },
+    {
+      "steamId": "76561199486830797",
+      "name": "yuriiermolenko861",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 9764,
+      "money": 1336352,
+      "gold": 680,
+      "fame": 37515,
+      "rank": 31
     }
   ],
-  "updated": "2026-09-28T09:47:29.871Z"
+  "updated": "2026-09-28T09:48:29.884Z"
 }
