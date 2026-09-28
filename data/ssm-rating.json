@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 28593,
+      "playTimeSeconds": 28653,
       "money": 170728,
       "gold": 460,
       "fame": 961,
@@ -82,6 +82,16 @@
     },
     {
       "rank": 9,
+      "steamId": "76561198077981589",
+      "name": "Чилим",
+      "playTimeSeconds": 20829,
+      "money": 1153483,
+      "gold": 45,
+      "fame": 242,
+      "isOnline": true
+    },
+    {
+      "rank": 10,
       "steamId": "76561198814504955",
       "name": "Venom",
       "playTimeSeconds": 20781,
@@ -89,16 +99,6 @@
       "gold": 75,
       "fame": 352,
       "isOnline": false
-    },
-    {
-      "rank": 10,
-      "steamId": "76561198077981589",
-      "name": "Чилим",
-      "playTimeSeconds": 20769,
-      "money": 1153483,
-      "gold": 45,
-      "fame": 242,
-      "isOnline": true
     },
     {
       "rank": 11,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-28T06:26:28.458Z"
+  "updated": "2026-09-28T06:27:28.458Z"
 }
