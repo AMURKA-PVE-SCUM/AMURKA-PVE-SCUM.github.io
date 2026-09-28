@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "playTimeSeconds": 65478,
+      "playTimeSeconds": 65538,
       "money": 229465,
       "gold": 43,
       "fame": 487,
@@ -34,8 +34,8 @@
       "rank": 4,
       "steamId": "76561198054083179",
       "name": "Roksi",
-      "playTimeSeconds": 37182,
-      "money": 603553,
+      "playTimeSeconds": 37242,
+      "money": 599536,
       "gold": 127,
       "fame": 962,
       "isOnline": true
@@ -64,9 +64,9 @@
       "rank": 7,
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "playTimeSeconds": 29647,
-      "money": 377696,
-      "gold": 196,
+      "playTimeSeconds": 29707,
+      "money": 378696,
+      "gold": 201,
       "fame": 1654,
       "isOnline": true
     },
@@ -84,17 +84,17 @@
       "rank": 9,
       "steamId": "76561199020076791",
       "name": "Sleng",
-      "playTimeSeconds": 27114,
+      "playTimeSeconds": 27150,
       "money": 118253,
       "gold": 125,
       "fame": 384,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 10,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 24682,
+      "playTimeSeconds": 24742,
       "money": 2823735,
       "gold": 1119,
       "fame": 5520,
@@ -122,6 +122,16 @@
     },
     {
       "rank": 13,
+      "steamId": "76561198121549932",
+      "name": "Prostyak",
+      "playTimeSeconds": 19130,
+      "money": 2382261,
+      "gold": 161,
+      "fame": 2085,
+      "isOnline": true
+    },
+    {
+      "rank": 14,
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
       "playTimeSeconds": 19098,
@@ -129,16 +139,6 @@
       "gold": 263,
       "fame": 13655,
       "isOnline": false
-    },
-    {
-      "rank": 14,
-      "steamId": "76561198121549932",
-      "name": "Prostyak",
-      "playTimeSeconds": 19070,
-      "money": 2382261,
-      "gold": 161,
-      "fame": 2085,
-      "isOnline": true
     },
     {
       "rank": 15,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-28T12:56:31.309Z"
+  "updated": "2026-09-28T12:57:31.309Z"
 }
