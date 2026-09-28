@@ -1,16 +1,36 @@
 {
-  "online": 1,
+  "online": 3,
   "players": [
     {
-      "steamId": "76561198041539804",
-      "name": "Ded_13",
-      "sessionSeconds": 25,
-      "playTimeSeconds": 20365,
-      "money": 301049,
-      "gold": 186,
-      "fame": 1594,
-      "rank": 11
+      "steamId": "76561198156375337",
+      "name": "Domo",
+      "sessionSeconds": 137707,
+      "playTimeSeconds": 4360,
+      "money": 464000,
+      "gold": 495,
+      "fame": 1050,
+      "rank": 36
+    },
+    {
+      "steamId": "76561198257833454",
+      "name": "KJIU3MA",
+      "sessionSeconds": 137010,
+      "playTimeSeconds": 28927,
+      "money": 916582,
+      "gold": 40,
+      "fame": 725,
+      "rank": 4
+    },
+    {
+      "steamId": "76561198814504955",
+      "name": "Venom",
+      "sessionSeconds": 126545,
+      "playTimeSeconds": 20781,
+      "money": 943886,
+      "gold": 75,
+      "fame": 352,
+      "rank": 10
     }
   ],
-  "updated": "2026-09-28T02:01:26.475Z"
+  "updated": "2026-09-28T02:02:26.481Z"
 }
