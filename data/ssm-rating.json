@@ -12,6 +12,16 @@
     },
     {
       "rank": 2,
+      "steamId": "76561198802007304",
+      "name": "SEV",
+      "playTimeSeconds": 35238,
+      "money": 1025684,
+      "gold": 65,
+      "fame": 180,
+      "isOnline": true
+    },
+    {
+      "rank": 3,
       "steamId": "76561199807377476",
       "name": "Director",
       "playTimeSeconds": 35193,
@@ -21,20 +31,10 @@
       "isOnline": false
     },
     {
-      "rank": 3,
-      "steamId": "76561198802007304",
-      "name": "SEV",
-      "playTimeSeconds": 35178,
-      "money": 1025684,
-      "gold": 65,
-      "fame": 180,
-      "isOnline": true
-    },
-    {
       "rank": 4,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 33691,
+      "playTimeSeconds": 33751,
       "money": 171728,
       "gold": 465,
       "fame": 977,
@@ -64,10 +64,10 @@
       "rank": 7,
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "playTimeSeconds": 24976,
+      "playTimeSeconds": 25036,
       "money": 1154483,
       "gold": 50,
-      "fame": 264,
+      "fame": 265,
       "isOnline": true
     },
     {
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-28T07:54:29.101Z"
+  "updated": "2026-09-28T07:55:29.102Z"
 }
