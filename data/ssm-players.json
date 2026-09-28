@@ -1,11 +1,11 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 43408,
-      "playTimeSeconds": 60748,
+      "sessionSeconds": 43468,
+      "playTimeSeconds": 60808,
       "money": 187574,
       "gold": 960,
       "fame": 3510,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198230911236",
       "name": "TOR",
-      "sessionSeconds": 39226,
-      "playTimeSeconds": 15206,
+      "sessionSeconds": 39286,
+      "playTimeSeconds": 15266,
       "money": 1574374,
       "gold": 250,
       "fame": 903,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "sessionSeconds": 38967,
-      "playTimeSeconds": 82407,
+      "sessionSeconds": 39027,
+      "playTimeSeconds": 82467,
       "money": 232465,
       "gold": 58,
       "fame": 545,
@@ -34,8 +34,8 @@
     {
       "steamId": "76561199244636054",
       "name": "_PsixichkA_",
-      "sessionSeconds": 16472,
-      "playTimeSeconds": 15800,
+      "sessionSeconds": 16532,
+      "playTimeSeconds": 15860,
       "money": 1375236,
       "gold": 245,
       "fame": 894,
@@ -45,7 +45,7 @@
       "steamId": "76561199807377476",
       "name": "Director",
       "sessionSeconds": 4,
-      "playTimeSeconds": 51112,
+      "playTimeSeconds": 51172,
       "money": 1189182,
       "gold": 197,
       "fame": 720,
@@ -55,7 +55,7 @@
       "steamId": "76561198145887104",
       "name": "Dr_DEP",
       "sessionSeconds": 4,
-      "playTimeSeconds": 25762,
+      "playTimeSeconds": 25822,
       "money": 60624,
       "gold": 35,
       "fame": 193,
@@ -65,7 +65,7 @@
       "steamId": "76561199206700564",
       "name": "_Adskiy_Yozhik_",
       "sessionSeconds": 4,
-      "playTimeSeconds": 9463,
+      "playTimeSeconds": 9523,
       "money": 920786,
       "gold": 75,
       "fame": 569,
@@ -75,12 +75,22 @@
       "steamId": "76561198184180030",
       "name": "Nazar",
       "sessionSeconds": 4,
-      "playTimeSeconds": 16593,
+      "playTimeSeconds": 16653,
       "money": 41494,
       "gold": 70,
       "fame": 319,
       "rank": 23
+    },
+    {
+      "steamId": "76561198382114262",
+      "name": "Montana",
+      "sessionSeconds": 4,
+      "playTimeSeconds": 13757,
+      "money": 3373056,
+      "gold": 2785,
+      "fame": 3112,
+      "rank": 28
     }
   ],
-  "updated": "2026-09-28T19:15:34.080Z"
+  "updated": "2026-09-28T19:16:34.086Z"
 }
