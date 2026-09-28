@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561199807377476",
       "name": "Director",
-      "playTimeSeconds": 39076,
+      "playTimeSeconds": 39136,
       "money": 1185582,
       "gold": 177,
       "fame": 660,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "playTimeSeconds": 36298,
+      "playTimeSeconds": 36358,
       "money": 325546,
       "gold": 207,
       "fame": 1901,
@@ -112,6 +112,16 @@
     },
     {
       "rank": 12,
+      "steamId": "76561198120086834",
+      "name": "Myp3ilka",
+      "playTimeSeconds": 23888,
+      "money": 103,
+      "gold": 628,
+      "fame": 13734,
+      "isOnline": true
+    },
+    {
+      "rank": 13,
       "steamId": "76561198022734828",
       "name": "ArBuzova",
       "playTimeSeconds": 23839,
@@ -119,16 +129,6 @@
       "gold": 175,
       "fame": 888,
       "isOnline": false
-    },
-    {
-      "rank": 13,
-      "steamId": "76561198120086834",
-      "name": "Myp3ilka",
-      "playTimeSeconds": 23828,
-      "money": 103,
-      "gold": 628,
-      "fame": 13734,
-      "isOnline": true
     },
     {
       "rank": 14,
@@ -144,7 +144,7 @@
       "rank": 15,
       "steamId": "76561198145887104",
       "name": "Dr_DEP",
-      "playTimeSeconds": 19390,
+      "playTimeSeconds": 19450,
       "money": 31526,
       "gold": 25,
       "fame": 116,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561199748276692",
       "name": "Ebzhik",
-      "playTimeSeconds": 18994,
+      "playTimeSeconds": 19054,
       "money": 289358,
       "gold": 436,
       "fame": 2750,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-28T14:47:32.102Z"
+  "updated": "2026-09-28T14:48:32.113Z"
 }
