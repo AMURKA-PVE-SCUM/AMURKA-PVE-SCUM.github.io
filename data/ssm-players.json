@@ -1,96 +1,36 @@
 {
-  "online": 9,
+  "online": 3,
   "players": [
-    {
-      "steamId": "76561199877063571",
-      "name": "Mazay",
-      "sessionSeconds": 17425,
-      "playTimeSeconds": 36532,
-      "money": 180574,
-      "gold": 925,
-      "fame": 3410,
-      "rank": 4
-    },
-    {
-      "steamId": "76561198230911236",
-      "name": "TOR",
-      "sessionSeconds": 13242,
-      "playTimeSeconds": 2942,
-      "money": 1601575,
-      "gold": 230,
-      "fame": 849,
-      "rank": 48
-    },
     {
       "steamId": "76561198802007304",
       "name": "SEV",
-      "sessionSeconds": 13046,
-      "playTimeSeconds": 49625,
-      "money": 1013554,
-      "gold": 10,
-      "fame": 232,
+      "sessionSeconds": 13106,
+      "playTimeSeconds": 49647,
+      "money": 1014554,
+      "gold": 15,
+      "fame": 242,
       "rank": 2
-    },
-    {
-      "steamId": "76561198077981589",
-      "name": "Чилим",
-      "sessionSeconds": 12991,
-      "playTimeSeconds": 32327,
-      "money": 1153623,
-      "gold": 60,
-      "fame": 311,
-      "rank": 7
-    },
-    {
-      "steamId": "76561198794536026",
-      "name": "Ayanakoji",
-      "sessionSeconds": 12984,
-      "playTimeSeconds": 62322,
-      "money": 230465,
-      "gold": 48,
-      "fame": 487,
-      "rank": 1
-    },
-    {
-      "steamId": "76561199076055725",
-      "name": "ICE",
-      "sessionSeconds": 11301,
-      "playTimeSeconds": 17402,
-      "money": 1055156,
-      "gold": 20,
-      "fame": 375,
-      "rank": 16
-    },
-    {
-      "steamId": "76561198156375337",
-      "name": "Domo",
-      "sessionSeconds": 11225,
-      "playTimeSeconds": 17351,
-      "money": 467000,
-      "gold": 510,
-      "fame": 1089,
-      "rank": 17
-    },
-    {
-      "steamId": "76561198337811646",
-      "name": "VERSUS_65_",
-      "sessionSeconds": 10970,
-      "playTimeSeconds": 45069,
-      "money": 161636,
-      "gold": 480,
-      "fame": 1022,
-      "rank": 3
     },
     {
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "sessionSeconds": 989,
-      "playTimeSeconds": 26440,
+      "sessionSeconds": 1049,
+      "playTimeSeconds": 26477,
       "money": 360034,
       "gold": 196,
       "fame": 1644,
       "rank": 9
+    },
+    {
+      "steamId": "76561199020076791",
+      "name": "Sleng",
+      "sessionSeconds": 7,
+      "playTimeSeconds": 23938,
+      "money": 117253,
+      "gold": 120,
+      "fame": 370,
+      "rank": 10
     }
   ],
-  "updated": "2026-09-28T12:02:30.851Z"
+  "updated": "2026-09-28T12:03:30.852Z"
 }
