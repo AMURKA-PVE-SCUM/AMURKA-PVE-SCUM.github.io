@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 5904,
-      "playTimeSeconds": 33778,
+      "sessionSeconds": 5964,
+      "playTimeSeconds": 33838,
       "money": 180574,
       "gold": 925,
       "fame": 3408,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561199801792277",
       "name": "Сол Хоггар",
-      "sessionSeconds": 2461,
-      "playTimeSeconds": 8415,
+      "sessionSeconds": 2521,
+      "playTimeSeconds": 8475,
       "money": 62991,
       "gold": 55,
       "fame": 539,
@@ -24,28 +24,28 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 2374,
-      "playTimeSeconds": 37046,
+      "sessionSeconds": 2434,
+      "playTimeSeconds": 37106,
       "money": 172728,
       "gold": 470,
-      "fame": 990,
+      "fame": 991,
       "rank": 3
     },
     {
       "steamId": "76561198230911236",
       "name": "TOR",
-      "sessionSeconds": 1721,
-      "playTimeSeconds": 1739,
+      "sessionSeconds": 1781,
+      "playTimeSeconds": 1799,
       "money": 1601575,
       "gold": 230,
       "fame": 848,
-      "rank": 47
+      "rank": 46
     },
     {
       "steamId": "76561198802007304",
       "name": "SEV",
-      "sessionSeconds": 1524,
-      "playTimeSeconds": 38468,
+      "sessionSeconds": 1584,
+      "playTimeSeconds": 38528,
       "money": 1030634,
       "gold": 100,
       "fame": 193,
@@ -54,8 +54,8 @@
     {
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "sessionSeconds": 1469,
-      "playTimeSeconds": 28324,
+      "sessionSeconds": 1529,
+      "playTimeSeconds": 28384,
       "money": 1152623,
       "gold": 55,
       "fame": 285,
@@ -64,13 +64,23 @@
     {
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "sessionSeconds": 1463,
-      "playTimeSeconds": 51189,
+      "sessionSeconds": 1523,
+      "playTimeSeconds": 51249,
       "money": 45221,
       "gold": 38,
       "fame": 446,
       "rank": 1
+    },
+    {
+      "steamId": "76561199076055725",
+      "name": "ICE",
+      "sessionSeconds": 23,
+      "playTimeSeconds": 16181,
+      "money": 1051836,
+      "gold": 20,
+      "fame": 345,
+      "rank": 16
     }
   ],
-  "updated": "2026-09-28T08:50:29.477Z"
+  "updated": "2026-09-28T08:51:29.486Z"
 }
