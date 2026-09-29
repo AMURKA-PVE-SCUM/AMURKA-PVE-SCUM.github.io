@@ -1,11 +1,21 @@
 {
-  "online": 5,
+  "online": 7,
   "players": [
+    {
+      "steamId": "76561198794536026",
+      "name": "Ayanakoji",
+      "sessionSeconds": 99579,
+      "playTimeSeconds": 91177,
+      "money": 190224,
+      "gold": 63,
+      "fame": 572,
+      "rank": 1
+    },
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 97505,
-      "playTimeSeconds": 59991,
+      "sessionSeconds": 97565,
+      "playTimeSeconds": 60051,
       "money": 198631,
       "gold": 500,
       "fame": 1077,
@@ -15,17 +25,17 @@
       "steamId": "76561198121549932",
       "name": "Prostyak",
       "sessionSeconds": 15,
-      "playTimeSeconds": 36980,
+      "playTimeSeconds": 37040,
       "money": 2984851,
       "gold": 18,
-      "fame": 2683,
+      "fame": 2684,
       "rank": 8
     },
     {
       "steamId": "76561198382114262",
       "name": "Montana",
       "sessionSeconds": 15,
-      "playTimeSeconds": 18564,
+      "playTimeSeconds": 18624,
       "money": 3373756,
       "gold": 2790,
       "fame": 3126,
@@ -35,7 +45,7 @@
       "steamId": "76561199699294853",
       "name": "ПАТRИК",
       "sessionSeconds": 15,
-      "playTimeSeconds": 18077,
+      "playTimeSeconds": 18137,
       "money": 651934,
       "gold": 878,
       "fame": 2272,
@@ -45,12 +55,22 @@
       "steamId": "76561199446477479",
       "name": "brazeenhtein2",
       "sessionSeconds": 15,
-      "playTimeSeconds": 1691,
+      "playTimeSeconds": 1751,
       "money": 0,
       "gold": 0,
       "fame": 2,
-      "rank": 62
+      "rank": 61
+    },
+    {
+      "steamId": "76561198041539804",
+      "name": "Ded_13",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 63547,
+      "money": 890975,
+      "gold": 248,
+      "fame": 2368,
+      "rank": 3
     }
   ],
-  "updated": "2026-09-29T12:04:45.597Z"
+  "updated": "2026-09-29T12:05:45.611Z"
 }
