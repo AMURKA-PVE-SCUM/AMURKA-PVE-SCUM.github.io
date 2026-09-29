@@ -1,26 +1,36 @@
 {
-  "online": 2,
+  "online": 3,
   "players": [
     {
-      "steamId": "76561199446477479",
-      "name": "brazeenhtein2",
+      "steamId": "76561199823596261",
+      "name": "MИХА",
       "sessionSeconds": 22,
-      "playTimeSeconds": 12054,
-      "money": 1021937,
-      "gold": 15,
-      "fame": 106,
-      "rank": 39
+      "playTimeSeconds": 19379,
+      "money": 1364037,
+      "gold": 270,
+      "fame": 1217,
+      "rank": 28
     },
     {
       "steamId": "76561198171528471",
       "name": "pokalenie_pepsi",
-      "sessionSeconds": 12,
-      "playTimeSeconds": 10876,
+      "sessionSeconds": 22,
+      "playTimeSeconds": 10936,
       "money": 1004877,
       "gold": 10,
       "fame": 53,
       "rank": 45
+    },
+    {
+      "steamId": "76561199446477479",
+      "name": "brazeenhtein2",
+      "sessionSeconds": 22,
+      "playTimeSeconds": 12114,
+      "money": 1021937,
+      "gold": 15,
+      "fame": 106,
+      "rank": 39
     }
   ],
-  "updated": "2026-09-29T15:03:46.886Z"
+  "updated": "2026-09-29T15:04:46.887Z"
 }
