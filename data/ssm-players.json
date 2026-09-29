@@ -2,10 +2,20 @@
   "online": 7,
   "players": [
     {
+      "steamId": "76561198794536026",
+      "name": "Ayanakoji",
+      "sessionSeconds": 16,
+      "playTimeSeconds": 92625,
+      "money": 181074,
+      "gold": 58,
+      "fame": 583,
+      "rank": 2
+    },
+    {
       "steamId": "76561198800781114",
       "name": "August",
       "sessionSeconds": 16,
-      "playTimeSeconds": 18256,
+      "playTimeSeconds": 18316,
       "money": 498967,
       "gold": 688,
       "fame": 1841,
@@ -15,7 +25,7 @@
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
       "sessionSeconds": 16,
-      "playTimeSeconds": 45690,
+      "playTimeSeconds": 45750,
       "money": 74605,
       "gold": 713,
       "fame": 13906,
@@ -25,7 +35,7 @@
       "steamId": "76561198215398893",
       "name": "Shmulkee",
       "sessionSeconds": 16,
-      "playTimeSeconds": 33205,
+      "playTimeSeconds": 33265,
       "money": 1024018,
       "gold": 181,
       "fame": 975,
@@ -35,27 +45,17 @@
       "steamId": "76561198257833454",
       "name": "KJIU3MA",
       "sessionSeconds": 16,
-      "playTimeSeconds": 39614,
+      "playTimeSeconds": 39674,
       "money": 1002025,
       "gold": 56,
       "fame": 1064,
       "rank": 10
     },
     {
-      "steamId": "76561198794536026",
-      "name": "Ayanakoji",
-      "sessionSeconds": 16,
-      "playTimeSeconds": 92592,
-      "money": 181074,
-      "gold": 58,
-      "fame": 583,
-      "rank": 2
-    },
-    {
       "steamId": "76561199823596261",
       "name": "MИХА",
       "sessionSeconds": 16,
-      "playTimeSeconds": 24038,
+      "playTimeSeconds": 24098,
       "money": 1467287,
       "gold": 280,
       "fame": 1345,
@@ -65,12 +65,12 @@
       "steamId": "76561199807377476",
       "name": "Director",
       "sessionSeconds": 16,
-      "playTimeSeconds": 62244,
+      "playTimeSeconds": 62304,
       "money": 1118508,
       "gold": 183,
       "fame": 924,
       "rank": 6
     }
   ],
-  "updated": "2026-09-29T16:22:47.468Z"
+  "updated": "2026-09-29T16:23:47.483Z"
 }
