@@ -1,31 +1,31 @@
 {
-  "online": 7,
+  "online": 6,
   "players": [
-    {
-      "steamId": "76561198029476275",
-      "name": "XEH",
-      "sessionSeconds": 2137,
-      "playTimeSeconds": 15658,
-      "money": 179887,
-      "gold": 385,
-      "fame": 1512,
-      "rank": 34
-    },
     {
       "steamId": "76561198325068343",
       "name": "BarmaleyZ",
-      "sessionSeconds": 248,
-      "playTimeSeconds": 7571,
+      "sessionSeconds": 308,
+      "playTimeSeconds": 7631,
       "money": 4058,
       "gold": 40,
       "fame": 353,
       "rank": 55
     },
     {
+      "steamId": "76561198800781114",
+      "name": "August",
+      "sessionSeconds": 42,
+      "playTimeSeconds": 22677,
+      "money": 500967,
+      "gold": 698,
+      "fame": 1865,
+      "rank": 24
+    },
+    {
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
       "sessionSeconds": 9,
-      "playTimeSeconds": 98257,
+      "playTimeSeconds": 98317,
       "money": 126746,
       "gold": 63,
       "fame": 600,
@@ -35,7 +35,7 @@
       "steamId": "76561199823596261",
       "name": "MИХА",
       "sessionSeconds": 9,
-      "playTimeSeconds": 29730,
+      "playTimeSeconds": 29790,
       "money": 1478420,
       "gold": 285,
       "fame": 1394,
@@ -45,7 +45,7 @@
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 9,
-      "playTimeSeconds": 100357,
+      "playTimeSeconds": 100417,
       "money": 197574,
       "gold": 1010,
       "fame": 3633,
@@ -55,22 +55,12 @@
       "steamId": "76561199807377476",
       "name": "Director",
       "sessionSeconds": 9,
-      "playTimeSeconds": 67936,
+      "playTimeSeconds": 67996,
       "money": 1055125,
       "gold": 188,
       "fame": 930,
       "rank": 3
-    },
-    {
-      "steamId": "76561198800781114",
-      "name": "August",
-      "sessionSeconds": 2,
-      "playTimeSeconds": 22617,
-      "money": 500967,
-      "gold": 698,
-      "fame": 1865,
-      "rank": 24
     }
   ],
-  "updated": "2026-09-29T17:57:48.134Z"
+  "updated": "2026-09-29T17:58:48.138Z"
 }
