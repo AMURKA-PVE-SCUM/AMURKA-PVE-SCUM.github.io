@@ -1,21 +1,21 @@
 {
-  "online": 6,
+  "online": 7,
   "players": [
     {
       "steamId": "76561198382114262",
       "name": "Montana",
       "sessionSeconds": 7,
-      "playTimeSeconds": 24790,
+      "playTimeSeconds": 24850,
       "money": 3375756,
       "gold": 2800,
-      "fame": 3148,
+      "fame": 3146,
       "rank": 18
     },
     {
       "steamId": "76561198050070023",
       "name": "Oxymoron",
       "sessionSeconds": 7,
-      "playTimeSeconds": 4703,
+      "playTimeSeconds": 4763,
       "money": 58079,
       "gold": 39,
       "fame": 307,
@@ -25,7 +25,7 @@
       "steamId": "76561198171528471",
       "name": "pokalenie_pepsi",
       "sessionSeconds": 7,
-      "playTimeSeconds": 6847,
+      "playTimeSeconds": 6907,
       "money": 1001000,
       "gold": 5,
       "fame": 20,
@@ -35,7 +35,7 @@
       "steamId": "76561199446477479",
       "name": "brazeenhtein2",
       "sessionSeconds": 7,
-      "playTimeSeconds": 7992,
+      "playTimeSeconds": 8052,
       "money": 1005914,
       "gold": 10,
       "fame": 43,
@@ -45,7 +45,7 @@
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
       "sessionSeconds": 7,
-      "playTimeSeconds": 37086,
+      "playTimeSeconds": 37146,
       "money": 2836,
       "gold": 708,
       "fame": 13824,
@@ -55,12 +55,22 @@
       "steamId": "76561198029476275",
       "name": "XEH",
       "sessionSeconds": 7,
-      "playTimeSeconds": 8064,
+      "playTimeSeconds": 8124,
       "money": 141125,
       "gold": 375,
       "fame": 1483,
       "rank": 51
+    },
+    {
+      "steamId": "76561198325257962",
+      "name": "Dante",
+      "sessionSeconds": 7,
+      "playTimeSeconds": 5778,
+      "money": 1009739,
+      "gold": 5,
+      "fame": 19,
+      "rank": 57
     }
   ],
-  "updated": "2026-09-29T13:52:46.374Z"
+  "updated": "2026-09-29T13:53:46.389Z"
 }
