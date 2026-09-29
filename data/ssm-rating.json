@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199807377476",
       "name": "Director",
-      "playTimeSeconds": 76341,
+      "playTimeSeconds": 76401,
       "money": 1105097,
       "gold": 204,
       "fame": 1170,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
-      "playTimeSeconds": 40489,
+      "playTimeSeconds": 40549,
       "money": 1463903,
       "gold": 672,
       "fame": 38524,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561199823596261",
       "name": "MИХА",
-      "playTimeSeconds": 38200,
+      "playTimeSeconds": 38260,
       "money": 1487420,
       "gold": 300,
       "fame": 1479,
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561198800781114",
+      "name": "August",
+      "playTimeSeconds": 29361,
+      "money": 501867,
+      "gold": 703,
+      "fame": 1882,
+      "isOnline": true
+    },
+    {
+      "rank": 16,
       "steamId": "76561198382114262",
       "name": "Montana",
       "playTimeSeconds": 29317,
@@ -149,16 +159,6 @@
       "gold": 2805,
       "fame": 3157,
       "isOnline": false
-    },
-    {
-      "rank": 16,
-      "steamId": "76561198800781114",
-      "name": "August",
-      "playTimeSeconds": 29301,
-      "money": 501867,
-      "gold": 703,
-      "fame": 1882,
-      "isOnline": true
     },
     {
       "rank": 17,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-29T20:23:53.233Z"
+  "updated": "2026-09-29T20:24:53.234Z"
 }
