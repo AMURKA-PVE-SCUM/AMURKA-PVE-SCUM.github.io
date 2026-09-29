@@ -1,21 +1,31 @@
 {
-  "online": 6,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198156375337",
       "name": "Domo",
-      "sessionSeconds": 105860,
-      "playTimeSeconds": 29343,
+      "sessionSeconds": 105920,
+      "playTimeSeconds": 29403,
       "money": 471000,
       "gold": 530,
       "fame": 1137,
       "rank": 14
     },
     {
+      "steamId": "76561198325257962",
+      "name": "Dante",
+      "sessionSeconds": 7,
+      "playTimeSeconds": 6611,
+      "money": 1009739,
+      "gold": 5,
+      "fame": 20,
+      "rank": 57
+    },
+    {
       "steamId": "76561198382114262",
       "name": "Montana",
       "sessionSeconds": 7,
-      "playTimeSeconds": 26409,
+      "playTimeSeconds": 26469,
       "money": 3376756,
       "gold": 2805,
       "fame": 3156,
@@ -25,7 +35,7 @@
       "steamId": "76561198171528471",
       "name": "pokalenie_pepsi",
       "sessionSeconds": 7,
-      "playTimeSeconds": 8466,
+      "playTimeSeconds": 8526,
       "money": 998060,
       "gold": 10,
       "fame": 36,
@@ -35,7 +45,7 @@
       "steamId": "76561199823596261",
       "name": "MИХА",
       "sessionSeconds": 7,
-      "playTimeSeconds": 16948,
+      "playTimeSeconds": 17008,
       "money": 1364037,
       "gold": 270,
       "fame": 1215,
@@ -45,7 +55,7 @@
       "steamId": "76561199446477479",
       "name": "brazeenhtein2",
       "sessionSeconds": 7,
-      "playTimeSeconds": 9611,
+      "playTimeSeconds": 9671,
       "money": 1007676,
       "gold": 10,
       "fame": 44,
@@ -55,12 +65,22 @@
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
       "sessionSeconds": 7,
-      "playTimeSeconds": 38705,
+      "playTimeSeconds": 38765,
       "money": 774,
       "gold": 708,
       "fame": 13826,
       "rank": 9
+    },
+    {
+      "steamId": "76561198029476275",
+      "name": "XEH",
+      "sessionSeconds": 7,
+      "playTimeSeconds": 8963,
+      "money": 141125,
+      "gold": 375,
+      "fame": 1484,
+      "rank": 49
     }
   ],
-  "updated": "2026-09-29T14:19:46.606Z"
+  "updated": "2026-09-29T14:20:46.619Z"
 }
