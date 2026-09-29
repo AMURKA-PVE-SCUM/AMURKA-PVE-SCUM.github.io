@@ -1,11 +1,11 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198063204711",
       "name": "Maxik",
-      "sessionSeconds": 28,
-      "playTimeSeconds": 5465,
+      "sessionSeconds": 27,
+      "playTimeSeconds": 5525,
       "money": 940029,
       "gold": 55,
       "fame": 178,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198800781114",
       "name": "August",
-      "sessionSeconds": 28,
-      "playTimeSeconds": 29061,
+      "sessionSeconds": 27,
+      "playTimeSeconds": 29121,
       "money": 501867,
       "gold": 703,
       "fame": 1881,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
-      "sessionSeconds": 28,
-      "playTimeSeconds": 40249,
+      "sessionSeconds": 27,
+      "playTimeSeconds": 40309,
       "money": 1463903,
       "gold": 672,
       "fame": 38524,
@@ -34,23 +34,33 @@
     {
       "steamId": "76561199823596261",
       "name": "MИХА",
-      "sessionSeconds": 28,
-      "playTimeSeconds": 37960,
+      "sessionSeconds": 27,
+      "playTimeSeconds": 38020,
       "money": 1487420,
       "gold": 300,
-      "fame": 1476,
+      "fame": 1478,
       "rank": 14
     },
     {
       "steamId": "76561199807377476",
       "name": "Director",
-      "sessionSeconds": 28,
-      "playTimeSeconds": 76101,
+      "sessionSeconds": 27,
+      "playTimeSeconds": 76161,
       "money": 1105097,
       "gold": 204,
       "fame": 1170,
       "rank": 3
+    },
+    {
+      "steamId": "76561198775651698",
+      "name": "Добряк",
+      "sessionSeconds": 27,
+      "playTimeSeconds": 16102,
+      "money": 4600668,
+      "gold": 1145,
+      "fame": 11329,
+      "rank": 34
     }
   ],
-  "updated": "2026-09-29T20:19:53.196Z"
+  "updated": "2026-09-29T20:20:53.208Z"
 }
