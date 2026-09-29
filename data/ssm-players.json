@@ -1,11 +1,11 @@
 {
-  "online": 9,
+  "online": 10,
   "players": [
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 107680,
-      "playTimeSeconds": 94531,
+      "sessionSeconds": 107740,
+      "playTimeSeconds": 94591,
       "money": 196574,
       "gold": 1005,
       "fame": 3621,
@@ -14,18 +14,28 @@
     {
       "steamId": "76561198802007304",
       "name": "SEV",
-      "sessionSeconds": 103301,
-      "playTimeSeconds": 64226,
+      "sessionSeconds": 103361,
+      "playTimeSeconds": 64286,
       "money": 1028004,
       "gold": 35,
       "fame": 299,
       "rank": 4
     },
     {
+      "steamId": "76561198156375337",
+      "name": "Domo",
+      "sessionSeconds": 101540,
+      "playTimeSeconds": 26925,
+      "money": 470000,
+      "gold": 525,
+      "fame": 1127,
+      "rank": 17
+    },
+    {
       "steamId": "76561198121549932",
       "name": "Prostyak",
       "sessionSeconds": 10,
-      "playTimeSeconds": 40695,
+      "playTimeSeconds": 40755,
       "money": 2989651,
       "gold": 23,
       "fame": 2823,
@@ -35,7 +45,7 @@
       "steamId": "76561198382114262",
       "name": "Montana",
       "sessionSeconds": 10,
-      "playTimeSeconds": 22279,
+      "playTimeSeconds": 22339,
       "money": 3374756,
       "gold": 2795,
       "fame": 3139,
@@ -45,7 +55,7 @@
       "steamId": "76561199699294853",
       "name": "ПАТRИК",
       "sessionSeconds": 10,
-      "playTimeSeconds": 21792,
+      "playTimeSeconds": 21852,
       "money": 99862,
       "gold": 888,
       "fame": 2295,
@@ -55,17 +65,17 @@
       "steamId": "76561199446477479",
       "name": "brazeenhtein2",
       "sessionSeconds": 10,
-      "playTimeSeconds": 5406,
+      "playTimeSeconds": 5466,
       "money": 4914,
       "gold": 5,
       "fame": 25,
-      "rank": 57
+      "rank": 56
     },
     {
       "steamId": "76561198215398893",
       "name": "Shmulkee",
       "sessionSeconds": 10,
-      "playTimeSeconds": 27982,
+      "playTimeSeconds": 28042,
       "money": 1078594,
       "gold": 126,
       "fame": 912,
@@ -75,7 +85,7 @@
       "steamId": "76561198171528471",
       "name": "pokalenie_pepsi",
       "sessionSeconds": 10,
-      "playTimeSeconds": 4231,
+      "playTimeSeconds": 4291,
       "money": 1000,
       "gold": 5,
       "fame": 17,
@@ -85,12 +95,12 @@
       "steamId": "76561198050070023",
       "name": "Oxymoron",
       "sessionSeconds": 10,
-      "playTimeSeconds": 2637,
-      "money": 82171,
+      "playTimeSeconds": 2697,
+      "money": 82438,
       "gold": 34,
       "fame": 291,
       "rank": 62
     }
   ],
-  "updated": "2026-09-29T13:06:46.006Z"
+  "updated": "2026-09-29T13:07:46.015Z"
 }
