@@ -1,11 +1,11 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 98619,
-      "playTimeSeconds": 85956,
+      "sessionSeconds": 98679,
+      "playTimeSeconds": 86016,
       "money": 194574,
       "gold": 995,
       "fame": 3597,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198802007304",
       "name": "SEV",
-      "sessionSeconds": 94240,
-      "playTimeSeconds": 55597,
+      "sessionSeconds": 94300,
+      "playTimeSeconds": 55657,
       "money": 1023434,
       "gold": 20,
       "fame": 260,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "sessionSeconds": 94178,
-      "playTimeSeconds": 86275,
+      "sessionSeconds": 94238,
+      "playTimeSeconds": 86335,
       "money": 232465,
       "gold": 58,
       "fame": 558,
@@ -35,7 +35,7 @@
       "steamId": "76561198325257962",
       "name": "Dante",
       "sessionSeconds": 21,
-      "playTimeSeconds": 5167,
+      "playTimeSeconds": 5227,
       "money": 1009739,
       "gold": 5,
       "fame": 19,
@@ -45,17 +45,17 @@
       "steamId": "76561198132364463",
       "name": "AmbA",
       "sessionSeconds": 21,
-      "playTimeSeconds": 17361,
+      "playTimeSeconds": 17421,
       "money": 102268,
       "gold": 95,
       "fame": 120,
-      "rank": 28
+      "rank": 27
     },
     {
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
       "sessionSeconds": 21,
-      "playTimeSeconds": 28952,
+      "playTimeSeconds": 29012,
       "money": 1360719,
       "gold": 680,
       "fame": 38004,
@@ -65,7 +65,7 @@
       "steamId": "76561198121549932",
       "name": "Prostyak",
       "sessionSeconds": 21,
-      "playTimeSeconds": 31849,
+      "playTimeSeconds": 31909,
       "money": 2682709,
       "gold": 13,
       "fame": 2629,
@@ -75,12 +75,22 @@
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
       "sessionSeconds": 21,
-      "playTimeSeconds": 10194,
+      "playTimeSeconds": 10254,
       "money": 1540436,
       "gold": 323,
       "fame": 3959,
       "rank": 44
+    },
+    {
+      "steamId": "76561198050070023",
+      "name": "Oxymoron",
+      "sessionSeconds": 21,
+      "playTimeSeconds": 26,
+      "money": 81044,
+      "gold": 34,
+      "fame": 283,
+      "rank": 72
     }
   ],
-  "updated": "2026-09-29T10:35:44.881Z"
+  "updated": "2026-09-29T10:36:44.883Z"
 }
