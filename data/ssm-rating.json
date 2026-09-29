@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561199823596261",
       "name": "MИХА",
-      "playTimeSeconds": 48952,
+      "playTimeSeconds": 49011,
       "money": 1490420,
       "gold": 315,
       "fame": 1518,
@@ -152,6 +152,16 @@
     },
     {
       "rank": 16,
+      "steamId": "76561198132364463",
+      "name": "AmbA",
+      "playTimeSeconds": 29348,
+      "money": 105268,
+      "gold": 110,
+      "fame": 168,
+      "isOnline": true
+    },
+    {
+      "rank": 17,
       "steamId": "76561198382114262",
       "name": "Montana",
       "playTimeSeconds": 29317,
@@ -159,16 +169,6 @@
       "gold": 2805,
       "fame": 3157,
       "isOnline": false
-    },
-    {
-      "rank": 17,
-      "steamId": "76561198132364463",
-      "name": "AmbA",
-      "playTimeSeconds": 29289,
-      "money": 105268,
-      "gold": 110,
-      "fame": 168,
-      "isOnline": true
     },
     {
       "rank": 18,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-29T23:25:54.501Z"
+  "updated": "2026-09-29T23:26:54.513Z"
 }
