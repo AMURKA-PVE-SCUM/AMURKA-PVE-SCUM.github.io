@@ -1,16 +1,36 @@
 {
-  "online": 1,
+  "online": 3,
   "players": [
+    {
+      "steamId": "76561198325068343",
+      "name": "BarmaleyZ",
+      "sessionSeconds": 668,
+      "playTimeSeconds": 7777,
+      "money": 4058,
+      "gold": 40,
+      "fame": 353,
+      "rank": 55
+    },
+    {
+      "steamId": "76561198775651698",
+      "name": "Добряк",
+      "sessionSeconds": 8,
+      "playTimeSeconds": 8923,
+      "money": 4501380,
+      "gold": 1135,
+      "fame": 11265,
+      "rank": 51
+    },
     {
       "steamId": "76561199807377476",
       "name": "Director",
       "sessionSeconds": 8,
-      "playTimeSeconds": 68141,
+      "playTimeSeconds": 68201,
       "money": 1055125,
       "gold": 188,
       "fame": 930,
       "rank": 3
     }
   ],
-  "updated": "2026-09-29T18:03:48.170Z"
+  "updated": "2026-09-29T18:04:48.181Z"
 }
