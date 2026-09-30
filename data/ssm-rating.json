@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 90622,
+      "playTimeSeconds": 90682,
       "money": 2678765,
       "gold": 1439,
       "fame": 5810,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561199807377476",
       "name": "Director",
-      "playTimeSeconds": 90523,
+      "playTimeSeconds": 90583,
       "money": 1158320,
       "gold": 234,
       "fame": 1388,
@@ -124,11 +124,11 @@
       "rank": 13,
       "steamId": "76561198029476275",
       "name": "XEH",
-      "playTimeSeconds": 49291,
+      "playTimeSeconds": 49348,
       "money": 208600,
       "gold": 430,
       "fame": 1656,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 14,
@@ -162,6 +162,16 @@
     },
     {
       "rank": 17,
+      "steamId": "76561199244636054",
+      "name": "_PsixichkA_",
+      "playTimeSeconds": 44336,
+      "money": 1354584,
+      "gold": 285,
+      "fame": 1003,
+      "isOnline": true
+    },
+    {
+      "rank": 18,
       "steamId": "76561198077981589",
       "name": "Чилим",
       "playTimeSeconds": 44303,
@@ -171,20 +181,10 @@
       "isOnline": false
     },
     {
-      "rank": 18,
-      "steamId": "76561199244636054",
-      "name": "_PsixichkA_",
-      "playTimeSeconds": 44276,
-      "money": 1354584,
-      "gold": 285,
-      "fame": 1003,
-      "isOnline": true
-    },
-    {
       "rank": 19,
       "steamId": "76561198800781114",
       "name": "August",
-      "playTimeSeconds": 41026,
+      "playTimeSeconds": 41086,
       "money": 505867,
       "gold": 723,
       "fame": 1933,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-30T18:48:05.679Z"
+  "updated": "2026-09-30T18:49:05.690Z"
 }
