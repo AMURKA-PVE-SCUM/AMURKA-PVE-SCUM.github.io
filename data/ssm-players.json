@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 7,
   "players": [
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 56238,
-      "playTimeSeconds": 99164,
+      "sessionSeconds": 56298,
+      "playTimeSeconds": 99224,
       "money": 2689785,
       "gold": 1454,
       "fame": 50,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198530159238",
       "name": "Andro",
-      "sessionSeconds": 12,
-      "playTimeSeconds": 7317,
+      "sessionSeconds": 11,
+      "playTimeSeconds": 7377,
       "money": 5297,
       "gold": 10,
       "fame": 37,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561199325595521",
       "name": "NoVoROS",
-      "sessionSeconds": 12,
-      "playTimeSeconds": 33162,
+      "sessionSeconds": 11,
+      "playTimeSeconds": 33222,
       "money": 948326,
       "gold": 5,
       "fame": 140,
@@ -34,8 +34,8 @@
     {
       "steamId": "76561199189470290",
       "name": "Konffetka",
-      "sessionSeconds": 12,
-      "playTimeSeconds": 8972,
+      "sessionSeconds": 11,
+      "playTimeSeconds": 9032,
       "money": 582066,
       "gold": 367,
       "fame": 39920,
@@ -44,8 +44,8 @@
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 12,
-      "playTimeSeconds": 134469,
+      "sessionSeconds": 11,
+      "playTimeSeconds": 134529,
       "money": 206574,
       "gold": 1055,
       "fame": 3746,
@@ -54,13 +54,23 @@
     {
       "steamId": "76561198121549932",
       "name": "Prostyak",
-      "sessionSeconds": 12,
-      "playTimeSeconds": 64086,
-      "money": 388900,
+      "sessionSeconds": 11,
+      "playTimeSeconds": 64146,
+      "money": 389737,
       "gold": 63,
       "fame": 4347,
       "rank": 8
+    },
+    {
+      "steamId": "76561198067720439",
+      "name": "Genih",
+      "sessionSeconds": 11,
+      "playTimeSeconds": 8497,
+      "money": 1688493,
+      "gold": 754,
+      "fame": 11721,
+      "rank": 59
     }
   ],
-  "updated": "2026-09-30T21:14:06.737Z"
+  "updated": "2026-09-30T21:15:06.747Z"
 }
