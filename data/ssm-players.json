@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561198156375337",
       "name": "Domo",
       "sessionSeconds": 0,
-      "playTimeSeconds": 49316,
+      "playTimeSeconds": 49376,
       "money": 0,
       "gold": 0,
       "fame": 0,
       "rank": 16
+    },
+    {
+      "steamId": "76561199877063571",
+      "name": "Mazay",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 135361,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "rank": 1
     }
   ],
-  "updated": "2026-09-30T23:54:07.866Z"
+  "updated": "2026-09-30T23:55:07.875Z"
 }
