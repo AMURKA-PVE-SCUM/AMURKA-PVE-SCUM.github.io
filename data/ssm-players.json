@@ -1,11 +1,11 @@
 {
-  "online": 8,
+  "online": 6,
   "players": [
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 55878,
-      "playTimeSeconds": 98823,
+      "sessionSeconds": 55938,
+      "playTimeSeconds": 98883,
       "money": 2689785,
       "gold": 1454,
       "fame": 50,
@@ -15,7 +15,7 @@
       "steamId": "76561198530159238",
       "name": "Andro",
       "sessionSeconds": 12,
-      "playTimeSeconds": 6958,
+      "playTimeSeconds": 7018,
       "money": 4297,
       "gold": 5,
       "fame": 27,
@@ -25,17 +25,27 @@
       "steamId": "76561199325595521",
       "name": "NoVoROS",
       "sessionSeconds": 12,
-      "playTimeSeconds": 32803,
+      "playTimeSeconds": 32863,
       "money": 948326,
       "gold": 5,
       "fame": 140,
       "rank": 26
     },
     {
+      "steamId": "76561199189470290",
+      "name": "Konffetka",
+      "sessionSeconds": 12,
+      "playTimeSeconds": 8673,
+      "money": 582066,
+      "gold": 367,
+      "fame": 39920,
+      "rank": 58
+    },
+    {
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 12,
-      "playTimeSeconds": 134110,
+      "playTimeSeconds": 134170,
       "money": 206574,
       "gold": 1055,
       "fame": 3745,
@@ -45,42 +55,12 @@
       "steamId": "76561198121549932",
       "name": "Prostyak",
       "sessionSeconds": 12,
-      "playTimeSeconds": 63727,
+      "playTimeSeconds": 63787,
       "money": 377937,
       "gold": 62,
       "fame": 4227,
       "rank": 8
-    },
-    {
-      "steamId": "76561199206700564",
-      "name": "_Adskiy_Yozhik_",
-      "sessionSeconds": 12,
-      "playTimeSeconds": 30438,
-      "money": 879474,
-      "gold": 105,
-      "fame": 647,
-      "rank": 27
-    },
-    {
-      "steamId": "76561198184180030",
-      "name": "Nazar",
-      "sessionSeconds": 12,
-      "playTimeSeconds": 41179,
-      "money": 24826,
-      "gold": 100,
-      "fame": 392,
-      "rank": 22
-    },
-    {
-      "steamId": "76561199189470290",
-      "name": "Konffetka",
-      "sessionSeconds": 10,
-      "playTimeSeconds": 8613,
-      "money": 582066,
-      "gold": 367,
-      "fame": 39920,
-      "rank": 58
     }
   ],
-  "updated": "2026-09-30T21:08:06.695Z"
+  "updated": "2026-09-30T21:09:06.708Z"
 }
