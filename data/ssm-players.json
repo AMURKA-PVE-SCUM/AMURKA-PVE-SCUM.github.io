@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 17473,
-      "playTimeSeconds": 62806,
+      "sessionSeconds": 17534,
+      "playTimeSeconds": 62866,
       "money": 2616080,
       "gold": 1404,
       "fame": 5707,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198068992719",
       "name": "Alina",
-      "sessionSeconds": 5696,
-      "playTimeSeconds": 18877,
+      "sessionSeconds": 5756,
+      "playTimeSeconds": 18937,
       "money": 3952132,
       "gold": 1140,
       "fame": 1704,
@@ -25,7 +25,7 @@
       "steamId": "76561198121549932",
       "name": "Prostyak",
       "sessionSeconds": 25,
-      "playTimeSeconds": 52081,
+      "playTimeSeconds": 52141,
       "money": 3321624,
       "gold": 39,
       "fame": 3212,
@@ -35,7 +35,7 @@
       "steamId": "76561198029476275",
       "name": "XEH",
       "sessionSeconds": 25,
-      "playTimeSeconds": 32360,
+      "playTimeSeconds": 32420,
       "money": 183887,
       "gold": 405,
       "fame": 1583,
@@ -45,7 +45,7 @@
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "sessionSeconds": 25,
-      "playTimeSeconds": 15443,
+      "playTimeSeconds": 15503,
       "money": 7614,
       "gold": 4430,
       "fame": 3022,
@@ -55,7 +55,7 @@
       "steamId": "76561198156375337",
       "name": "Domo",
       "sessionSeconds": 25,
-      "playTimeSeconds": 39718,
+      "playTimeSeconds": 39778,
       "money": 519686,
       "gold": 545,
       "fame": 1210,
@@ -65,12 +65,22 @@
       "steamId": "76561199325595521",
       "name": "NoVoROS",
       "sessionSeconds": 25,
-      "playTimeSeconds": 90,
+      "playTimeSeconds": 150,
       "money": 0,
       "gold": 0,
       "fame": 0,
       "rank": 81
+    },
+    {
+      "steamId": "76561199877063571",
+      "name": "Mazay",
+      "sessionSeconds": 14,
+      "playTimeSeconds": 100525,
+      "money": 197574,
+      "gold": 1010,
+      "fame": 3633,
+      "rank": 1
     }
   ],
-  "updated": "2026-09-30T10:28:02.008Z"
+  "updated": "2026-09-30T10:29:02.019Z"
 }
