@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "playTimeSeconds": 70979,
+      "playTimeSeconds": 71039,
       "money": 900557,
       "gold": 258,
       "fame": 2400,
@@ -42,6 +42,16 @@
     },
     {
       "rank": 5,
+      "steamId": "76561199404896383",
+      "name": "Victor_Vilkouskas",
+      "playTimeSeconds": 65562,
+      "money": 2616080,
+      "gold": 1404,
+      "fame": 5709,
+      "isOnline": true
+    },
+    {
+      "rank": 6,
       "steamId": "76561198802007304",
       "name": "SEV",
       "playTimeSeconds": 65541,
@@ -49,16 +59,6 @@
       "gold": 35,
       "fame": 300,
       "isOnline": false
-    },
-    {
-      "rank": 6,
-      "steamId": "76561199404896383",
-      "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 65502,
-      "money": 2616080,
-      "gold": 1404,
-      "fame": 5709,
-      "isOnline": true
     },
     {
       "rank": 7,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561198121549932",
       "name": "Prostyak",
-      "playTimeSeconds": 54777,
+      "playTimeSeconds": 54837,
       "money": 3732992,
       "gold": 46,
       "fame": 3928,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198215398893",
       "name": "Shmulkee",
-      "playTimeSeconds": 42412,
+      "playTimeSeconds": 42472,
       "money": 1130924,
       "gold": 196,
       "fame": 1103,
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "playTimeSeconds": 38407,
+      "playTimeSeconds": 38467,
       "money": 1155523,
       "gold": 70,
       "fame": 337,
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561198029476275",
       "name": "XEH",
-      "playTimeSeconds": 35045,
+      "playTimeSeconds": 35105,
       "money": 184887,
       "gold": 410,
       "fame": 1597,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-09-30T11:13:02.290Z"
+  "updated": "2026-09-30T11:14:02.303Z"
 }
