@@ -1,21 +1,41 @@
 {
-  "online": 4,
+  "online": 6,
   "players": [
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 55638,
-      "playTimeSeconds": 98583,
+      "sessionSeconds": 55698,
+      "playTimeSeconds": 98643,
       "money": 2689785,
       "gold": 1454,
       "fame": 5905,
       "rank": 2
     },
     {
+      "steamId": "76561198530159238",
+      "name": "Andro",
+      "sessionSeconds": 12,
+      "playTimeSeconds": 6778,
+      "money": 4297,
+      "gold": 5,
+      "fame": 27,
+      "rank": 67
+    },
+    {
+      "steamId": "76561199325595521",
+      "name": "NoVoROS",
+      "sessionSeconds": 12,
+      "playTimeSeconds": 32623,
+      "money": 947326,
+      "gold": 0,
+      "fame": 130,
+      "rank": 26
+    },
+    {
       "steamId": "76561199206700564",
       "name": "_Adskiy_Yozhik_",
       "sessionSeconds": 12,
-      "playTimeSeconds": 30198,
+      "playTimeSeconds": 30258,
       "money": 878474,
       "gold": 100,
       "fame": 637,
@@ -25,22 +45,22 @@
       "steamId": "76561198184180030",
       "name": "Nazar",
       "sessionSeconds": 12,
-      "playTimeSeconds": 40939,
+      "playTimeSeconds": 40999,
       "money": 24826,
       "gold": 100,
-      "fame": 391,
+      "fame": 392,
       "rank": 22
     },
     {
       "steamId": "76561198230911236",
       "name": "TOR",
       "sessionSeconds": 12,
-      "playTimeSeconds": 39289,
+      "playTimeSeconds": 39349,
       "money": 1552009,
       "gold": 280,
       "fame": 995,
       "rank": 23
     }
   ],
-  "updated": "2026-09-30T21:04:06.664Z"
+  "updated": "2026-09-30T21:05:06.679Z"
 }
