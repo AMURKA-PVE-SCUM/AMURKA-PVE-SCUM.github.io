@@ -2,6 +2,16 @@
   "leaderboard": [
     {
       "rank": 1,
+      "steamId": "76561199404896383",
+      "name": "Victor_Vilkouskas",
+      "playTimeSeconds": 98392,
+      "money": 2688785,
+      "gold": 1449,
+      "fame": 5894,
+      "isOnline": true
+    },
+    {
+      "rank": 2,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
       "playTimeSeconds": 98383,
@@ -11,24 +21,14 @@
       "isOnline": false
     },
     {
-      "rank": 2,
-      "steamId": "76561199404896383",
-      "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 98332,
-      "money": 2688785,
-      "gold": 1449,
-      "fame": 5894,
-      "isOnline": true
-    },
-    {
       "rank": 3,
       "steamId": "76561199807377476",
       "name": "Director",
-      "playTimeSeconds": 98239,
+      "playTimeSeconds": 98260,
       "money": 1210020,
       "gold": 245,
       "fame": 1629,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 4,
@@ -194,12 +194,12 @@
       "rank": 20,
       "steamId": "76561198184180030",
       "name": "Nazar",
-      "playTimeSeconds": 40658,
+      "playTimeSeconds": 40718,
       "money": 24826,
       "gold": 100,
       "fame": 391,
       "isOnline": true
     }
   ],
-  "updated": "2026-09-30T20:57:06.625Z"
+  "updated": "2026-09-30T20:58:06.634Z"
 }
