@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 7,
   "players": [
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 10090,
-      "playTimeSeconds": 56389,
+      "sessionSeconds": 10150,
+      "playTimeSeconds": 56449,
       "money": 2614080,
       "gold": 1394,
       "fame": 5677,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198029476275",
       "name": "XEH",
-      "sessionSeconds": 372,
-      "playTimeSeconds": 26917,
+      "sessionSeconds": 432,
+      "playTimeSeconds": 26977,
       "money": 182887,
       "gold": 400,
       "fame": 1556,
@@ -24,18 +24,28 @@
     {
       "steamId": "76561199801792277",
       "name": "Сол Хоггар",
-      "sessionSeconds": 105,
-      "playTimeSeconds": 8657,
+      "sessionSeconds": 165,
+      "playTimeSeconds": 8717,
       "money": 62991,
       "gold": 55,
       "fame": 539,
       "rank": 54
     },
     {
+      "steamId": "76561199699294853",
+      "name": "ПАТRИК",
+      "sessionSeconds": 26,
+      "playTimeSeconds": 27049,
+      "money": 130174,
+      "gold": 893,
+      "fame": 2321,
+      "rank": 23
+    },
+    {
       "steamId": "76561198156375337",
       "name": "Domo",
       "sessionSeconds": 4,
-      "playTimeSeconds": 33763,
+      "playTimeSeconds": 33823,
       "money": 515000,
       "gold": 530,
       "fame": 1139,
@@ -45,22 +55,22 @@
       "steamId": "76561198775651698",
       "name": "Добряк",
       "sessionSeconds": 4,
-      "playTimeSeconds": 30625,
+      "playTimeSeconds": 30685,
       "money": 4833519,
       "gold": 1166,
-      "fame": 11666,
+      "fame": 11667,
       "rank": 19
     },
     {
       "steamId": "76561199020076791",
       "name": "Sleng",
       "sessionSeconds": 4,
-      "playTimeSeconds": 28918,
+      "playTimeSeconds": 28978,
       "money": 23549,
       "gold": 210,
       "fame": 395,
       "rank": 21
     }
   ],
-  "updated": "2026-09-30T08:24:58.520Z"
+  "updated": "2026-09-30T08:25:58.533Z"
 }
