@@ -1,11 +1,31 @@
 {
-  "online": 2,
+  "online": 8,
   "players": [
+    {
+      "steamId": "76561199404896383",
+      "name": "Victor_Vilkouskas",
+      "sessionSeconds": 44837,
+      "playTimeSeconds": 87987,
+      "money": 2678765,
+      "gold": 1439,
+      "fame": 5805,
+      "rank": 3
+    },
+    {
+      "steamId": "76561198399306435",
+      "name": "MasSawka",
+      "sessionSeconds": 26,
+      "playTimeSeconds": 3115,
+      "money": 47461,
+      "gold": 25,
+      "fame": 295,
+      "rank": 73
+    },
     {
       "steamId": "76561198325068343",
       "name": "BarmaleyZ",
-      "sessionSeconds": 25,
-      "playTimeSeconds": 21621,
+      "sessionSeconds": 26,
+      "playTimeSeconds": 21682,
       "money": 21400,
       "gold": 55,
       "fame": 403,
@@ -14,13 +34,53 @@
     {
       "steamId": "76561198775651698",
       "name": "Добряк",
-      "sessionSeconds": 25,
-      "playTimeSeconds": 45449,
+      "sessionSeconds": 26,
+      "playTimeSeconds": 45510,
       "money": 5006877,
       "gold": 1186,
-      "fame": 11818,
+      "fame": 11819,
       "rank": 18
+    },
+    {
+      "steamId": "76561198230911236",
+      "name": "TOR",
+      "sessionSeconds": 26,
+      "playTimeSeconds": 28651,
+      "money": 1557109,
+      "gold": 265,
+      "fame": 950,
+      "rank": 27
+    },
+    {
+      "steamId": "76561199244636054",
+      "name": "_PsixichkA_",
+      "sessionSeconds": 19,
+      "playTimeSeconds": 41653,
+      "money": 1353584,
+      "gold": 280,
+      "fame": 990,
+      "rank": 20
+    },
+    {
+      "steamId": "76561198184180030",
+      "name": "Nazar",
+      "sessionSeconds": 19,
+      "playTimeSeconds": 30313,
+      "money": 39926,
+      "gold": 85,
+      "fame": 356,
+      "rank": 24
+    },
+    {
+      "steamId": "76561199877063571",
+      "name": "Mazay",
+      "sessionSeconds": 1,
+      "playTimeSeconds": 123435,
+      "money": 203574,
+      "gold": 1040,
+      "fame": 3712,
+      "rank": 1
     }
   ],
-  "updated": "2026-09-30T18:03:05.285Z"
+  "updated": "2026-09-30T18:04:05.296Z"
 }
