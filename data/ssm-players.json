@@ -1,5 +1,16 @@
 {
-  "online": 0,
-  "players": [],
-  "updated": "2026-09-30T03:03:56.096Z"
+  "online": 1,
+  "players": [
+    {
+      "steamId": "76561198132364463",
+      "name": "AmbA",
+      "sessionSeconds": 18,
+      "playTimeSeconds": 32043,
+      "money": 106268,
+      "gold": 115,
+      "fame": 181,
+      "rank": 17
+    }
+  ],
+  "updated": "2026-09-30T03:04:56.100Z"
 }
