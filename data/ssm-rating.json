@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198775651698",
       "name": "Добряк",
-      "playTimeSeconds": 38045,
+      "playTimeSeconds": 38105,
       "money": 50482,
       "gold": 55,
       "fame": 625,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 22693,
+      "playTimeSeconds": 22753,
       "money": 49372,
       "gold": 30,
       "fame": 669,
@@ -82,6 +82,16 @@
     },
     {
       "rank": 9,
+      "steamId": "76561199189470290",
+      "name": "Konffetka",
+      "playTimeSeconds": 22045,
+      "money": 91762,
+      "gold": 31,
+      "fame": 475,
+      "isOnline": true
+    },
+    {
+      "rank": 10,
       "steamId": "76561197991701874",
       "name": "Baloo",
       "playTimeSeconds": 21990,
@@ -89,16 +99,6 @@
       "gold": 30,
       "fame": 419,
       "isOnline": false
-    },
-    {
-      "rank": 10,
-      "steamId": "76561199189470290",
-      "name": "Konffetka",
-      "playTimeSeconds": 21985,
-      "money": 91762,
-      "gold": 31,
-      "fame": 475,
-      "isOnline": true
     },
     {
       "rank": 11,
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "playTimeSeconds": 18289,
+      "playTimeSeconds": 18349,
       "money": 92,
       "gold": 25,
       "fame": 271,
@@ -144,7 +144,7 @@
       "rank": 15,
       "steamId": "76561199325595521",
       "name": "NoVoROS",
-      "playTimeSeconds": 17710,
+      "playTimeSeconds": 17770,
       "money": 7042,
       "gold": 25,
       "fame": 365,
@@ -152,6 +152,16 @@
     },
     {
       "rank": 16,
+      "steamId": "76561198067720439",
+      "name": "Genih",
+      "playTimeSeconds": 17389,
+      "money": 20000,
+      "gold": 35,
+      "fame": 219,
+      "isOnline": true
+    },
+    {
+      "rank": 17,
       "steamId": "76561198530159238",
       "name": "Andro",
       "playTimeSeconds": 17337,
@@ -159,16 +169,6 @@
       "gold": 25,
       "fame": 187,
       "isOnline": false
-    },
-    {
-      "rank": 17,
-      "steamId": "76561198067720439",
-      "name": "Genih",
-      "playTimeSeconds": 17329,
-      "money": 20000,
-      "gold": 35,
-      "fame": 219,
-      "isOnline": true
     },
     {
       "rank": 18,
@@ -184,7 +184,7 @@
       "rank": 19,
       "steamId": "76561198179021974",
       "name": "ПОТАСКУШКА",
-      "playTimeSeconds": 15916,
+      "playTimeSeconds": 15976,
       "money": 7964,
       "gold": 25,
       "fame": 104,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-01T22:32:23.156Z"
+  "updated": "2026-10-01T22:33:23.168Z"
 }
