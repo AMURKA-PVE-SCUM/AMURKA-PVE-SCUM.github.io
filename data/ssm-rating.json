@@ -4,8 +4,8 @@
       "rank": 1,
       "steamId": "76561198869337858",
       "name": "Shelby",
-      "playTimeSeconds": 11664,
-      "money": 31534,
+      "playTimeSeconds": 11724,
+      "money": 32272,
       "gold": 15,
       "fame": 152,
       "isOnline": true
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198132364463",
       "name": "AmbA",
-      "playTimeSeconds": 3976,
+      "playTimeSeconds": 4036,
       "money": 1000,
       "gold": 5,
       "fame": 14,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198338334108",
       "name": "OMOH",
-      "playTimeSeconds": 1723,
+      "playTimeSeconds": 1783,
       "money": 0,
       "gold": 0,
       "fame": 6,
@@ -74,10 +74,10 @@
       "rank": 8,
       "steamId": "76561198530159238",
       "name": "Andro",
-      "playTimeSeconds": 676,
+      "playTimeSeconds": 736,
       "money": 0,
       "gold": 0,
-      "fame": 0,
+      "fame": 1,
       "isOnline": true
     },
     {
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 522,
+      "playTimeSeconds": 582,
       "money": 0,
       "gold": 0,
       "fame": 2,
@@ -104,14 +104,24 @@
       "rank": 11,
       "steamId": "76561199406727004",
       "name": "Черкес",
-      "playTimeSeconds": 444,
+      "playTimeSeconds": 504,
+      "money": 0,
+      "gold": 0,
+      "fame": 7,
+      "isOnline": true
+    },
+    {
+      "rank": 12,
+      "steamId": "76561198139995845",
+      "name": "SeverGorod",
+      "playTimeSeconds": 222,
       "money": 0,
       "gold": 0,
       "fame": 2,
       "isOnline": true
     },
     {
-      "rank": 12,
+      "rank": 13,
       "steamId": "76561198041539804",
       "name": "Ded_13",
       "playTimeSeconds": 181,
@@ -119,16 +129,6 @@
       "gold": 0,
       "fame": 0,
       "isOnline": false
-    },
-    {
-      "rank": 13,
-      "steamId": "76561198139995845",
-      "name": "SeverGorod",
-      "playTimeSeconds": 162,
-      "money": 0,
-      "gold": 0,
-      "fame": 2,
-      "isOnline": true
     },
     {
       "rank": 14,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-01T04:20:09.786Z"
+  "updated": "2026-10-01T04:21:09.787Z"
 }
