@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198869337858",
       "name": "Shelby",
-      "playTimeSeconds": 17476,
+      "playTimeSeconds": 17536,
       "money": 36530,
       "gold": 20,
       "fame": 247,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198132364463",
       "name": "AmbA",
-      "playTimeSeconds": 9851,
+      "playTimeSeconds": 9911,
       "money": 3000,
       "gold": 15,
       "fame": 53,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198338334108",
       "name": "OMOH",
-      "playTimeSeconds": 7598,
+      "playTimeSeconds": 7658,
       "money": 722,
       "gold": 10,
       "fame": 135,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 6397,
+      "playTimeSeconds": 6457,
       "money": 10382,
       "gold": 10,
       "fame": 29,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561199406727004",
       "name": "Черкес",
-      "playTimeSeconds": 6319,
+      "playTimeSeconds": 6379,
       "money": 1000,
       "gold": 5,
       "fame": 124,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 5667,
+      "playTimeSeconds": 5727,
       "money": 9229,
       "gold": 5,
       "fame": 17,
@@ -84,10 +84,10 @@
       "rank": 9,
       "steamId": "76561198775651698",
       "name": "Добряк",
-      "playTimeSeconds": 4145,
-      "money": 7904,
+      "playTimeSeconds": 4205,
+      "money": 8204,
       "gold": 10,
-      "fame": 55,
+      "fame": 60,
       "isOnline": true
     },
     {
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
-      "playTimeSeconds": 3502,
+      "playTimeSeconds": 3562,
       "money": 0,
       "gold": 0,
       "fame": 7,
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 1885,
+      "playTimeSeconds": 1945,
       "money": 0,
       "gold": 0,
       "fame": 2,
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561198054083179",
+      "name": "Roksi",
+      "playTimeSeconds": 705,
+      "money": 1000,
+      "gold": 5,
+      "fame": 11,
+      "isOnline": true
+    },
+    {
+      "rank": 16,
       "steamId": "76561198399306435",
       "name": "MasSawka",
       "playTimeSeconds": 646,
@@ -149,16 +159,6 @@
       "gold": 0,
       "fame": 2,
       "isOnline": false
-    },
-    {
-      "rank": 16,
-      "steamId": "76561198054083179",
-      "name": "Roksi",
-      "playTimeSeconds": 645,
-      "money": 1000,
-      "gold": 5,
-      "fame": 11,
-      "isOnline": true
     },
     {
       "rank": 17,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-01T05:58:10.535Z"
+  "updated": "2026-10-01T05:59:10.548Z"
 }
