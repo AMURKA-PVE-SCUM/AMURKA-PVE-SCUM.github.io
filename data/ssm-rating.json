@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198775651698",
       "name": "Добряк",
-      "playTimeSeconds": 27683,
+      "playTimeSeconds": 27743,
       "money": 112821,
       "gold": 40,
       "fame": 574,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198054083179",
       "name": "Roksi",
-      "playTimeSeconds": 26101,
+      "playTimeSeconds": 26161,
       "money": 87832,
       "gold": 35,
       "fame": 438,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 25221,
+      "playTimeSeconds": 25281,
       "money": 122909,
       "gold": 35,
       "fame": 223,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198814504955",
       "name": "Venom",
-      "playTimeSeconds": 24153,
+      "playTimeSeconds": 24213,
       "money": 23129,
       "gold": 30,
       "fame": 266,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198869337858",
       "name": "Shelby",
-      "playTimeSeconds": 21209,
+      "playTimeSeconds": 21269,
       "money": 53740,
       "gold": 26,
       "fame": 578,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
-      "playTimeSeconds": 18693,
+      "playTimeSeconds": 18753,
       "money": 60622,
       "gold": 25,
       "fame": 531,
@@ -122,6 +122,16 @@
     },
     {
       "rank": 13,
+      "steamId": "76561198061663790",
+      "name": "yloo",
+      "playTimeSeconds": 13870,
+      "money": 14086,
+      "gold": 20,
+      "fame": 237,
+      "isOnline": true
+    },
+    {
+      "rank": 14,
       "steamId": "76561198399306435",
       "name": "MasSawka",
       "playTimeSeconds": 13821,
@@ -131,20 +141,10 @@
       "isOnline": false
     },
     {
-      "rank": 14,
-      "steamId": "76561198061663790",
-      "name": "yloo",
-      "playTimeSeconds": 13810,
-      "money": 14086,
-      "gold": 20,
-      "fame": 236,
-      "isOnline": true
-    },
-    {
       "rank": 15,
       "steamId": "76561199189470290",
       "name": "Konffetka",
-      "playTimeSeconds": 13306,
+      "playTimeSeconds": 13366,
       "money": 39762,
       "gold": 20,
       "fame": 236,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561198215398893",
       "name": "Shmulkee",
-      "playTimeSeconds": 13147,
+      "playTimeSeconds": 13207,
       "money": 16618,
       "gold": 15,
       "fame": 330,
@@ -174,7 +174,7 @@
       "rank": 18,
       "steamId": "76561198530159238",
       "name": "Andro",
-      "playTimeSeconds": 10822,
+      "playTimeSeconds": 10882,
       "money": 4771,
       "gold": 15,
       "fame": 167,
@@ -184,11 +184,11 @@
       "rank": 19,
       "steamId": "76561199406727004",
       "name": "Черкес",
-      "playTimeSeconds": 10792,
+      "playTimeSeconds": 10814,
       "money": 9813,
       "gold": 10,
-      "fame": 158,
-      "isOnline": false
+      "fame": 159,
+      "isOnline": true
     },
     {
       "rank": 20,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-01T19:35:21.865Z"
+  "updated": "2026-10-01T19:36:21.868Z"
 }
