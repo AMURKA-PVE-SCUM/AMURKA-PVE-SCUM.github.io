@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198775651698",
       "name": "Добряк",
-      "playTimeSeconds": 23399,
+      "playTimeSeconds": 23459,
       "money": 102274,
       "gold": 35,
       "fame": 431,
@@ -32,6 +32,16 @@
     },
     {
       "rank": 4,
+      "steamId": "76561199552589497",
+      "name": "Raskalbasman",
+      "playTimeSeconds": 19215,
+      "money": 58999,
+      "gold": 25,
+      "fame": 287,
+      "isOnline": true
+    },
+    {
+      "rank": 5,
       "steamId": "76561198054083179",
       "name": "Roksi",
       "playTimeSeconds": 19175,
@@ -41,20 +51,10 @@
       "isOnline": false
     },
     {
-      "rank": 5,
-      "steamId": "76561199552589497",
-      "name": "Raskalbasman",
-      "playTimeSeconds": 19155,
-      "money": 58999,
-      "gold": 25,
-      "fame": 287,
-      "isOnline": true
-    },
-    {
       "rank": 6,
       "steamId": "76561198869337858",
       "name": "Shelby",
-      "playTimeSeconds": 18867,
+      "playTimeSeconds": 18927,
       "money": 53740,
       "gold": 26,
       "fame": 575,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 18132,
+      "playTimeSeconds": 18192,
       "money": 71709,
       "gold": 25,
       "fame": 183,
@@ -74,11 +74,11 @@
       "rank": 8,
       "steamId": "76561198814504955",
       "name": "Venom",
-      "playTimeSeconds": 17590,
+      "playTimeSeconds": 17633,
       "money": 19721,
       "gold": 20,
       "fame": 202,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 9,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561197991701874",
       "name": "Baloo",
-      "playTimeSeconds": 14931,
+      "playTimeSeconds": 14991,
       "money": 14237,
       "gold": 20,
       "fame": 229,
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "playTimeSeconds": 13278,
+      "playTimeSeconds": 13338,
       "money": 31969,
       "gold": 20,
       "fame": 207,
@@ -174,7 +174,7 @@
       "rank": 18,
       "steamId": "76561198338334108",
       "name": "OMOH",
-      "playTimeSeconds": 8097,
+      "playTimeSeconds": 8157,
       "money": 8340,
       "gold": 10,
       "fame": 186,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-01T15:07:14.370Z"
+  "updated": "2026-10-01T15:08:14.377Z"
 }
