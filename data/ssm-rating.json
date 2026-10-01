@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198775651698",
       "name": "Добряк",
-      "playTimeSeconds": 40143,
+      "playTimeSeconds": 40203,
       "money": 103092,
       "gold": 60,
       "fame": 675,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 24791,
+      "playTimeSeconds": 24851,
       "money": 50372,
       "gold": 35,
       "fame": 680,
@@ -122,6 +122,16 @@
     },
     {
       "rank": 13,
+      "steamId": "76561198041539804",
+      "name": "Ded_13",
+      "playTimeSeconds": 20447,
+      "money": 2092,
+      "gold": 30,
+      "fame": 289,
+      "isOnline": true
+    },
+    {
+      "rank": 14,
       "steamId": "76561199406727004",
       "name": "Черкес",
       "playTimeSeconds": 20406,
@@ -131,20 +141,10 @@
       "isOnline": false
     },
     {
-      "rank": 14,
-      "steamId": "76561198041539804",
-      "name": "Ded_13",
-      "playTimeSeconds": 20387,
-      "money": 2092,
-      "gold": 30,
-      "fame": 289,
-      "isOnline": true
-    },
-    {
       "rank": 15,
       "steamId": "76561199325595521",
       "name": "NoVoROS",
-      "playTimeSeconds": 19507,
+      "playTimeSeconds": 19567,
       "money": 7042,
       "gold": 25,
       "fame": 367,
@@ -164,8 +164,8 @@
       "rank": 17,
       "steamId": "76561198179021974",
       "name": "ПОТАСКУШКА",
-      "playTimeSeconds": 18014,
-      "money": 50575,
+      "playTimeSeconds": 18074,
+      "money": 29800,
       "gold": 25,
       "fame": 105,
       "isOnline": true
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-01T23:07:23.405Z"
+  "updated": "2026-10-01T23:08:23.417Z"
 }
