@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198530159238",
       "name": "Andro",
-      "sessionSeconds": 188,
-      "playTimeSeconds": 196,
+      "sessionSeconds": 248,
+      "playTimeSeconds": 256,
       "money": 0,
       "gold": 0,
       "fame": 0,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 32,
-      "playTimeSeconds": 42,
+      "sessionSeconds": 92,
+      "playTimeSeconds": 102,
       "money": 0,
       "gold": 0,
       "fame": 0,
@@ -25,7 +25,7 @@
       "steamId": "76561198869337858",
       "name": "Shelby",
       "sessionSeconds": 11,
-      "playTimeSeconds": 11184,
+      "playTimeSeconds": 11244,
       "money": 3000,
       "gold": 15,
       "fame": 151,
@@ -35,7 +35,7 @@
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 11,
-      "playTimeSeconds": 10293,
+      "playTimeSeconds": 10353,
       "money": 3000,
       "gold": 15,
       "fame": 59,
@@ -45,7 +45,7 @@
       "steamId": "76561198068992719",
       "name": "Alina",
       "sessionSeconds": 11,
-      "playTimeSeconds": 11292,
+      "playTimeSeconds": 11352,
       "money": 1004000,
       "gold": 120,
       "fame": 364,
@@ -55,12 +55,32 @@
       "steamId": "76561198338334108",
       "name": "OMOH",
       "sessionSeconds": 11,
-      "playTimeSeconds": 1243,
+      "playTimeSeconds": 1303,
       "money": 0,
       "gold": 0,
-      "fame": 4,
+      "fame": 5,
       "rank": 10
+    },
+    {
+      "steamId": "76561199406727004",
+      "name": "Черкес",
+      "sessionSeconds": 10,
+      "playTimeSeconds": 24,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "rank": 15
+    },
+    {
+      "steamId": "76561198132364463",
+      "name": "AmbA",
+      "sessionSeconds": 4,
+      "playTimeSeconds": 3556,
+      "money": 1000,
+      "gold": 5,
+      "fame": 14,
+      "rank": 6
     }
   ],
-  "updated": "2026-10-01T04:12:09.731Z"
+  "updated": "2026-10-01T04:13:09.741Z"
 }
