@@ -1,21 +1,31 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198530159238",
       "name": "Andro",
-      "sessionSeconds": 128,
-      "playTimeSeconds": 136,
+      "sessionSeconds": 188,
+      "playTimeSeconds": 196,
       "money": 0,
       "gold": 0,
       "fame": 0,
-      "rank": 13
+      "rank": 12
+    },
+    {
+      "steamId": "76561198337811646",
+      "name": "VERSUS_65_",
+      "sessionSeconds": 32,
+      "playTimeSeconds": 42,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "rank": 14
     },
     {
       "steamId": "76561198869337858",
       "name": "Shelby",
       "sessionSeconds": 11,
-      "playTimeSeconds": 11124,
+      "playTimeSeconds": 11184,
       "money": 3000,
       "gold": 15,
       "fame": 151,
@@ -25,17 +35,17 @@
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 11,
-      "playTimeSeconds": 10233,
-      "money": 2000,
-      "gold": 10,
-      "fame": 49,
+      "playTimeSeconds": 10293,
+      "money": 3000,
+      "gold": 15,
+      "fame": 59,
       "rank": 3
     },
     {
       "steamId": "76561198068992719",
       "name": "Alina",
       "sessionSeconds": 11,
-      "playTimeSeconds": 11232,
+      "playTimeSeconds": 11292,
       "money": 1004000,
       "gold": 120,
       "fame": 364,
@@ -45,12 +55,12 @@
       "steamId": "76561198338334108",
       "name": "OMOH",
       "sessionSeconds": 11,
-      "playTimeSeconds": 1183,
+      "playTimeSeconds": 1243,
       "money": 0,
       "gold": 0,
       "fame": 4,
       "rank": 10
     }
   ],
-  "updated": "2026-10-01T04:11:09.725Z"
+  "updated": "2026-10-01T04:12:09.731Z"
 }
