@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198869337858",
       "name": "Shelby",
-      "sessionSeconds": 6846,
-      "playTimeSeconds": 6853,
+      "sessionSeconds": 6906,
+      "playTimeSeconds": 6913,
       "money": 1000,
       "gold": 5,
       "fame": 28,
@@ -14,18 +14,18 @@
     {
       "steamId": "76561198123537318",
       "name": "aloxa",
-      "sessionSeconds": 5954,
-      "playTimeSeconds": 5961,
+      "sessionSeconds": 6014,
+      "playTimeSeconds": 6021,
       "money": 1300,
       "gold": 5,
-      "fame": 21,
+      "fame": 22,
       "rank": 3
     },
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 5852,
-      "playTimeSeconds": 5863,
+      "sessionSeconds": 5912,
+      "playTimeSeconds": 5923,
       "money": 1000,
       "gold": 5,
       "fame": 28,
@@ -34,8 +34,8 @@
     {
       "steamId": "76561198068992719",
       "name": "Alina",
-      "sessionSeconds": 4667,
-      "playTimeSeconds": 7857,
+      "sessionSeconds": 4727,
+      "playTimeSeconds": 7917,
       "money": 3000,
       "gold": 15,
       "fame": 48,
@@ -44,8 +44,8 @@
     {
       "steamId": "76561198156375337",
       "name": "Domo",
-      "sessionSeconds": 1936,
-      "playTimeSeconds": 2942,
+      "sessionSeconds": 1996,
+      "playTimeSeconds": 3002,
       "money": 1016000,
       "gold": 115,
       "fame": 434,
@@ -54,8 +54,8 @@
     {
       "steamId": "76561198190960633",
       "name": "tarakan",
-      "sessionSeconds": 1908,
-      "playTimeSeconds": 1916,
+      "sessionSeconds": 1968,
+      "playTimeSeconds": 1976,
       "money": 0,
       "gold": 0,
       "fame": 3,
@@ -64,13 +64,23 @@
     {
       "steamId": "76561198132364463",
       "name": "AmbA",
-      "sessionSeconds": 556,
-      "playTimeSeconds": 569,
+      "sessionSeconds": 616,
+      "playTimeSeconds": 629,
       "money": 0,
       "gold": 0,
       "fame": 0,
       "rank": 8
+    },
+    {
+      "steamId": "76561198399306435",
+      "name": "MasSawka",
+      "sessionSeconds": 16,
+      "playTimeSeconds": 162,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "rank": 11
     }
   ],
-  "updated": "2026-10-01T02:54:09.162Z"
+  "updated": "2026-10-01T02:55:09.174Z"
 }
