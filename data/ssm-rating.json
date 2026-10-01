@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198775651698",
       "name": "Добряк",
-      "playTimeSeconds": 32772,
+      "playTimeSeconds": 32832,
       "money": 1251,
       "gold": 45,
       "fame": 591,
@@ -14,10 +14,10 @@
       "rank": 2,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 30402,
+      "playTimeSeconds": 30462,
       "money": 123909,
       "gold": 40,
-      "fame": 241,
+      "fame": 242,
       "isOnline": true
     },
     {
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198869337858",
       "name": "Shelby",
-      "playTimeSeconds": 26229,
+      "playTimeSeconds": 26289,
       "money": 32710,
       "gold": 36,
       "fame": 488,
@@ -64,11 +64,11 @@
       "rank": 7,
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
-      "playTimeSeconds": 23726,
+      "playTimeSeconds": 23743,
       "money": 120458,
       "gold": 35,
       "fame": 593,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 8,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 17420,
+      "playTimeSeconds": 17480,
       "money": 43187,
       "gold": 20,
       "fame": 644,
@@ -112,6 +112,16 @@
     },
     {
       "rank": 12,
+      "steamId": "76561199189470290",
+      "name": "Konffetka",
+      "playTimeSeconds": 16772,
+      "money": 40762,
+      "gold": 25,
+      "fame": 259,
+      "isOnline": true
+    },
+    {
+      "rank": 13,
       "steamId": "76561198061663790",
       "name": "yloo",
       "playTimeSeconds": 16748,
@@ -121,20 +131,10 @@
       "isOnline": false
     },
     {
-      "rank": 13,
-      "steamId": "76561199189470290",
-      "name": "Konffetka",
-      "playTimeSeconds": 16716,
-      "money": 40762,
-      "gold": 25,
-      "fame": 259,
-      "isOnline": false
-    },
-    {
       "rank": 14,
       "steamId": "76561198530159238",
       "name": "Andro",
-      "playTimeSeconds": 15911,
+      "playTimeSeconds": 15971,
       "money": 139647,
       "gold": 20,
       "fame": 175,
@@ -184,11 +184,11 @@
       "rank": 19,
       "steamId": "76561199325595521",
       "name": "NoVoROS",
-      "playTimeSeconds": 12552,
+      "playTimeSeconds": 12569,
       "money": 19433,
       "gold": 15,
       "fame": 236,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 20,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-01T21:04:22.531Z"
+  "updated": "2026-10-01T21:05:22.546Z"
 }
