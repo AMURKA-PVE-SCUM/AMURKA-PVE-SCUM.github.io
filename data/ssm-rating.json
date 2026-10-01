@@ -4,8 +4,8 @@
       "rank": 1,
       "steamId": "76561198869337858",
       "name": "Shelby",
-      "playTimeSeconds": 11604,
-      "money": 3000,
+      "playTimeSeconds": 11664,
+      "money": 31534,
       "gold": 15,
       "fame": 152,
       "isOnline": true
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198132364463",
       "name": "AmbA",
-      "playTimeSeconds": 3916,
+      "playTimeSeconds": 3976,
       "money": 1000,
       "gold": 5,
       "fame": 14,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198338334108",
       "name": "OMOH",
-      "playTimeSeconds": 1663,
+      "playTimeSeconds": 1723,
       "money": 0,
       "gold": 0,
       "fame": 6,
@@ -72,6 +72,16 @@
     },
     {
       "rank": 8,
+      "steamId": "76561198530159238",
+      "name": "Andro",
+      "playTimeSeconds": 676,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "isOnline": true
+    },
+    {
+      "rank": 9,
       "steamId": "76561198399306435",
       "name": "MasSawka",
       "playTimeSeconds": 646,
@@ -81,20 +91,10 @@
       "isOnline": false
     },
     {
-      "rank": 9,
-      "steamId": "76561198530159238",
-      "name": "Andro",
-      "playTimeSeconds": 616,
-      "money": 0,
-      "gold": 0,
-      "fame": 0,
-      "isOnline": true
-    },
-    {
       "rank": 10,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 462,
+      "playTimeSeconds": 522,
       "money": 0,
       "gold": 0,
       "fame": 2,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561199406727004",
       "name": "Черкес",
-      "playTimeSeconds": 384,
+      "playTimeSeconds": 444,
       "money": 0,
       "gold": 0,
       "fame": 2,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 102,
+      "playTimeSeconds": 162,
       "money": 0,
       "gold": 0,
       "fame": 2,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-01T04:19:09.786Z"
+  "updated": "2026-10-01T04:20:09.786Z"
 }
