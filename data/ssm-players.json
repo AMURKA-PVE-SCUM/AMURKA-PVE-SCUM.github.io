@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198869337858",
       "name": "Shelby",
-      "sessionSeconds": 6606,
-      "playTimeSeconds": 6613,
+      "sessionSeconds": 6666,
+      "playTimeSeconds": 6673,
       "money": 1000,
       "gold": 5,
       "fame": 28,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198123537318",
       "name": "aloxa",
-      "sessionSeconds": 5714,
-      "playTimeSeconds": 5721,
+      "sessionSeconds": 5774,
+      "playTimeSeconds": 5781,
       "money": 1300,
       "gold": 5,
       "fame": 21,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 5612,
-      "playTimeSeconds": 5623,
+      "sessionSeconds": 5672,
+      "playTimeSeconds": 5683,
       "money": 1000,
       "gold": 5,
       "fame": 27,
@@ -34,8 +34,8 @@
     {
       "steamId": "76561198068992719",
       "name": "Alina",
-      "sessionSeconds": 4427,
-      "playTimeSeconds": 7617,
+      "sessionSeconds": 4487,
+      "playTimeSeconds": 7677,
       "money": 3000,
       "gold": 15,
       "fame": 48,
@@ -44,8 +44,8 @@
     {
       "steamId": "76561198156375337",
       "name": "Domo",
-      "sessionSeconds": 1696,
-      "playTimeSeconds": 2702,
+      "sessionSeconds": 1756,
+      "playTimeSeconds": 2762,
       "money": 1016000,
       "gold": 115,
       "fame": 434,
@@ -54,8 +54,8 @@
     {
       "steamId": "76561198190960633",
       "name": "tarakan",
-      "sessionSeconds": 1668,
-      "playTimeSeconds": 1676,
+      "sessionSeconds": 1728,
+      "playTimeSeconds": 1736,
       "money": 0,
       "gold": 0,
       "fame": 3,
@@ -64,13 +64,23 @@
     {
       "steamId": "76561198132364463",
       "name": "AmbA",
-      "sessionSeconds": 316,
-      "playTimeSeconds": 329,
+      "sessionSeconds": 376,
+      "playTimeSeconds": 389,
       "money": 0,
       "gold": 0,
       "fame": 0,
       "rank": 9
+    },
+    {
+      "steamId": "76561198399306435",
+      "name": "MasSawka",
+      "sessionSeconds": 25,
+      "playTimeSeconds": 25,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "rank": 11
     }
   ],
-  "updated": "2026-10-01T02:50:09.131Z"
+  "updated": "2026-10-01T02:51:09.140Z"
 }
