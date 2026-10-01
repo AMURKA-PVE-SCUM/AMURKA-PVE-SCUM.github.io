@@ -38,7 +38,7 @@
       "money": 16422,
       "gold": 30,
       "fame": 200,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 5,
@@ -98,7 +98,7 @@
       "money": 14237,
       "gold": 20,
       "fame": 229,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 11,
@@ -114,11 +114,11 @@
       "rank": 12,
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "playTimeSeconds": 13018,
-      "money": 7868,
+      "playTimeSeconds": 13039,
+      "money": 31969,
       "gold": 20,
-      "fame": 80,
-      "isOnline": false
+      "fame": 207,
+      "isOnline": true
     },
     {
       "rank": 13,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-01T15:02:14.330Z"
+  "updated": "2026-10-01T15:03:14.331Z"
 }
