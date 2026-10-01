@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198869337858",
       "name": "Shelby",
-      "playTimeSeconds": 10088,
+      "playTimeSeconds": 10148,
       "money": 2000,
       "gold": 10,
       "fame": 141,
@@ -72,6 +72,16 @@
     },
     {
       "rank": 8,
+      "steamId": "76561198338334108",
+      "name": "OMOH",
+      "playTimeSeconds": 207,
+      "money": 0,
+      "gold": 0,
+      "fame": 2,
+      "isOnline": true
+    },
+    {
+      "rank": 9,
       "steamId": "76561198041539804",
       "name": "Ded_13",
       "playTimeSeconds": 181,
@@ -79,16 +89,6 @@
       "gold": 0,
       "fame": 0,
       "isOnline": false
-    },
-    {
-      "rank": 9,
-      "steamId": "76561198338334108",
-      "name": "OMOH",
-      "playTimeSeconds": 147,
-      "money": 0,
-      "gold": 0,
-      "fame": 2,
-      "isOnline": true
     },
     {
       "rank": 10,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-01T03:52:09.580Z"
+  "updated": "2026-10-01T03:53:09.585Z"
 }
