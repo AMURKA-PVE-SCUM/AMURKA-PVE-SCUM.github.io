@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198869337858",
       "name": "Shelby",
-      "playTimeSeconds": 16038,
+      "playTimeSeconds": 16098,
       "money": 26209,
       "gold": 20,
       "fame": 241,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198132364463",
       "name": "AmbA",
-      "playTimeSeconds": 8413,
+      "playTimeSeconds": 8473,
       "money": 3000,
       "gold": 15,
       "fame": 51,
@@ -22,6 +22,16 @@
     },
     {
       "rank": 3,
+      "steamId": "76561198338334108",
+      "name": "OMOH",
+      "playTimeSeconds": 6220,
+      "money": 1000,
+      "gold": 5,
+      "fame": 23,
+      "isOnline": true
+    },
+    {
+      "rank": 4,
       "steamId": "76561198123537318",
       "name": "aloxa",
       "playTimeSeconds": 6162,
@@ -31,20 +41,10 @@
       "isOnline": false
     },
     {
-      "rank": 4,
-      "steamId": "76561198338334108",
-      "name": "OMOH",
-      "playTimeSeconds": 6160,
-      "money": 1000,
-      "gold": 5,
-      "fame": 23,
-      "isOnline": true
-    },
-    {
       "rank": 5,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 4959,
+      "playTimeSeconds": 5019,
       "money": 9382,
       "gold": 5,
       "fame": 17,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561199406727004",
       "name": "Черкес",
-      "playTimeSeconds": 4881,
+      "playTimeSeconds": 4941,
       "money": 1000,
       "gold": 5,
       "fame": 123,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 4229,
+      "playTimeSeconds": 4289,
       "money": 3091,
       "gold": 5,
       "fame": 15,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561198775651698",
       "name": "Добряк",
-      "playTimeSeconds": 2707,
+      "playTimeSeconds": 2767,
       "money": 1000,
       "gold": 5,
       "fame": 14,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
-      "playTimeSeconds": 2064,
+      "playTimeSeconds": 2124,
       "money": 0,
       "gold": 0,
       "fame": 4,
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 794,
+      "playTimeSeconds": 842,
       "money": 0,
       "gold": 0,
       "fame": 0,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-01T05:34:10.343Z"
+  "updated": "2026-10-01T05:35:10.354Z"
 }
