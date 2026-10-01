@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198869337858",
       "name": "Shelby",
-      "playTimeSeconds": 6913,
+      "playTimeSeconds": 6973,
       "money": 1000,
       "gold": 5,
       "fame": 28,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198123537318",
       "name": "aloxa",
-      "playTimeSeconds": 6021,
+      "playTimeSeconds": 6081,
       "money": 1300,
       "gold": 5,
       "fame": 22,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198190960633",
       "name": "tarakan",
-      "playTimeSeconds": 1976,
+      "playTimeSeconds": 2036,
       "money": 0,
       "gold": 0,
       "fame": 3,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198132364463",
       "name": "AmbA",
-      "playTimeSeconds": 629,
+      "playTimeSeconds": 689,
       "money": 0,
       "gold": 0,
       "fame": 0,
@@ -62,6 +62,16 @@
     },
     {
       "rank": 7,
+      "steamId": "76561198399306435",
+      "name": "MasSawka",
+      "playTimeSeconds": 221,
+      "money": 0,
+      "gold": 0,
+      "fame": 2,
+      "isOnline": true
+    },
+    {
+      "rank": 8,
       "steamId": "76561198041539804",
       "name": "Ded_13",
       "playTimeSeconds": 181,
@@ -69,16 +79,6 @@
       "gold": 0,
       "fame": 0,
       "isOnline": false
-    },
-    {
-      "rank": 8,
-      "steamId": "76561198399306435",
-      "name": "MasSawka",
-      "playTimeSeconds": 162,
-      "money": 0,
-      "gold": 0,
-      "fame": 0,
-      "isOnline": true
     },
     {
       "rank": 9,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-01T02:55:09.174Z"
+  "updated": "2026-10-01T02:56:09.176Z"
 }
