@@ -1,11 +1,11 @@
 {
-  "online": 4,
+  "online": 5,
   "players": [
     {
       "steamId": "76561198068992719",
       "name": "Alina",
-      "sessionSeconds": 2456,
-      "playTimeSeconds": 2161,
+      "sessionSeconds": 2516,
+      "playTimeSeconds": 2221,
       "money": 1000,
       "gold": 5,
       "fame": 11,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198869337858",
       "name": "Shelby",
-      "sessionSeconds": 966,
-      "playTimeSeconds": 981,
+      "sessionSeconds": 1026,
+      "playTimeSeconds": 1041,
       "money": 0,
       "gold": 0,
       "fame": 1,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198123537318",
       "name": "aloxa",
-      "sessionSeconds": 74,
-      "playTimeSeconds": 89,
+      "sessionSeconds": 134,
+      "playTimeSeconds": 149,
       "money": 0,
       "gold": 0,
       "fame": 0,
@@ -34,13 +34,23 @@
     {
       "steamId": "76561198156375337",
       "name": "Domo",
-      "sessionSeconds": 1,
-      "playTimeSeconds": 2,
+      "sessionSeconds": 50,
+      "playTimeSeconds": 62,
       "money": 1015000,
       "gold": 110,
       "fame": 352,
       "rank": 4
+    },
+    {
+      "steamId": "76561199877063571",
+      "name": "Mazay",
+      "sessionSeconds": 31,
+      "playTimeSeconds": 51,
+      "money": 0,
+      "gold": 0,
+      "fame": 1,
+      "rank": 5
     }
   ],
-  "updated": "2026-10-01T01:16:08.476Z"
+  "updated": "2026-10-01T01:17:08.489Z"
 }
