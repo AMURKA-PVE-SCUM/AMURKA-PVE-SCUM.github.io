@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198869337858",
       "name": "Shelby",
-      "playTimeSeconds": 11784,
+      "playTimeSeconds": 11844,
       "money": 32272,
       "gold": 15,
       "fame": 152,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198132364463",
       "name": "AmbA",
-      "playTimeSeconds": 4096,
+      "playTimeSeconds": 4156,
       "money": 1000,
       "gold": 5,
       "fame": 14,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198338334108",
       "name": "OMOH",
-      "playTimeSeconds": 1843,
+      "playTimeSeconds": 1903,
       "money": 0,
       "gold": 0,
       "fame": 6,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198530159238",
       "name": "Andro",
-      "playTimeSeconds": 796,
+      "playTimeSeconds": 856,
       "money": 0,
       "gold": 0,
       "fame": 1,
@@ -82,6 +82,16 @@
     },
     {
       "rank": 9,
+      "steamId": "76561198337811646",
+      "name": "VERSUS_65_",
+      "playTimeSeconds": 702,
+      "money": 0,
+      "gold": 0,
+      "fame": 2,
+      "isOnline": true
+    },
+    {
+      "rank": 10,
       "steamId": "76561198399306435",
       "name": "MasSawka",
       "playTimeSeconds": 646,
@@ -91,20 +101,10 @@
       "isOnline": false
     },
     {
-      "rank": 10,
-      "steamId": "76561198337811646",
-      "name": "VERSUS_65_",
-      "playTimeSeconds": 642,
-      "money": 0,
-      "gold": 0,
-      "fame": 2,
-      "isOnline": true
-    },
-    {
       "rank": 11,
       "steamId": "76561199406727004",
       "name": "Черкес",
-      "playTimeSeconds": 564,
+      "playTimeSeconds": 624,
       "money": 0,
       "gold": 0,
       "fame": 7,
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 282,
+      "playTimeSeconds": 342,
       "money": 0,
       "gold": 0,
       "fame": 2,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-01T04:22:09.797Z"
+  "updated": "2026-10-01T04:23:09.804Z"
 }
