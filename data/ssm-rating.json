@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198869337858",
       "name": "Shelby",
-      "playTimeSeconds": 6014,
+      "playTimeSeconds": 6074,
       "money": 1000,
       "gold": 5,
       "fame": 27,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198123537318",
       "name": "aloxa",
-      "playTimeSeconds": 5122,
+      "playTimeSeconds": 5182,
       "money": 1300,
       "gold": 5,
       "fame": 21,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561199480908551",
       "name": "gv_61 rus",
-      "playTimeSeconds": 4295,
+      "playTimeSeconds": 4355,
       "money": 1000,
       "gold": 5,
       "fame": 17,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198190960633",
       "name": "tarakan",
-      "playTimeSeconds": 1077,
+      "playTimeSeconds": 1137,
       "money": 0,
       "gold": 0,
       "fame": 1,
@@ -42,6 +42,16 @@
     },
     {
       "rank": 5,
+      "steamId": "76561198028621423",
+      "name": "Lesnik",
+      "playTimeSeconds": 184,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "isOnline": true
+    },
+    {
+      "rank": 6,
       "steamId": "76561198041539804",
       "name": "Ded_13",
       "playTimeSeconds": 181,
@@ -49,16 +59,6 @@
       "gold": 0,
       "fame": 0,
       "isOnline": false
-    },
-    {
-      "rank": 6,
-      "steamId": "76561198028621423",
-      "name": "Lesnik",
-      "playTimeSeconds": 124,
-      "money": 0,
-      "gold": 0,
-      "fame": 0,
-      "isOnline": true
     },
     {
       "rank": 7,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-01T02:40:09.056Z"
+  "updated": "2026-10-01T02:41:09.068Z"
 }
