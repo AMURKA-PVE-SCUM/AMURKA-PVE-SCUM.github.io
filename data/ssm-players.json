@@ -1,5 +1,86 @@
 {
-  "online": 0,
-  "players": [],
-  "updated": "2026-10-02T15:02:32.876Z"
+  "online": 8,
+  "players": [
+    {
+      "steamId": "76561198530159238",
+      "name": "Andro",
+      "sessionSeconds": 4,
+      "playTimeSeconds": 21497,
+      "money": 376979,
+      "gold": 30,
+      "fame": 235,
+      "rank": 21
+    },
+    {
+      "steamId": "76561199684926739",
+      "name": "Skeleton",
+      "sessionSeconds": 4,
+      "playTimeSeconds": 5269,
+      "money": 1000,
+      "gold": 10,
+      "fame": 194,
+      "rank": 52
+    },
+    {
+      "steamId": "76561198041539804",
+      "name": "Ded_13",
+      "sessionSeconds": 4,
+      "playTimeSeconds": 40857,
+      "money": 171980,
+      "gold": 55,
+      "fame": 487,
+      "rank": 10
+    },
+    {
+      "steamId": "76561199189470290",
+      "name": "Konffetka",
+      "sessionSeconds": 1,
+      "playTimeSeconds": 30371,
+      "money": 41480,
+      "gold": 42,
+      "fame": 1044,
+      "rank": 14
+    },
+    {
+      "steamId": "76561198814504955",
+      "name": "Venom",
+      "sessionSeconds": 1,
+      "playTimeSeconds": 48911,
+      "money": 207501,
+      "gold": 65,
+      "fame": 725,
+      "rank": 6
+    },
+    {
+      "steamId": "76561198067720439",
+      "name": "Genih",
+      "sessionSeconds": 1,
+      "playTimeSeconds": 31211,
+      "money": 1035069,
+      "gold": 65,
+      "fame": 723,
+      "rank": 13
+    },
+    {
+      "steamId": "76561198171528471",
+      "name": "pokalenie_pepsi",
+      "sessionSeconds": 1,
+      "playTimeSeconds": 10152,
+      "money": 58415,
+      "gold": 15,
+      "fame": 349,
+      "rank": 41
+    },
+    {
+      "steamId": "76561199807377476",
+      "name": "Director",
+      "sessionSeconds": 1,
+      "playTimeSeconds": 73,
+      "money": 881706,
+      "gold": 70,
+      "fame": 359,
+      "rank": 75
+    }
+  ],
+  "updated": "2026-10-02T15:03:32.890Z"
 }
