@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 51803,
+      "playTimeSeconds": 51863,
       "money": 180664,
       "gold": 70,
       "fame": 1313,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198775651698",
       "name": "Добряк",
-      "playTimeSeconds": 45953,
+      "playTimeSeconds": 46013,
       "money": 207579,
       "gold": 66,
       "fame": 1064,
@@ -34,14 +34,24 @@
       "rank": 4,
       "steamId": "76561198132364463",
       "name": "AmbA",
-      "playTimeSeconds": 42255,
+      "playTimeSeconds": 42315,
       "money": 233029,
       "gold": 60,
-      "fame": 399,
+      "fame": 400,
       "isOnline": true
     },
     {
       "rank": 5,
+      "steamId": "76561198054083179",
+      "name": "Roksi",
+      "playTimeSeconds": 41880,
+      "money": 116206,
+      "gold": 61,
+      "fame": 950,
+      "isOnline": true
+    },
+    {
+      "rank": 6,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
       "playTimeSeconds": 41833,
@@ -51,20 +61,10 @@
       "isOnline": false
     },
     {
-      "rank": 6,
-      "steamId": "76561198054083179",
-      "name": "Roksi",
-      "playTimeSeconds": 41820,
-      "money": 116206,
-      "gold": 61,
-      "fame": 950,
-      "isOnline": true
-    },
-    {
       "rank": 7,
       "steamId": "76561198814504955",
       "name": "Venom",
-      "playTimeSeconds": 35619,
+      "playTimeSeconds": 35679,
       "money": 26465,
       "gold": 45,
       "fame": 312,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 28117,
+      "playTimeSeconds": 28177,
       "money": 15455,
       "gold": 40,
       "fame": 113,
@@ -144,7 +144,7 @@
       "rank": 15,
       "steamId": "76561198338334108",
       "name": "OMOH",
-      "playTimeSeconds": 21306,
+      "playTimeSeconds": 21366,
       "money": 27331,
       "gold": 30,
       "fame": 327,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-02T07:09:26.842Z"
+  "updated": "2026-10-02T07:10:26.850Z"
 }
