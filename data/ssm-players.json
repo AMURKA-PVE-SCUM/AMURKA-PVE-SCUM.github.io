@@ -1,41 +1,21 @@
 {
-  "online": 5,
+  "online": 3,
   "players": [
-    {
-      "steamId": "76561197991701874",
-      "name": "Baloo",
-      "sessionSeconds": 46128,
-      "playTimeSeconds": 24037,
-      "money": 11134,
-      "gold": 31,
-      "fame": 528,
-      "rank": 13
-    },
-    {
-      "steamId": "76561198139995845",
-      "name": "SeverGorod",
-      "sessionSeconds": 26,
-      "playTimeSeconds": 38235,
-      "money": 26547,
-      "gold": 50,
-      "fame": 751,
-      "rank": 2
-    },
     {
       "steamId": "76561198869337858",
       "name": "Shelby",
       "sessionSeconds": 26,
-      "playTimeSeconds": 35993,
-      "money": 6453,
-      "gold": 46,
-      "fame": 521,
+      "playTimeSeconds": 36053,
+      "money": 7453,
+      "gold": 51,
+      "fame": 531,
       "rank": 3
     },
     {
       "steamId": "76561199580351165",
       "name": "ШРинат",
       "sessionSeconds": 26,
-      "playTimeSeconds": 2390,
+      "playTimeSeconds": 2450,
       "money": 1015000,
       "gold": 110,
       "fame": 371,
@@ -45,12 +25,12 @@
       "steamId": "76561199738233208",
       "name": "Бен Гур",
       "sessionSeconds": 26,
-      "playTimeSeconds": 1140,
+      "playTimeSeconds": 1200,
       "money": 0,
       "gold": 0,
       "fame": 2,
       "rank": 59
     }
   ],
-  "updated": "2026-10-02T02:59:25.032Z"
+  "updated": "2026-10-02T03:00:25.035Z"
 }
