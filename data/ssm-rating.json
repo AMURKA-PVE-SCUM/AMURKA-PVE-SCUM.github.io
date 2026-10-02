@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 60470,
+      "playTimeSeconds": 60530,
       "money": 198588,
       "gold": 80,
       "fame": 1368,
@@ -14,8 +14,8 @@
       "rank": 2,
       "steamId": "76561198775651698",
       "name": "Добряк",
-      "playTimeSeconds": 54295,
-      "money": 378345,
+      "playTimeSeconds": 54355,
+      "money": 395739,
       "gold": 7,
       "fame": 1551,
       "isOnline": true
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198054083179",
       "name": "Roksi",
-      "playTimeSeconds": 50308,
+      "playTimeSeconds": 50368,
       "money": 119943,
       "gold": 71,
       "fame": 1005,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198814504955",
       "name": "Venom",
-      "playTimeSeconds": 44119,
+      "playTimeSeconds": 44179,
       "money": 77780,
       "gold": 60,
       "fame": 357,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "playTimeSeconds": 35551,
+      "playTimeSeconds": 35611,
       "money": 5718,
       "gold": 50,
       "fame": 422,
@@ -102,6 +102,16 @@
     },
     {
       "rank": 11,
+      "steamId": "76561197991701874",
+      "name": "Baloo",
+      "playTimeSeconds": 27669,
+      "money": 109314,
+      "gold": 36,
+      "fame": 596,
+      "isOnline": true
+    },
+    {
+      "rank": 12,
       "steamId": "76561198123537318",
       "name": "aloxa",
       "playTimeSeconds": 27634,
@@ -109,16 +119,6 @@
       "gold": 35,
       "fame": 342,
       "isOnline": false
-    },
-    {
-      "rank": 12,
-      "steamId": "76561197991701874",
-      "name": "Baloo",
-      "playTimeSeconds": 27609,
-      "money": 109314,
-      "gold": 36,
-      "fame": 596,
-      "isOnline": true
     },
     {
       "rank": 13,
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561198067720439",
       "name": "Genih",
-      "playTimeSeconds": 25996,
+      "playTimeSeconds": 26056,
       "money": 1036900,
       "gold": 155,
       "fame": 596,
@@ -144,7 +144,7 @@
       "rank": 15,
       "steamId": "76561199189470290",
       "name": "Konffetka",
-      "playTimeSeconds": 24993,
+      "playTimeSeconds": 25053,
       "money": 92762,
       "gold": 36,
       "fame": 488,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-02T09:38:27.940Z"
+  "updated": "2026-10-02T09:39:27.951Z"
 }
