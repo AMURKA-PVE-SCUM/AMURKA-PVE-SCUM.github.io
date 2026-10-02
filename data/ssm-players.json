@@ -2,20 +2,30 @@
   "online": 7,
   "players": [
     {
+      "steamId": "76561198054083179",
+      "name": "Roksi",
+      "sessionSeconds": 46778,
+      "playTimeSeconds": 29900,
+      "money": 35748,
+      "gold": 45,
+      "fame": 531,
+      "rank": 9
+    },
+    {
       "steamId": "76561198869337858",
       "name": "Shelby",
       "sessionSeconds": 23,
-      "playTimeSeconds": 38025,
+      "playTimeSeconds": 38085,
       "money": 7453,
       "gold": 51,
-      "fame": 535,
+      "fame": 536,
       "rank": 3
     },
     {
       "steamId": "76561198132364463",
       "name": "AmbA",
       "sessionSeconds": 23,
-      "playTimeSeconds": 31880,
+      "playTimeSeconds": 31940,
       "money": 12000,
       "gold": 45,
       "fame": 273,
@@ -25,7 +35,7 @@
       "steamId": "76561199738233208",
       "name": "Бен Гур",
       "sessionSeconds": 23,
-      "playTimeSeconds": 3085,
+      "playTimeSeconds": 3145,
       "money": 1000,
       "gold": 5,
       "fame": 14,
@@ -35,17 +45,17 @@
       "steamId": "76561198053503933",
       "name": "BlackStalker",
       "sessionSeconds": 23,
-      "playTimeSeconds": 3934,
+      "playTimeSeconds": 3994,
       "money": 900,
       "gold": 5,
-      "fame": 117,
+      "fame": 118,
       "rank": 43
     },
     {
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 23,
-      "playTimeSeconds": 39977,
+      "playTimeSeconds": 40037,
       "money": 27547,
       "gold": 55,
       "fame": 763,
@@ -55,22 +65,12 @@
       "steamId": "76561198123537318",
       "name": "aloxa",
       "sessionSeconds": 23,
-      "playTimeSeconds": 24699,
+      "playTimeSeconds": 24759,
       "money": 81118,
       "gold": 35,
       "fame": 340,
       "rank": 13
-    },
-    {
-      "steamId": "76561198028621423",
-      "name": "Lesnik",
-      "sessionSeconds": 23,
-      "playTimeSeconds": 7704,
-      "money": 27684,
-      "gold": 10,
-      "fame": 47,
-      "rank": 34
     }
   ],
-  "updated": "2026-10-02T03:35:25.251Z"
+  "updated": "2026-10-02T03:36:25.252Z"
 }
