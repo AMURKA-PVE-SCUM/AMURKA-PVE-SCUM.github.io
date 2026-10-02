@@ -1,11 +1,21 @@
 {
-  "online": 4,
+  "online": 5,
   "players": [
+    {
+      "steamId": "76561197991701874",
+      "name": "Baloo",
+      "sessionSeconds": 44088,
+      "playTimeSeconds": 21999,
+      "money": 4012,
+      "gold": 30,
+      "fame": 419,
+      "rank": 14
+    },
     {
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 29,
-      "playTimeSeconds": 36137,
+      "playTimeSeconds": 36197,
       "money": 26547,
       "gold": 50,
       "fame": 750,
@@ -15,17 +25,17 @@
       "steamId": "76561198123537318",
       "name": "aloxa",
       "sessionSeconds": 29,
-      "playTimeSeconds": 21277,
+      "playTimeSeconds": 21337,
       "money": 89989,
       "gold": 30,
       "fame": 327,
-      "rank": 16
+      "rank": 15
     },
     {
       "steamId": "76561198869337858",
       "name": "Shelby",
       "sessionSeconds": 29,
-      "playTimeSeconds": 33895,
+      "playTimeSeconds": 33955,
       "money": 6453,
       "gold": 46,
       "fame": 518,
@@ -35,12 +45,12 @@
       "steamId": "76561198053503933",
       "name": "BlackStalker",
       "sessionSeconds": 29,
-      "playTimeSeconds": 88,
+      "playTimeSeconds": 148,
       "money": 0,
       "gold": 0,
       "fame": 0,
       "rank": 64
     }
   ],
-  "updated": "2026-10-02T02:24:24.748Z"
+  "updated": "2026-10-02T02:25:24.762Z"
 }
