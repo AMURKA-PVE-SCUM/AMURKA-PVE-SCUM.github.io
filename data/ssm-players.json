@@ -1,10 +1,10 @@
 {
-  "online": 9,
+  "online": 10,
   "players": [
     {
       "steamId": "76561198530159238",
       "name": "Andro",
-      "sessionSeconds": 1513,
+      "sessionSeconds": 1573,
       "playTimeSeconds": 21490,
       "money": 304612,
       "gold": 30,
@@ -14,7 +14,7 @@
     {
       "steamId": "76561199446477479",
       "name": "brazeenhtein2",
-      "sessionSeconds": 1280,
+      "sessionSeconds": 1340,
       "playTimeSeconds": 15771,
       "money": 150288,
       "gold": 25,
@@ -24,7 +24,7 @@
     {
       "steamId": "76561198171528471",
       "name": "pokalenie_pepsi",
-      "sessionSeconds": 1115,
+      "sessionSeconds": 1175,
       "playTimeSeconds": 10087,
       "money": 111944,
       "gold": 15,
@@ -34,7 +34,7 @@
     {
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "sessionSeconds": 1075,
+      "sessionSeconds": 1135,
       "playTimeSeconds": 16975,
       "money": 1403,
       "gold": 25,
@@ -44,7 +44,7 @@
     {
       "steamId": "76561199756972418",
       "name": "Joni47",
-      "sessionSeconds": 982,
+      "sessionSeconds": 1042,
       "playTimeSeconds": 7002,
       "money": 0,
       "gold": 10,
@@ -54,7 +54,7 @@
     {
       "steamId": "76561199807377476",
       "name": "Director",
-      "sessionSeconds": 798,
+      "sessionSeconds": 858,
       "playTimeSeconds": 3,
       "money": 1210020,
       "gold": 245,
@@ -64,7 +64,7 @@
     {
       "steamId": "76561198254960709",
       "name": "bogas",
-      "sessionSeconds": 365,
+      "sessionSeconds": 425,
       "playTimeSeconds": 5,
       "money": 0,
       "gold": 0,
@@ -74,7 +74,7 @@
     {
       "steamId": "76561198071060590",
       "name": "Black_Mamba",
-      "sessionSeconds": 326,
+      "sessionSeconds": 386,
       "playTimeSeconds": 12793,
       "money": 21891,
       "gold": 15,
@@ -84,13 +84,23 @@
     {
       "steamId": "76561198372320271",
       "name": "ADA",
-      "sessionSeconds": 294,
+      "sessionSeconds": 354,
       "playTimeSeconds": 7208,
       "money": 148270,
       "gold": 30,
       "fame": 231,
       "rank": 49
+    },
+    {
+      "steamId": "76561198220671051",
+      "name": "Котэ_Вездессущий",
+      "sessionSeconds": 8,
+      "playTimeSeconds": 3420,
+      "money": 82554,
+      "gold": 5,
+      "fame": 95,
+      "rank": 59
     }
   ],
-  "updated": "2026-10-02T14:19:32.536Z"
+  "updated": "2026-10-02T14:20:32.550Z"
 }
