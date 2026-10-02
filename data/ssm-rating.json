@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 52642,
+      "playTimeSeconds": 52702,
       "money": 193899,
       "gold": 70,
       "fame": 1323,
@@ -12,6 +12,16 @@
     },
     {
       "rank": 2,
+      "steamId": "76561198775651698",
+      "name": "Добряк",
+      "playTimeSeconds": 46852,
+      "money": 209957,
+      "gold": 66,
+      "fame": 1130,
+      "isOnline": true
+    },
+    {
+      "rank": 3,
       "steamId": "76561198869337858",
       "name": "Shelby",
       "playTimeSeconds": 46799,
@@ -21,20 +31,10 @@
       "isOnline": false
     },
     {
-      "rank": 3,
-      "steamId": "76561198775651698",
-      "name": "Добряк",
-      "playTimeSeconds": 46792,
-      "money": 209957,
-      "gold": 66,
-      "fame": 1130,
-      "isOnline": true
-    },
-    {
       "rank": 4,
       "steamId": "76561198132364463",
       "name": "AmbA",
-      "playTimeSeconds": 43094,
+      "playTimeSeconds": 43154,
       "money": 233029,
       "gold": 60,
       "fame": 400,
@@ -44,10 +44,10 @@
       "rank": 5,
       "steamId": "76561198054083179",
       "name": "Roksi",
-      "playTimeSeconds": 42659,
+      "playTimeSeconds": 42719,
       "money": 116206,
       "gold": 61,
-      "fame": 947,
+      "fame": 945,
       "isOnline": true
     },
     {
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198814504955",
       "name": "Venom",
-      "playTimeSeconds": 36458,
+      "playTimeSeconds": 36518,
       "money": 27465,
       "gold": 50,
       "fame": 322,
@@ -84,10 +84,10 @@
       "rank": 9,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 28956,
+      "playTimeSeconds": 29016,
       "money": 15455,
       "gold": 40,
-      "fame": 113,
+      "fame": 114,
       "isOnline": true
     },
     {
@@ -144,7 +144,7 @@
       "rank": 15,
       "steamId": "76561198338334108",
       "name": "OMOH",
-      "playTimeSeconds": 22145,
+      "playTimeSeconds": 22205,
       "money": 24391,
       "gold": 30,
       "fame": 327,
@@ -184,7 +184,7 @@
       "rank": 19,
       "steamId": "76561198067720439",
       "name": "Genih",
-      "playTimeSeconds": 19657,
+      "playTimeSeconds": 19717,
       "money": 20900,
       "gold": 40,
       "fame": 232,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-02T07:23:26.958Z"
+  "updated": "2026-10-02T07:24:26.971Z"
 }
