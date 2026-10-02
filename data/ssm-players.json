@@ -1,11 +1,11 @@
 {
-  "online": 2,
+  "online": 3,
   "players": [
     {
       "steamId": "76561198869337858",
       "name": "Shelby",
       "sessionSeconds": 26,
-      "playTimeSeconds": 36108,
+      "playTimeSeconds": 36167,
       "money": 7453,
       "gold": 51,
       "fame": 531,
@@ -14,13 +14,23 @@
     {
       "steamId": "76561198132364463",
       "name": "AmbA",
-      "sessionSeconds": 13,
-      "playTimeSeconds": 29963,
+      "sessionSeconds": 26,
+      "playTimeSeconds": 30022,
       "money": 11000,
       "gold": 40,
       "fame": 260,
       "rank": 8
+    },
+    {
+      "steamId": "76561199738233208",
+      "name": "Бен Гур",
+      "sessionSeconds": 1,
+      "playTimeSeconds": 1227,
+      "money": 0,
+      "gold": 0,
+      "fame": 2,
+      "rank": 58
     }
   ],
-  "updated": "2026-10-02T03:03:25.051Z"
+  "updated": "2026-10-02T03:04:25.052Z"
 }
