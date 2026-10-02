@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 59451,
+      "playTimeSeconds": 59511,
       "money": 198588,
       "gold": 80,
       "fame": 1367,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198775651698",
       "name": "Добряк",
-      "playTimeSeconds": 53276,
+      "playTimeSeconds": 53336,
       "money": 345816,
       "gold": 7,
       "fame": 1546,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198054083179",
       "name": "Roksi",
-      "playTimeSeconds": 49289,
+      "playTimeSeconds": 49349,
       "money": 119943,
       "gold": 71,
       "fame": 1004,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198814504955",
       "name": "Venom",
-      "playTimeSeconds": 43100,
+      "playTimeSeconds": 43160,
       "money": 76780,
       "gold": 55,
       "fame": 347,
@@ -72,6 +72,16 @@
     },
     {
       "rank": 8,
+      "steamId": "76561198041539804",
+      "name": "Ded_13",
+      "playTimeSeconds": 34592,
+      "money": 5718,
+      "gold": 50,
+      "fame": 421,
+      "isOnline": true
+    },
+    {
+      "rank": 9,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "playTimeSeconds": 34547,
@@ -79,16 +89,6 @@
       "gold": 50,
       "fame": 139,
       "isOnline": false
-    },
-    {
-      "rank": 9,
-      "steamId": "76561198041539804",
-      "name": "Ded_13",
-      "playTimeSeconds": 34532,
-      "money": 5718,
-      "gold": 50,
-      "fame": 421,
-      "isOnline": true
     },
     {
       "rank": 10,
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561197991701874",
       "name": "Baloo",
-      "playTimeSeconds": 26590,
+      "playTimeSeconds": 26650,
       "money": 109314,
       "gold": 36,
       "fame": 595,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561199189470290",
       "name": "Konffetka",
-      "playTimeSeconds": 23974,
+      "playTimeSeconds": 24034,
       "money": 92762,
       "gold": 36,
       "fame": 487,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-02T09:21:27.819Z"
+  "updated": "2026-10-02T09:22:27.823Z"
 }
