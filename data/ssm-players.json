@@ -1,46 +1,76 @@
 {
-  "online": 4,
+  "online": 7,
   "players": [
     {
       "steamId": "76561199738233208",
       "name": "Бен Гур",
       "sessionSeconds": 28,
-      "playTimeSeconds": 11830,
+      "playTimeSeconds": 11890,
       "money": 20581,
       "gold": 15,
-      "fame": 163,
+      "fame": 164,
       "rank": 34
     },
     {
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 28,
-      "playTimeSeconds": 58432,
+      "playTimeSeconds": 58492,
       "money": 198588,
       "gold": 80,
-      "fame": 1364,
+      "fame": 1365,
       "rank": 1
     },
     {
       "steamId": "76561198068992719",
       "name": "Alina",
       "sessionSeconds": 28,
-      "playTimeSeconds": 44521,
+      "playTimeSeconds": 44581,
       "money": 1034000,
       "gold": 175,
       "fame": 627,
       "rank": 7
     },
     {
+      "steamId": "76561199168999163",
+      "name": "Puteshestvinica",
+      "sessionSeconds": 28,
+      "playTimeSeconds": 15938,
+      "money": 5000,
+      "gold": 25,
+      "fame": 187,
+      "rank": 25
+    },
+    {
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
-      "sessionSeconds": 8,
-      "playTimeSeconds": 10465,
+      "sessionSeconds": 28,
+      "playTimeSeconds": 10525,
       "money": 3000,
       "gold": 15,
-      "fame": 72,
+      "fame": 22,
       "rank": 37
+    },
+    {
+      "steamId": "76561198041539804",
+      "name": "Ded_13",
+      "sessionSeconds": 28,
+      "playTimeSeconds": 33573,
+      "money": 5268,
+      "gold": 50,
+      "fame": 415,
+      "rank": 11
+    },
+    {
+      "steamId": "76561199580351165",
+      "name": "ШРинат",
+      "sessionSeconds": 14,
+      "playTimeSeconds": 15988,
+      "money": 3812,
+      "gold": 950,
+      "fame": 420,
+      "rank": 24
     }
   ],
-  "updated": "2026-10-02T09:04:27.723Z"
+  "updated": "2026-10-02T09:05:27.729Z"
 }
