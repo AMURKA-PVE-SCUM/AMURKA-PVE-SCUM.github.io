@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 72845,
+      "playTimeSeconds": 72905,
       "money": 260703,
       "gold": 100,
       "fame": 1421,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561199325595521",
       "name": "NoVoROS",
-      "playTimeSeconds": 53049,
+      "playTimeSeconds": 53109,
       "money": 5541,
       "gold": 45,
       "fame": 540,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198067720439",
       "name": "Genih",
-      "playTimeSeconds": 50848,
+      "playTimeSeconds": 50908,
       "money": 331969,
       "gold": 17,
       "fame": 800,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561199189470290",
       "name": "Konffetka",
-      "playTimeSeconds": 49872,
+      "playTimeSeconds": 49932,
       "money": 51491,
       "gold": 88,
       "fame": 1343,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "playTimeSeconds": 49013,
+      "playTimeSeconds": 49073,
       "money": 157118,
       "gold": 66,
       "fame": 794,
@@ -102,6 +102,16 @@
     },
     {
       "rank": 11,
+      "steamId": "76561199486830797",
+      "name": "yuriiermolenko861",
+      "playTimeSeconds": 46843,
+      "money": 275652,
+      "gold": 52,
+      "fame": 1285,
+      "isOnline": true
+    },
+    {
+      "rank": 12,
       "steamId": "76561198869337858",
       "name": "Shelby",
       "playTimeSeconds": 46799,
@@ -109,16 +119,6 @@
       "gold": 61,
       "fame": 620,
       "isOnline": false
-    },
-    {
-      "rank": 12,
-      "steamId": "76561199486830797",
-      "name": "yuriiermolenko861",
-      "playTimeSeconds": 46783,
-      "money": 275652,
-      "gold": 52,
-      "fame": 1285,
-      "isOnline": true
     },
     {
       "rank": 13,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
-      "playTimeSeconds": 40733,
+      "playTimeSeconds": 40793,
       "money": 54505,
       "gold": 55,
       "fame": 351,
@@ -164,11 +164,11 @@
       "rank": 17,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "playTimeSeconds": 37984,
+      "playTimeSeconds": 38036,
       "money": 101282,
       "gold": 55,
       "fame": 293,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 18,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-02T22:35:36.183Z"
+  "updated": "2026-10-02T22:36:36.185Z"
 }
