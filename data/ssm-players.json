@@ -1,5 +1,96 @@
 {
-  "online": 0,
-  "players": [],
-  "updated": "2026-10-02T18:02:34.208Z"
+  "online": 9,
+  "players": [
+    {
+      "steamId": "76561199807377476",
+      "name": "Director",
+      "sessionSeconds": 32,
+      "playTimeSeconds": 10503,
+      "money": 651404,
+      "gold": 85,
+      "fame": 477,
+      "rank": 51
+    },
+    {
+      "steamId": "76561198140281063",
+      "name": "NetrezvbIi_Kot",
+      "sessionSeconds": 28,
+      "playTimeSeconds": 11063,
+      "money": 6516,
+      "gold": 10,
+      "fame": 82,
+      "rank": 50
+    },
+    {
+      "steamId": "76561199206700564",
+      "name": "_Adskiy_Yozhik_",
+      "sessionSeconds": 24,
+      "playTimeSeconds": 5146,
+      "money": 1000,
+      "gold": 5,
+      "fame": 17,
+      "rank": 61
+    },
+    {
+      "steamId": "76561199482254015",
+      "name": "ViMeR",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 3553,
+      "money": 1000,
+      "gold": 5,
+      "fame": 32,
+      "rank": 66
+    },
+    {
+      "steamId": "76561198120086834",
+      "name": "Myp3ilka",
+      "sessionSeconds": 10,
+      "playTimeSeconds": 24659,
+      "money": 61334,
+      "gold": 30,
+      "fame": 227,
+      "rank": 24
+    },
+    {
+      "steamId": "76561198382114262",
+      "name": "Montana",
+      "sessionSeconds": 10,
+      "playTimeSeconds": 18919,
+      "money": 157594,
+      "gold": 25,
+      "fame": 206,
+      "rank": 36
+    },
+    {
+      "steamId": "76561199189470290",
+      "name": "Konffetka",
+      "sessionSeconds": 9,
+      "playTimeSeconds": 33859,
+      "money": 42480,
+      "gold": 47,
+      "fame": 1060,
+      "rank": 16
+    },
+    {
+      "steamId": "76561198029476275",
+      "name": "XEH",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 15855,
+      "money": 8246,
+      "gold": 20,
+      "fame": 93,
+      "rank": 40
+    },
+    {
+      "steamId": "76561198184180030",
+      "name": "Nazar",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 15525,
+      "money": 5000,
+      "gold": 25,
+      "fame": 209,
+      "rank": 41
+    }
+  ],
+  "updated": "2026-10-02T18:03:34.210Z"
 }
