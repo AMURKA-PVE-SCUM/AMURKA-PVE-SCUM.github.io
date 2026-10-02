@@ -1,5 +1,106 @@
 {
-  "online": 0,
-  "players": [],
-  "updated": "2026-10-02T12:02:31.502Z"
+  "online": 10,
+  "players": [
+    {
+      "steamId": "76561198230911236",
+      "name": "TOR",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 45,
+      "money": 0,
+      "gold": 0,
+      "fame": 110,
+      "rank": 72
+    },
+    {
+      "steamId": "76561198184180030",
+      "name": "Nazar",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 1953,
+      "money": 1000,
+      "gold": 5,
+      "fame": 39,
+      "rank": 61
+    },
+    {
+      "steamId": "76561198171528471",
+      "name": "pokalenie_pepsi",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 6791,
+      "money": 110094,
+      "gold": 10,
+      "fame": 269,
+      "rank": 48
+    },
+    {
+      "steamId": "76561199189470290",
+      "name": "Konffetka",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 27048,
+      "money": 129432,
+      "gold": 37,
+      "fame": 856,
+      "rank": 16
+    },
+    {
+      "steamId": "76561199684926739",
+      "name": "Skeleton",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 1971,
+      "money": 115,
+      "gold": 5,
+      "fame": 136,
+      "rank": 60
+    },
+    {
+      "steamId": "76561199446477479",
+      "name": "brazeenhtein2",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 12478,
+      "money": 149138,
+      "gold": 20,
+      "fame": 411,
+      "rank": 37
+    },
+    {
+      "steamId": "76561199020076791",
+      "name": "Sleng",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 6672,
+      "money": 0,
+      "gold": 10,
+      "fame": 145,
+      "rank": 49
+    },
+    {
+      "steamId": "76561199580351165",
+      "name": "ШРинат",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 19987,
+      "money": 113432,
+      "gold": 955,
+      "fame": 443,
+      "rank": 22
+    },
+    {
+      "steamId": "76561198220671051",
+      "name": "Котэ_Вездессущий",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 273,
+      "money": 8887,
+      "gold": 0,
+      "fame": 7,
+      "rank": 70
+    },
+    {
+      "steamId": "76561198106059918",
+      "name": "Пепа Петрович",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 15971,
+      "money": 68543,
+      "gold": 20,
+      "fame": 186,
+      "rank": 28
+    }
+  ],
+  "updated": "2026-10-02T12:03:31.514Z"
 }
