@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561198530159238",
       "name": "Andro",
-      "sessionSeconds": 193,
+      "sessionSeconds": 253,
       "playTimeSeconds": 21490,
       "money": 304612,
       "gold": 30,
       "fame": 212,
       "rank": 20
+    },
+    {
+      "steamId": "76561199446477479",
+      "name": "brazeenhtein2",
+      "sessionSeconds": 19,
+      "playTimeSeconds": 15771,
+      "money": 150288,
+      "gold": 25,
+      "fame": 434,
+      "rank": 33
     }
   ],
-  "updated": "2026-10-02T13:57:32.368Z"
+  "updated": "2026-10-02T13:58:32.375Z"
 }
