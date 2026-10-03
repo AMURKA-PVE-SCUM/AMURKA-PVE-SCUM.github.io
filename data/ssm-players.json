@@ -1,21 +1,31 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 28,
-      "playTimeSeconds": 83867,
+      "playTimeSeconds": 83927,
       "money": 303661,
       "gold": 115,
       "fame": 1464,
       "rank": 1
     },
     {
+      "steamId": "76561198028621423",
+      "name": "Lesnik",
+      "sessionSeconds": 28,
+      "playTimeSeconds": 14272,
+      "money": 46131,
+      "gold": 20,
+      "fame": 95,
+      "rank": 49
+    },
+    {
       "steamId": "76561199684926739",
       "name": "Skeleton",
       "sessionSeconds": 28,
-      "playTimeSeconds": 16088,
+      "playTimeSeconds": 16148,
       "money": 2933,
       "gold": 25,
       "fame": 452,
@@ -25,7 +35,7 @@
       "steamId": "76561198041539804",
       "name": "Ded_13",
       "sessionSeconds": 28,
-      "playTimeSeconds": 62184,
+      "playTimeSeconds": 62244,
       "money": 149904,
       "gold": 82,
       "fame": 1125,
@@ -35,7 +45,7 @@
       "steamId": "76561198831354124",
       "name": "poosifer",
       "sessionSeconds": 28,
-      "playTimeSeconds": 9210,
+      "playTimeSeconds": 9270,
       "money": 34212,
       "gold": 10,
       "fame": 43,
@@ -45,7 +55,7 @@
       "steamId": "76561198077981589",
       "name": "Чилим",
       "sessionSeconds": 28,
-      "playTimeSeconds": 26694,
+      "playTimeSeconds": 26754,
       "money": 72265,
       "gold": 40,
       "fame": 166,
@@ -55,7 +65,7 @@
       "steamId": "76561199020076791",
       "name": "Sleng",
       "sessionSeconds": 28,
-      "playTimeSeconds": 12535,
+      "playTimeSeconds": 12595,
       "money": 45896,
       "gold": 10,
       "fame": 167,
@@ -65,12 +75,12 @@
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 28,
-      "playTimeSeconds": 42383,
+      "playTimeSeconds": 42443,
       "money": 16313,
       "gold": 60,
       "fame": 170,
       "rank": 19
     }
   ],
-  "updated": "2026-10-03T03:14:38.219Z"
+  "updated": "2026-10-03T03:15:38.227Z"
 }
