@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "playTimeSeconds": 55047,
+      "playTimeSeconds": 55107,
       "money": 201360,
       "gold": 72,
       "fame": 1077,
@@ -72,6 +72,16 @@
     },
     {
       "rank": 8,
+      "steamId": "76561198132364463",
+      "name": "AmbA",
+      "playTimeSeconds": 51604,
+      "money": 266068,
+      "gold": 70,
+      "fame": 448,
+      "isOnline": true
+    },
+    {
+      "rank": 9,
       "steamId": "76561198067720439",
       "name": "Genih",
       "playTimeSeconds": 51558,
@@ -79,16 +89,6 @@
       "gold": 17,
       "fame": 800,
       "isOnline": false
-    },
-    {
-      "rank": 9,
-      "steamId": "76561198132364463",
-      "name": "AmbA",
-      "playTimeSeconds": 51544,
-      "money": 266068,
-      "gold": 70,
-      "fame": 448,
-      "isOnline": true
     },
     {
       "rank": 10,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-03T00:18:36.915Z"
+  "updated": "2026-10-03T00:19:36.929Z"
 }
