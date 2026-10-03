@@ -1,11 +1,61 @@
 {
-  "online": 4,
+  "online": 9,
   "players": [
+    {
+      "steamId": "76561199486830797",
+      "name": "yuriiermolenko861",
+      "sessionSeconds": 49323,
+      "playTimeSeconds": 53557,
+      "money": 277652,
+      "gold": 62,
+      "fame": 1314,
+      "rank": 12
+    },
+    {
+      "steamId": "76561198132364463",
+      "name": "AmbA",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 57904,
+      "money": 268068,
+      "gold": 80,
+      "fame": 475,
+      "rank": 9
+    },
+    {
+      "steamId": "76561198198157306",
+      "name": "alekx838",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 27269,
+      "money": 6437,
+      "gold": 40,
+      "fame": 134,
+      "rank": 35
+    },
+    {
+      "steamId": "76561198077981589",
+      "name": "Чилим",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 46975,
+      "money": 55767,
+      "gold": 75,
+      "fame": 316,
+      "rank": 17
+    },
+    {
+      "steamId": "76561198831354124",
+      "name": "poosifer",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 24428,
+      "money": 39012,
+      "gold": 35,
+      "fame": 119,
+      "rank": 39
+    },
     {
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
       "sessionSeconds": 3,
-      "playTimeSeconds": 43410,
+      "playTimeSeconds": 43470,
       "money": 102282,
       "gold": 60,
       "fame": 313,
@@ -15,7 +65,7 @@
       "steamId": "76561198121549932",
       "name": "Prostyak",
       "sessionSeconds": 3,
-      "playTimeSeconds": 71,
+      "playTimeSeconds": 131,
       "money": 0,
       "gold": 0,
       "fame": 0,
@@ -25,7 +75,7 @@
       "steamId": "76561199823596261",
       "name": "MИХА",
       "sessionSeconds": 3,
-      "playTimeSeconds": 29711,
+      "playTimeSeconds": 29771,
       "money": 66818,
       "gold": 40,
       "fame": 186,
@@ -35,12 +85,12 @@
       "steamId": "76561199684926739",
       "name": "Skeleton",
       "sessionSeconds": 3,
-      "playTimeSeconds": 35849,
+      "playTimeSeconds": 35909,
       "money": 30466,
       "gold": 50,
       "fame": 834,
       "rank": 25
     }
   ],
-  "updated": "2026-10-03T09:03:40.807Z"
+  "updated": "2026-10-03T09:04:40.821Z"
 }
