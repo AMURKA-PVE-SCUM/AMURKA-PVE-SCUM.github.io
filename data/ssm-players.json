@@ -1,11 +1,11 @@
 {
-  "online": 9,
+  "online": 10,
   "players": [
     {
       "steamId": "76561199801792277",
       "name": "Сол Хоггар",
       "sessionSeconds": 9,
-      "playTimeSeconds": 11805,
+      "playTimeSeconds": 11865,
       "money": 217797,
       "gold": 15,
       "fame": 204,
@@ -15,17 +15,27 @@
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 9,
-      "playTimeSeconds": 77004,
+      "playTimeSeconds": 77064,
       "money": 284961,
       "gold": 105,
       "fame": 1439,
       "rank": 1
     },
     {
+      "steamId": "76561198041539804",
+      "name": "Ded_13",
+      "sessionSeconds": 9,
+      "playTimeSeconds": 57171,
+      "money": 148904,
+      "gold": 77,
+      "fame": 1109,
+      "rank": 8
+    },
+    {
       "steamId": "76561198132364463",
       "name": "AmbA",
       "sessionSeconds": 9,
-      "playTimeSeconds": 54540,
+      "playTimeSeconds": 54600,
       "money": 267068,
       "gold": 75,
       "fame": 463,
@@ -35,7 +45,7 @@
       "steamId": "76561198052403991",
       "name": "Lis",
       "sessionSeconds": 9,
-      "playTimeSeconds": 23989,
+      "playTimeSeconds": 24049,
       "money": 85878,
       "gold": 30,
       "fame": 592,
@@ -45,7 +55,7 @@
       "steamId": "76561198869337858",
       "name": "Shelby",
       "sessionSeconds": 9,
-      "playTimeSeconds": 48904,
+      "playTimeSeconds": 48964,
       "money": 84753,
       "gold": 66,
       "fame": 629,
@@ -55,8 +65,8 @@
       "steamId": "76561198077981589",
       "name": "Чилим",
       "sessionSeconds": 9,
-      "playTimeSeconds": 19322,
-      "money": 2403,
+      "playTimeSeconds": 19382,
+      "money": 0,
       "gold": 30,
       "fame": 128,
       "rank": 43
@@ -65,17 +75,17 @@
       "steamId": "76561198123537318",
       "name": "aloxa",
       "sessionSeconds": 9,
-      "playTimeSeconds": 28626,
+      "playTimeSeconds": 28686,
       "money": 82118,
       "gold": 40,
       "fame": 352,
-      "rank": 26
+      "rank": 25
     },
     {
       "steamId": "76561198831354124",
       "name": "poosifer",
       "sessionSeconds": 9,
-      "playTimeSeconds": 1903,
+      "playTimeSeconds": 1963,
       "money": 0,
       "gold": 0,
       "fame": 4,
@@ -85,12 +95,12 @@
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 9,
-      "playTimeSeconds": 35321,
+      "playTimeSeconds": 35381,
       "money": 12455,
       "gold": 50,
       "fame": 145,
       "rank": 20
     }
   ],
-  "updated": "2026-10-03T01:08:37.294Z"
+  "updated": "2026-10-03T01:09:37.298Z"
 }
