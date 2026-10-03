@@ -14,17 +14,17 @@
       "rank": 2,
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "playTimeSeconds": 72300,
-      "money": 179764,
+      "playTimeSeconds": 72360,
+      "money": 179920,
       "gold": 97,
-      "fame": 1168,
+      "fame": 1169,
       "isOnline": true
     },
     {
       "rank": 3,
       "steamId": "76561198054083179",
       "name": "Roksi",
-      "playTimeSeconds": 71842,
+      "playTimeSeconds": 71902,
       "money": 98281,
       "gold": 101,
       "fame": 1212,
@@ -32,6 +32,16 @@
     },
     {
       "rank": 4,
+      "steamId": "76561199404896383",
+      "name": "Victor_Vilkouskas",
+      "playTimeSeconds": 67526,
+      "money": 101008,
+      "gold": 15,
+      "fame": 708,
+      "isOnline": true
+    },
+    {
+      "rank": 5,
       "steamId": "76561198775651698",
       "name": "Добряк",
       "playTimeSeconds": 67470,
@@ -39,16 +49,6 @@
       "gold": 30,
       "fame": 2474,
       "isOnline": false
-    },
-    {
-      "rank": 5,
-      "steamId": "76561199404896383",
-      "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 67466,
-      "money": 101008,
-      "gold": 15,
-      "fame": 708,
-      "isOnline": true
     },
     {
       "rank": 6,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-03T06:05:39.464Z"
+  "updated": "2026-10-03T06:06:39.470Z"
 }
