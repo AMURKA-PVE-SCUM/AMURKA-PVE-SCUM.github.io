@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "sessionSeconds": 3,
-      "playTimeSeconds": 81436,
+      "sessionSeconds": 2,
+      "playTimeSeconds": 81495,
       "money": 302661,
       "gold": 110,
       "fame": 1453,
@@ -14,9 +14,9 @@
     {
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "sessionSeconds": 3,
-      "playTimeSeconds": 30085,
-      "money": 249408,
+      "sessionSeconds": 2,
+      "playTimeSeconds": 30144,
+      "money": 250116,
       "gold": 981,
       "fame": 755,
       "rank": 26
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198869337858",
       "name": "Shelby",
-      "sessionSeconds": 3,
-      "playTimeSeconds": 53336,
+      "sessionSeconds": 2,
+      "playTimeSeconds": 53395,
       "money": 85753,
       "gold": 71,
       "fame": 657,
@@ -34,8 +34,8 @@
     {
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "sessionSeconds": 3,
-      "playTimeSeconds": 23754,
+      "sessionSeconds": 2,
+      "playTimeSeconds": 23813,
       "money": 1000,
       "gold": 35,
       "fame": 148,
@@ -44,8 +44,8 @@
     {
       "steamId": "76561198123537318",
       "name": "aloxa",
-      "sessionSeconds": 3,
-      "playTimeSeconds": 33058,
+      "sessionSeconds": 2,
+      "playTimeSeconds": 33117,
       "money": 225076,
       "gold": 45,
       "fame": 471,
@@ -54,8 +54,8 @@
     {
       "steamId": "76561198831354124",
       "name": "poosifer",
-      "sessionSeconds": 3,
-      "playTimeSeconds": 6335,
+      "sessionSeconds": 2,
+      "playTimeSeconds": 6394,
       "money": 2000,
       "gold": 10,
       "fame": 37,
@@ -64,13 +64,23 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 3,
-      "playTimeSeconds": 39753,
+      "sessionSeconds": 2,
+      "playTimeSeconds": 39812,
       "money": 21802,
       "gold": 55,
       "fame": 158,
       "rank": 20
+    },
+    {
+      "steamId": "76561199684926739",
+      "name": "Skeleton",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 13325,
+      "money": 5723,
+      "gold": 20,
+      "fame": 324,
+      "rank": 52
     }
   ],
-  "updated": "2026-10-03T02:22:37.851Z"
+  "updated": "2026-10-03T02:23:37.855Z"
 }
