@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 7,
   "players": [
     {
       "steamId": "76561198028621423",
       "name": "Lesnik",
-      "sessionSeconds": 504,
-      "playTimeSeconds": 26720,
+      "sessionSeconds": 564,
+      "playTimeSeconds": 26780,
       "money": 145034,
       "gold": 40,
       "fame": 345,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198942084149",
       "name": "ZlayaBabka1989",
-      "sessionSeconds": 363,
-      "playTimeSeconds": 3417,
+      "sessionSeconds": 423,
+      "playTimeSeconds": 3477,
       "money": 6168,
       "gold": 5,
       "fame": 26,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561199020076791",
       "name": "Sleng",
-      "sessionSeconds": 250,
-      "playTimeSeconds": 24827,
+      "sessionSeconds": 310,
+      "playTimeSeconds": 24887,
       "money": 46696,
       "gold": 25,
       "fame": 202,
@@ -34,8 +34,8 @@
     {
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "sessionSeconds": 143,
-      "playTimeSeconds": 74179,
+      "sessionSeconds": 203,
+      "playTimeSeconds": 74239,
       "money": 140392,
       "gold": 102,
       "fame": 1180,
@@ -44,8 +44,8 @@
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 107,
-      "playTimeSeconds": 72003,
+      "sessionSeconds": 167,
+      "playTimeSeconds": 72063,
       "money": 150972,
       "gold": 25,
       "fame": 755,
@@ -54,13 +54,23 @@
     {
       "steamId": "76561198061663790",
       "name": "yloo",
-      "sessionSeconds": 64,
-      "playTimeSeconds": 47794,
+      "sessionSeconds": 124,
+      "playTimeSeconds": 47854,
       "money": 166290,
       "gold": 53,
       "fame": 1213,
       "rank": 18
+    },
+    {
+      "steamId": "76561198156375337",
+      "name": "Domo",
+      "sessionSeconds": 5,
+      "playTimeSeconds": 27156,
+      "money": 1031000,
+      "gold": 165,
+      "fame": 375,
+      "rank": 38
     }
   ],
-  "updated": "2026-10-03T10:19:41.371Z"
+  "updated": "2026-10-03T10:20:45.391Z"
 }
