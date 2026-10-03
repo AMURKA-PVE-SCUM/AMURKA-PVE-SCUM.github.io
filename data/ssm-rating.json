@@ -4,21 +4,21 @@
       "rank": 1,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 97280,
+      "playTimeSeconds": 97334,
       "money": 369815,
       "gold": 135,
       "fame": 1523,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 2,
       "steamId": "76561198054083179",
       "name": "Roksi",
-      "playTimeSeconds": 75437,
-      "money": 16327,
-      "gold": 106,
-      "fame": 1250,
-      "isOnline": true
+      "playTimeSeconds": 75491,
+      "money": 116327,
+      "gold": 107,
+      "fame": 1450,
+      "isOnline": false
     },
     {
       "rank": 3,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 71061,
+      "playTimeSeconds": 71115,
       "money": 99972,
       "gold": 20,
       "fame": 724,
@@ -42,6 +42,16 @@
     },
     {
       "rank": 5,
+      "steamId": "76561198814504955",
+      "name": "Venom",
+      "playTimeSeconds": 67478,
+      "money": 274909,
+      "gold": 91,
+      "fame": 1014,
+      "isOnline": false
+    },
+    {
+      "rank": 6,
       "steamId": "76561198775651698",
       "name": "Добряк",
       "playTimeSeconds": 67470,
@@ -49,16 +59,6 @@
       "gold": 30,
       "fame": 2474,
       "isOnline": false
-    },
-    {
-      "rank": 6,
-      "steamId": "76561198814504955",
-      "name": "Venom",
-      "playTimeSeconds": 67424,
-      "money": 274909,
-      "gold": 91,
-      "fame": 1014,
-      "isOnline": true
     },
     {
       "rank": 7,
@@ -94,11 +94,11 @@
       "rank": 10,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 54188,
+      "playTimeSeconds": 54242,
       "money": 8064,
       "gold": 75,
       "fame": 126,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 11,
@@ -108,7 +108,7 @@
       "money": 331969,
       "gold": 17,
       "fame": 800,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 12,
@@ -118,7 +118,7 @@
       "money": 276652,
       "gold": 57,
       "fame": 1300,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 13,
@@ -128,7 +128,7 @@
       "money": 51491,
       "gold": 88,
       "fame": 1343,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 14,
@@ -138,7 +138,7 @@
       "money": 182740,
       "gold": 67,
       "fame": 972,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 15,
@@ -158,7 +158,7 @@
       "money": 223864,
       "gold": 58,
       "fame": 1151,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 17,
@@ -188,18 +188,18 @@
       "money": 113139,
       "gold": 57,
       "fame": 1189,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 20,
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "playTimeSeconds": 40189,
+      "playTimeSeconds": 40243,
       "money": 58255,
       "gold": 70,
       "fame": 298,
-      "isOnline": true
+      "isOnline": false
     }
   ],
-  "updated": "2026-10-03T07:05:39.840Z"
+  "updated": "2026-10-03T07:06:39.842Z"
 }
