@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 102135,
+      "playTimeSeconds": 102195,
       "money": 369253,
       "gold": 140,
       "fame": 1537,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198054083179",
       "name": "Roksi",
-      "playTimeSeconds": 79643,
+      "playTimeSeconds": 79703,
       "money": 68927,
       "gold": 112,
       "fame": 1523,
@@ -32,6 +32,16 @@
     },
     {
       "rank": 4,
+      "steamId": "76561198814504955",
+      "name": "Venom",
+      "playTimeSeconds": 71842,
+      "money": 275095,
+      "gold": 96,
+      "fame": 1026,
+      "isOnline": true
+    },
+    {
+      "rank": 5,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
       "playTimeSeconds": 71838,
@@ -39,16 +49,6 @@
       "gold": 25,
       "fame": 755,
       "isOnline": false
-    },
-    {
-      "rank": 5,
-      "steamId": "76561198814504955",
-      "name": "Venom",
-      "playTimeSeconds": 71782,
-      "money": 275095,
-      "gold": 96,
-      "fame": 1026,
-      "isOnline": true
     },
     {
       "rank": 6,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 58418,
+      "playTimeSeconds": 58478,
       "money": 9064,
       "gold": 80,
       "fame": 139,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
-      "playTimeSeconds": 51729,
+      "playTimeSeconds": 51789,
       "money": 276652,
       "gold": 57,
       "fame": 1302,
@@ -144,7 +144,7 @@
       "rank": 15,
       "steamId": "76561198061663790",
       "name": "yloo",
-      "playTimeSeconds": 45546,
+      "playTimeSeconds": 45606,
       "money": 164990,
       "gold": 53,
       "fame": 1207,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "playTimeSeconds": 45095,
+      "playTimeSeconds": 45155,
       "money": 56618,
       "gold": 75,
       "fame": 312,
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "playTimeSeconds": 44918,
+      "playTimeSeconds": 44978,
       "money": 287723,
       "gold": 1051,
       "fame": 856,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-03T08:29:40.580Z"
+  "updated": "2026-10-03T08:30:40.583Z"
 }
