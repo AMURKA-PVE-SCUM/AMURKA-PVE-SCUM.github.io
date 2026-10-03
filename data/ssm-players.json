@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 7,
   "players": [
     {
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "sessionSeconds": 32309,
-      "playTimeSeconds": 99228,
+      "sessionSeconds": 32369,
+      "playTimeSeconds": 99288,
       "money": 330943,
       "gold": 127,
       "fame": 1286,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "sessionSeconds": 25963,
-      "playTimeSeconds": 124225,
+      "sessionSeconds": 26023,
+      "playTimeSeconds": 124285,
       "money": 423513,
       "gold": 170,
       "fame": 1616,
@@ -24,19 +24,29 @@
     {
       "steamId": "76561198054083179",
       "name": "Roksi",
-      "sessionSeconds": 7,
-      "playTimeSeconds": 100463,
+      "sessionSeconds": 6,
+      "playTimeSeconds": 100523,
       "money": 130801,
       "gold": 137,
       "fame": 1792,
       "rank": 3
     },
     {
+      "steamId": "76561198778752198",
+      "name": "Сёмыч",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 43,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "rank": 97
+    },
+    {
       "steamId": "76561199823596261",
       "name": "MИХА",
-      "sessionSeconds": 7,
-      "playTimeSeconds": 69457,
-      "money": 189754,
+      "sessionSeconds": 6,
+      "playTimeSeconds": 69517,
+      "money": 177754,
       "gold": 91,
       "fame": 684,
       "rank": 14
@@ -44,8 +54,8 @@
     {
       "steamId": "76561198028621423",
       "name": "Lesnik",
-      "sessionSeconds": 7,
-      "playTimeSeconds": 32261,
+      "sessionSeconds": 6,
+      "playTimeSeconds": 32321,
       "money": 127713,
       "gold": 45,
       "fame": 384,
@@ -54,13 +64,13 @@
     {
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "sessionSeconds": 7,
-      "playTimeSeconds": 48839,
+      "sessionSeconds": 6,
+      "playTimeSeconds": 48899,
       "money": 284806,
       "gold": 1056,
       "fame": 869,
       "rank": 28
     }
   ],
-  "updated": "2026-10-03T23:08:51.105Z"
+  "updated": "2026-10-03T23:09:51.112Z"
 }
