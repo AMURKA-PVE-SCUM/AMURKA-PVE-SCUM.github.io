@@ -1,5 +1,76 @@
 {
-  "online": 0,
-  "players": [],
-  "updated": "2026-10-03T13:45:47.012Z"
+  "online": 7,
+  "players": [
+    {
+      "steamId": "76561198061663790",
+      "name": "yloo",
+      "sessionSeconds": 26,
+      "playTimeSeconds": 57979,
+      "money": 182420,
+      "gold": 58,
+      "fame": 1304,
+      "rank": 11
+    },
+    {
+      "steamId": "76561198215398893",
+      "name": "Shmulkee",
+      "sessionSeconds": 26,
+      "playTimeSeconds": 49497,
+      "money": 121880,
+      "gold": 62,
+      "fame": 1406,
+      "rank": 20
+    },
+    {
+      "steamId": "76561198132364463",
+      "name": "AmbA",
+      "sessionSeconds": 19,
+      "playTimeSeconds": 67941,
+      "money": 270068,
+      "gold": 90,
+      "fame": 510,
+      "rank": 8
+    },
+    {
+      "steamId": "76561198802007304",
+      "name": "SEV",
+      "sessionSeconds": 12,
+      "playTimeSeconds": 30654,
+      "money": 103028,
+      "gold": 30,
+      "fame": 242,
+      "rank": 40
+    },
+    {
+      "steamId": "76561198831354124",
+      "name": "poosifer",
+      "sessionSeconds": 10,
+      "playTimeSeconds": 34507,
+      "money": 34127,
+      "gold": 40,
+      "fame": 150,
+      "rank": 35
+    },
+    {
+      "steamId": "76561199580351165",
+      "name": "ШРинат",
+      "sessionSeconds": 7,
+      "playTimeSeconds": 47146,
+      "money": 284806,
+      "gold": 1056,
+      "fame": 868,
+      "rank": 24
+    },
+    {
+      "steamId": "76561198077981589",
+      "name": "Чилим",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 57808,
+      "money": 103948,
+      "gold": 85,
+      "fame": 351,
+      "rank": 12
+    }
+  ],
+  "updated": "2026-10-03T13:46:47.014Z"
 }
