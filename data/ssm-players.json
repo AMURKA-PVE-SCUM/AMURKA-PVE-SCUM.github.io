@@ -1,11 +1,11 @@
 {
-  "online": 3,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198831354124",
       "name": "poosifer",
-      "sessionSeconds": 68080,
-      "playTimeSeconds": 73850,
+      "sessionSeconds": 68140,
+      "playTimeSeconds": 73910,
       "money": 139053,
       "gold": 25,
       "fame": 327,
@@ -14,23 +14,53 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 246,
-      "playTimeSeconds": 77392,
+      "sessionSeconds": 306,
+      "playTimeSeconds": 77452,
       "money": 12275,
       "gold": 100,
       "fame": 44,
       "rank": 14
     },
     {
+      "steamId": "76561198775651698",
+      "name": "Добряк",
+      "sessionSeconds": 20,
+      "playTimeSeconds": 103254,
+      "money": 1699471,
+      "gold": 79,
+      "fame": 4736,
+      "rank": 7
+    },
+    {
       "steamId": "76561198530159238",
       "name": "Andro",
       "sessionSeconds": 20,
-      "playTimeSeconds": 73701,
+      "playTimeSeconds": 73761,
       "money": 382805,
       "gold": 94,
       "fame": 1094,
       "rank": 19
+    },
+    {
+      "steamId": "76561198052403991",
+      "name": "Lis",
+      "sessionSeconds": 20,
+      "playTimeSeconds": 82143,
+      "money": 139771,
+      "gold": 105,
+      "fame": 894,
+      "rank": 11
+    },
+    {
+      "steamId": "76561198067720439",
+      "name": "Genih",
+      "sessionSeconds": 17,
+      "playTimeSeconds": 77975,
+      "money": 369176,
+      "gold": 67,
+      "fame": 1023,
+      "rank": 13
     }
   ],
-  "updated": "2026-10-04T09:02:55.746Z"
+  "updated": "2026-10-04T09:03:55.750Z"
 }
