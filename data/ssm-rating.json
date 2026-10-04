@@ -14,11 +14,11 @@
       "rank": 2,
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "playTimeSeconds": 130613,
+      "playTimeSeconds": 130665,
       "money": 519284,
       "gold": 173,
       "fame": 1760,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 3,
@@ -64,11 +64,11 @@
       "rank": 7,
       "steamId": "76561198814504955",
       "name": "Venom",
-      "playTimeSeconds": 96902,
+      "playTimeSeconds": 96954,
       "money": 316215,
       "gold": 134,
       "fame": 1482,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 8,
@@ -92,6 +92,16 @@
     },
     {
       "rank": 10,
+      "steamId": "76561198077981589",
+      "name": "Чилим",
+      "playTimeSeconds": 82097,
+      "money": 19499,
+      "gold": 120,
+      "fame": 461,
+      "isOnline": false
+    },
+    {
+      "rank": 11,
       "steamId": "76561198052403991",
       "name": "Lis",
       "playTimeSeconds": 82084,
@@ -101,30 +111,20 @@
       "isOnline": false
     },
     {
-      "rank": 11,
-      "steamId": "76561198077981589",
-      "name": "Чилим",
-      "playTimeSeconds": 82045,
-      "money": 19499,
-      "gold": 120,
-      "fame": 461,
-      "isOnline": true
-    },
-    {
       "rank": 12,
       "steamId": "76561198067720439",
       "name": "Genih",
-      "playTimeSeconds": 77906,
+      "playTimeSeconds": 77958,
       "money": 369176,
       "gold": 67,
       "fame": 1023,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 13,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 77332,
+      "playTimeSeconds": 77392,
       "money": 12275,
       "gold": 100,
       "fame": 44,
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561198831354124",
       "name": "poosifer",
-      "playTimeSeconds": 73796,
+      "playTimeSeconds": 73850,
       "money": 139053,
       "gold": 25,
       "fame": 327,
@@ -174,7 +174,7 @@
       "rank": 18,
       "steamId": "76561198530159238",
       "name": "Andro",
-      "playTimeSeconds": 73641,
+      "playTimeSeconds": 73701,
       "money": 382805,
       "gold": 94,
       "fame": 1094,
@@ -184,11 +184,11 @@
       "rank": 19,
       "steamId": "76561199446477479",
       "name": "brazeenhtein2",
-      "playTimeSeconds": 73434,
+      "playTimeSeconds": 73486,
       "money": 119487,
       "gold": 5,
       "fame": 877,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 20,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-04T09:01:55.747Z"
+  "updated": "2026-10-04T09:02:55.746Z"
 }
