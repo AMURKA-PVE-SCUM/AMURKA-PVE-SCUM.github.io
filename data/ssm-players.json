@@ -1,21 +1,61 @@
 {
-  "online": 6,
+  "online": 11,
   "players": [
     {
       "steamId": "76561198372320271",
       "name": "ADA",
-      "sessionSeconds": 93510,
-      "playTimeSeconds": 47108,
+      "sessionSeconds": 93570,
+      "playTimeSeconds": 47168,
       "money": 81638,
       "gold": 80,
       "fame": 385,
       "rank": 41
     },
     {
+      "steamId": "76561198071060590",
+      "name": "Black_Mamba",
+      "sessionSeconds": 89422,
+      "playTimeSeconds": 55196,
+      "money": 54132,
+      "gold": 85,
+      "fame": 353,
+      "rank": 36
+    },
+    {
+      "steamId": "76561198066957615",
+      "name": "Dr_Daddy",
+      "sessionSeconds": 8,
+      "playTimeSeconds": 1257,
+      "money": 1000,
+      "gold": 5,
+      "fame": 13,
+      "rank": 92
+    },
+    {
+      "steamId": "76561198802118396",
+      "name": "кинза",
+      "sessionSeconds": 8,
+      "playTimeSeconds": 14158,
+      "money": 1998,
+      "gold": 15,
+      "fame": 67,
+      "rank": 66
+    },
+    {
+      "steamId": "76561198382114262",
+      "name": "Montana",
+      "sessionSeconds": 8,
+      "playTimeSeconds": 44432,
+      "money": 440169,
+      "gold": 55,
+      "fame": 307,
+      "rank": 42
+    },
+    {
       "steamId": "76561199108312420",
       "name": "ＫＩＮＧ",
       "sessionSeconds": 8,
-      "playTimeSeconds": 1384,
+      "playTimeSeconds": 1444,
       "money": 0,
       "gold": 0,
       "fame": 103,
@@ -25,42 +65,52 @@
       "steamId": "76561198198157306",
       "name": "alekx838",
       "sessionSeconds": 8,
-      "playTimeSeconds": 71409,
+      "playTimeSeconds": 71469,
       "money": 189920,
       "gold": 50,
-      "fame": 76,
+      "fame": 77,
       "rank": 25
     },
     {
       "steamId": "76561199569191127",
       "name": "Mira",
       "sessionSeconds": 8,
-      "playTimeSeconds": 37291,
+      "playTimeSeconds": 37351,
       "money": 33098,
       "gold": 51,
       "fame": 390,
       "rank": 47
     },
     {
-      "steamId": "76561198382114262",
-      "name": "Montana",
-      "sessionSeconds": 1,
-      "playTimeSeconds": 44371,
-      "money": 440169,
-      "gold": 55,
-      "fame": 307,
-      "rank": 42
-    },
-    {
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 105719,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 105779,
       "money": 508526,
       "gold": 84,
       "fame": 2479,
       "rank": 10
+    },
+    {
+      "steamId": "76561199823596261",
+      "name": "MИХА",
+      "sessionSeconds": 8,
+      "playTimeSeconds": 99368,
+      "money": 215442,
+      "gold": 131,
+      "fame": 925,
+      "rank": 13
+    },
+    {
+      "steamId": "76561198530159238",
+      "name": "Andro",
+      "sessionSeconds": 8,
+      "playTimeSeconds": 87883,
+      "money": 404537,
+      "gold": 115,
+      "fame": 1406,
+      "rank": 20
     }
   ],
-  "updated": "2026-10-04T18:02:59.810Z"
+  "updated": "2026-10-04T18:03:59.813Z"
 }
