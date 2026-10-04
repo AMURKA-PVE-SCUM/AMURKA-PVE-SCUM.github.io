@@ -1,12 +1,22 @@
 {
-  "online": 6,
+  "online": 7,
   "players": [
+    {
+      "steamId": "76561198831354124",
+      "name": "poosifer",
+      "sessionSeconds": 41316,
+      "playTimeSeconds": 47528,
+      "money": 38127,
+      "gold": 60,
+      "fame": 214,
+      "rank": 32
+    },
     {
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "sessionSeconds": 41130,
-      "playTimeSeconds": 107994,
-      "money": 408231,
+      "sessionSeconds": 41190,
+      "playTimeSeconds": 108054,
+      "money": 435231,
       "gold": 138,
       "fame": 1443,
       "rank": 4
@@ -14,18 +24,18 @@
     {
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "sessionSeconds": 34784,
-      "playTimeSeconds": 132708,
+      "sessionSeconds": 34844,
+      "playTimeSeconds": 132768,
       "money": 485432,
       "gold": 175,
-      "fame": 2177,
+      "fame": 2178,
       "rank": 1
     },
     {
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "sessionSeconds": 25,
-      "playTimeSeconds": 40031,
+      "playTimeSeconds": 40091,
       "money": 233083,
       "gold": 55,
       "fame": 486,
@@ -35,7 +45,7 @@
       "steamId": "76561199580351165",
       "name": "ШРинат",
       "sessionSeconds": 25,
-      "playTimeSeconds": 56658,
+      "playTimeSeconds": 56718,
       "money": 205345,
       "gold": 1191,
       "fame": 915,
@@ -45,22 +55,22 @@
       "steamId": "76561198869337858",
       "name": "Shelby",
       "sessionSeconds": 25,
-      "playTimeSeconds": 59731,
+      "playTimeSeconds": 59791,
       "money": 68352,
       "gold": 81,
-      "fame": 686,
+      "fame": 687,
       "rank": 19
     },
     {
       "steamId": "76561197991701874",
       "name": "Baloo",
       "sessionSeconds": 25,
-      "playTimeSeconds": 50048,
+      "playTimeSeconds": 50108,
       "money": 169300,
       "gold": 67,
-      "fame": 972,
+      "fame": 973,
       "rank": 29
     }
   ],
-  "updated": "2026-10-04T01:35:52.209Z"
+  "updated": "2026-10-04T01:36:52.222Z"
 }
