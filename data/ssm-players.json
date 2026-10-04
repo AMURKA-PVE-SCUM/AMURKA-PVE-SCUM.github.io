@@ -1,21 +1,31 @@
 {
-  "online": 12,
+  "online": 15,
   "players": [
     {
       "steamId": "76561198831354124",
       "name": "poosifer",
-      "sessionSeconds": 68200,
-      "playTimeSeconds": 73970,
+      "sessionSeconds": 68260,
+      "playTimeSeconds": 74030,
       "money": 139053,
       "gold": 25,
       "fame": 327,
       "rank": 18
     },
     {
+      "steamId": "76561198041539804",
+      "name": "Ded_13",
+      "sessionSeconds": 68134,
+      "playTimeSeconds": 130694,
+      "money": 519284,
+      "gold": 173,
+      "fame": 1760,
+      "rank": 2
+    },
+    {
       "steamId": "76561199446477479",
       "name": "brazeenhtein2",
-      "sessionSeconds": 58993,
-      "playTimeSeconds": 73527,
+      "sessionSeconds": 59053,
+      "playTimeSeconds": 73587,
       "money": 119487,
       "gold": 5,
       "fame": 877,
@@ -24,28 +34,58 @@
     {
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "sessionSeconds": 2704,
-      "playTimeSeconds": 82114,
+      "sessionSeconds": 2764,
+      "playTimeSeconds": 82174,
       "money": 19499,
       "gold": 120,
       "fame": 461,
       "rank": 12
     },
     {
+      "steamId": "76561198337531947",
+      "name": "brantozavr_voin2",
+      "sessionSeconds": 1509,
+      "playTimeSeconds": 23486,
+      "money": 14288,
+      "gold": 30,
+      "fame": 95,
+      "rank": 53
+    },
+    {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 366,
-      "playTimeSeconds": 77512,
+      "sessionSeconds": 426,
+      "playTimeSeconds": 77572,
       "money": 12275,
       "gold": 100,
-      "fame": 44,
+      "fame": 45,
       "rank": 14
+    },
+    {
+      "steamId": "76561198801669134",
+      "name": "Flex",
+      "sessionSeconds": 360,
+      "playTimeSeconds": 246,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "rank": 94
+    },
+    {
+      "steamId": "76561198139995845",
+      "name": "SeverGorod",
+      "sessionSeconds": 20,
+      "playTimeSeconds": 158446,
+      "money": 541379,
+      "gold": 210,
+      "fame": 2290,
+      "rank": 1
     },
     {
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
       "sessionSeconds": 20,
-      "playTimeSeconds": 38819,
+      "playTimeSeconds": 38879,
       "money": 66299,
       "gold": 50,
       "fame": 370,
@@ -55,27 +95,17 @@
       "steamId": "76561198802007304",
       "name": "SEV",
       "sessionSeconds": 20,
-      "playTimeSeconds": 65354,
+      "playTimeSeconds": 65414,
       "money": 121198,
       "gold": 80,
       "fame": 395,
       "rank": 25
     },
     {
-      "steamId": "76561198171528471",
-      "name": "pokalenie_pepsi",
-      "sessionSeconds": 20,
-      "playTimeSeconds": 66249,
-      "money": 92063,
-      "gold": 44,
-      "fame": 1067,
-      "rank": 24
-    },
-    {
       "steamId": "76561198067720439",
       "name": "Genih",
       "sessionSeconds": 20,
-      "playTimeSeconds": 78035,
+      "playTimeSeconds": 78095,
       "money": 369176,
       "gold": 67,
       "fame": 1023,
@@ -85,7 +115,7 @@
       "steamId": "76561198775651698",
       "name": "Добряк",
       "sessionSeconds": 20,
-      "playTimeSeconds": 103314,
+      "playTimeSeconds": 103374,
       "money": 1699471,
       "gold": 79,
       "fame": 4736,
@@ -95,7 +125,7 @@
       "steamId": "76561198530159238",
       "name": "Andro",
       "sessionSeconds": 20,
-      "playTimeSeconds": 73821,
+      "playTimeSeconds": 73881,
       "money": 382805,
       "gold": 94,
       "fame": 1094,
@@ -105,22 +135,22 @@
       "steamId": "76561198052403991",
       "name": "Lis",
       "sessionSeconds": 20,
-      "playTimeSeconds": 82203,
+      "playTimeSeconds": 82263,
       "money": 139771,
       "gold": 105,
       "fame": 894,
       "rank": 11
     },
     {
-      "steamId": "76561198139995845",
-      "name": "SeverGorod",
-      "sessionSeconds": 4,
-      "playTimeSeconds": 158386,
-      "money": 541379,
-      "gold": 210,
-      "fame": 2290,
-      "rank": 1
+      "steamId": "76561199020076791",
+      "name": "Sleng",
+      "sessionSeconds": 20,
+      "playTimeSeconds": 51592,
+      "money": 127220,
+      "gold": 55,
+      "fame": 543,
+      "rank": 33
     }
   ],
-  "updated": "2026-10-04T09:04:55.763Z"
+  "updated": "2026-10-04T09:05:55.773Z"
 }
