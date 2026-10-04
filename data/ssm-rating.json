@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 143840,
+      "playTimeSeconds": 143900,
       "money": 488432,
       "gold": 190,
       "fame": 2216,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "playTimeSeconds": 119539,
+      "playTimeSeconds": 119599,
       "money": 512431,
       "gold": 153,
       "fame": 1544,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 96535,
+      "playTimeSeconds": 96595,
       "money": 118788,
       "gold": 51,
       "fame": 1078,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198132364463",
       "name": "AmbA",
-      "playTimeSeconds": 91670,
+      "playTimeSeconds": 91730,
       "money": 483763,
       "gold": 20,
       "fame": 678,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198814504955",
       "name": "Venom",
-      "playTimeSeconds": 82092,
+      "playTimeSeconds": 82152,
       "money": 307075,
       "gold": 112,
       "fame": 1197,
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "playTimeSeconds": 72165,
+      "playTimeSeconds": 72225,
       "money": 19114,
       "gold": 105,
       "fame": 423,
@@ -134,8 +134,8 @@
       "rank": 14,
       "steamId": "76561198052403991",
       "name": "Lis",
-      "playTimeSeconds": 67716,
-      "money": 143743,
+      "playTimeSeconds": 67776,
+      "money": 140143,
       "gold": 85,
       "fame": 837,
       "isOnline": true
@@ -162,6 +162,16 @@
     },
     {
       "rank": 17,
+      "steamId": "76561199684926739",
+      "name": "Skeleton",
+      "playTimeSeconds": 62161,
+      "money": 81343,
+      "gold": 80,
+      "fame": 1335,
+      "isOnline": true
+    },
+    {
+      "rank": 18,
       "steamId": "76561198215398893",
       "name": "Shmulkee",
       "playTimeSeconds": 62160,
@@ -169,16 +179,6 @@
       "gold": 78,
       "fame": 1706,
       "isOnline": false
-    },
-    {
-      "rank": 18,
-      "steamId": "76561199684926739",
-      "name": "Skeleton",
-      "playTimeSeconds": 62101,
-      "money": 81343,
-      "gold": 80,
-      "fame": 1335,
-      "isOnline": true
     },
     {
       "rank": 19,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-04T04:48:53.738Z"
+  "updated": "2026-10-04T04:49:53.746Z"
 }
