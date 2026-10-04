@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198831354124",
       "name": "poosifer",
-      "sessionSeconds": 57339,
-      "playTimeSeconds": 63157,
+      "sessionSeconds": 57399,
+      "playTimeSeconds": 63217,
       "money": 87153,
       "gold": 80,
       "fame": 278,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "sessionSeconds": 57212,
-      "playTimeSeconds": 123773,
+      "sessionSeconds": 57272,
+      "playTimeSeconds": 123833,
       "money": 515931,
       "gold": 163,
       "fame": 1673,
@@ -24,18 +24,28 @@
     {
       "steamId": "76561199446477479",
       "name": "brazeenhtein2",
-      "sessionSeconds": 48132,
-      "playTimeSeconds": 63258,
+      "sessionSeconds": 48192,
+      "playTimeSeconds": 63318,
       "money": 14489,
       "gold": 39,
       "fame": 768,
       "rank": 20
     },
     {
+      "steamId": "76561199404896383",
+      "name": "Victor_Vilkouskas",
+      "sessionSeconds": 48146,
+      "playTimeSeconds": 101000,
+      "money": 119788,
+      "gold": 56,
+      "fame": 1094,
+      "rank": 5
+    },
+    {
       "steamId": "76561198179021974",
       "name": "ПОТАСКУШКА",
-      "sessionSeconds": 46483,
-      "playTimeSeconds": 20588,
+      "sessionSeconds": 46543,
+      "playTimeSeconds": 20648,
       "money": 107983,
       "gold": 5,
       "fame": 116,
@@ -44,8 +54,8 @@
     {
       "steamId": "76561198257833454",
       "name": "KJIU3MA",
-      "sessionSeconds": 4,
-      "playTimeSeconds": 58093,
+      "sessionSeconds": 5,
+      "playTimeSeconds": 58153,
       "money": 203717,
       "gold": 75,
       "fame": 965,
@@ -54,13 +64,23 @@
     {
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "sessionSeconds": 4,
-      "playTimeSeconds": 148119,
+      "sessionSeconds": 5,
+      "playTimeSeconds": 148179,
       "money": 489432,
       "gold": 195,
       "fame": 2231,
       "rank": 1
+    },
+    {
+      "steamId": "76561198802007304",
+      "name": "SEV",
+      "sessionSeconds": 5,
+      "playTimeSeconds": 54643,
+      "money": 130248,
+      "gold": 65,
+      "fame": 340,
+      "rank": 30
     }
   ],
-  "updated": "2026-10-04T06:03:54.348Z"
+  "updated": "2026-10-04T06:04:54.356Z"
 }
