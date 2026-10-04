@@ -1,21 +1,31 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198372320271",
       "name": "ADA",
-      "sessionSeconds": 108218,
-      "playTimeSeconds": 61622,
+      "sessionSeconds": 108278,
+      "playTimeSeconds": 61682,
       "money": 112768,
       "gold": 100,
-      "fame": 507,
+      "fame": 508,
       "rank": 34
+    },
+    {
+      "steamId": "76561198814504955",
+      "name": "Venom",
+      "sessionSeconds": 48421,
+      "playTimeSeconds": 120208,
+      "money": 331701,
+      "gold": 164,
+      "fame": 1611,
+      "rank": 8
     },
     {
       "steamId": "76561199823596261",
       "name": "MИХА",
-      "sessionSeconds": 20,
-      "playTimeSeconds": 113563,
+      "sessionSeconds": 19,
+      "playTimeSeconds": 113623,
       "money": 215046,
       "gold": 151,
       "fame": 988,
@@ -24,8 +34,8 @@
     {
       "steamId": "76561199189470290",
       "name": "Konffetka",
-      "sessionSeconds": 20,
-      "playTimeSeconds": 67534,
+      "sessionSeconds": 19,
+      "playTimeSeconds": 67594,
       "money": 81411,
       "gold": 118,
       "fame": 1688,
@@ -34,8 +44,8 @@
     {
       "steamId": "76561198054083179",
       "name": "Roksi",
-      "sessionSeconds": 20,
-      "playTimeSeconds": 126667,
+      "sessionSeconds": 19,
+      "playTimeSeconds": 126727,
       "money": 487081,
       "gold": 175,
       "fame": 2568,
@@ -44,8 +54,8 @@
     {
       "steamId": "76561198775651698",
       "name": "Добряк",
-      "sessionSeconds": 20,
-      "playTimeSeconds": 125732,
+      "sessionSeconds": 19,
+      "playTimeSeconds": 125792,
       "money": 2165916,
       "gold": 110,
       "fame": 5928,
@@ -54,8 +64,8 @@
     {
       "steamId": "76561198067720439",
       "name": "Genih",
-      "sessionSeconds": 20,
-      "playTimeSeconds": 96600,
+      "sessionSeconds": 19,
+      "playTimeSeconds": 96660,
       "money": 401845,
       "gold": 92,
       "fame": 1156,
@@ -64,13 +74,13 @@
     {
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "sessionSeconds": 20,
-      "playTimeSeconds": 182136,
+      "sessionSeconds": 19,
+      "playTimeSeconds": 182196,
       "money": 542791,
       "gold": 245,
       "fame": 2384,
       "rank": 1
     }
   ],
-  "updated": "2026-10-04T22:08:07.116Z"
+  "updated": "2026-10-04T22:09:07.125Z"
 }
