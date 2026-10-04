@@ -1,21 +1,31 @@
 {
-  "online": 7,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198121549932",
       "name": "Prostyak",
-      "sessionSeconds": 83149,
-      "playTimeSeconds": 43515,
+      "sessionSeconds": 83209,
+      "playTimeSeconds": 43575,
       "money": 821093,
       "gold": 65,
       "fame": 1647,
       "rank": 39
     },
     {
+      "steamId": "76561198071060590",
+      "name": "Black_Mamba",
+      "sessionSeconds": 78741,
+      "playTimeSeconds": 44539,
+      "money": 118958,
+      "gold": 70,
+      "fame": 361,
+      "rank": 38
+    },
+    {
       "steamId": "76561198140281063",
       "name": "NetrezvbIi_Kot",
-      "sessionSeconds": 78297,
-      "playTimeSeconds": 62654,
+      "sessionSeconds": 78357,
+      "playTimeSeconds": 62714,
       "money": 139825,
       "gold": 76,
       "fame": 540,
@@ -24,8 +34,8 @@
     {
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "sessionSeconds": 23052,
-      "playTimeSeconds": 44761,
+      "sessionSeconds": 23112,
+      "playTimeSeconds": 44821,
       "money": 20288,
       "gold": 60,
       "fame": 180,
@@ -35,7 +45,7 @@
       "steamId": "76561198530159238",
       "name": "Andro",
       "sessionSeconds": 22,
-      "playTimeSeconds": 79818,
+      "playTimeSeconds": 79878,
       "money": 386005,
       "gold": 104,
       "fame": 1136,
@@ -45,7 +55,7 @@
       "steamId": "76561199684926739",
       "name": "Skeleton",
       "sessionSeconds": 22,
-      "playTimeSeconds": 96388,
+      "playTimeSeconds": 96448,
       "money": 46741,
       "gold": 207,
       "fame": 1704,
@@ -55,8 +65,8 @@
       "steamId": "76561199580351165",
       "name": "ШРинат",
       "sessionSeconds": 22,
-      "playTimeSeconds": 90926,
-      "money": 502896,
+      "playTimeSeconds": 90986,
+      "money": 565443,
       "gold": 1051,
       "fame": 1151,
       "rank": 16
@@ -65,12 +75,22 @@
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 22,
-      "playTimeSeconds": 144694,
+      "playTimeSeconds": 144754,
       "money": 168215,
       "gold": 185,
       "fame": 924,
       "rank": 3
+    },
+    {
+      "steamId": "76561199569191127",
+      "name": "Mira",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 26685,
+      "money": 28598,
+      "gold": 36,
+      "fame": 339,
+      "rank": 53
     }
   ],
-  "updated": "2026-10-04T15:04:58.473Z"
+  "updated": "2026-10-04T15:05:58.486Z"
 }
