@@ -1,26 +1,66 @@
 {
-  "online": 2,
+  "online": 6,
   "players": [
+    {
+      "steamId": "76561198121549932",
+      "name": "Prostyak",
+      "sessionSeconds": 83089,
+      "playTimeSeconds": 43455,
+      "money": 821093,
+      "gold": 65,
+      "fame": 1547,
+      "rank": 39
+    },
+    {
+      "steamId": "76561198140281063",
+      "name": "NetrezvbIi_Kot",
+      "sessionSeconds": 78237,
+      "playTimeSeconds": 62594,
+      "money": 139825,
+      "gold": 76,
+      "fame": 540,
+      "rank": 28
+    },
+    {
+      "steamId": "76561199580351165",
+      "name": "ШРинат",
+      "sessionSeconds": 22,
+      "playTimeSeconds": 90866,
+      "money": 502896,
+      "gold": 1051,
+      "fame": 1151,
+      "rank": 16
+    },
+    {
+      "steamId": "76561198802118396",
+      "name": "кинза",
+      "sessionSeconds": 22,
+      "playTimeSeconds": 3540,
+      "money": 0,
+      "gold": 0,
+      "fame": 7,
+      "rank": 80
+    },
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 22,
-      "playTimeSeconds": 144574,
+      "playTimeSeconds": 144634,
       "money": 168215,
       "gold": 185,
       "fame": 924,
       "rank": 3
     },
     {
-      "steamId": "76561198802118396",
-      "name": "кинза",
-      "sessionSeconds": 11,
-      "playTimeSeconds": 3480,
-      "money": 0,
-      "gold": 0,
-      "fame": 7,
-      "rank": 80
+      "steamId": "76561199684926739",
+      "name": "Skeleton",
+      "sessionSeconds": 16,
+      "playTimeSeconds": 96328,
+      "money": 46741,
+      "gold": 207,
+      "fame": 1704,
+      "rank": 12
     }
   ],
-  "updated": "2026-10-04T15:02:58.451Z"
+  "updated": "2026-10-04T15:03:58.460Z"
 }
