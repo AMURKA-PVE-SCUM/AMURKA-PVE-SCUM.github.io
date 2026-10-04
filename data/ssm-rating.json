@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198814504955",
       "name": "Venom",
-      "playTimeSeconds": 116410,
+      "playTimeSeconds": 116470,
       "money": 330701,
       "gold": 159,
       "fame": 1598,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "playTimeSeconds": 104118,
+      "playTimeSeconds": 104178,
       "money": 22651,
       "gold": 135,
       "fame": 443,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "playTimeSeconds": 102812,
+      "playTimeSeconds": 102872,
       "money": 21818,
       "gold": 150,
       "fame": 538,
@@ -102,6 +102,16 @@
     },
     {
       "rank": 11,
+      "steamId": "76561199684926739",
+      "name": "Skeleton",
+      "playTimeSeconds": 95992,
+      "money": 43341,
+      "gold": 207,
+      "fame": 1678,
+      "isOnline": true
+    },
+    {
+      "rank": 12,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "playTimeSeconds": 95934,
@@ -109,16 +119,6 @@
       "gold": 125,
       "fame": 114,
       "isOnline": false
-    },
-    {
-      "rank": 12,
-      "steamId": "76561199684926739",
-      "name": "Skeleton",
-      "playTimeSeconds": 95932,
-      "money": 42341,
-      "gold": 202,
-      "fame": 1668,
-      "isOnline": true
     },
     {
       "rank": 13,
@@ -144,7 +144,7 @@
       "rank": 15,
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "playTimeSeconds": 90449,
+      "playTimeSeconds": 90509,
       "money": 502896,
       "gold": 1051,
       "fame": 1150,
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561199823596261",
       "name": "MИХА",
-      "playTimeSeconds": 88281,
+      "playTimeSeconds": 88341,
       "money": 215999,
       "gold": 116,
       "fame": 882,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-04T14:52:58.353Z"
+  "updated": "2026-10-04T14:53:58.368Z"
 }
