@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "playTimeSeconds": 124092,
+      "playTimeSeconds": 124152,
       "money": 88080,
       "gold": 136,
       "fame": 661,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198775651698",
       "name": "Добряк",
-      "playTimeSeconds": 122915,
+      "playTimeSeconds": 122975,
       "money": 2096066,
       "gold": 110,
       "fame": 5637,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
-      "playTimeSeconds": 117229,
+      "playTimeSeconds": 117289,
       "money": 444829,
       "gold": 99,
       "fame": 2785,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561199823596261",
       "name": "MИХА",
-      "playTimeSeconds": 110746,
+      "playTimeSeconds": 110806,
       "money": 214046,
       "gold": 146,
       "fame": 976,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198530159238",
       "name": "Andro",
-      "playTimeSeconds": 99370,
+      "playTimeSeconds": 99430,
       "money": 462611,
       "gold": 131,
       "fame": 1737,
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561198067720439",
+      "name": "Genih",
+      "playTimeSeconds": 93843,
+      "money": 398304,
+      "gold": 87,
+      "fame": 1123,
+      "isOnline": true
+    },
+    {
+      "rank": 16,
       "steamId": "76561198831354124",
       "name": "poosifer",
       "playTimeSeconds": 93840,
@@ -149,16 +159,6 @@
       "gold": 56,
       "fame": 615,
       "isOnline": false
-    },
-    {
-      "rank": 16,
-      "steamId": "76561198067720439",
-      "name": "Genih",
-      "playTimeSeconds": 93783,
-      "money": 398304,
-      "gold": 87,
-      "fame": 1123,
-      "isOnline": true
     },
     {
       "rank": 17,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-04T21:21:06.793Z"
+  "updated": "2026-10-04T21:22:06.807Z"
 }
