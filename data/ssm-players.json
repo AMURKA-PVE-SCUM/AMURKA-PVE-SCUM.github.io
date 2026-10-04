@@ -1,26 +1,66 @@
 {
-  "online": 2,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198775651698",
       "name": "Добряк",
-      "sessionSeconds": 17,
-      "playTimeSeconds": 121837,
+      "sessionSeconds": 25,
+      "playTimeSeconds": 121897,
       "money": 2075071,
       "gold": 105,
       "fame": 5621,
       "rank": 7
     },
     {
+      "steamId": "76561199807377476",
+      "name": "Director",
+      "sessionSeconds": 25,
+      "playTimeSeconds": 60322,
+      "money": 639494,
+      "gold": 160,
+      "fame": 725,
+      "rank": 33
+    },
+    {
+      "steamId": "76561198530159238",
+      "name": "Andro",
+      "sessionSeconds": 25,
+      "playTimeSeconds": 98352,
+      "money": 452611,
+      "gold": 131,
+      "fame": 1726,
+      "rank": 14
+    },
+    {
       "steamId": "76561198029476275",
       "name": "XEH",
-      "sessionSeconds": 3,
-      "playTimeSeconds": 45206,
+      "sessionSeconds": 25,
+      "playTimeSeconds": 45266,
       "money": 34235,
       "gold": 60,
       "fame": 372,
       "rank": 44
+    },
+    {
+      "steamId": "76561198794536026",
+      "name": "Ayanakoji",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 123074,
+      "money": 102580,
+      "gold": 135,
+      "fame": 560,
+      "rank": 6
+    },
+    {
+      "steamId": "76561199189470290",
+      "name": "Konffetka",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 65061,
+      "money": 80411,
+      "gold": 113,
+      "fame": 1677,
+      "rank": 29
     }
   ],
-  "updated": "2026-10-04T21:03:06.641Z"
+  "updated": "2026-10-04T21:04:06.651Z"
 }
