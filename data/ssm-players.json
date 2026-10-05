@@ -1,21 +1,21 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "sessionSeconds": 125866,
-      "playTimeSeconds": 156007,
+      "sessionSeconds": 125926,
+      "playTimeSeconds": 156067,
       "money": 697619,
       "gold": 213,
-      "fame": 1883,
+      "fame": 1884,
       "rank": 3
     },
     {
       "steamId": "76561198121549932",
       "name": "Prostyak",
-      "sessionSeconds": 119339,
-      "playTimeSeconds": 56706,
+      "sessionSeconds": 119399,
+      "playTimeSeconds": 56766,
       "money": 1020169,
       "gold": 85,
       "fame": 1948,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198814504955",
       "name": "Venom",
-      "sessionSeconds": 59163,
-      "playTimeSeconds": 130682,
+      "sessionSeconds": 59223,
+      "playTimeSeconds": 130742,
       "money": 470501,
       "gold": 180,
       "fame": 1977,
@@ -35,7 +35,7 @@
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 5,
-      "playTimeSeconds": 192582,
+      "playTimeSeconds": 192642,
       "money": 616451,
       "gold": 260,
       "fame": 2460,
@@ -45,7 +45,7 @@
       "steamId": "76561198869337858",
       "name": "Shelby",
       "sessionSeconds": 5,
-      "playTimeSeconds": 74793,
+      "playTimeSeconds": 74853,
       "money": 58852,
       "gold": 101,
       "fame": 754,
@@ -55,7 +55,7 @@
       "steamId": "76561199823596261",
       "name": "MИХА",
       "sessionSeconds": 5,
-      "playTimeSeconds": 124326,
+      "playTimeSeconds": 124386,
       "money": 221206,
       "gold": 166,
       "fame": 1143,
@@ -65,22 +65,32 @@
       "steamId": "76561199580351165",
       "name": "ШРинат",
       "sessionSeconds": 5,
-      "playTimeSeconds": 100792,
-      "money": 1048992,
+      "playTimeSeconds": 100852,
+      "money": 1050992,
       "gold": 1111,
-      "fame": 1222,
+      "fame": 1232,
       "rank": 14
     },
     {
       "steamId": "76561198054083179",
       "name": "Roksi",
       "sessionSeconds": 5,
-      "playTimeSeconds": 137210,
+      "playTimeSeconds": 137270,
       "money": 561597,
       "gold": 190,
       "fame": 2827,
       "rank": 4
+    },
+    {
+      "steamId": "76561198118646763",
+      "name": "Jane Doe",
+      "sessionSeconds": 5,
+      "playTimeSeconds": 16974,
+      "money": 15560,
+      "gold": 20,
+      "fame": 66,
+      "rank": 65
     }
   ],
-  "updated": "2026-10-05T01:08:08.479Z"
+  "updated": "2026-10-05T01:09:08.493Z"
 }
