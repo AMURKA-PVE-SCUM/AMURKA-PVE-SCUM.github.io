@@ -1,21 +1,31 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
+    {
+      "steamId": "76561198831354124",
+      "name": "poosifer",
+      "sessionSeconds": 144715,
+      "playTimeSeconds": 93983,
+      "money": 195053,
+      "gold": 56,
+      "fame": 615,
+      "rank": 19
+    },
     {
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "sessionSeconds": 144529,
-      "playTimeSeconds": 172651,
+      "sessionSeconds": 144589,
+      "playTimeSeconds": 172711,
       "money": 686240,
       "gold": 233,
-      "fame": 1946,
+      "fame": 1947,
       "rank": 2
     },
     {
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "sessionSeconds": 77904,
-      "playTimeSeconds": 52751,
+      "sessionSeconds": 77964,
+      "playTimeSeconds": 52811,
       "money": 34316,
       "gold": 70,
       "fame": 217,
@@ -24,8 +34,8 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 76821,
-      "playTimeSeconds": 97919,
+      "sessionSeconds": 76881,
+      "playTimeSeconds": 97979,
       "money": 84288,
       "gold": 130,
       "fame": 126,
@@ -35,8 +45,8 @@
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 10,
-      "playTimeSeconds": 166928,
-      "money": 281846,
+      "playTimeSeconds": 166988,
+      "money": 279214,
       "gold": 220,
       "fame": 1043,
       "rank": 3
@@ -45,7 +55,7 @@
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 10,
-      "playTimeSeconds": 210141,
+      "playTimeSeconds": 210201,
       "money": 620451,
       "gold": 280,
       "fame": 2515,
@@ -55,17 +65,17 @@
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
       "sessionSeconds": 10,
-      "playTimeSeconds": 137712,
+      "playTimeSeconds": 137772,
       "money": 333389,
       "gold": 107,
-      "fame": 1583,
+      "fame": 1584,
       "rank": 5
     },
     {
       "steamId": "76561199580351165",
       "name": "ШРинат",
       "sessionSeconds": 10,
-      "playTimeSeconds": 111889,
+      "playTimeSeconds": 111949,
       "money": 1378214,
       "gold": 1126,
       "fame": 1285,
@@ -75,12 +85,12 @@
       "steamId": "76561198132364463",
       "name": "AmbA",
       "sessionSeconds": 10,
-      "playTimeSeconds": 109984,
+      "playTimeSeconds": 110044,
       "money": 438763,
       "gold": 115,
       "fame": 750,
       "rank": 13
     }
   ],
-  "updated": "2026-10-05T06:19:10.730Z"
+  "updated": "2026-10-05T06:20:10.745Z"
 }
