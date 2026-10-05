@@ -1,21 +1,31 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
+    {
+      "steamId": "76561198041539804",
+      "name": "Ded_13",
+      "sessionSeconds": 141468,
+      "playTimeSeconds": 169687,
+      "money": 685240,
+      "gold": 228,
+      "fame": 1934,
+      "rank": 2
+    },
     {
       "steamId": "76561198121549932",
       "name": "Prostyak",
-      "sessionSeconds": 134881,
-      "playTimeSeconds": 70815,
-      "money": 1492858,
+      "sessionSeconds": 134941,
+      "playTimeSeconds": 70875,
+      "money": 1493358,
       "gold": 105,
-      "fame": 2403,
+      "fame": 2408,
       "rank": 29
     },
     {
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "sessionSeconds": 76039,
-      "playTimeSeconds": 111377,
+      "sessionSeconds": 76099,
+      "playTimeSeconds": 111437,
       "money": 6492,
       "gold": 60,
       "fame": 567,
@@ -24,8 +34,8 @@
     {
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "sessionSeconds": 74784,
-      "playTimeSeconds": 49909,
+      "sessionSeconds": 74844,
+      "playTimeSeconds": 49969,
       "money": 31816,
       "gold": 65,
       "fame": 194,
@@ -35,7 +45,7 @@
       "steamId": "76561198802118396",
       "name": "кинза",
       "sessionSeconds": 15,
-      "playTimeSeconds": 23922,
+      "playTimeSeconds": 23982,
       "money": 9134,
       "gold": 30,
       "fame": 111,
@@ -45,7 +55,7 @@
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 15,
-      "playTimeSeconds": 208102,
+      "playTimeSeconds": 208162,
       "money": 620451,
       "gold": 280,
       "fame": 2514,
@@ -55,22 +65,22 @@
       "steamId": "76561198029476275",
       "name": "XEH",
       "sessionSeconds": 15,
-      "playTimeSeconds": 52700,
-      "money": 68164,
+      "playTimeSeconds": 52760,
+      "money": 70164,
       "gold": 70,
-      "fame": 461,
+      "fame": 471,
       "rank": 40
     },
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
       "sessionSeconds": 15,
-      "playTimeSeconds": 135709,
+      "playTimeSeconds": 135769,
       "money": 333389,
       "gold": 107,
-      "fame": 1581,
+      "fame": 1582,
       "rank": 6
     }
   ],
-  "updated": "2026-10-05T05:27:10.328Z"
+  "updated": "2026-10-05T05:28:10.333Z"
 }
