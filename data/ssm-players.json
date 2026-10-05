@@ -1,5 +1,36 @@
 {
-  "online": 0,
-  "players": [],
-  "updated": "2026-10-05T14:27:14.170Z"
+  "online": 3,
+  "players": [
+    {
+      "steamId": "76561199486830797",
+      "name": "yuriiermolenko861",
+      "sessionSeconds": 1,
+      "playTimeSeconds": 135588,
+      "money": 449829,
+      "gold": 124,
+      "fame": 2870,
+      "rank": 8
+    },
+    {
+      "steamId": "76561199684926739",
+      "name": "Skeleton",
+      "sessionSeconds": 1,
+      "playTimeSeconds": 109698,
+      "money": 96127,
+      "gold": 122,
+      "fame": 2099,
+      "rank": 16
+    },
+    {
+      "steamId": "76561198869337858",
+      "name": "Shelby",
+      "sessionSeconds": 1,
+      "playTimeSeconds": 91941,
+      "money": 63958,
+      "gold": 126,
+      "fame": 875,
+      "rank": 25
+    }
+  ],
+  "updated": "2026-10-05T14:28:14.180Z"
 }
