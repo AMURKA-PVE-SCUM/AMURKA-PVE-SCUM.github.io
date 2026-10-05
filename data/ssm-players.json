@@ -1,21 +1,21 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "sessionSeconds": 139068,
-      "playTimeSeconds": 169190,
+      "sessionSeconds": 139128,
+      "playTimeSeconds": 169250,
       "money": 685240,
       "gold": 228,
-      "fame": 1933,
+      "fame": 1934,
       "rank": 2
     },
     {
       "steamId": "76561198121549932",
       "name": "Prostyak",
-      "sessionSeconds": 132541,
-      "playTimeSeconds": 68478,
+      "sessionSeconds": 132601,
+      "playTimeSeconds": 68538,
       "money": 1235819,
       "gold": 100,
       "fame": 2246,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "sessionSeconds": 73698,
-      "playTimeSeconds": 109040,
+      "sessionSeconds": 73758,
+      "playTimeSeconds": 109100,
       "money": 0,
       "gold": 160,
       "fame": 564,
@@ -35,7 +35,7 @@
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 17,
-      "playTimeSeconds": 205765,
+      "playTimeSeconds": 205825,
       "money": 619451,
       "gold": 275,
       "fame": 2502,
@@ -45,7 +45,7 @@
       "steamId": "76561199172411637",
       "name": "MAGISTR",
       "sessionSeconds": 17,
-      "playTimeSeconds": 2858,
+      "playTimeSeconds": 2918,
       "money": 0,
       "gold": 0,
       "fame": 105,
@@ -55,7 +55,7 @@
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
       "sessionSeconds": 17,
-      "playTimeSeconds": 133372,
+      "playTimeSeconds": 133432,
       "money": 332389,
       "gold": 102,
       "fame": 1568,
@@ -65,12 +65,22 @@
       "steamId": "76561198052403991",
       "name": "Lis",
       "sessionSeconds": 17,
-      "playTimeSeconds": 99643,
+      "playTimeSeconds": 99703,
       "money": 144539,
       "gold": 130,
       "fame": 913,
       "rank": 17
+    },
+    {
+      "steamId": "76561198029476275",
+      "name": "XEH",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 50423,
+      "money": 15314,
+      "gold": 65,
+      "fame": 390,
+      "rank": 40
     }
   ],
-  "updated": "2026-10-05T04:48:10.080Z"
+  "updated": "2026-10-05T04:49:10.094Z"
 }
