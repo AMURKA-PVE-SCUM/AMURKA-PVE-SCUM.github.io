@@ -4,11 +4,11 @@
       "rank": 1,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 324017,
+      "playTimeSeconds": 324059,
       "money": 134377,
       "gold": 440,
       "fame": 3368,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 2,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 187681,
+      "playTimeSeconds": 187741,
       "money": 704034,
       "gold": 179,
       "fame": 2321,
@@ -42,6 +42,16 @@
     },
     {
       "rank": 5,
+      "steamId": "76561198054083179",
+      "name": "Roksi",
+      "playTimeSeconds": 177453,
+      "money": 1353372,
+      "gold": 249,
+      "fame": 4281,
+      "isOnline": true
+    },
+    {
+      "rank": 6,
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
       "playTimeSeconds": 177437,
@@ -49,16 +59,6 @@
       "gold": 85,
       "fame": 3959,
       "isOnline": false
-    },
-    {
-      "rank": 6,
-      "steamId": "76561198054083179",
-      "name": "Roksi",
-      "playTimeSeconds": 177393,
-      "money": 1353372,
-      "gold": 249,
-      "fame": 4281,
-      "isOnline": true
     },
     {
       "rank": 7,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561198814504955",
       "name": "Venom",
-      "playTimeSeconds": 155411,
+      "playTimeSeconds": 155471,
       "money": 552713,
       "gold": 216,
       "fame": 2331,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561199684926739",
       "name": "Skeleton",
-      "playTimeSeconds": 135205,
+      "playTimeSeconds": 135265,
       "money": 86536,
       "gold": 125,
       "fame": 2313,
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561198067720439",
       "name": "Genih",
-      "playTimeSeconds": 125475,
+      "playTimeSeconds": 125535,
       "money": 402392,
       "gold": 162,
       "fame": 1550,
@@ -184,7 +184,7 @@
       "rank": 19,
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "playTimeSeconds": 123777,
+      "playTimeSeconds": 123837,
       "money": 37089,
       "gold": 170,
       "fame": 544,
@@ -194,12 +194,12 @@
       "rank": 20,
       "steamId": "76561199189470290",
       "name": "Konffetka",
-      "playTimeSeconds": 122011,
-      "money": 173382,
+      "playTimeSeconds": 122071,
+      "money": 173432,
       "gold": 208,
-      "fame": 2374,
+      "fame": 2474,
       "isOnline": true
     }
   ],
-  "updated": "2026-10-06T17:01:32.433Z"
+  "updated": "2026-10-06T17:02:32.434Z"
 }
