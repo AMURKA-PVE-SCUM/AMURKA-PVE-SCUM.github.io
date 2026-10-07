@@ -42,6 +42,16 @@
     },
     {
       "rank": 5,
+      "steamId": "76561198077981589",
+      "name": "Чилим",
+      "playTimeSeconds": 22944,
+      "money": 337933,
+      "gold": 136,
+      "fame": 976,
+      "isOnline": true
+    },
+    {
+      "rank": 6,
       "steamId": "76561199823596261",
       "name": "MИХА",
       "playTimeSeconds": 22892,
@@ -49,16 +59,6 @@
       "gold": 242,
       "fame": 1655,
       "isOnline": false
-    },
-    {
-      "rank": 6,
-      "steamId": "76561198077981589",
-      "name": "Чилим",
-      "playTimeSeconds": 22885,
-      "money": 337933,
-      "gold": 136,
-      "fame": 976,
-      "isOnline": true
     },
     {
       "rank": 7,
@@ -74,11 +74,11 @@
       "rank": 8,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "playTimeSeconds": 20103,
+      "playTimeSeconds": 20130,
       "money": 45400,
       "gold": 172,
       "fame": 1158,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 9,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561198802007304",
       "name": "SEV",
-      "playTimeSeconds": 17200,
+      "playTimeSeconds": 17259,
       "money": 179894,
       "gold": 130,
       "fame": 585,
@@ -112,6 +112,16 @@
     },
     {
       "rank": 12,
+      "steamId": "76561198337531947",
+      "name": "brantozavr_voin2",
+      "playTimeSeconds": 16899,
+      "money": 74295,
+      "gold": 200,
+      "fame": 635,
+      "isOnline": true
+    },
+    {
+      "rank": 13,
       "steamId": "76561199580351165",
       "name": "ШРинат",
       "playTimeSeconds": 16880,
@@ -119,16 +129,6 @@
       "gold": 1290,
       "fame": 2919,
       "isOnline": false
-    },
-    {
-      "rank": 13,
-      "steamId": "76561198337531947",
-      "name": "brantozavr_voin2",
-      "playTimeSeconds": 16840,
-      "money": 74295,
-      "gold": 200,
-      "fame": 635,
-      "isOnline": true
     },
     {
       "rank": 14,
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561199447643673",
       "name": "Жека",
-      "playTimeSeconds": 12982,
+      "playTimeSeconds": 13041,
       "money": 44343,
       "gold": 35,
       "fame": 175,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-07T12:04:44.805Z"
+  "updated": "2026-10-07T12:05:44.817Z"
 }
