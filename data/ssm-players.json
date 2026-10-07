@@ -1,11 +1,21 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
+    {
+      "steamId": "76561198337531947",
+      "name": "brantozavr_voin2",
+      "sessionSeconds": 14,
+      "playTimeSeconds": 26124,
+      "money": 77295,
+      "gold": 215,
+      "fame": 681,
+      "rank": 4
+    },
     {
       "steamId": "76561198382114262",
       "name": "Montana",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 5462,
+      "sessionSeconds": 14,
+      "playTimeSeconds": 5522,
       "money": 799118,
       "gold": 110,
       "fame": 451,
@@ -14,28 +24,28 @@
     {
       "steamId": "76561199569191127",
       "name": "Mira",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 44,
+      "sessionSeconds": 14,
+      "playTimeSeconds": 104,
       "money": 67370,
       "gold": 91,
       "fame": 605,
-      "rank": 57
+      "rank": 56
     },
     {
       "steamId": "76561198259078236",
       "name": "DarkAvery",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 2161,
+      "sessionSeconds": 14,
+      "playTimeSeconds": 2221,
       "money": 33016,
       "gold": 25,
       "fame": 186,
-      "rank": 46
+      "rank": 44
     },
     {
       "steamId": "76561198364930292",
       "name": "Нихао_Петрови4",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 342,
+      "sessionSeconds": 14,
+      "playTimeSeconds": 402,
       "money": 177,
       "gold": 10,
       "fame": 56,
@@ -44,33 +54,33 @@
     {
       "steamId": "76561198364675051",
       "name": "Morpex",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 630,
+      "sessionSeconds": 14,
+      "playTimeSeconds": 690,
       "money": 0,
       "gold": 0,
       "fame": 0,
-      "rank": 52
+      "rank": 51
     },
     {
       "steamId": "76561199244636054",
       "name": "_PsixichkA_",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 14094,
+      "sessionSeconds": 14,
+      "playTimeSeconds": 14154,
       "money": 56018,
       "gold": 115,
       "fame": 344,
       "rank": 21
     },
     {
-      "steamId": "76561198337531947",
-      "name": "brantozavr_voin2",
-      "sessionSeconds": 13,
-      "playTimeSeconds": 26064,
-      "money": 76295,
-      "gold": 210,
-      "fame": 671,
-      "rank": 4
+      "steamId": "76561199246198020",
+      "name": "Komodo",
+      "sessionSeconds": 4,
+      "playTimeSeconds": 950,
+      "money": 123308,
+      "gold": 45,
+      "fame": 408,
+      "rank": 50
     }
   ],
-  "updated": "2026-10-07T15:04:46.160Z"
+  "updated": "2026-10-07T15:05:46.167Z"
 }
