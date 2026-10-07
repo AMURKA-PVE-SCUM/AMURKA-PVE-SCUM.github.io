@@ -1,5 +1,16 @@
 {
-  "online": 0,
-  "players": [],
-  "updated": "2026-10-07T14:09:45.716Z"
+  "online": 1,
+  "players": [
+    {
+      "steamId": "76561199684926739",
+      "name": "Skeleton",
+      "sessionSeconds": 16,
+      "playTimeSeconds": 5669,
+      "money": 91411,
+      "gold": 136,
+      "fame": 2542,
+      "rank": 38
+    }
+  ],
+  "updated": "2026-10-07T14:10:45.725Z"
 }
