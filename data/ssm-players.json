@@ -1,31 +1,51 @@
 {
-  "online": 4,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "sessionSeconds": 12706,
-      "playTimeSeconds": 22825,
+      "sessionSeconds": 12766,
+      "playTimeSeconds": 22885,
       "money": 337933,
       "gold": 136,
       "fame": 976,
       "rank": 7
     },
     {
+      "steamId": "76561199447643673",
+      "name": "Жека",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 12982,
+      "money": 44343,
+      "gold": 35,
+      "fame": 175,
+      "rank": 19
+    },
+    {
+      "steamId": "76561198337531947",
+      "name": "brantozavr_voin2",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 16840,
+      "money": 74295,
+      "gold": 200,
+      "fame": 635,
+      "rank": 15
+    },
+    {
       "steamId": "76561198802007304",
       "name": "SEV",
-      "sessionSeconds": 7,
-      "playTimeSeconds": 17140,
-      "money": 178394,
+      "sessionSeconds": 6,
+      "playTimeSeconds": 17200,
+      "money": 179894,
       "gold": 130,
-      "fame": 580,
+      "fame": 585,
       "rank": 13
     },
     {
       "steamId": "76561198118646763",
       "name": "Jane Doe",
-      "sessionSeconds": 7,
-      "playTimeSeconds": 771,
+      "sessionSeconds": 6,
+      "playTimeSeconds": 831,
       "money": 11303,
       "gold": 45,
       "fame": 145,
@@ -34,13 +54,13 @@
     {
       "steamId": "76561198118854827",
       "name": "Mersy Deson",
-      "sessionSeconds": 7,
-      "playTimeSeconds": 5138,
+      "sessionSeconds": 6,
+      "playTimeSeconds": 5198,
       "money": 3000,
       "gold": 15,
       "fame": 55,
       "rank": 33
     }
   ],
-  "updated": "2026-10-07T12:03:44.804Z"
+  "updated": "2026-10-07T12:04:44.805Z"
 }
