@@ -1,16 +1,36 @@
 {
-  "online": 1,
+  "online": 3,
   "players": [
     {
       "steamId": "76561199684926739",
       "name": "Skeleton",
       "sessionSeconds": 15,
-      "playTimeSeconds": 5789,
+      "playTimeSeconds": 5849,
       "money": 91411,
       "gold": 136,
       "fame": 2542,
       "rank": 38
+    },
+    {
+      "steamId": "76561198382114262",
+      "name": "Montana",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 2503,
+      "money": 759677,
+      "gold": 105,
+      "fame": 437,
+      "rank": 43
+    },
+    {
+      "steamId": "76561198071060590",
+      "name": "Black_Mamba",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 7914,
+      "money": 0,
+      "gold": 180,
+      "fame": 381,
+      "rank": 31
     }
   ],
-  "updated": "2026-10-07T14:12:45.733Z"
+  "updated": "2026-10-07T14:13:45.744Z"
 }
