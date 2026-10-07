@@ -1,21 +1,41 @@
 {
-  "online": 6,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "sessionSeconds": 12766,
-      "playTimeSeconds": 22885,
+      "sessionSeconds": 12826,
+      "playTimeSeconds": 22944,
       "money": 337933,
       "gold": 136,
       "fame": 976,
-      "rank": 7
+      "rank": 6
+    },
+    {
+      "steamId": "76561198442913659",
+      "name": "MILFA",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 5588,
+      "money": 6993,
+      "gold": 15,
+      "fame": 144,
+      "rank": 32
+    },
+    {
+      "steamId": "76561199244636054",
+      "name": "_PsixichkA_",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 6731,
+      "money": 54018,
+      "gold": 105,
+      "fame": 314,
+      "rank": 30
     },
     {
       "steamId": "76561199447643673",
       "name": "Жека",
       "sessionSeconds": 6,
-      "playTimeSeconds": 12982,
+      "playTimeSeconds": 13041,
       "money": 44343,
       "gold": 35,
       "fame": 175,
@@ -25,17 +45,27 @@
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
       "sessionSeconds": 6,
-      "playTimeSeconds": 16840,
+      "playTimeSeconds": 16899,
       "money": 74295,
       "gold": 200,
       "fame": 635,
-      "rank": 15
+      "rank": 14
+    },
+    {
+      "steamId": "76561198794536026",
+      "name": "Ayanakoji",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 20130,
+      "money": 45400,
+      "gold": 172,
+      "fame": 1158,
+      "rank": 9
     },
     {
       "steamId": "76561198802007304",
       "name": "SEV",
       "sessionSeconds": 6,
-      "playTimeSeconds": 17200,
+      "playTimeSeconds": 17259,
       "money": 179894,
       "gold": 130,
       "fame": 585,
@@ -45,7 +75,7 @@
       "steamId": "76561198118646763",
       "name": "Jane Doe",
       "sessionSeconds": 6,
-      "playTimeSeconds": 831,
+      "playTimeSeconds": 890,
       "money": 11303,
       "gold": 45,
       "fame": 145,
@@ -55,12 +85,12 @@
       "steamId": "76561198118854827",
       "name": "Mersy Deson",
       "sessionSeconds": 6,
-      "playTimeSeconds": 5198,
+      "playTimeSeconds": 5257,
       "money": 3000,
       "gold": 15,
-      "fame": 55,
+      "fame": 56,
       "rank": 33
     }
   ],
-  "updated": "2026-10-07T12:04:44.805Z"
+  "updated": "2026-10-07T12:05:44.817Z"
 }
