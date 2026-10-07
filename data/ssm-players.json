@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198071060590",
       "name": "Black_Mamba",
-      "sessionSeconds": 3287,
-      "playTimeSeconds": 16533,
+      "sessionSeconds": 3347,
+      "playTimeSeconds": 16593,
       "money": 3223,
       "gold": 5,
       "fame": 433,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198372320271",
       "name": "ADA",
-      "sessionSeconds": 1847,
-      "playTimeSeconds": 10551,
+      "sessionSeconds": 1907,
+      "playTimeSeconds": 10611,
       "money": 356190,
       "gold": 180,
       "fame": 603,
@@ -24,28 +24,38 @@
     {
       "steamId": "76561198775651698",
       "name": "Добряк",
-      "sessionSeconds": 1773,
-      "playTimeSeconds": 8812,
+      "sessionSeconds": 1833,
+      "playTimeSeconds": 8872,
       "money": 3630656,
       "gold": 211,
       "fame": 10261,
       "rank": 35
     },
     {
+      "steamId": "76561198029476275",
+      "name": "XEH",
+      "sessionSeconds": 369,
+      "playTimeSeconds": 6773,
+      "money": 254057,
+      "gold": 145,
+      "fame": 918,
+      "rank": 43
+    },
+    {
       "steamId": "76561198316188026",
       "name": "ROMZZEZZ",
       "sessionSeconds": 0,
-      "playTimeSeconds": 14857,
+      "playTimeSeconds": 14917,
       "money": 58628,
       "gold": 40,
       "fame": 240,
-      "rank": 24
+      "rank": 23
     },
     {
       "steamId": "76561198257833454",
       "name": "KJIU3MA",
       "sessionSeconds": 0,
-      "playTimeSeconds": 9474,
+      "playTimeSeconds": 9534,
       "money": 760534,
       "gold": 183,
       "fame": 3077,
@@ -55,7 +65,7 @@
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
       "sessionSeconds": 0,
-      "playTimeSeconds": 41517,
+      "playTimeSeconds": 41577,
       "money": 250954,
       "gold": 95,
       "fame": 696,
@@ -65,12 +75,22 @@
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 0,
-      "playTimeSeconds": 30127,
+      "playTimeSeconds": 30187,
       "money": 1021417,
       "gold": 373,
       "fame": 2618,
       "rank": 8
+    },
+    {
+      "steamId": "76561198794536026",
+      "name": "Ayanakoji",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 32278,
+      "money": 48900,
+      "gold": 188,
+      "fame": 1290,
+      "rank": 6
     }
   ],
-  "updated": "2026-10-07T18:03:47.452Z"
+  "updated": "2026-10-07T18:04:47.455Z"
 }
