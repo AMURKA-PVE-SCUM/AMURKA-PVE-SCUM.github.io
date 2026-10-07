@@ -2,6 +2,16 @@
   "leaderboard": [
     {
       "rank": 1,
+      "steamId": "76561198139995845",
+      "name": "SeverGorod",
+      "playTimeSeconds": 16727,
+      "money": 214316,
+      "gold": 800,
+      "fame": 4572,
+      "isOnline": true
+    },
+    {
+      "rank": 2,
       "steamId": "76561198121549932",
       "name": "Prostyak",
       "playTimeSeconds": 16684,
@@ -11,20 +21,10 @@
       "isOnline": false
     },
     {
-      "rank": 2,
-      "steamId": "76561198139995845",
-      "name": "SeverGorod",
-      "playTimeSeconds": 16667,
-      "money": 214316,
-      "gold": 800,
-      "fame": 4572,
-      "isOnline": true
-    },
-    {
       "rank": 3,
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
-      "playTimeSeconds": 16379,
+      "playTimeSeconds": 16439,
       "money": 198734,
       "gold": 60,
       "fame": 529,
@@ -34,17 +34,17 @@
       "rank": 4,
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "playTimeSeconds": 13946,
+      "playTimeSeconds": 13949,
       "money": 1368409,
       "gold": 573,
       "fame": 3125,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 5,
       "steamId": "76561198869337858",
       "name": "Shelby",
-      "playTimeSeconds": 12736,
+      "playTimeSeconds": 12796,
       "money": 173714,
       "gold": 233,
       "fame": 1841,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "playTimeSeconds": 7102,
+      "playTimeSeconds": 7162,
       "money": 300615,
       "gold": 106,
       "fame": 913,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198052403991",
       "name": "Lis",
-      "playTimeSeconds": 6952,
+      "playTimeSeconds": 7012,
       "money": 144238,
       "gold": 185,
       "fame": 1074,
@@ -94,10 +94,10 @@
       "rank": 10,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 4394,
+      "playTimeSeconds": 4454,
       "money": 698559,
       "gold": 204,
-      "fame": 2513,
+      "fame": 2514,
       "isOnline": true
     },
     {
@@ -144,7 +144,7 @@
       "rank": 15,
       "steamId": "76561198398949061",
       "name": "Ksn",
-      "playTimeSeconds": 1220,
+      "playTimeSeconds": 1280,
       "money": 8639,
       "gold": 10,
       "fame": 104,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561199823596261",
       "name": "MИХА",
-      "playTimeSeconds": 754,
+      "playTimeSeconds": 814,
       "money": 315980,
       "gold": 212,
       "fame": 1570,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-07T05:44:38.071Z"
+  "updated": "2026-10-07T05:45:38.073Z"
 }
