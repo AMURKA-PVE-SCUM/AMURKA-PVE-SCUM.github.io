@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 43073,
+      "playTimeSeconds": 43133,
       "money": 252079,
       "gold": 835,
       "fame": 4704,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "playTimeSeconds": 32785,
+      "playTimeSeconds": 32845,
       "money": 1534653,
       "gold": 598,
       "fame": 3253,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "playTimeSeconds": 29120,
+      "playTimeSeconds": 29180,
       "money": 77295,
       "gold": 215,
       "fame": 684,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561199823596261",
       "name": "MИХА",
-      "playTimeSeconds": 25624,
+      "playTimeSeconds": 25684,
       "money": 322980,
       "gold": 247,
       "fame": 1667,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "playTimeSeconds": 24862,
+      "playTimeSeconds": 24922,
       "money": 46900,
       "gold": 178,
       "fame": 1261,
@@ -82,6 +82,16 @@
     },
     {
       "rank": 9,
+      "steamId": "76561199404896383",
+      "name": "Victor_Vilkouskas",
+      "playTimeSeconds": 24186,
+      "money": 889389,
+      "gold": 235,
+      "fame": 3115,
+      "isOnline": true
+    },
+    {
+      "rank": 10,
       "steamId": "76561198121549932",
       "name": "Prostyak",
       "playTimeSeconds": 24176,
@@ -89,16 +99,6 @@
       "gold": 228,
       "fame": 5779,
       "isOnline": false
-    },
-    {
-      "rank": 10,
-      "steamId": "76561199404896383",
-      "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 24126,
-      "money": 889389,
-      "gold": 235,
-      "fame": 3115,
-      "isOnline": true
     },
     {
       "rank": 11,
@@ -144,14 +144,24 @@
       "rank": 15,
       "steamId": "76561199244636054",
       "name": "_PsixichkA_",
-      "playTimeSeconds": 17150,
-      "money": 53950,
-      "gold": 115,
-      "fame": 347,
+      "playTimeSeconds": 17210,
+      "money": 54950,
+      "gold": 120,
+      "fame": 357,
       "isOnline": true
     },
     {
       "rank": 16,
+      "steamId": "76561198442913659",
+      "name": "MILFA",
+      "playTimeSeconds": 15714,
+      "money": 13799,
+      "gold": 30,
+      "fame": 198,
+      "isOnline": true
+    },
+    {
+      "rank": 17,
       "steamId": "76561199801792277",
       "name": "Сол Хоггар",
       "playTimeSeconds": 15661,
@@ -159,16 +169,6 @@
       "gold": 25,
       "fame": 175,
       "isOnline": false
-    },
-    {
-      "rank": 17,
-      "steamId": "76561198442913659",
-      "name": "MILFA",
-      "playTimeSeconds": 15654,
-      "money": 13799,
-      "gold": 30,
-      "fame": 198,
-      "isOnline": true
     },
     {
       "rank": 18,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-07T15:55:46.524Z"
+  "updated": "2026-10-07T15:56:46.532Z"
 }
