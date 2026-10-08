@@ -1,5 +1,16 @@
 {
-  "online": 0,
-  "players": [],
-  "updated": "2026-10-08T14:47:47.071Z"
+  "online": 1,
+  "players": [
+    {
+      "steamId": "76561198272702715",
+      "name": "Old Vivi",
+      "sessionSeconds": 20,
+      "playTimeSeconds": 4670,
+      "money": 1400,
+      "gold": 5,
+      "fame": 24,
+      "rank": 66
+    }
+  ],
+  "updated": "2026-10-08T14:48:47.071Z"
 }
