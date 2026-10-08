@@ -1,41 +1,21 @@
 {
-  "online": 8,
+  "online": 3,
   "players": [
-    {
-      "steamId": "76561198271336608",
-      "name": "Валерка",
-      "sessionSeconds": 913,
-      "playTimeSeconds": 19095,
-      "money": 181634,
-      "gold": 80,
-      "fame": 343,
-      "rank": 21
-    },
     {
       "steamId": "76561198003027414",
       "name": "Nixy",
-      "sessionSeconds": 759,
-      "playTimeSeconds": 2835,
+      "sessionSeconds": 819,
+      "playTimeSeconds": 2870,
       "money": 0,
       "gold": 0,
       "fame": 4,
       "rank": 65
     },
     {
-      "steamId": "76561198068992719",
-      "name": "Alina",
-      "sessionSeconds": 679,
-      "playTimeSeconds": 31074,
-      "money": 987548,
-      "gold": 295,
-      "fame": 782,
-      "rank": 12
-    },
-    {
       "steamId": "76561198071060590",
       "name": "Black_Mamba",
-      "sessionSeconds": 525,
-      "playTimeSeconds": 25223,
+      "sessionSeconds": 585,
+      "playTimeSeconds": 25273,
       "money": 59667,
       "gold": 35,
       "fame": 571,
@@ -44,43 +24,13 @@
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 197,
-      "playTimeSeconds": 38637,
+      "sessionSeconds": 257,
+      "playTimeSeconds": 38699,
       "money": 964245,
       "gold": 256,
       "fame": 3530,
       "rank": 8
-    },
-    {
-      "steamId": "76561198337531947",
-      "name": "brantozavr_voin2",
-      "sessionSeconds": 5,
-      "playTimeSeconds": 46818,
-      "money": 79391,
-      "gold": 240,
-      "fame": 751,
-      "rank": 5
-    },
-    {
-      "steamId": "76561198377903190",
-      "name": "Бешеная Няша",
-      "sessionSeconds": 5,
-      "playTimeSeconds": 14167,
-      "money": 21845,
-      "gold": 15,
-      "fame": 71,
-      "rank": 35
-    },
-    {
-      "steamId": "76561198139995845",
-      "name": "SeverGorod",
-      "sessionSeconds": 5,
-      "playTimeSeconds": 87172,
-      "money": 489536,
-      "gold": 895,
-      "fame": 4935,
-      "rank": 1
     }
   ],
-  "updated": "2026-10-08T06:02:15.027Z"
+  "updated": "2026-10-08T06:03:15.030Z"
 }
