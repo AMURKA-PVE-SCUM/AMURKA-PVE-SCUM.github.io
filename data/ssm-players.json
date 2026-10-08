@@ -1,11 +1,11 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198271336608",
       "name": "Валерка",
-      "sessionSeconds": 1694,
-      "playTimeSeconds": 19686,
+      "sessionSeconds": 1754,
+      "playTimeSeconds": 19746,
       "money": 181634,
       "gold": 80,
       "fame": 344,
@@ -14,18 +14,18 @@
     {
       "steamId": "76561198003027414",
       "name": "Nixy",
-      "sessionSeconds": 1539,
-      "playTimeSeconds": 3589,
-      "money": 0,
-      "gold": 0,
-      "fame": 7,
+      "sessionSeconds": 1599,
+      "playTimeSeconds": 3649,
+      "money": 1000,
+      "gold": 5,
+      "fame": 17,
       "rank": 65
     },
     {
       "steamId": "76561198071060590",
       "name": "Black_Mamba",
-      "sessionSeconds": 1306,
-      "playTimeSeconds": 25992,
+      "sessionSeconds": 1366,
+      "playTimeSeconds": 26052,
       "money": 59667,
       "gold": 35,
       "fame": 571,
@@ -34,8 +34,8 @@
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 977,
-      "playTimeSeconds": 39418,
+      "sessionSeconds": 1038,
+      "playTimeSeconds": 39478,
       "money": 964245,
       "gold": 256,
       "fame": 3531,
@@ -45,7 +45,7 @@
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
       "sessionSeconds": 5,
-      "playTimeSeconds": 47482,
+      "playTimeSeconds": 47542,
       "money": 79391,
       "gold": 240,
       "fame": 751,
@@ -55,7 +55,7 @@
       "steamId": "76561199033254903",
       "name": "Kety",
       "sessionSeconds": 5,
-      "playTimeSeconds": 11753,
+      "playTimeSeconds": 11813,
       "money": 12242,
       "gold": 15,
       "fame": 103,
@@ -65,22 +65,32 @@
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
       "sessionSeconds": 5,
-      "playTimeSeconds": 271,
-      "money": 150265,
-      "gold": 90,
-      "fame": 512,
+      "playTimeSeconds": 331,
+      "money": 151265,
+      "gold": 95,
+      "fame": 523,
       "rank": 72
     },
     {
       "steamId": "76561198156375337",
       "name": "Domo",
       "sessionSeconds": 5,
-      "playTimeSeconds": 10829,
+      "playTimeSeconds": 10889,
       "money": 2102256,
       "gold": 11360,
-      "fame": 710,
-      "rank": 41
+      "fame": 660,
+      "rank": 40
+    },
+    {
+      "steamId": "76561198984429540",
+      "name": "Тапик связи на базе",
+      "sessionSeconds": 5,
+      "playTimeSeconds": 6602,
+      "money": 0,
+      "gold": 5,
+      "fame": 28,
+      "rank": 52
     }
   ],
-  "updated": "2026-10-08T06:15:15.115Z"
+  "updated": "2026-10-08T06:16:15.130Z"
 }
