@@ -1,21 +1,11 @@
 {
-  "online": 9,
+  "online": 8,
   "players": [
-    {
-      "steamId": "76561198068992719",
-      "name": "Alina",
-      "sessionSeconds": 937,
-      "playTimeSeconds": 47516,
-      "money": 991548,
-      "gold": 315,
-      "fame": 747,
-      "rank": 10
-    },
     {
       "steamId": "76561198067720439",
       "name": "Genih",
-      "sessionSeconds": 496,
-      "playTimeSeconds": 23945,
+      "sessionSeconds": 556,
+      "playTimeSeconds": 24005,
       "money": 1550373,
       "gold": 338,
       "fame": 2450,
@@ -24,8 +14,8 @@
     {
       "steamId": "76561198054083179",
       "name": "Roksi",
-      "sessionSeconds": 255,
-      "playTimeSeconds": 9548,
+      "sessionSeconds": 315,
+      "playTimeSeconds": 9608,
       "money": 1355302,
       "gold": 264,
       "fame": 4389,
@@ -35,8 +25,8 @@
       "steamId": "76561198775651698",
       "name": "Добряк",
       "sessionSeconds": 17,
-      "playTimeSeconds": 32775,
-      "money": 3978948,
+      "playTimeSeconds": 32835,
+      "money": 3852948,
       "gold": 246,
       "fame": 11612,
       "rank": 24
@@ -45,7 +35,7 @@
       "steamId": "76561198230911236",
       "name": "TOR",
       "sessionSeconds": 17,
-      "playTimeSeconds": 22738,
+      "playTimeSeconds": 22798,
       "money": 37662,
       "gold": 100,
       "fame": 405,
@@ -55,7 +45,7 @@
       "steamId": "76561199189470290",
       "name": "Konffetka",
       "sessionSeconds": 17,
-      "playTimeSeconds": 20114,
+      "playTimeSeconds": 20174,
       "money": 349852,
       "gold": 257,
       "fame": 3393,
@@ -65,7 +55,7 @@
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 17,
-      "playTimeSeconds": 135426,
+      "playTimeSeconds": 135486,
       "money": 705004,
       "gold": 965,
       "fame": 5188,
@@ -75,7 +65,7 @@
       "steamId": "76561199071708963",
       "name": "Tinfuzzi",
       "sessionSeconds": 17,
-      "playTimeSeconds": 24506,
+      "playTimeSeconds": 24566,
       "money": 1041000,
       "gold": 175,
       "fame": 560,
@@ -85,12 +75,12 @@
       "steamId": "76561199244636054",
       "name": "_PsixichkA_",
       "sessionSeconds": 17,
-      "playTimeSeconds": 71751,
+      "playTimeSeconds": 71811,
       "money": 154807,
       "gold": 195,
       "fame": 562,
       "rank": 6
     }
   ],
-  "updated": "2026-10-08T22:26:50.421Z"
+  "updated": "2026-10-08T22:27:50.425Z"
 }
