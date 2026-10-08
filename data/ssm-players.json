@@ -1,21 +1,31 @@
 {
-  "online": 4,
+  "online": 5,
   "players": [
+    {
+      "steamId": "76561198271336608",
+      "name": "Валерка",
+      "sessionSeconds": 1153,
+      "playTimeSeconds": 19146,
+      "money": 181634,
+      "gold": 80,
+      "fame": 343,
+      "rank": 21
+    },
     {
       "steamId": "76561198003027414",
       "name": "Nixy",
-      "sessionSeconds": 939,
-      "playTimeSeconds": 2989,
+      "sessionSeconds": 999,
+      "playTimeSeconds": 3049,
       "money": 0,
       "gold": 0,
-      "fame": 4,
+      "fame": 5,
       "rank": 65
     },
     {
       "steamId": "76561198071060590",
       "name": "Black_Mamba",
-      "sessionSeconds": 706,
-      "playTimeSeconds": 25392,
+      "sessionSeconds": 766,
+      "playTimeSeconds": 25452,
       "money": 59667,
       "gold": 35,
       "fame": 571,
@@ -24,8 +34,8 @@
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 377,
-      "playTimeSeconds": 38818,
+      "sessionSeconds": 437,
+      "playTimeSeconds": 38878,
       "money": 964245,
       "gold": 256,
       "fame": 3530,
@@ -35,12 +45,12 @@
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
       "sessionSeconds": 5,
-      "playTimeSeconds": 46882,
+      "playTimeSeconds": 46942,
       "money": 79391,
       "gold": 240,
       "fame": 751,
       "rank": 5
     }
   ],
-  "updated": "2026-10-08T06:05:15.047Z"
+  "updated": "2026-10-08T06:06:15.055Z"
 }
