@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 94007,
+      "playTimeSeconds": 94067,
       "money": 515348,
       "gold": 905,
       "fame": 4962,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198121549932",
       "name": "Prostyak",
-      "playTimeSeconds": 66119,
+      "playTimeSeconds": 66179,
       "money": 3797475,
       "gold": 290,
       "fame": 6907,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "playTimeSeconds": 56543,
+      "playTimeSeconds": 56603,
       "money": 1540653,
       "gold": 633,
       "fame": 3363,
@@ -34,17 +34,17 @@
       "rank": 4,
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
-      "playTimeSeconds": 54416,
+      "playTimeSeconds": 54419,
       "money": 347690,
       "gold": 111,
       "fame": 894,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 5,
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "playTimeSeconds": 53517,
+      "playTimeSeconds": 53577,
       "money": 79506,
       "gold": 250,
       "fame": 849,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 46836,
+      "playTimeSeconds": 46896,
       "money": 984335,
       "gold": 266,
       "fame": 3673,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "playTimeSeconds": 30116,
+      "playTimeSeconds": 30176,
       "money": 379741,
       "gold": 146,
       "fame": 1016,
@@ -162,6 +162,16 @@
     },
     {
       "rank": 17,
+      "steamId": "76561198337811646",
+      "name": "VERSUS_65_",
+      "playTimeSeconds": 23443,
+      "money": 227964,
+      "gold": 200,
+      "fame": 321,
+      "isOnline": true
+    },
+    {
+      "rank": 18,
       "steamId": "76561198052403991",
       "name": "Lis",
       "playTimeSeconds": 23415,
@@ -171,23 +181,13 @@
       "isOnline": false
     },
     {
-      "rank": 18,
-      "steamId": "76561198337811646",
-      "name": "VERSUS_65_",
-      "playTimeSeconds": 23383,
-      "money": 227964,
-      "gold": 200,
-      "fame": 321,
-      "isOnline": true
-    },
-    {
       "rank": 19,
       "steamId": "76561198377903190",
       "name": "Бешеная Няша",
-      "playTimeSeconds": 21530,
+      "playTimeSeconds": 21590,
       "money": 22711,
       "gold": 25,
-      "fame": 103,
+      "fame": 104,
       "isOnline": true
     },
     {
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-08T08:19:16.107Z"
+  "updated": "2026-10-08T08:20:16.114Z"
 }
