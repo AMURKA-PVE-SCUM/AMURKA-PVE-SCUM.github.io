@@ -1,16 +1,36 @@
 {
-  "online": 1,
+  "online": 3,
   "players": [
+    {
+      "steamId": "76561198337811646",
+      "name": "VERSUS_65_",
+      "sessionSeconds": 20,
+      "playTimeSeconds": 45418,
+      "money": 200867,
+      "gold": 230,
+      "fame": 411,
+      "rank": 10
+    },
     {
       "steamId": "76561198272702715",
       "name": "Old Vivi",
       "sessionSeconds": 20,
-      "playTimeSeconds": 4850,
+      "playTimeSeconds": 4910,
       "money": 1400,
       "gold": 5,
       "fame": 24,
       "rank": 66
+    },
+    {
+      "steamId": "76561198120086834",
+      "name": "Myp3ilka",
+      "sessionSeconds": 20,
+      "playTimeSeconds": 76352,
+      "money": 385210,
+      "gold": 141,
+      "fame": 1167,
+      "rank": 2
     }
   ],
-  "updated": "2026-10-08T14:51:47.086Z"
+  "updated": "2026-10-08T14:52:47.098Z"
 }
