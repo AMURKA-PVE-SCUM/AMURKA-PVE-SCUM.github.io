@@ -1,11 +1,11 @@
 {
-  "online": 3,
+  "online": 6,
   "players": [
     {
       "steamId": "76561199206700564",
       "name": "_Adskiy_Yozhik_",
       "sessionSeconds": 13,
-      "playTimeSeconds": 47384,
+      "playTimeSeconds": 47444,
       "money": 48149,
       "gold": 95,
       "fame": 271,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198230911236",
       "name": "TOR",
-      "sessionSeconds": 8,
-      "playTimeSeconds": 29850,
+      "sessionSeconds": 13,
+      "playTimeSeconds": 29911,
       "money": 39662,
       "gold": 110,
       "fame": 431,
@@ -24,13 +24,43 @@
     {
       "steamId": "76561198775651698",
       "name": "Добряк",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 57702,
+      "sessionSeconds": 13,
+      "playTimeSeconds": 57763,
       "money": 4427331,
       "gold": 283,
       "fame": 13575,
       "rank": 17
+    },
+    {
+      "steamId": "76561198003027414",
+      "name": "Nixy",
+      "sessionSeconds": 13,
+      "playTimeSeconds": 89746,
+      "money": 11820,
+      "gold": 45,
+      "fame": 490,
+      "rank": 10
+    },
+    {
+      "steamId": "76561198272702715",
+      "name": "Old Vivi",
+      "sessionSeconds": 11,
+      "playTimeSeconds": 43305,
+      "money": 9816,
+      "gold": 40,
+      "fame": 301,
+      "rank": 30
+    },
+    {
+      "steamId": "76561198794536026",
+      "name": "Ayanakoji",
+      "sessionSeconds": 5,
+      "playTimeSeconds": 90033,
+      "money": 191605,
+      "gold": 169,
+      "fame": 1741,
+      "rank": 9
     }
   ],
-  "updated": "2026-10-09T21:03:04.797Z"
+  "updated": "2026-10-09T21:04:04.799Z"
 }
