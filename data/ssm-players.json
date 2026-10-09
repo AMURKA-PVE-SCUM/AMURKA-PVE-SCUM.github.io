@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 7,
   "players": [
     {
       "steamId": "76561198121549932",
       "name": "Prostyak",
-      "sessionSeconds": 2622,
-      "playTimeSeconds": 91066,
+      "sessionSeconds": 2682,
+      "playTimeSeconds": 91126,
       "money": 4199370,
       "gold": 320,
       "fame": 7465,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198003027414",
       "name": "Nixy",
-      "sessionSeconds": 2573,
-      "playTimeSeconds": 44098,
+      "sessionSeconds": 2633,
+      "playTimeSeconds": 44158,
       "money": 22274,
       "gold": 35,
       "fame": 173,
@@ -24,18 +24,28 @@
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 1703,
-      "playTimeSeconds": 78822,
+      "sessionSeconds": 1763,
+      "playTimeSeconds": 78882,
       "money": 1091892,
       "gold": 311,
       "fame": 4141,
       "rank": 6
     },
     {
+      "steamId": "76561199033254903",
+      "name": "Kety",
+      "sessionSeconds": 42,
+      "playTimeSeconds": 37504,
+      "money": 52309,
+      "gold": 65,
+      "fame": 251,
+      "rank": 21
+    },
+    {
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 12,
-      "playTimeSeconds": 13126,
+      "playTimeSeconds": 13186,
       "money": 3000,
       "gold": 15,
       "fame": 50,
@@ -45,7 +55,7 @@
       "steamId": "76561198377903190",
       "name": "Бешеная Няша",
       "sessionSeconds": 12,
-      "playTimeSeconds": 44434,
+      "playTimeSeconds": 44494,
       "money": 25982,
       "gold": 60,
       "fame": 227,
@@ -55,12 +65,12 @@
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
       "sessionSeconds": 12,
-      "playTimeSeconds": 7201,
+      "playTimeSeconds": 7261,
       "money": 152265,
       "gold": 100,
       "fame": 540,
       "rank": 68
     }
   ],
-  "updated": "2026-10-09T05:59:53.613Z"
+  "updated": "2026-10-09T06:00:53.616Z"
 }
