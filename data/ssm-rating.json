@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198121549932",
       "name": "Prostyak",
-      "playTimeSeconds": 91467,
+      "playTimeSeconds": 91527,
       "money": 4200370,
       "gold": 325,
       "fame": 7475,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "playTimeSeconds": 88145,
+      "playTimeSeconds": 88205,
       "money": 126101,
       "gold": 300,
       "fame": 1008,
@@ -54,8 +54,8 @@
       "rank": 6,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 79242,
-      "money": 1127329,
+      "playTimeSeconds": 79302,
+      "money": 1097672,
       "gold": 311,
       "fame": 4147,
       "isOnline": true
@@ -104,17 +104,17 @@
       "rank": 11,
       "steamId": "76561198377903190",
       "name": "Бешеная Няша",
-      "playTimeSeconds": 44610,
+      "playTimeSeconds": 44612,
       "money": 25982,
       "gold": 60,
       "fame": 227,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 12,
       "steamId": "76561198003027414",
       "name": "Nixy",
-      "playTimeSeconds": 44409,
+      "playTimeSeconds": 44469,
       "money": 22274,
       "gold": 35,
       "fame": 173,
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "playTimeSeconds": 42239,
+      "playTimeSeconds": 42299,
       "money": 382741,
       "gold": 161,
       "fame": 1062,
@@ -172,6 +172,16 @@
     },
     {
       "rank": 18,
+      "steamId": "76561199033254903",
+      "name": "Kety",
+      "playTimeSeconds": 37863,
+      "money": 52309,
+      "gold": 65,
+      "fame": 251,
+      "isOnline": true
+    },
+    {
+      "rank": 19,
       "steamId": "76561198071060590",
       "name": "Black_Mamba",
       "playTimeSeconds": 37811,
@@ -179,16 +189,6 @@
       "gold": 50,
       "fame": 656,
       "isOnline": false
-    },
-    {
-      "rank": 19,
-      "steamId": "76561199033254903",
-      "name": "Kety",
-      "playTimeSeconds": 37803,
-      "money": 52309,
-      "gold": 65,
-      "fame": 251,
-      "isOnline": true
     },
     {
       "rank": 20,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-09T06:06:53.677Z"
+  "updated": "2026-10-09T06:07:53.686Z"
 }
