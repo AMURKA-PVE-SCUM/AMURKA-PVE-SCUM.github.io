@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 170870,
+      "playTimeSeconds": 170930,
       "money": 797142,
       "gold": 1010,
       "fame": 5325,
@@ -24,11 +24,11 @@
       "rank": 3,
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "playTimeSeconds": 98334,
+      "playTimeSeconds": 98392,
       "money": 128101,
       "gold": 310,
       "fame": 1043,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 4,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 82806,
+      "playTimeSeconds": 82866,
       "money": 1032510,
       "gold": 316,
       "fame": 4160,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561198377903190",
       "name": "Бешеная Няша",
-      "playTimeSeconds": 54741,
+      "playTimeSeconds": 54801,
       "money": 26833,
       "gold": 75,
       "fame": 278,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561198003027414",
       "name": "Nixy",
-      "playTimeSeconds": 54598,
+      "playTimeSeconds": 54658,
       "money": 17749,
       "gold": 50,
       "fame": 212,
@@ -102,6 +102,16 @@
     },
     {
       "rank": 11,
+      "steamId": "76561198077981589",
+      "name": "Чилим",
+      "playTimeSeconds": 52455,
+      "money": 221877,
+      "gold": 176,
+      "fame": 1107,
+      "isOnline": true
+    },
+    {
+      "rank": 12,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
       "playTimeSeconds": 52422,
@@ -109,16 +119,6 @@
       "gold": 119,
       "fame": 1576,
       "isOnline": false
-    },
-    {
-      "rank": 12,
-      "steamId": "76561198077981589",
-      "name": "Чилим",
-      "playTimeSeconds": 52395,
-      "money": 221877,
-      "gold": 176,
-      "fame": 1107,
-      "isOnline": true
     },
     {
       "rank": 13,
@@ -144,7 +144,7 @@
       "rank": 15,
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "playTimeSeconds": 43811,
+      "playTimeSeconds": 43871,
       "money": 2636442,
       "gold": 1490,
       "fame": 3089,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-09T08:56:54.937Z"
+  "updated": "2026-10-09T08:57:54.943Z"
 }
