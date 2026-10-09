@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561198054083179",
       "name": "Roksi",
-      "sessionSeconds": 3630,
-      "playTimeSeconds": 15266,
+      "sessionSeconds": 3690,
+      "playTimeSeconds": 15326,
       "money": 1459802,
       "gold": 275,
       "fame": 4754,
       "rank": 53
+    },
+    {
+      "steamId": "76561198337811646",
+      "name": "VERSUS_65_",
+      "sessionSeconds": 9,
+      "playTimeSeconds": 45703,
+      "money": 200867,
+      "gold": 230,
+      "fame": 411,
+      "rank": 11
     }
   ],
-  "updated": "2026-10-09T00:11:51.156Z"
+  "updated": "2026-10-09T00:12:51.162Z"
 }
