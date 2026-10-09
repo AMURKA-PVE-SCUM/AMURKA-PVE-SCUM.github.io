@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 156604,
+      "playTimeSeconds": 156664,
       "money": 762702,
       "gold": 995,
       "fame": 5278,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "playTimeSeconds": 84576,
+      "playTimeSeconds": 84636,
       "money": 125101,
       "gold": 295,
       "fame": 995,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "playTimeSeconds": 84450,
+      "playTimeSeconds": 84510,
       "money": 1355417,
       "gold": 668,
       "fame": 3508,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 74941,
+      "playTimeSeconds": 75001,
       "money": 1074412,
       "gold": 306,
       "fame": 4022,
@@ -74,11 +74,11 @@
       "rank": 8,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 55022,
+      "playTimeSeconds": 55046,
       "money": 147995,
       "gold": 245,
       "fame": 449,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 9,
@@ -144,7 +144,7 @@
       "rank": 15,
       "steamId": "76561198377903190",
       "name": "Бешеная Няша",
-      "playTimeSeconds": 40062,
+      "playTimeSeconds": 40122,
       "money": 24982,
       "gold": 55,
       "fame": 210,
@@ -162,6 +162,16 @@
     },
     {
       "rank": 17,
+      "steamId": "76561198077981589",
+      "name": "Чилим",
+      "playTimeSeconds": 37835,
+      "money": 381741,
+      "gold": 156,
+      "fame": 1044,
+      "isOnline": true
+    },
+    {
+      "rank": 18,
       "steamId": "76561198071060590",
       "name": "Black_Mamba",
       "playTimeSeconds": 37811,
@@ -169,16 +179,6 @@
       "gold": 50,
       "fame": 656,
       "isOnline": false
-    },
-    {
-      "rank": 18,
-      "steamId": "76561198077981589",
-      "name": "Чилим",
-      "playTimeSeconds": 37775,
-      "money": 381741,
-      "gold": 156,
-      "fame": 1044,
-      "isOnline": true
     },
     {
       "rank": 19,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-09T04:46:53.076Z"
+  "updated": "2026-10-09T04:47:53.088Z"
 }
