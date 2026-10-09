@@ -2,30 +2,20 @@
   "online": 7,
   "players": [
     {
-      "steamId": "76561198054083179",
-      "name": "Roksi",
-      "sessionSeconds": 10411,
-      "playTimeSeconds": 22036,
-      "money": 1467728,
-      "gold": 280,
-      "fame": 4790,
-      "rank": 39
-    },
-    {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 0,
-      "playTimeSeconds": 52413,
+      "playTimeSeconds": 52473,
       "money": 172395,
       "gold": 240,
       "fame": 437,
-      "rank": 10
+      "rank": 9
     },
     {
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 0,
-      "playTimeSeconds": 147130,
+      "playTimeSeconds": 147190,
       "money": 708004,
       "gold": 980,
       "fame": 5226,
@@ -35,7 +25,7 @@
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "sessionSeconds": 0,
-      "playTimeSeconds": 18275,
+      "playTimeSeconds": 18335,
       "money": 276017,
       "gold": 51,
       "fame": 1015,
@@ -45,7 +35,7 @@
       "steamId": "76561198121549932",
       "name": "Prostyak",
       "sessionSeconds": 0,
-      "playTimeSeconds": 83258,
+      "playTimeSeconds": 83318,
       "money": 3983316,
       "gold": 310,
       "fame": 7177,
@@ -55,22 +45,32 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 0,
-      "playTimeSeconds": 39,
+      "playTimeSeconds": 99,
       "money": 0,
       "gold": 0,
       "fame": 0,
-      "rank": 86
+      "rank": 85
     },
     {
       "steamId": "76561198118646763",
       "name": "Jane Doe",
       "sessionSeconds": 0,
-      "playTimeSeconds": 6511,
+      "playTimeSeconds": 6571,
       "money": 93078,
       "gold": 55,
       "fame": 244,
       "rank": 67
+    },
+    {
+      "steamId": "76561198869337858",
+      "name": "Shelby",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 21156,
+      "money": 106107,
+      "gold": 105,
+      "fame": 1845,
+      "rank": 41
     }
   ],
-  "updated": "2026-10-09T02:04:51.956Z"
+  "updated": "2026-10-09T02:05:51.966Z"
 }
