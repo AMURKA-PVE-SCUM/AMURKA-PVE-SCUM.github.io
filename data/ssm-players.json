@@ -1,31 +1,41 @@
 {
-  "online": 4,
+  "online": 7,
   "players": [
     {
       "steamId": "76561198121549932",
       "name": "Prostyak",
-      "sessionSeconds": 2862,
-      "playTimeSeconds": 91287,
+      "sessionSeconds": 2922,
+      "playTimeSeconds": 91347,
       "money": 4199370,
       "gold": 320,
       "fame": 7465,
       "rank": 2
     },
     {
+      "steamId": "76561198003027414",
+      "name": "Nixy",
+      "sessionSeconds": 2873,
+      "playTimeSeconds": 44289,
+      "money": 22274,
+      "gold": 35,
+      "fame": 173,
+      "rank": 14
+    },
+    {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 1943,
-      "playTimeSeconds": 79062,
-      "money": 1091892,
+      "sessionSeconds": 2003,
+      "playTimeSeconds": 79122,
+      "money": 1092552,
       "gold": 311,
-      "fame": 4141,
+      "fame": 4146,
       "rank": 6
     },
     {
       "steamId": "76561199033254903",
       "name": "Kety",
-      "sessionSeconds": 222,
-      "playTimeSeconds": 37623,
+      "sessionSeconds": 282,
+      "playTimeSeconds": 37683,
       "money": 52309,
       "gold": 65,
       "fame": 251,
@@ -34,13 +44,33 @@
     {
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
-      "sessionSeconds": 5,
-      "playTimeSeconds": 7380,
-      "money": 152265,
-      "gold": 100,
-      "fame": 540,
+      "sessionSeconds": 12,
+      "playTimeSeconds": 7440,
+      "money": 153265,
+      "gold": 105,
+      "fame": 550,
       "rank": 68
+    },
+    {
+      "steamId": "76561198029476275",
+      "name": "XEH",
+      "sessionSeconds": 12,
+      "playTimeSeconds": 19681,
+      "money": 293960,
+      "gold": 166,
+      "fame": 1117,
+      "rank": 47
+    },
+    {
+      "steamId": "76561198077981589",
+      "name": "Чилим",
+      "sessionSeconds": 7,
+      "playTimeSeconds": 42119,
+      "money": 382741,
+      "gold": 161,
+      "fame": 1062,
+      "rank": 16
     }
   ],
-  "updated": "2026-10-09T06:03:53.646Z"
+  "updated": "2026-10-09T06:04:53.655Z"
 }
