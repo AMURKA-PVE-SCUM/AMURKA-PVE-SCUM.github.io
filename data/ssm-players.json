@@ -1,11 +1,21 @@
 {
-  "online": 2,
+  "online": 3,
   "players": [
+    {
+      "steamId": "76561198377903190",
+      "name": "Бешеная Няша",
+      "sessionSeconds": 29,
+      "playTimeSeconds": 55160,
+      "money": 26833,
+      "gold": 75,
+      "fame": 278,
+      "rank": 10
+    },
     {
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
       "sessionSeconds": 29,
-      "playTimeSeconds": 18155,
+      "playTimeSeconds": 18215,
       "money": 155265,
       "gold": 115,
       "fame": 587,
@@ -15,12 +25,12 @@
       "steamId": "76561198029476275",
       "name": "XEH",
       "sessionSeconds": 29,
-      "playTimeSeconds": 29588,
+      "playTimeSeconds": 29648,
       "money": 254436,
       "gold": 176,
       "fame": 1166,
       "rank": 30
     }
   ],
-  "updated": "2026-10-09T09:03:54.972Z"
+  "updated": "2026-10-09T09:04:54.988Z"
 }
