@@ -1,11 +1,21 @@
 {
-  "online": 2,
+  "online": 3,
   "players": [
+    {
+      "steamId": "76561198337531947",
+      "name": "brantozavr_voin2",
+      "sessionSeconds": 2063,
+      "playTimeSeconds": 118085,
+      "money": 0,
+      "gold": 0,
+      "fame": 1129,
+      "rank": 2
+    },
     {
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "sessionSeconds": 6,
-      "playTimeSeconds": 108952,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 109012,
       "money": 0,
       "gold": 0,
       "fame": 4138,
@@ -14,13 +24,13 @@
     {
       "steamId": "76561198869337858",
       "name": "Shelby",
-      "sessionSeconds": 6,
-      "playTimeSeconds": 33735,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 33795,
       "money": 0,
       "gold": 0,
       "fame": 1925,
       "rank": 42
     }
   ],
-  "updated": "2026-10-10T03:03:00.197Z"
+  "updated": "2026-10-10T03:04:00.199Z"
 }
