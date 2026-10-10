@@ -1,11 +1,11 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "sessionSeconds": 10487,
-      "playTimeSeconds": 234261,
+      "sessionSeconds": 10547,
+      "playTimeSeconds": 234321,
       "money": 0,
       "gold": 0,
       "fame": 4387,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "sessionSeconds": 759,
-      "playTimeSeconds": 57528,
+      "sessionSeconds": 819,
+      "playTimeSeconds": 57588,
       "money": 0,
       "gold": 0,
       "fame": 3394,
@@ -24,18 +24,28 @@
     {
       "steamId": "76561198800781114",
       "name": "August",
-      "sessionSeconds": 625,
-      "playTimeSeconds": 9013,
+      "sessionSeconds": 685,
+      "playTimeSeconds": 9073,
       "money": 0,
       "gold": 0,
       "fame": 335,
       "rank": 74
     },
     {
+      "steamId": "76561198831354124",
+      "name": "poosifer",
+      "sessionSeconds": 28,
+      "playTimeSeconds": 7662,
+      "money": 0,
+      "gold": 0,
+      "fame": 440,
+      "rank": 79
+    },
+    {
       "steamId": "76561198984429540",
       "name": "Тапик связи на базе",
       "sessionSeconds": 26,
-      "playTimeSeconds": 44124,
+      "playTimeSeconds": 44184,
       "money": 0,
       "gold": 0,
       "fame": 250,
@@ -45,12 +55,12 @@
       "steamId": "76561198257833454",
       "name": "KJIU3MA",
       "sessionSeconds": 26,
-      "playTimeSeconds": 27372,
+      "playTimeSeconds": 27432,
       "money": 0,
       "gold": 0,
-      "fame": 3616,
+      "fame": 3666,
       "rank": 48
     }
   ],
-  "updated": "2026-10-10T05:32:01.202Z"
+  "updated": "2026-10-10T05:33:01.212Z"
 }
