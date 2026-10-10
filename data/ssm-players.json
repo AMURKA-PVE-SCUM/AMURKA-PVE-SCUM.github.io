@@ -1,11 +1,11 @@
 {
-  "online": 3,
+  "online": 4,
   "players": [
     {
       "steamId": "76561198372320271",
       "name": "ADA",
-      "sessionSeconds": 184,
-      "playTimeSeconds": 56152,
+      "sessionSeconds": 245,
+      "playTimeSeconds": 56209,
       "money": 726132,
       "gold": 76,
       "fame": 1150,
@@ -15,7 +15,7 @@
       "steamId": "76561198984429540",
       "name": "Тапик связи на базе",
       "sessionSeconds": 1,
-      "playTimeSeconds": 66613,
+      "playTimeSeconds": 66670,
       "money": 57947,
       "gold": 90,
       "fame": 405,
@@ -25,12 +25,22 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 1,
-      "playTimeSeconds": 87821,
+      "playTimeSeconds": 87878,
       "money": 26276,
       "gold": 120,
       "fame": 322,
       "rank": 12
+    },
+    {
+      "steamId": "76561198120086834",
+      "name": "Myp3ilka",
+      "sessionSeconds": 1,
+      "playTimeSeconds": 108596,
+      "money": 685887,
+      "gold": 176,
+      "fame": 2090,
+      "rank": 10
     }
   ],
-  "updated": "2026-10-10T18:03:08.088Z"
+  "updated": "2026-10-10T18:04:08.101Z"
 }
