@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 10,
   "players": [
     {
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "sessionSeconds": 22459,
-      "playTimeSeconds": 73049,
+      "sessionSeconds": 22519,
+      "playTimeSeconds": 73109,
       "money": 80026,
       "gold": 4851,
       "fame": 3455,
@@ -15,7 +15,7 @@
       "steamId": "76561198775651698",
       "name": "Добряк",
       "sessionSeconds": 15,
-      "playTimeSeconds": 66868,
+      "playTimeSeconds": 66928,
       "money": 4652430,
       "gold": 294,
       "fame": 14071,
@@ -25,7 +25,7 @@
       "steamId": "76561198826257359",
       "name": "XXXX",
       "sessionSeconds": 15,
-      "playTimeSeconds": 23163,
+      "playTimeSeconds": 23223,
       "money": 5400,
       "gold": 30,
       "fame": 103,
@@ -35,7 +35,7 @@
       "steamId": "76561199569191127",
       "name": "Mira",
       "sessionSeconds": 15,
-      "playTimeSeconds": 55773,
+      "playTimeSeconds": 55833,
       "money": 227201,
       "gold": 48,
       "fame": 1286,
@@ -45,7 +45,7 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 15,
-      "playTimeSeconds": 77123,
+      "playTimeSeconds": 77183,
       "money": 23376,
       "gold": 105,
       "fame": 286,
@@ -54,13 +54,53 @@
     {
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
-      "sessionSeconds": 2,
-      "playTimeSeconds": 105987,
+      "sessionSeconds": 15,
+      "playTimeSeconds": 106047,
       "money": 1622021,
       "gold": 288,
       "fame": 9859,
       "rank": 10
+    },
+    {
+      "steamId": "76561199446477479",
+      "name": "brazeenhtein2",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 75328,
+      "money": 326637,
+      "gold": 198,
+      "fame": 2573,
+      "rank": 17
+    },
+    {
+      "steamId": "76561198215398893",
+      "name": "Shmulkee",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 55041,
+      "money": 376813,
+      "gold": 154,
+      "fame": 2692,
+      "rank": 30
+    },
+    {
+      "steamId": "76561198372320271",
+      "name": "ADA",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 45517,
+      "money": 851008,
+      "gold": 225,
+      "fame": 1096,
+      "rank": 36
+    },
+    {
+      "steamId": "76561199877063571",
+      "name": "Mazay",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 114999,
+      "money": 1103968,
+      "gold": 488,
+      "fame": 3053,
+      "rank": 7
     }
   ],
-  "updated": "2026-10-10T15:04:06.849Z"
+  "updated": "2026-10-10T15:05:06.851Z"
 }
