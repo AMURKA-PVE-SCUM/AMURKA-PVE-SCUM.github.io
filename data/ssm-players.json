@@ -1,46 +1,86 @@
 {
-  "online": 4,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198372320271",
       "name": "ADA",
-      "sessionSeconds": 10986,
-      "playTimeSeconds": 66310,
+      "sessionSeconds": 11046,
+      "playTimeSeconds": 66370,
       "money": 524670,
       "gold": 91,
       "fame": 1202,
       "rank": 29
     },
     {
+      "steamId": "76561199486830797",
+      "name": "yuriiermolenko861",
+      "sessionSeconds": 18,
+      "playTimeSeconds": 121639,
+      "money": 2003625,
+      "gold": 312,
+      "fame": 11097,
+      "rank": 7
+    },
+    {
+      "steamId": "76561198775651698",
+      "name": "Добряк",
+      "sessionSeconds": 17,
+      "playTimeSeconds": 77892,
+      "money": 4792075,
+      "gold": 310,
+      "fame": 14705,
+      "rank": 20
+    },
+    {
+      "steamId": "76561199189470290",
+      "name": "Konffetka",
+      "sessionSeconds": 17,
+      "playTimeSeconds": 94381,
+      "money": 522928,
+      "gold": 363,
+      "fame": 4375,
+      "rank": 13
+    },
+    {
+      "steamId": "76561198984429540",
+      "name": "Тапик связи на базе",
+      "sessionSeconds": 17,
+      "playTimeSeconds": 76465,
+      "money": 4389,
+      "gold": 85,
+      "fame": 5,
+      "rank": 22
+    },
+    {
+      "steamId": "76561198067720439",
+      "name": "Genih",
+      "sessionSeconds": 17,
+      "playTimeSeconds": 92649,
+      "money": 1620201,
+      "gold": 444,
+      "fame": 3185,
+      "rank": 14
+    },
+    {
       "steamId": "76561198826257359",
       "name": "XXXX",
       "sessionSeconds": 17,
-      "playTimeSeconds": 44036,
+      "playTimeSeconds": 44096,
       "money": 80510,
       "gold": 60,
       "fame": 186,
       "rank": 41
     },
     {
-      "steamId": "76561198984429540",
-      "name": "Тапик связи на базе",
-      "sessionSeconds": 8,
-      "playTimeSeconds": 76405,
-      "money": 4389,
-      "gold": 85,
-      "fame": 44,
-      "rank": 22
-    },
-    {
-      "steamId": "76561198067720439",
-      "name": "Genih",
-      "sessionSeconds": 8,
-      "playTimeSeconds": 92589,
-      "money": 1620201,
-      "gold": 444,
-      "fame": 3185,
-      "rank": 14
+      "steamId": "76561198029476275",
+      "name": "XEH",
+      "sessionSeconds": 17,
+      "playTimeSeconds": 66240,
+      "money": 419406,
+      "gold": 227,
+      "fame": 1640,
+      "rank": 30
     }
   ],
-  "updated": "2026-10-10T21:03:09.457Z"
+  "updated": "2026-10-10T21:04:09.460Z"
 }
