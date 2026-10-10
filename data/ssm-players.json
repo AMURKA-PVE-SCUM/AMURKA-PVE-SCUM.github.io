@@ -1,21 +1,21 @@
 {
-  "online": 3,
+  "online": 4,
   "players": [
     {
       "steamId": "76561198054083179",
       "name": "Roksi",
-      "sessionSeconds": 3790,
-      "playTimeSeconds": 38233,
+      "sessionSeconds": 3850,
+      "playTimeSeconds": 38293,
       "money": 0,
       "gold": 0,
-      "fame": 5583,
+      "fame": 5584,
       "rank": 39
     },
     {
       "steamId": "76561199801792277",
       "name": "Сол Хоггар",
-      "sessionSeconds": 2600,
-      "playTimeSeconds": 42288,
+      "sessionSeconds": 2660,
+      "playTimeSeconds": 42348,
       "money": 0,
       "gold": 0,
       "fame": 382,
@@ -24,13 +24,23 @@
     {
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "sessionSeconds": 677,
-      "playTimeSeconds": 219856,
+      "sessionSeconds": 737,
+      "playTimeSeconds": 219916,
       "money": 0,
       "gold": 0,
       "fame": 3826,
       "rank": 1
+    },
+    {
+      "steamId": "76561198041539804",
+      "name": "Ded_13",
+      "sessionSeconds": 16,
+      "playTimeSeconds": 103286,
+      "money": 0,
+      "gold": 0,
+      "fame": 3948,
+      "rank": 5
     }
   ],
-  "updated": "2026-10-10T01:23:59.415Z"
+  "updated": "2026-10-10T01:24:59.429Z"
 }
