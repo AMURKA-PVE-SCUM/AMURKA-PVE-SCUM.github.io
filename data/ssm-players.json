@@ -1,5 +1,26 @@
 {
-  "online": 0,
-  "players": [],
-  "updated": "2026-10-10T00:19:58.896Z"
+  "online": 2,
+  "players": [
+    {
+      "steamId": "76561198139995845",
+      "name": "SeverGorod",
+      "sessionSeconds": 25,
+      "playTimeSeconds": 216076,
+      "money": 0,
+      "gold": 0,
+      "fame": 3812,
+      "rank": 1
+    },
+    {
+      "steamId": "76561198054083179",
+      "name": "Roksi",
+      "sessionSeconds": 9,
+      "playTimeSeconds": 34454,
+      "money": 0,
+      "gold": 0,
+      "fame": 5432,
+      "rank": 40
+    }
+  ],
+  "updated": "2026-10-10T00:20:58.900Z"
 }
