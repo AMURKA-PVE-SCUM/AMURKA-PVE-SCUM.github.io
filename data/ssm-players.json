@@ -1,21 +1,31 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198071060590",
       "name": "Black_Mamba",
-      "sessionSeconds": 7268,
-      "playTimeSeconds": 69709,
+      "sessionSeconds": 7328,
+      "playTimeSeconds": 69769,
       "money": 249597,
       "gold": 20,
       "fame": 993,
       "rank": 25
     },
     {
+      "steamId": "76561198272702715",
+      "name": "Old Vivi",
+      "sessionSeconds": 2662,
+      "playTimeSeconds": 75326,
+      "money": 53470,
+      "gold": 25,
+      "fame": 415,
+      "rank": 19
+    },
+    {
       "steamId": "76561198003027414",
       "name": "Nixy",
-      "sessionSeconds": 2552,
-      "playTimeSeconds": 116822,
+      "sessionSeconds": 2612,
+      "playTimeSeconds": 116882,
       "money": 42799,
       "gold": 20,
       "fame": 602,
@@ -24,8 +34,8 @@
     {
       "steamId": "76561198372320271",
       "name": "ADA",
-      "sessionSeconds": 305,
-      "playTimeSeconds": 56269,
+      "sessionSeconds": 365,
+      "playTimeSeconds": 56329,
       "money": 724368,
       "gold": 76,
       "fame": 1150,
@@ -35,7 +45,7 @@
       "steamId": "76561198984429540",
       "name": "Тапик связи на базе",
       "sessionSeconds": 1,
-      "playTimeSeconds": 66730,
+      "playTimeSeconds": 66790,
       "money": 57947,
       "gold": 90,
       "fame": 405,
@@ -45,7 +55,7 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 1,
-      "playTimeSeconds": 87938,
+      "playTimeSeconds": 87998,
       "money": 26176,
       "gold": 120,
       "fame": 322,
@@ -55,7 +65,7 @@
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
       "sessionSeconds": 1,
-      "playTimeSeconds": 108656,
+      "playTimeSeconds": 108716,
       "money": 685887,
       "gold": 176,
       "fame": 2090,
@@ -65,7 +75,7 @@
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 1,
-      "playTimeSeconds": 272082,
+      "playTimeSeconds": 272142,
       "money": 1303510,
       "gold": 1150,
       "fame": 4602,
@@ -75,12 +85,12 @@
       "steamId": "76561198029476275",
       "name": "XEH",
       "sessionSeconds": 1,
-      "playTimeSeconds": 56671,
+      "playTimeSeconds": 56731,
       "money": 366214,
       "gold": 217,
       "fame": 1550,
       "rank": 31
     }
   ],
-  "updated": "2026-10-10T18:05:08.107Z"
+  "updated": "2026-10-10T18:06:08.121Z"
 }
