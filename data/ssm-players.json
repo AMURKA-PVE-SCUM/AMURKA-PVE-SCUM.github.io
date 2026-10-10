@@ -1,11 +1,21 @@
 {
-  "online": 3,
+  "online": 7,
   "players": [
+    {
+      "steamId": "76561198794536026",
+      "name": "Ayanakoji",
+      "sessionSeconds": 11695,
+      "playTimeSeconds": 108208,
+      "money": 198375,
+      "gold": 194,
+      "fame": 1825,
+      "rank": 6
+    },
     {
       "steamId": "76561198398949061",
       "name": "Ksn",
       "sessionSeconds": 29,
-      "playTimeSeconds": 23565,
+      "playTimeSeconds": 23625,
       "money": 16816,
       "gold": 40,
       "fame": 94,
@@ -14,23 +24,53 @@
     {
       "steamId": "76561199446477479",
       "name": "brazeenhtein2",
-      "sessionSeconds": 22,
-      "playTimeSeconds": 64568,
+      "sessionSeconds": 29,
+      "playTimeSeconds": 64628,
       "money": 332793,
       "gold": 183,
-      "fame": 2489,
+      "fame": 2490,
       "rank": 20
     },
     {
-      "steamId": "76561198831354124",
-      "name": "poosifer",
-      "sessionSeconds": 14,
-      "playTimeSeconds": 18703,
-      "money": 452446,
-      "gold": 71,
-      "fame": 480,
-      "rank": 61
+      "steamId": "76561199095490074",
+      "name": "KeKsIk",
+      "sessionSeconds": 29,
+      "playTimeSeconds": 23265,
+      "money": 138854,
+      "gold": 80,
+      "fame": 700,
+      "rank": 54
+    },
+    {
+      "steamId": "76561198984429540",
+      "name": "Тапик связи на базе",
+      "sessionSeconds": 29,
+      "playTimeSeconds": 45527,
+      "money": 16527,
+      "gold": 60,
+      "fame": 252,
+      "rank": 35
+    },
+    {
+      "steamId": "76561199699294853",
+      "name": "ПАТRИК",
+      "sessionSeconds": 29,
+      "playTimeSeconds": 20502,
+      "money": 91518,
+      "gold": 25,
+      "fame": 208,
+      "rank": 59
+    },
+    {
+      "steamId": "76561199801792277",
+      "name": "Сол Хоггар",
+      "sessionSeconds": 9,
+      "playTimeSeconds": 69358,
+      "money": 271508,
+      "gold": 95,
+      "fame": 530,
+      "rank": 15
     }
   ],
-  "updated": "2026-10-10T12:03:05.502Z"
+  "updated": "2026-10-10T12:04:05.507Z"
 }
