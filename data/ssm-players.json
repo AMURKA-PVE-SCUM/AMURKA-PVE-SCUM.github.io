@@ -1,11 +1,11 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "sessionSeconds": 74307,
-      "playTimeSeconds": 71807,
+      "sessionSeconds": 74367,
+      "playTimeSeconds": 71867,
       "money": 239772,
       "gold": 201,
       "fame": 1193,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198372320271",
       "name": "ADA",
-      "sessionSeconds": 16807,
-      "playTimeSeconds": 72122,
+      "sessionSeconds": 16867,
+      "playTimeSeconds": 72182,
       "money": 626670,
       "gold": 101,
       "fame": 1228,
@@ -25,7 +25,7 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 10,
-      "playTimeSeconds": 104200,
+      "playTimeSeconds": 104260,
       "money": 29976,
       "gold": 140,
       "fame": 376,
@@ -35,8 +35,8 @@
       "steamId": "76561198984429540",
       "name": "Тапик связи на базе",
       "sessionSeconds": 10,
-      "playTimeSeconds": 81536,
-      "money": 101229,
+      "playTimeSeconds": 81596,
+      "money": 84914,
       "gold": 90,
       "fame": 521,
       "rank": 20
@@ -45,7 +45,7 @@
       "steamId": "76561198826257359",
       "name": "XXXX",
       "sessionSeconds": 10,
-      "playTimeSeconds": 49848,
+      "playTimeSeconds": 49908,
       "money": 81510,
       "gold": 65,
       "fame": 200,
@@ -55,17 +55,27 @@
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 10,
-      "playTimeSeconds": 288071,
+      "playTimeSeconds": 288131,
       "money": 1301580,
       "gold": 1175,
       "fame": 5167,
       "rank": 1
     },
     {
+      "steamId": "76561198029476275",
+      "name": "XEH",
+      "sessionSeconds": 10,
+      "playTimeSeconds": 70580,
+      "money": 447095,
+      "gold": 237,
+      "fame": 1663,
+      "rank": 27
+    },
+    {
       "steamId": "76561198052403991",
       "name": "Lis",
       "sessionSeconds": 10,
-      "playTimeSeconds": 49479,
+      "playTimeSeconds": 49539,
       "money": 134665,
       "gold": 245,
       "fame": 1226,
@@ -75,12 +85,12 @@
       "steamId": "76561198775651698",
       "name": "Добряк",
       "sessionSeconds": 10,
-      "playTimeSeconds": 83467,
+      "playTimeSeconds": 83527,
       "money": 4900234,
       "gold": 320,
       "fame": 15026,
       "rank": 18
     }
   ],
-  "updated": "2026-10-10T22:40:10.163Z"
+  "updated": "2026-10-10T22:41:10.175Z"
 }
