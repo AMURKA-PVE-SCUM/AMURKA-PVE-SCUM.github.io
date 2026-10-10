@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "sessionSeconds": 4097,
-      "playTimeSeconds": 64039,
+      "sessionSeconds": 4157,
+      "playTimeSeconds": 64099,
       "money": 0,
       "gold": 0,
       "fame": 1158,
@@ -14,28 +14,38 @@
     {
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "sessionSeconds": 2423,
-      "playTimeSeconds": 118444,
+      "sessionSeconds": 2483,
+      "playTimeSeconds": 118504,
       "money": 0,
       "gold": 0,
       "fame": 1131,
       "rank": 2
     },
     {
+      "steamId": "76561198139995845",
+      "name": "SeverGorod",
+      "sessionSeconds": 2026,
+      "playTimeSeconds": 225814,
+      "money": 0,
+      "gold": 0,
+      "fame": 3851,
+      "rank": 1
+    },
+    {
       "steamId": "76561198831354124",
       "name": "poosifer",
-      "sessionSeconds": 1873,
-      "playTimeSeconds": 1867,
+      "sessionSeconds": 1933,
+      "playTimeSeconds": 1927,
       "money": 0,
       "gold": 0,
       "fame": 410,
-      "rank": 90
+      "rank": 89
     },
     {
       "steamId": "76561199738233208",
       "name": "Бен Гур",
-      "sessionSeconds": 723,
-      "playTimeSeconds": 657,
+      "sessionSeconds": 783,
+      "playTimeSeconds": 717,
       "money": 0,
       "gold": 0,
       "fame": 185,
@@ -44,8 +54,8 @@
     {
       "steamId": "76561199801792277",
       "name": "Сол Хоггар",
-      "sessionSeconds": 597,
-      "playTimeSeconds": 45755,
+      "sessionSeconds": 657,
+      "playTimeSeconds": 45815,
       "money": 0,
       "gold": 0,
       "fame": 395,
@@ -55,7 +65,7 @@
       "steamId": "76561198041539804",
       "name": "Ded_13",
       "sessionSeconds": 8,
-      "playTimeSeconds": 109371,
+      "playTimeSeconds": 109431,
       "money": 0,
       "gold": 0,
       "fame": 4139,
@@ -65,12 +75,12 @@
       "steamId": "76561198869337858",
       "name": "Shelby",
       "sessionSeconds": 8,
-      "playTimeSeconds": 34154,
+      "playTimeSeconds": 34214,
       "money": 0,
       "gold": 0,
       "fame": 1925,
       "rank": 41
     }
   ],
-  "updated": "2026-10-10T03:10:00.228Z"
+  "updated": "2026-10-10T03:11:00.230Z"
 }
