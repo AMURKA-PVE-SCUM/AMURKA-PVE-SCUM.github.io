@@ -1,11 +1,11 @@
 {
-  "online": 4,
+  "online": 5,
   "players": [
     {
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "sessionSeconds": 9827,
-      "playTimeSeconds": 233602,
+      "sessionSeconds": 9887,
+      "playTimeSeconds": 233662,
       "money": 0,
       "gold": 0,
       "fame": 3887,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "sessionSeconds": 98,
-      "playTimeSeconds": 56869,
+      "sessionSeconds": 158,
+      "playTimeSeconds": 56929,
       "money": 0,
       "gold": 0,
       "fame": 3384,
@@ -25,7 +25,7 @@
       "steamId": "76561198984429540",
       "name": "Тапик связи на базе",
       "sessionSeconds": 27,
-      "playTimeSeconds": 43465,
+      "playTimeSeconds": 43525,
       "money": 0,
       "gold": 0,
       "fame": 239,
@@ -35,12 +35,22 @@
       "steamId": "76561198257833454",
       "name": "KJIU3MA",
       "sessionSeconds": 27,
-      "playTimeSeconds": 26713,
+      "playTimeSeconds": 26773,
       "money": 0,
       "gold": 0,
       "fame": 3600,
-      "rank": 49
+      "rank": 48
+    },
+    {
+      "steamId": "76561198800781114",
+      "name": "August",
+      "sessionSeconds": 25,
+      "playTimeSeconds": 8414,
+      "money": 0,
+      "gold": 0,
+      "fame": 333,
+      "rank": 75
     }
   ],
-  "updated": "2026-10-10T05:21:01.107Z"
+  "updated": "2026-10-10T05:22:01.122Z"
 }
