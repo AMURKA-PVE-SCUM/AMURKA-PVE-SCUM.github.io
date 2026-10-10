@@ -1,21 +1,21 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198800781114",
       "name": "August",
-      "sessionSeconds": 17,
-      "playTimeSeconds": 15940,
+      "sessionSeconds": 16,
+      "playTimeSeconds": 16000,
       "money": 0,
       "gold": 0,
-      "fame": 364,
+      "fame": 372,
       "rank": 62
     },
     {
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "sessionSeconds": 17,
-      "playTimeSeconds": 241250,
+      "sessionSeconds": 16,
+      "playTimeSeconds": 241310,
       "money": 0,
       "gold": 0,
       "fame": 4458,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561199801792277",
       "name": "Сол Хоггар",
-      "sessionSeconds": 17,
-      "playTimeSeconds": 54171,
+      "sessionSeconds": 16,
+      "playTimeSeconds": 54231,
       "money": 0,
       "gold": 0,
       "fame": 466,
@@ -34,8 +34,8 @@
     {
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "sessionSeconds": 17,
-      "playTimeSeconds": 118540,
+      "sessionSeconds": 16,
+      "playTimeSeconds": 118600,
       "money": 0,
       "gold": 0,
       "fame": 4548,
@@ -44,8 +44,8 @@
     {
       "steamId": "76561198272702715",
       "name": "Old Vivi",
-      "sessionSeconds": 17,
-      "playTimeSeconds": 48055,
+      "sessionSeconds": 16,
+      "playTimeSeconds": 48115,
       "money": 0,
       "gold": 0,
       "fame": 325,
@@ -54,8 +54,8 @@
     {
       "steamId": "76561199033254903",
       "name": "Kety",
-      "sessionSeconds": 17,
-      "playTimeSeconds": 57383,
+      "sessionSeconds": 16,
+      "playTimeSeconds": 57443,
       "money": 0,
       "gold": 0,
       "fame": 414,
@@ -64,8 +64,8 @@
     {
       "steamId": "76561198003027414",
       "name": "Nixy",
-      "sessionSeconds": 17,
-      "playTimeSeconds": 94581,
+      "sessionSeconds": 16,
+      "playTimeSeconds": 94641,
       "money": 0,
       "gold": 0,
       "fame": 516,
@@ -74,13 +74,23 @@
     {
       "steamId": "76561198377903190",
       "name": "Бешеная Няша",
-      "sessionSeconds": 17,
-      "playTimeSeconds": 73799,
+      "sessionSeconds": 16,
+      "playTimeSeconds": 73859,
       "money": 0,
       "gold": 0,
       "fame": 437,
       "rank": 12
+    },
+    {
+      "steamId": "76561198748940532",
+      "name": "Wild_Man",
+      "sessionSeconds": 4,
+      "playTimeSeconds": 28905,
+      "money": 0,
+      "gold": 0,
+      "fame": 122,
+      "rank": 48
     }
   ],
-  "updated": "2026-10-10T07:38:02.160Z"
+  "updated": "2026-10-10T07:39:02.170Z"
 }
