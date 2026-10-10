@@ -1,11 +1,11 @@
 {
-  "online": 8,
+  "online": 7,
   "players": [
     {
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "sessionSeconds": 75387,
-      "playTimeSeconds": 72885,
+      "sessionSeconds": 75447,
+      "playTimeSeconds": 72945,
       "money": 239772,
       "gold": 201,
       "fame": 1194,
@@ -15,7 +15,7 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 8,
-      "playTimeSeconds": 105278,
+      "playTimeSeconds": 105338,
       "money": 30976,
       "gold": 145,
       "fame": 387,
@@ -25,7 +25,7 @@
       "steamId": "76561198984429540",
       "name": "Тапик связи на базе",
       "sessionSeconds": 8,
-      "playTimeSeconds": 82614,
+      "playTimeSeconds": 82674,
       "money": 80475,
       "gold": 90,
       "fame": 522,
@@ -35,7 +35,7 @@
       "steamId": "76561198826257359",
       "name": "XXXX",
       "sessionSeconds": 8,
-      "playTimeSeconds": 50926,
+      "playTimeSeconds": 50986,
       "money": 82510,
       "gold": 70,
       "fame": 212,
@@ -45,7 +45,7 @@
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 8,
-      "playTimeSeconds": 289149,
+      "playTimeSeconds": 289209,
       "money": 1301580,
       "gold": 1175,
       "fame": 5170,
@@ -55,7 +55,7 @@
       "steamId": "76561198029476275",
       "name": "XEH",
       "sessionSeconds": 8,
-      "playTimeSeconds": 71598,
+      "playTimeSeconds": 71658,
       "money": 447095,
       "gold": 237,
       "fame": 1663,
@@ -65,22 +65,12 @@
       "steamId": "76561198052403991",
       "name": "Lis",
       "sessionSeconds": 8,
-      "playTimeSeconds": 50557,
+      "playTimeSeconds": 50617,
       "money": 134665,
       "gold": 245,
       "fame": 1232,
       "rank": 38
-    },
-    {
-      "steamId": "76561198775651698",
-      "name": "Добряк",
-      "sessionSeconds": 8,
-      "playTimeSeconds": 84545,
-      "money": 4904454,
-      "gold": 320,
-      "fame": 15056,
-      "rank": 17
     }
   ],
-  "updated": "2026-10-10T22:58:10.288Z"
+  "updated": "2026-10-10T22:59:10.291Z"
 }
