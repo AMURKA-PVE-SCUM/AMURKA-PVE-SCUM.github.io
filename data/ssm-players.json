@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 7,
   "players": [
     {
       "steamId": "76561199569191127",
       "name": "Mira",
-      "sessionSeconds": 44201,
-      "playTimeSeconds": 74841,
+      "sessionSeconds": 44261,
+      "playTimeSeconds": 74901,
       "money": 335634,
       "gold": 74,
       "fame": 1619,
@@ -15,7 +15,7 @@
       "steamId": "76561199684926739",
       "name": "Skeleton",
       "sessionSeconds": 6,
-      "playTimeSeconds": 77166,
+      "playTimeSeconds": 77226,
       "money": 278083,
       "gold": 37,
       "fame": 3471,
@@ -25,7 +25,7 @@
       "steamId": "76561198271336608",
       "name": "Валерка",
       "sessionSeconds": 6,
-      "playTimeSeconds": 47058,
+      "playTimeSeconds": 47118,
       "money": 142277,
       "gold": 120,
       "fame": 219,
@@ -35,7 +35,7 @@
       "steamId": "76561198530159238",
       "name": "Andro",
       "sessionSeconds": 6,
-      "playTimeSeconds": 24983,
+      "playTimeSeconds": 25043,
       "money": 1024683,
       "gold": 200,
       "fame": 3277,
@@ -45,7 +45,7 @@
       "steamId": "76561198029476275",
       "name": "XEH",
       "sessionSeconds": 6,
-      "playTimeSeconds": 81948,
+      "playTimeSeconds": 82008,
       "money": 450095,
       "gold": 252,
       "fame": 1655,
@@ -54,13 +54,23 @@
     {
       "steamId": "76561198831354124",
       "name": "poosifer",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 45250,
+      "sessionSeconds": 6,
+      "playTimeSeconds": 45311,
       "money": 486615,
       "gold": 106,
       "fame": 591,
       "rank": 44
+    },
+    {
+      "steamId": "76561198415996611",
+      "name": "AND",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 12720,
+      "money": 3000,
+      "gold": 15,
+      "fame": 52,
+      "rank": 78
     }
   ],
-  "updated": "2026-10-11T06:04:13.513Z"
+  "updated": "2026-10-11T06:05:13.520Z"
 }
