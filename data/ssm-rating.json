@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 311578,
+      "playTimeSeconds": 311638,
       "money": 1460579,
       "gold": 1205,
       "fame": 5296,
@@ -24,17 +24,17 @@
       "rank": 3,
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "playTimeSeconds": 140236,
+      "playTimeSeconds": 140288,
       "money": 2312253,
       "gold": 749,
       "fame": 5160,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 4,
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "playTimeSeconds": 129882,
+      "playTimeSeconds": 129942,
       "money": 185476,
       "gold": 355,
       "fame": 1183,
@@ -42,6 +42,16 @@
     },
     {
       "rank": 5,
+      "steamId": "76561198352984050",
+      "name": "Vlad",
+      "playTimeSeconds": 128139,
+      "money": 36976,
+      "gold": 175,
+      "fame": 465,
+      "isOnline": true
+    },
+    {
+      "rank": 6,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
       "playTimeSeconds": 128102,
@@ -49,16 +59,6 @@
       "gold": 224,
       "fame": 1905,
       "isOnline": false
-    },
-    {
-      "rank": 6,
-      "steamId": "76561198352984050",
-      "name": "Vlad",
-      "playTimeSeconds": 128079,
-      "money": 36976,
-      "gold": 175,
-      "fame": 465,
-      "isOnline": true
     },
     {
       "rank": 7,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561198003027414",
       "name": "Nixy",
-      "playTimeSeconds": 119625,
+      "playTimeSeconds": 119685,
       "money": 43799,
       "gold": 25,
       "fame": 614,
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "playTimeSeconds": 94991,
+      "playTimeSeconds": 95051,
       "money": 237066,
       "gold": 236,
       "fame": 1284,
@@ -144,7 +144,7 @@
       "rank": 15,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 92447,
+      "playTimeSeconds": 92507,
       "money": 169375,
       "gold": 295,
       "fame": 555,
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561198984429540",
       "name": "Тапик связи на базе",
-      "playTimeSeconds": 87815,
+      "playTimeSeconds": 87875,
       "money": 83975,
       "gold": 100,
       "fame": 554,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-11T05:31:13.254Z"
+  "updated": "2026-10-11T05:32:13.265Z"
 }
