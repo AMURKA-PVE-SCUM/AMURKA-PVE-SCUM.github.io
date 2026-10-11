@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 357290,
+      "playTimeSeconds": 357350,
       "money": 1164339,
       "gold": 1270,
       "fame": 5498,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 153392,
+      "playTimeSeconds": 153452,
       "money": 43876,
       "gold": 210,
       "fame": 559,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198071060590",
       "name": "Black_Mamba",
-      "playTimeSeconds": 118906,
+      "playTimeSeconds": 118966,
       "money": 546190,
       "gold": 101,
       "fame": 1752,
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561198372320271",
+      "name": "ADA",
+      "playTimeSeconds": 116271,
+      "money": 701166,
+      "gold": 162,
+      "fame": 1772,
+      "isOnline": true
+    },
+    {
+      "rank": 16,
       "steamId": "76561199684926739",
       "name": "Skeleton",
       "playTimeSeconds": 116233,
@@ -149,16 +159,6 @@
       "gold": 95,
       "fame": 4889,
       "isOnline": false
-    },
-    {
-      "rank": 16,
-      "steamId": "76561198372320271",
-      "name": "ADA",
-      "playTimeSeconds": 116211,
-      "money": 701166,
-      "gold": 162,
-      "fame": 1772,
-      "isOnline": true
     },
     {
       "rank": 17,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-11T20:24:23.356Z"
+  "updated": "2026-10-11T20:25:23.366Z"
 }
