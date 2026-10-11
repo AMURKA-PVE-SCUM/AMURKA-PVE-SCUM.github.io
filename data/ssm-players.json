@@ -1,11 +1,11 @@
 {
-  "online": 10,
+  "online": 11,
   "players": [
     {
       "steamId": "76561198071060590",
       "name": "Black_Mamba",
-      "sessionSeconds": 100584,
-      "playTimeSeconds": 117468,
+      "sessionSeconds": 100644,
+      "playTimeSeconds": 117528,
       "money": 545190,
       "gold": 101,
       "fame": 1741,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561199569191127",
       "name": "Mira",
-      "sessionSeconds": 94370,
-      "playTimeSeconds": 115694,
+      "sessionSeconds": 94430,
+      "playTimeSeconds": 115754,
       "money": 468167,
       "gold": 29,
       "fame": 1973,
@@ -24,18 +24,18 @@
     {
       "steamId": "76561198372320271",
       "name": "ADA",
-      "sessionSeconds": 93620,
-      "playTimeSeconds": 115046,
+      "sessionSeconds": 93680,
+      "playTimeSeconds": 115106,
       "money": 651166,
       "gold": 161,
-      "fame": 1569,
+      "fame": 1570,
       "rank": 17
     },
     {
       "steamId": "76561198826257359",
       "name": "XXXX",
       "sessionSeconds": 2,
-      "playTimeSeconds": 74034,
+      "playTimeSeconds": 74094,
       "money": 63797,
       "gold": 100,
       "fame": 303,
@@ -45,7 +45,7 @@
       "steamId": "76561198793719213",
       "name": "Джон Тривыч",
       "sessionSeconds": 2,
-      "playTimeSeconds": 8352,
+      "playTimeSeconds": 8412,
       "money": 938540,
       "gold": 120,
       "fame": 1378,
@@ -55,7 +55,7 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 2,
-      "playTimeSeconds": 151954,
+      "playTimeSeconds": 152014,
       "money": 43876,
       "gold": 210,
       "fame": 555,
@@ -65,7 +65,7 @@
       "steamId": "76561198800781114",
       "name": "August",
       "sessionSeconds": 2,
-      "playTimeSeconds": 43944,
+      "playTimeSeconds": 44004,
       "money": 35519,
       "gold": 150,
       "fame": 567,
@@ -75,7 +75,7 @@
       "steamId": "76561198198157306",
       "name": "alekx838",
       "sessionSeconds": 2,
-      "playTimeSeconds": 23826,
+      "playTimeSeconds": 23886,
       "money": 569332,
       "gold": 120,
       "fame": 517,
@@ -85,7 +85,7 @@
       "steamId": "76561198179021974",
       "name": "ПОТАСКУШКА",
       "sessionSeconds": 2,
-      "playTimeSeconds": 13640,
+      "playTimeSeconds": 13700,
       "money": 1198183,
       "gold": 220,
       "fame": 887,
@@ -95,12 +95,22 @@
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 2,
-      "playTimeSeconds": 355852,
+      "playTimeSeconds": 355912,
       "money": 1164339,
       "gold": 1270,
       "fame": 5497,
       "rank": 1
+    },
+    {
+      "steamId": "76561198530159238",
+      "name": "Andro",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 30307,
+      "money": 1386025,
+      "gold": 206,
+      "fame": 3478,
+      "rank": 61
     }
   ],
-  "updated": "2026-10-11T20:00:23.183Z"
+  "updated": "2026-10-11T20:01:23.190Z"
 }
