@@ -1,11 +1,11 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "sessionSeconds": 84509,
-      "playTimeSeconds": 81638,
+      "sessionSeconds": 84569,
+      "playTimeSeconds": 81698,
       "money": 264619,
       "gold": 216,
       "fame": 1226,
@@ -15,7 +15,7 @@
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 27,
-      "playTimeSeconds": 297967,
+      "playTimeSeconds": 298027,
       "money": 1404662,
       "gold": 1190,
       "fame": 5234,
@@ -25,7 +25,7 @@
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "sessionSeconds": 27,
-      "playTimeSeconds": 29535,
+      "playTimeSeconds": 29595,
       "money": 265162,
       "gold": 66,
       "fame": 1054,
@@ -35,7 +35,7 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 27,
-      "playTimeSeconds": 113926,
+      "playTimeSeconds": 113986,
       "money": 32976,
       "gold": 155,
       "fame": 413,
@@ -45,17 +45,17 @@
       "steamId": "76561198831354124",
       "name": "poosifer",
       "sessionSeconds": 27,
-      "playTimeSeconds": 29126,
+      "playTimeSeconds": 29186,
       "money": 452275,
       "gold": 86,
-      "fame": 528,
+      "fame": 529,
       "rank": 54
     },
     {
       "steamId": "76561198982479541",
       "name": "DennyTraker",
       "sessionSeconds": 27,
-      "playTimeSeconds": 10619,
+      "playTimeSeconds": 10679,
       "money": 7785,
       "gold": 15,
       "fame": 80,
@@ -65,8 +65,8 @@
       "steamId": "76561198121549932",
       "name": "Prostyak",
       "sessionSeconds": 27,
-      "playTimeSeconds": 127195,
-      "money": 5088590,
+      "playTimeSeconds": 127255,
+      "money": 5188955,
       "gold": 374,
       "fame": 9033,
       "rank": 5
@@ -75,12 +75,22 @@
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 27,
-      "playTimeSeconds": 78454,
+      "playTimeSeconds": 78514,
       "money": 154381,
       "gold": 275,
       "fame": 497,
       "rank": 23
+    },
+    {
+      "steamId": "76561198748940532",
+      "name": "Wild_Man",
+      "sessionSeconds": 24,
+      "playTimeSeconds": 37653,
+      "money": 2024,
+      "gold": 50,
+      "fame": 154,
+      "rank": 46
     }
   ],
-  "updated": "2026-10-11T01:30:11.439Z"
+  "updated": "2026-10-11T01:31:11.450Z"
 }
