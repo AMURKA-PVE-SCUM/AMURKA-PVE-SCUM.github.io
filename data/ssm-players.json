@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
       "sessionSeconds": 27,
-      "playTimeSeconds": 35603,
-      "money": 172481,
+      "playTimeSeconds": 35663,
+      "money": 173068,
       "gold": 47,
       "fame": 355,
       "rank": 57
+    },
+    {
+      "steamId": "76561198793719213",
+      "name": "Джон Тривыч",
+      "sessionSeconds": 27,
+      "playTimeSeconds": 12141,
+      "money": 877248,
+      "gold": 125,
+      "fame": 1348,
+      "rank": 85
     }
   ],
-  "updated": "2026-10-11T21:05:23.719Z"
+  "updated": "2026-10-11T21:06:23.728Z"
 }
