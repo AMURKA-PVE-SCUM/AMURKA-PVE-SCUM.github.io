@@ -1,11 +1,11 @@
 {
-  "online": 5,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198071060590",
       "name": "Black_Mamba",
-      "sessionSeconds": 71960,
-      "playTimeSeconds": 91780,
+      "sessionSeconds": 72020,
+      "playTimeSeconds": 91840,
       "money": 303187,
       "gold": 61,
       "fame": 1428,
@@ -14,18 +14,48 @@
     {
       "steamId": "76561198372320271",
       "name": "ADA",
-      "sessionSeconds": 64996,
-      "playTimeSeconds": 87355,
+      "sessionSeconds": 65056,
+      "playTimeSeconds": 87415,
       "money": 603193,
       "gold": 121,
       "fame": 1376,
       "rank": 28
     },
     {
+      "steamId": "76561198276974656",
+      "name": "gatu",
+      "sessionSeconds": 9,
+      "playTimeSeconds": 18723,
+      "money": 35278,
+      "gold": 15,
+      "fame": 171,
+      "rank": 67
+    },
+    {
+      "steamId": "76561199155262151",
+      "name": "MazaaFakell",
+      "sessionSeconds": 9,
+      "playTimeSeconds": 32473,
+      "money": 10013,
+      "gold": 40,
+      "fame": 111,
+      "rank": 51
+    },
+    {
+      "steamId": "76561198748940532",
+      "name": "Wild_Man",
+      "sessionSeconds": 9,
+      "playTimeSeconds": 57241,
+      "money": 3123,
+      "gold": 50,
+      "fame": 234,
+      "rank": 36
+    },
+    {
       "steamId": "76561199244636054",
       "name": "_PsixichkA_",
       "sessionSeconds": 9,
-      "playTimeSeconds": 114259,
+      "playTimeSeconds": 114319,
       "money": 86626,
       "gold": 250,
       "fame": 709,
@@ -35,7 +65,7 @@
       "steamId": "76561198831354124",
       "name": "poosifer",
       "sessionSeconds": 9,
-      "playTimeSeconds": 61967,
+      "playTimeSeconds": 62027,
       "money": 608432,
       "gold": 131,
       "fame": 670,
@@ -44,13 +74,23 @@
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 7,
-      "playTimeSeconds": 131540,
+      "sessionSeconds": 9,
+      "playTimeSeconds": 131599,
       "money": 1165849,
       "gold": 513,
       "fame": 3222,
       "rank": 7
+    },
+    {
+      "steamId": "76561198120086834",
+      "name": "Myp3ilka",
+      "sessionSeconds": 7,
+      "playTimeSeconds": 118819,
+      "money": 731731,
+      "gold": 191,
+      "fame": 2512,
+      "rank": 11
     }
   ],
-  "updated": "2026-10-11T12:03:19.646Z"
+  "updated": "2026-10-11T12:04:19.655Z"
 }
