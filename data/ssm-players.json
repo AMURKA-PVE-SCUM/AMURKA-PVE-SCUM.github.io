@@ -1,11 +1,21 @@
 {
-  "online": 9,
+  "online": 10,
   "players": [
+    {
+      "steamId": "76561198077981589",
+      "name": "Чилим",
+      "sessionSeconds": 90629,
+      "playTimeSeconds": 86661,
+      "money": 265619,
+      "gold": 221,
+      "fame": 1244,
+      "rank": 16
+    },
     {
       "steamId": "76561198831354124",
       "name": "poosifer",
       "sessionSeconds": 19,
-      "playTimeSeconds": 34904,
+      "playTimeSeconds": 34963,
       "money": 451380,
       "gold": 91,
       "fame": 543,
@@ -15,7 +25,7 @@
       "steamId": "76561198415996611",
       "name": "AND",
       "sessionSeconds": 19,
-      "playTimeSeconds": 3124,
+      "playTimeSeconds": 3183,
       "money": 0,
       "gold": 0,
       "fame": 4,
@@ -25,7 +35,7 @@
       "steamId": "76561198748940532",
       "name": "Wild_Man",
       "sessionSeconds": 19,
-      "playTimeSeconds": 42600,
+      "playTimeSeconds": 42659,
       "money": 21701,
       "gold": 25,
       "fame": 167,
@@ -35,7 +45,7 @@
       "steamId": "76561199801792277",
       "name": "Сол Хоггар",
       "sessionSeconds": 19,
-      "playTimeSeconds": 70491,
+      "playTimeSeconds": 70550,
       "money": 273108,
       "gold": 100,
       "fame": 561,
@@ -45,17 +55,17 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 19,
-      "playTimeSeconds": 119690,
+      "playTimeSeconds": 119749,
       "money": 34976,
       "gold": 165,
-      "fame": 438,
+      "fame": 439,
       "rank": 8
     },
     {
       "steamId": "76561199580351165",
       "name": "ШРинат",
       "sessionSeconds": 19,
-      "playTimeSeconds": 83075,
+      "playTimeSeconds": 83134,
       "money": 90599,
       "gold": 4866,
       "fame": 3492,
@@ -65,7 +75,7 @@
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 19,
-      "playTimeSeconds": 84060,
+      "playTimeSeconds": 84119,
       "money": 147861,
       "gold": 285,
       "fame": 522,
@@ -75,7 +85,7 @@
       "steamId": "76561198171528471",
       "name": "pokalenie_pepsi",
       "sessionSeconds": 19,
-      "playTimeSeconds": 53058,
+      "playTimeSeconds": 53117,
       "money": 189717,
       "gold": 190,
       "fame": 2133,
@@ -85,12 +95,12 @@
       "steamId": "76561198121549932",
       "name": "Prostyak",
       "sessionSeconds": 19,
-      "playTimeSeconds": 132626,
+      "playTimeSeconds": 132685,
       "money": 5402864,
       "gold": 385,
       "fame": 9241,
-      "rank": 3
+      "rank": 2
     }
   ],
-  "updated": "2026-10-11T03:11:12.139Z"
+  "updated": "2026-10-11T03:12:12.147Z"
 }
