@@ -1,11 +1,11 @@
 {
-  "online": 3,
+  "online": 5,
   "players": [
     {
       "steamId": "76561198831354124",
       "name": "poosifer",
-      "sessionSeconds": 19,
-      "playTimeSeconds": 34482,
+      "sessionSeconds": 20,
+      "playTimeSeconds": 34542,
       "money": 451380,
       "gold": 91,
       "fame": 543,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198415996611",
       "name": "AND",
-      "sessionSeconds": 19,
-      "playTimeSeconds": 2702,
+      "sessionSeconds": 20,
+      "playTimeSeconds": 2762,
       "money": 0,
       "gold": 0,
       "fame": 4,
@@ -24,13 +24,33 @@
     {
       "steamId": "76561198748940532",
       "name": "Wild_Man",
-      "sessionSeconds": 19,
-      "playTimeSeconds": 42178,
+      "sessionSeconds": 20,
+      "playTimeSeconds": 42238,
       "money": 21701,
       "gold": 25,
       "fame": 167,
       "rank": 44
+    },
+    {
+      "steamId": "76561199801792277",
+      "name": "Сол Хоггар",
+      "sessionSeconds": 14,
+      "playTimeSeconds": 70130,
+      "money": 273108,
+      "gold": 100,
+      "fame": 561,
+      "rank": 28
+    },
+    {
+      "steamId": "76561198352984050",
+      "name": "Vlad",
+      "sessionSeconds": 10,
+      "playTimeSeconds": 119328,
+      "money": 34976,
+      "gold": 165,
+      "fame": 438,
+      "rank": 8
     }
   ],
-  "updated": "2026-10-11T03:04:12.075Z"
+  "updated": "2026-10-11T03:05:12.075Z"
 }
