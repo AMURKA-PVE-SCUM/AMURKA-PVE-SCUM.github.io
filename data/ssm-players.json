@@ -1,11 +1,11 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "sessionSeconds": 85769,
-      "playTimeSeconds": 82897,
+      "sessionSeconds": 85829,
+      "playTimeSeconds": 82957,
       "money": 264619,
       "gold": 216,
       "fame": 1227,
@@ -15,7 +15,7 @@
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 25,
-      "playTimeSeconds": 299226,
+      "playTimeSeconds": 299286,
       "money": 1404662,
       "gold": 1190,
       "fame": 5235,
@@ -25,7 +25,7 @@
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "sessionSeconds": 25,
-      "playTimeSeconds": 30794,
+      "playTimeSeconds": 30854,
       "money": 266162,
       "gold": 71,
       "fame": 1065,
@@ -35,7 +35,7 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 25,
-      "playTimeSeconds": 115185,
+      "playTimeSeconds": 115245,
       "money": 32976,
       "gold": 155,
       "fame": 414,
@@ -45,7 +45,7 @@
       "steamId": "76561198982479541",
       "name": "DennyTraker",
       "sessionSeconds": 25,
-      "playTimeSeconds": 11878,
+      "playTimeSeconds": 11938,
       "money": 6549,
       "gold": 20,
       "fame": 96,
@@ -55,7 +55,7 @@
       "steamId": "76561198121549932",
       "name": "Prostyak",
       "sessionSeconds": 25,
-      "playTimeSeconds": 128454,
+      "playTimeSeconds": 128514,
       "money": 5311742,
       "gold": 380,
       "fame": 9159,
@@ -65,7 +65,7 @@
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 25,
-      "playTimeSeconds": 79713,
+      "playTimeSeconds": 79773,
       "money": 145861,
       "gold": 275,
       "fame": 498,
@@ -75,12 +75,22 @@
       "steamId": "76561198831354124",
       "name": "poosifer",
       "sessionSeconds": 25,
-      "playTimeSeconds": 30363,
+      "playTimeSeconds": 30423,
       "money": 451275,
       "gold": 86,
       "fame": 530,
       "rank": 50
+    },
+    {
+      "steamId": "76561199155262151",
+      "name": "MazaaFakell",
+      "sessionSeconds": 25,
+      "playTimeSeconds": 20838,
+      "money": 9833,
+      "gold": 25,
+      "fame": 68,
+      "rank": 62
     }
   ],
-  "updated": "2026-10-11T01:51:11.593Z"
+  "updated": "2026-10-11T01:52:11.598Z"
 }
