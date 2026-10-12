@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
+    {
+      "steamId": "76561198276974656",
+      "name": "gatu",
+      "sessionSeconds": 16,
+      "playTimeSeconds": 33895,
+      "money": 39278,
+      "gold": 35,
+      "fame": 226,
+      "rank": 61
+    },
     {
       "steamId": "76561198793719213",
       "name": "Джон Тривыч",
       "sessionSeconds": 16,
-      "playTimeSeconds": 15063,
+      "playTimeSeconds": 15123,
       "money": 878248,
       "gold": 130,
       "fame": 1360,
       "rank": 79
     }
   ],
-  "updated": "2026-10-12T06:03:27.698Z"
+  "updated": "2026-10-12T06:04:27.702Z"
 }
