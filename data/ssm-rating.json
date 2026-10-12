@@ -14,11 +14,11 @@
       "rank": 2,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 191352,
+      "playTimeSeconds": 191382,
       "money": 53376,
       "gold": 260,
       "fame": 690,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 3,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198003027414",
       "name": "Nixy",
-      "playTimeSeconds": 161446,
+      "playTimeSeconds": 161506,
       "money": 42539,
       "gold": 80,
       "fame": 790,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198041539804",
       "name": "Ded_13",
-      "playTimeSeconds": 149658,
+      "playTimeSeconds": 149718,
       "money": 2744452,
       "gold": 761,
       "fame": 5984,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561199569191127",
       "name": "Mira",
-      "playTimeSeconds": 134244,
+      "playTimeSeconds": 134304,
       "money": 392095,
       "gold": 54,
       "fame": 2141,
@@ -174,7 +174,7 @@
       "rank": 18,
       "steamId": "76561198377903190",
       "name": "Бешеная Няша",
-      "playTimeSeconds": 117863,
+      "playTimeSeconds": 117923,
       "money": 176281,
       "gold": 160,
       "fame": 657,
@@ -182,6 +182,16 @@
     },
     {
       "rank": 19,
+      "steamId": "76561198272702715",
+      "name": "Old Vivi",
+      "playTimeSeconds": 117557,
+      "money": 181558,
+      "gold": 93,
+      "fame": 1384,
+      "isOnline": true
+    },
+    {
+      "rank": 20,
       "steamId": "76561198077981589",
       "name": "Чилим",
       "playTimeSeconds": 117544,
@@ -189,17 +199,7 @@
       "gold": 267,
       "fame": 1577,
       "isOnline": false
-    },
-    {
-      "rank": 20,
-      "steamId": "76561198272702715",
-      "name": "Old Vivi",
-      "playTimeSeconds": 117497,
-      "money": 181558,
-      "gold": 93,
-      "fame": 1382,
-      "isOnline": true
     }
   ],
-  "updated": "2026-10-12T15:15:31.642Z"
+  "updated": "2026-10-12T15:16:31.648Z"
 }
