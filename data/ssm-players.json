@@ -1,11 +1,21 @@
 {
-  "online": 7,
+  "online": 10,
   "players": [
+    {
+      "steamId": "76561198077981589",
+      "name": "Чилим",
+      "sessionSeconds": 198586,
+      "playTimeSeconds": 111478,
+      "money": 257519,
+      "gold": 256,
+      "fame": 1345,
+      "rank": 19
+    },
     {
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "sessionSeconds": 175769,
-      "playTimeSeconds": 154198,
+      "sessionSeconds": 175829,
+      "playTimeSeconds": 154258,
       "money": 216727,
       "gold": 390,
       "fame": 1293,
@@ -14,8 +24,8 @@
     {
       "steamId": "76561198003027414",
       "name": "Nixy",
-      "sessionSeconds": 143273,
-      "playTimeSeconds": 146865,
+      "sessionSeconds": 143333,
+      "playTimeSeconds": 146925,
       "money": 48386,
       "gold": 60,
       "fame": 729,
@@ -25,7 +35,7 @@
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 2,
-      "playTimeSeconds": 105891,
+      "playTimeSeconds": 105951,
       "money": 211041,
       "gold": 315,
       "fame": 623,
@@ -35,7 +45,7 @@
       "steamId": "76561198115245396",
       "name": "Хабаровчанин",
       "sessionSeconds": 2,
-      "playTimeSeconds": 49971,
+      "playTimeSeconds": 50031,
       "money": 121684,
       "gold": 90,
       "fame": 433,
@@ -45,7 +55,7 @@
       "steamId": "76561198793719213",
       "name": "Джон Тривыч",
       "sessionSeconds": 2,
-      "playTimeSeconds": 23678,
+      "playTimeSeconds": 23738,
       "money": 673458,
       "gold": 140,
       "fame": 1337,
@@ -55,22 +65,42 @@
       "steamId": "76561198354031168",
       "name": "sanchez",
       "sessionSeconds": 2,
-      "playTimeSeconds": 20299,
+      "playTimeSeconds": 20359,
       "money": 28189,
       "gold": 25,
-      "fame": 94,
+      "fame": 95,
       "rank": 73
     },
     {
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 2,
-      "playTimeSeconds": 173090,
+      "playTimeSeconds": 173150,
       "money": 48876,
       "gold": 235,
       "fame": 627,
       "rank": 2
+    },
+    {
+      "steamId": "76561198139995845",
+      "name": "SeverGorod",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 396500,
+      "money": 1275695,
+      "gold": 1325,
+      "fame": 5684,
+      "rank": 1
+    },
+    {
+      "steamId": "76561198377903190",
+      "name": "Бешеная Няша",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 99398,
+      "money": 177858,
+      "gold": 135,
+      "fame": 593,
+      "rank": 25
     }
   ],
-  "updated": "2026-10-12T09:10:29.039Z"
+  "updated": "2026-10-12T09:11:29.045Z"
 }
