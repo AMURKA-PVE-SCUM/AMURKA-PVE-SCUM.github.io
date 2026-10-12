@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198530159238",
       "name": "Andro",
       "sessionSeconds": 4,
-      "playTimeSeconds": 48491,
+      "playTimeSeconds": 48551,
       "money": 1429545,
       "gold": 233,
       "fame": 3879,
@@ -15,7 +15,7 @@
       "steamId": "76561198067720439",
       "name": "Genih",
       "sessionSeconds": 4,
-      "playTimeSeconds": 138299,
+      "playTimeSeconds": 138359,
       "money": 1467727,
       "gold": 525,
       "fame": 4064,
@@ -25,7 +25,7 @@
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 4,
-      "playTimeSeconds": 426174,
+      "playTimeSeconds": 426234,
       "money": 1609780,
       "gold": 1365,
       "fame": 5837,
@@ -35,7 +35,7 @@
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
       "sessionSeconds": 4,
-      "playTimeSeconds": 176041,
+      "playTimeSeconds": 176101,
       "money": 1256158,
       "gold": 1100,
       "fame": 13709,
@@ -45,7 +45,7 @@
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
       "sessionSeconds": 4,
-      "playTimeSeconds": 72896,
+      "playTimeSeconds": 72956,
       "money": 267976,
       "gold": 97,
       "fame": 811,
@@ -55,7 +55,7 @@
       "steamId": "76561199189470290",
       "name": "Konffetka",
       "sessionSeconds": 4,
-      "playTimeSeconds": 109766,
+      "playTimeSeconds": 109826,
       "money": 604023,
       "gold": 383,
       "fame": 5039,
@@ -65,12 +65,22 @@
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
       "sessionSeconds": 4,
-      "playTimeSeconds": 130463,
+      "playTimeSeconds": 130523,
       "money": 1269159,
       "gold": 383,
       "fame": 5303,
       "rank": 14
+    },
+    {
+      "steamId": "76561198256601130",
+      "name": "Clumsy",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 20845,
+      "money": 32741,
+      "gold": 25,
+      "fame": 213,
+      "rank": 74
     }
   ],
-  "updated": "2026-10-12T20:21:33.816Z"
+  "updated": "2026-10-12T20:22:33.820Z"
 }
