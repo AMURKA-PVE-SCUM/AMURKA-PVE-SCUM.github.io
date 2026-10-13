@@ -1,11 +1,11 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "sessionSeconds": 29,
-      "playTimeSeconds": 49307,
+      "playTimeSeconds": 49366,
       "money": 285953,
       "gold": 41,
       "fame": 1320,
@@ -15,7 +15,7 @@
       "steamId": "76561199580351165",
       "name": "ШРинат",
       "sessionSeconds": 29,
-      "playTimeSeconds": 102759,
+      "playTimeSeconds": 102818,
       "money": 878807,
       "gold": 4953,
       "fame": 4095,
@@ -25,7 +25,7 @@
       "steamId": "76561198811107520",
       "name": "CyberShot",
       "sessionSeconds": 29,
-      "playTimeSeconds": 1258,
+      "playTimeSeconds": 1317,
       "money": 0,
       "gold": 0,
       "fame": 1,
@@ -35,7 +35,7 @@
       "steamId": "76561199033254903",
       "name": "Kety",
       "sessionSeconds": 29,
-      "playTimeSeconds": 120161,
+      "playTimeSeconds": 120220,
       "money": 499149,
       "gold": 180,
       "fame": 964,
@@ -45,12 +45,22 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 29,
-      "playTimeSeconds": 206060,
+      "playTimeSeconds": 206119,
       "money": 58376,
       "gold": 285,
       "fame": 750,
       "rank": 2
+    },
+    {
+      "steamId": "76561198215749160",
+      "name": "SKiPPER",
+      "sessionSeconds": 29,
+      "playTimeSeconds": 54,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "rank": 122
     }
   ],
-  "updated": "2026-10-13T03:48:37.003Z"
+  "updated": "2026-10-13T03:49:37.010Z"
 }
