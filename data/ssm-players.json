@@ -1,11 +1,11 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198276974656",
       "name": "gatu",
       "sessionSeconds": 17,
-      "playTimeSeconds": 58107,
+      "playTimeSeconds": 58167,
       "money": 25025,
       "gold": 70,
       "fame": 329,
@@ -15,7 +15,7 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 17,
-      "playTimeSeconds": 215122,
+      "playTimeSeconds": 215182,
       "money": 62286,
       "gold": 295,
       "fame": 776,
@@ -25,17 +25,17 @@
       "steamId": "76561198271336608",
       "name": "Валерка",
       "sessionSeconds": 17,
-      "playTimeSeconds": 64312,
+      "playTimeSeconds": 64372,
       "money": 101238,
       "gold": 56,
-      "fame": 227,
+      "fame": 228,
       "rank": 41
     },
     {
       "steamId": "76561199033254903",
       "name": "Kety",
       "sessionSeconds": 17,
-      "playTimeSeconds": 129057,
+      "playTimeSeconds": 129117,
       "money": 352424,
       "gold": 190,
       "fame": 988,
@@ -45,12 +45,22 @@
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
       "sessionSeconds": 17,
-      "playTimeSeconds": 160848,
+      "playTimeSeconds": 160908,
       "money": 229353,
       "gold": 400,
       "fame": 1318,
       "rank": 7
+    },
+    {
+      "steamId": "76561198139995845",
+      "name": "SeverGorod",
+      "sessionSeconds": 17,
+      "playTimeSeconds": 455484,
+      "money": 1693856,
+      "gold": 1405,
+      "fame": 5970,
+      "rank": 1
     }
   ],
-  "updated": "2026-10-13T06:23:38.105Z"
+  "updated": "2026-10-13T06:24:38.112Z"
 }
