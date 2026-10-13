@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 23,
-      "playTimeSeconds": 200978,
+      "playTimeSeconds": 201038,
       "money": 1231423,
       "gold": 608,
       "fame": 3486,
       "rank": 4
+    },
+    {
+      "steamId": "76561198179021974",
+      "name": "ПОТАСКУШКА",
+      "sessionSeconds": 23,
+      "playTimeSeconds": 36409,
+      "money": 1250083,
+      "gold": 265,
+      "fame": 1040,
+      "rank": 67
     }
   ],
-  "updated": "2026-10-13T21:10:52.888Z"
+  "updated": "2026-10-13T21:11:52.901Z"
 }
