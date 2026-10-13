@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
+    {
+      "steamId": "76561199684926739",
+      "name": "Skeleton",
+      "sessionSeconds": 21,
+      "playTimeSeconds": 133541,
+      "money": 661160,
+      "gold": 115,
+      "fame": 4940,
+      "rank": 18
+    },
     {
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 21,
-      "playTimeSeconds": 232294,
+      "playTimeSeconds": 232354,
       "money": 67286,
       "gold": 320,
       "fame": 910,
       "rank": 2
     }
   ],
-  "updated": "2026-10-13T15:03:41.820Z"
+  "updated": "2026-10-13T15:04:41.835Z"
 }
