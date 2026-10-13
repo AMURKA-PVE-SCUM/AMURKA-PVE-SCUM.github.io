@@ -1,31 +1,11 @@
 {
-  "online": 8,
+  "online": 7,
   "players": [
-    {
-      "steamId": "76561198139995845",
-      "name": "SeverGorod",
-      "sessionSeconds": 718,
-      "playTimeSeconds": 464311,
-      "money": 1757912,
-      "gold": 1420,
-      "fame": 6008,
-      "rank": 1
-    },
-    {
-      "steamId": "76561198271336608",
-      "name": "Валерка",
-      "sessionSeconds": 242,
-      "playTimeSeconds": 72551,
-      "money": 104238,
-      "gold": 71,
-      "fame": 268,
-      "rank": 37
-    },
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 29,
-      "playTimeSeconds": 117027,
+      "playTimeSeconds": 117086,
       "money": 214041,
       "gold": 330,
       "fame": 666,
@@ -35,7 +15,7 @@
       "steamId": "76561198115245396",
       "name": "Хабаровчанин",
       "sessionSeconds": 29,
-      "playTimeSeconds": 63881,
+      "playTimeSeconds": 63940,
       "money": 82934,
       "gold": 110,
       "fame": 465,
@@ -45,7 +25,7 @@
       "steamId": "76561198068992719",
       "name": "Alina",
       "sessionSeconds": 29,
-      "playTimeSeconds": 71744,
+      "playTimeSeconds": 71803,
       "money": 1138548,
       "gold": 415,
       "fame": 800,
@@ -55,7 +35,7 @@
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
       "sessionSeconds": 29,
-      "playTimeSeconds": 28768,
+      "playTimeSeconds": 28827,
       "money": 158265,
       "gold": 130,
       "fame": 636,
@@ -65,7 +45,7 @@
       "steamId": "76561199580351165",
       "name": "ШРинат",
       "sessionSeconds": 29,
-      "playTimeSeconds": 110445,
+      "playTimeSeconds": 110504,
       "money": 904344,
       "gold": 4963,
       "fame": 4134,
@@ -75,12 +55,22 @@
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 29,
-      "playTimeSeconds": 171448,
+      "playTimeSeconds": 171507,
       "money": 1224853,
       "gold": 568,
       "fame": 3378,
       "rank": 5
+    },
+    {
+      "steamId": "76561198354031168",
+      "name": "sanchez",
+      "sessionSeconds": 5,
+      "playTimeSeconds": 34332,
+      "money": 99372,
+      "gold": 45,
+      "fame": 153,
+      "rank": 67
     }
   ],
-  "updated": "2026-10-13T08:55:39.190Z"
+  "updated": "2026-10-13T08:56:39.199Z"
 }
