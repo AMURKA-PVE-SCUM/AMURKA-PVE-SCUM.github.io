@@ -1,5 +1,16 @@
 {
-  "online": 0,
-  "players": [],
-  "updated": "2026-10-13T06:03:37.984Z"
+  "online": 1,
+  "players": [
+    {
+      "steamId": "76561198352984050",
+      "name": "Vlad",
+      "sessionSeconds": 19,
+      "playTimeSeconds": 213983,
+      "money": 62286,
+      "gold": 295,
+      "fame": 775,
+      "rank": 2
+    }
+  ],
+  "updated": "2026-10-13T06:04:37.989Z"
 }
