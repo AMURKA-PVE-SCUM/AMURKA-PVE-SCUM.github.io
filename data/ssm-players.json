@@ -1,21 +1,41 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
+    {
+      "steamId": "76561198377903190",
+      "name": "Бешеная Няша",
+      "sessionSeconds": 21,
+      "playTimeSeconds": 120483,
+      "money": 177281,
+      "gold": 165,
+      "fame": 669,
+      "rank": 25
+    },
     {
       "steamId": "76561198272702715",
       "name": "Old Vivi",
       "sessionSeconds": 21,
-      "playTimeSeconds": 122995,
+      "playTimeSeconds": 123052,
       "money": 182269,
       "gold": 98,
       "fame": 1452,
       "rank": 24
     },
     {
+      "steamId": "76561198826257359",
+      "name": "XXXX",
+      "sessionSeconds": 21,
+      "playTimeSeconds": 124400,
+      "money": 55193,
+      "gold": 136,
+      "fame": 487,
+      "rank": 23
+    },
+    {
       "steamId": "76561199684926739",
       "name": "Skeleton",
       "sessionSeconds": 21,
-      "playTimeSeconds": 133601,
+      "playTimeSeconds": 133658,
       "money": 661160,
       "gold": 115,
       "fame": 4940,
@@ -25,7 +45,7 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 21,
-      "playTimeSeconds": 232414,
+      "playTimeSeconds": 232471,
       "money": 67286,
       "gold": 320,
       "fame": 910,
@@ -34,23 +54,13 @@
     {
       "steamId": "76561198869337858",
       "name": "Shelby",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 64828,
+      "sessionSeconds": 21,
+      "playTimeSeconds": 64886,
       "money": 317283,
       "gold": 166,
       "fame": 2457,
       "rank": 45
-    },
-    {
-      "steamId": "76561198826257359",
-      "name": "XXXX",
-      "sessionSeconds": 13,
-      "playTimeSeconds": 124342,
-      "money": 55193,
-      "gold": 136,
-      "fame": 487,
-      "rank": 23
     }
   ],
-  "updated": "2026-10-13T15:05:41.848Z"
+  "updated": "2026-10-13T15:06:41.858Z"
 }
