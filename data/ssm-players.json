@@ -1,11 +1,51 @@
 {
-  "online": 5,
+  "online": 7,
   "players": [
+    {
+      "steamId": "76561199033254903",
+      "name": "Kety",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 137970,
+      "money": 363246,
+      "gold": 200,
+      "fame": 1020,
+      "rank": 13
+    },
+    {
+      "steamId": "76561199486830797",
+      "name": "yuriiermolenko861",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 192279,
+      "money": 1301974,
+      "gold": 951,
+      "fame": 14580,
+      "rank": 3
+    },
+    {
+      "steamId": "76561198139995845",
+      "name": "SeverGorod",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 464387,
+      "money": 1757912,
+      "gold": 1420,
+      "fame": 6008,
+      "rank": 1
+    },
+    {
+      "steamId": "76561198337531947",
+      "name": "brantozavr_voin2",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 169233,
+      "money": 231353,
+      "gold": 410,
+      "fame": 1350,
+      "rank": 7
+    },
     {
       "steamId": "76561198068992719",
       "name": "Alina",
-      "sessionSeconds": 29,
-      "playTimeSeconds": 72224,
+      "sessionSeconds": 0,
+      "playTimeSeconds": 72284,
       "money": 1138548,
       "gold": 415,
       "fame": 800,
@@ -14,8 +54,8 @@
     {
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
-      "sessionSeconds": 29,
-      "playTimeSeconds": 84904,
+      "sessionSeconds": 0,
+      "playTimeSeconds": 84964,
       "money": 362700,
       "gold": 117,
       "fame": 1170,
@@ -24,33 +64,13 @@
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 20,
-      "playTimeSeconds": 117159,
+      "sessionSeconds": 0,
+      "playTimeSeconds": 117219,
       "money": 214041,
       "gold": 330,
       "fame": 666,
       "rank": 23
-    },
-    {
-      "steamId": "76561198337531947",
-      "name": "brantozavr_voin2",
-      "sessionSeconds": 16,
-      "playTimeSeconds": 169173,
-      "money": 231353,
-      "gold": 410,
-      "fame": 1350,
-      "rank": 7
-    },
-    {
-      "steamId": "76561198139995845",
-      "name": "SeverGorod",
-      "sessionSeconds": 10,
-      "playTimeSeconds": 464327,
-      "money": 1757912,
-      "gold": 1420,
-      "fame": 6008,
-      "rank": 1
     }
   ],
-  "updated": "2026-10-13T09:03:39.256Z"
+  "updated": "2026-10-13T09:04:39.266Z"
 }
