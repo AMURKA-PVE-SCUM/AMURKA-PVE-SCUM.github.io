@@ -1,11 +1,21 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
+    {
+      "steamId": "76561198068992719",
+      "name": "Alina",
+      "sessionSeconds": 12,
+      "playTimeSeconds": 86059,
+      "money": 1111714,
+      "gold": 435,
+      "fame": 851,
+      "rank": 34
+    },
     {
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
       "sessionSeconds": 11,
-      "playTimeSeconds": 129933,
+      "playTimeSeconds": 129993,
       "money": 593436,
       "gold": 177,
       "fame": 1624,
@@ -15,7 +25,7 @@
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 11,
-      "playTimeSeconds": 499453,
+      "playTimeSeconds": 499513,
       "money": 2002409,
       "gold": 1465,
       "fame": 6168,
@@ -25,7 +35,7 @@
       "steamId": "76561198869337858",
       "name": "Shelby",
       "sessionSeconds": 11,
-      "playTimeSeconds": 73127,
+      "playTimeSeconds": 73187,
       "money": 319283,
       "gold": 176,
       "fame": 2450,
@@ -35,22 +45,22 @@
       "steamId": "76561198179021974",
       "name": "ПОТАСКУШКА",
       "sessionSeconds": 11,
-      "playTimeSeconds": 43353,
+      "playTimeSeconds": 43413,
       "money": 1249909,
       "gold": 275,
-      "fame": 1071,
+      "fame": 1072,
       "rank": 60
     },
     {
       "steamId": "76561198415996611",
       "name": "AND",
       "sessionSeconds": 11,
-      "playTimeSeconds": 45614,
+      "playTimeSeconds": 45674,
       "money": 116376,
       "gold": 46,
       "fame": 278,
       "rank": 58
     }
   ],
-  "updated": "2026-10-13T23:36:53.931Z"
+  "updated": "2026-10-13T23:37:53.942Z"
 }
