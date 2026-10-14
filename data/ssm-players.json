@@ -2,10 +2,20 @@
   "online": 6,
   "players": [
     {
+      "steamId": "76561198115245396",
+      "name": "Хабаровчанин",
+      "sessionSeconds": 73,
+      "playTimeSeconds": 87517,
+      "money": 208402,
+      "gold": 145,
+      "fame": 567,
+      "rank": 35
+    },
+    {
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "sessionSeconds": 13,
-      "playTimeSeconds": 515843,
+      "sessionSeconds": 12,
+      "playTimeSeconds": 515903,
       "money": 2110675,
       "gold": 1490,
       "fame": 6252,
@@ -14,8 +24,8 @@
     {
       "steamId": "76561198354031168",
       "name": "sanchez",
-      "sessionSeconds": 13,
-      "playTimeSeconds": 58894,
+      "sessionSeconds": 12,
+      "playTimeSeconds": 58954,
       "money": 165633,
       "gold": 80,
       "fame": 251,
@@ -24,28 +34,18 @@
     {
       "steamId": "76561199699294853",
       "name": "ПАТRИК",
-      "sessionSeconds": 13,
-      "playTimeSeconds": 78278,
+      "sessionSeconds": 12,
+      "playTimeSeconds": 78338,
       "money": 335402,
       "gold": 105,
       "fame": 461,
       "rank": 42
     },
     {
-      "steamId": "76561198115245396",
-      "name": "Хабаровчанин",
-      "sessionSeconds": 13,
-      "playTimeSeconds": 87457,
-      "money": 208402,
-      "gold": 145,
-      "fame": 567,
-      "rank": 35
-    },
-    {
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "sessionSeconds": 13,
-      "playTimeSeconds": 183530,
+      "sessionSeconds": 12,
+      "playTimeSeconds": 183590,
       "money": 449549,
       "gold": 430,
       "fame": 1404,
@@ -54,13 +54,13 @@
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 13,
-      "playTimeSeconds": 154281,
+      "sessionSeconds": 12,
+      "playTimeSeconds": 154341,
       "money": 1336681,
       "gold": 418,
-      "fame": 5642,
+      "fame": 5643,
       "rank": 12
     }
   ],
-  "updated": "2026-10-14T05:56:58.040Z"
+  "updated": "2026-10-14T05:57:58.048Z"
 }
