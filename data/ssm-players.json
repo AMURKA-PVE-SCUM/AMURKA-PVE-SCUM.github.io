@@ -1,11 +1,21 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
+    {
+      "steamId": "76561199562774415",
+      "name": "ALIGATOR",
+      "sessionSeconds": 23680,
+      "playTimeSeconds": 166047,
+      "money": 675573,
+      "gold": 227,
+      "fame": 1934,
+      "rank": 13
+    },
     {
       "steamId": "76561198984429540",
       "name": "Тапик связи на базе",
       "sessionSeconds": 8,
-      "playTimeSeconds": 123835,
+      "playTimeSeconds": 123894,
       "money": 126922,
       "gold": 160,
       "fame": 813,
@@ -15,7 +25,7 @@
       "steamId": "76561198826257359",
       "name": "XXXX",
       "sessionSeconds": 8,
-      "playTimeSeconds": 135315,
+      "playTimeSeconds": 135374,
       "money": 40863,
       "gold": 151,
       "fame": 527,
@@ -25,7 +35,7 @@
       "steamId": "76561198328189885",
       "name": "vlaD0S",
       "sessionSeconds": 8,
-      "playTimeSeconds": 7654,
+      "playTimeSeconds": 7713,
       "money": 1800,
       "gold": 10,
       "fame": 20,
@@ -35,22 +45,22 @@
       "steamId": "76561198117979766",
       "name": "Хлебушек",
       "sessionSeconds": 8,
-      "playTimeSeconds": 7872,
+      "playTimeSeconds": 7931,
       "money": 2000,
       "gold": 10,
-      "fame": 130,
+      "fame": 131,
       "rank": 95
     },
     {
       "steamId": "76561198037904934",
       "name": "Astaf",
       "sessionSeconds": 8,
-      "playTimeSeconds": 28685,
+      "playTimeSeconds": 28744,
       "money": 12278,
       "gold": 35,
-      "fame": 164,
+      "fame": 114,
       "rank": 77
     }
   ],
-  "updated": "2026-10-14T21:17:40.057Z"
+  "updated": "2026-10-14T21:18:40.070Z"
 }
