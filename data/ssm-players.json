@@ -2,10 +2,20 @@
   "online": 8,
   "players": [
     {
+      "steamId": "76561198179021974",
+      "name": "ПОТАСКУШКА",
+      "sessionSeconds": 17,
+      "playTimeSeconds": 57985,
+      "money": 1229111,
+      "gold": 96,
+      "fame": 1281,
+      "rank": 50
+    },
+    {
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 17,
-      "playTimeSeconds": 512607,
+      "playTimeSeconds": 512667,
       "money": 2109675,
       "gold": 1485,
       "fame": 6239,
@@ -15,7 +25,7 @@
       "steamId": "76561198354031168",
       "name": "sanchez",
       "sessionSeconds": 17,
-      "playTimeSeconds": 55658,
+      "playTimeSeconds": 55718,
       "money": 164633,
       "gold": 75,
       "fame": 237,
@@ -25,7 +35,7 @@
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 17,
-      "playTimeSeconds": 137560,
+      "playTimeSeconds": 137620,
       "money": 224178,
       "gold": 355,
       "fame": 735,
@@ -35,7 +45,7 @@
       "steamId": "76561199580351165",
       "name": "ШРинат",
       "sessionSeconds": 17,
-      "playTimeSeconds": 138209,
+      "playTimeSeconds": 138269,
       "money": 950190,
       "gold": 5013,
       "fame": 4134,
@@ -45,27 +55,17 @@
       "steamId": "76561199699294853",
       "name": "ПАТRИК",
       "sessionSeconds": 17,
-      "playTimeSeconds": 75042,
+      "playTimeSeconds": 75102,
       "money": 179018,
       "gold": 100,
       "fame": 449,
       "rank": 42
     },
     {
-      "steamId": "76561198179021974",
-      "name": "ПОТАСКУШКА",
-      "sessionSeconds": 17,
-      "playTimeSeconds": 57935,
-      "money": 1229111,
-      "gold": 96,
-      "fame": 1281,
-      "rank": 50
-    },
-    {
       "steamId": "76561198869337858",
       "name": "Shelby",
       "sessionSeconds": 17,
-      "playTimeSeconds": 82889,
+      "playTimeSeconds": 82949,
       "money": 295283,
       "gold": 191,
       "fame": 2393,
@@ -75,12 +75,12 @@
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
       "sessionSeconds": 17,
-      "playTimeSeconds": 180513,
+      "playTimeSeconds": 180573,
       "money": 448749,
       "gold": 425,
       "fame": 1391,
       "rank": 7
     }
   ],
-  "updated": "2026-10-14T05:02:57.641Z"
+  "updated": "2026-10-14T05:03:57.654Z"
 }
