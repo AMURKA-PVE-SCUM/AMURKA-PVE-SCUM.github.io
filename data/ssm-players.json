@@ -1,5 +1,16 @@
 {
-  "online": 0,
-  "players": [],
-  "updated": "2026-10-14T03:04:56.786Z"
+  "online": 1,
+  "players": [
+    {
+      "steamId": "76561198115245396",
+      "name": "Хабаровчанин",
+      "sessionSeconds": 20,
+      "playTimeSeconds": 84068,
+      "money": 80002,
+      "gold": 140,
+      "fame": 555,
+      "rank": 36
+    }
+  ],
+  "updated": "2026-10-14T03:05:56.793Z"
 }
