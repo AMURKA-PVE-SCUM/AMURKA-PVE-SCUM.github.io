@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 514645,
+      "playTimeSeconds": 514705,
       "money": 2109675,
       "gold": 1485,
       "fame": 6241,
@@ -14,11 +14,11 @@
       "rank": 2,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 242563,
+      "playTimeSeconds": 242565,
       "money": 70086,
       "gold": 335,
       "fame": 900,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 3,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "playTimeSeconds": 182332,
+      "playTimeSeconds": 182392,
       "money": 448549,
       "gold": 425,
       "fame": 1392,
@@ -102,6 +102,16 @@
     },
     {
       "rank": 11,
+      "steamId": "76561199404896383",
+      "name": "Victor_Vilkouskas",
+      "playTimeSeconds": 153143,
+      "money": 1335681,
+      "gold": 413,
+      "fame": 5630,
+      "isOnline": true
+    },
+    {
+      "rank": 12,
       "steamId": "76561198041539804",
       "name": "Ded_13",
       "playTimeSeconds": 153125,
@@ -109,16 +119,6 @@
       "gold": 766,
       "fame": 6154,
       "isOnline": false
-    },
-    {
-      "rank": 12,
-      "steamId": "76561199404896383",
-      "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 153083,
-      "money": 1335681,
-      "gold": 413,
-      "fame": 5630,
-      "isOnline": true
     },
     {
       "rank": 13,
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "playTimeSeconds": 140247,
+      "playTimeSeconds": 140307,
       "money": 968579,
       "gold": 5013,
       "fame": 4143,
@@ -174,7 +174,7 @@
       "rank": 18,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 139598,
+      "playTimeSeconds": 139658,
       "money": 210847,
       "gold": 360,
       "fame": 746,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-14T05:36:57.901Z"
+  "updated": "2026-10-14T05:37:57.907Z"
 }
