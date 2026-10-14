@@ -1,36 +1,66 @@
 {
-  "online": 3,
+  "online": 6,
   "players": [
     {
       "steamId": "76561199569191127",
       "name": "Mira",
-      "sessionSeconds": 15263,
-      "playTimeSeconds": 182350,
+      "sessionSeconds": 15323,
+      "playTimeSeconds": 182410,
       "money": 633410,
       "gold": 125,
       "fame": 2917,
       "rank": 7
     },
     {
+      "steamId": "76561198256601130",
+      "name": "Clumsy",
+      "sessionSeconds": 19,
+      "playTimeSeconds": 36269,
+      "money": 50786,
+      "gold": 45,
+      "fame": 315,
+      "rank": 69
+    },
+    {
+      "steamId": "76561199486830797",
+      "name": "yuriiermolenko861",
+      "sessionSeconds": 19,
+      "playTimeSeconds": 259973,
+      "money": 1854229,
+      "gold": 753,
+      "fame": 17701,
+      "rank": 3
+    },
+    {
       "steamId": "76561198748940532",
       "name": "Wild_Man",
       "sessionSeconds": 19,
-      "playTimeSeconds": 100040,
+      "playTimeSeconds": 100100,
       "money": 5699,
       "gold": 65,
       "fame": 385,
-      "rank": 37
+      "rank": 36
     },
     {
       "steamId": "76561199699294853",
       "name": "ПАТRИК",
       "sessionSeconds": 19,
-      "playTimeSeconds": 111188,
+      "playTimeSeconds": 111248,
       "money": 282840,
       "gold": 150,
       "fame": 577,
       "rank": 31
+    },
+    {
+      "steamId": "76561198337531947",
+      "name": "brantozavr_voin2",
+      "sessionSeconds": 5,
+      "playTimeSeconds": 219721,
+      "money": 517641,
+      "gold": 480,
+      "fame": 1544,
+      "rank": 5
     }
   ],
-  "updated": "2026-10-14T18:03:38.571Z"
+  "updated": "2026-10-14T18:04:38.583Z"
 }
