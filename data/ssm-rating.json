@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 273304,
+      "playTimeSeconds": 273364,
       "money": 63539,
       "gold": 375,
       "fame": 904,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198121549932",
       "name": "Prostyak",
-      "playTimeSeconds": 213927,
+      "playTimeSeconds": 213987,
       "money": 7771669,
       "gold": 507,
       "fame": 13620,
@@ -92,6 +92,16 @@
     },
     {
       "rank": 10,
+      "steamId": "76561199562774415",
+      "name": "ALIGATOR",
+      "playTimeSeconds": 173779,
+      "money": 677573,
+      "gold": 237,
+      "fame": 1968,
+      "isOnline": true
+    },
+    {
+      "rank": 11,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
       "playTimeSeconds": 173763,
@@ -99,16 +109,6 @@
       "gold": 286,
       "fame": 2619,
       "isOnline": false
-    },
-    {
-      "rank": 11,
-      "steamId": "76561199562774415",
-      "name": "ALIGATOR",
-      "playTimeSeconds": 173719,
-      "money": 677573,
-      "gold": 237,
-      "fame": 1968,
-      "isOnline": true
     },
     {
       "rank": 12,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-14T23:26:40.938Z"
+  "updated": "2026-10-14T23:27:40.946Z"
 }
