@@ -1,31 +1,21 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
       "sessionSeconds": 28,
-      "playTimeSeconds": 130687,
+      "playTimeSeconds": 130747,
       "money": 593436,
       "gold": 177,
       "fame": 1625,
       "rank": 23
     },
     {
-      "steamId": "76561199095490074",
-      "name": "KeKsIk",
-      "sessionSeconds": 28,
-      "playTimeSeconds": 49405,
-      "money": 255668,
-      "gold": 115,
-      "fame": 903,
-      "rank": 57
-    },
-    {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 28,
-      "playTimeSeconds": 147962,
+      "playTimeSeconds": 148022,
       "money": 212847,
       "gold": 370,
       "fame": 775,
@@ -35,22 +25,42 @@
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 28,
-      "playTimeSeconds": 525103,
+      "playTimeSeconds": 525163,
       "money": 2140917,
       "gold": 1500,
-      "fame": 6280,
+      "fame": 6281,
       "rank": 1
     },
     {
       "steamId": "76561199757422612",
       "name": "Dedygan",
       "sessionSeconds": 28,
-      "playTimeSeconds": 90,
+      "playTimeSeconds": 150,
       "money": 0,
       "gold": 0,
       "fame": 0,
-      "rank": 130
+      "rank": 129
+    },
+    {
+      "steamId": "76561198271336608",
+      "name": "Валерка",
+      "sessionSeconds": 22,
+      "playTimeSeconds": 87972,
+      "money": 171906,
+      "gold": 0,
+      "fame": 325,
+      "rank": 37
+    },
+    {
+      "steamId": "76561198984429540",
+      "name": "Тапик связи на базе",
+      "sessionSeconds": 22,
+      "playTimeSeconds": 109699,
+      "money": 129741,
+      "gold": 140,
+      "fame": 695,
+      "rank": 30
     }
   ],
-  "updated": "2026-10-14T08:43:34.591Z"
+  "updated": "2026-10-14T08:44:34.592Z"
 }
