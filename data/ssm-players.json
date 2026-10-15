@@ -1,11 +1,11 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "sessionSeconds": 59846,
-      "playTimeSeconds": 546723,
+      "sessionSeconds": 59906,
+      "playTimeSeconds": 546783,
       "money": 2192237,
       "gold": 1530,
       "fame": 6359,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198271336608",
       "name": "Валерка",
-      "sessionSeconds": 59684,
-      "playTimeSeconds": 106133,
+      "sessionSeconds": 59744,
+      "playTimeSeconds": 106193,
       "money": 168258,
       "gold": 25,
       "fame": 399,
@@ -25,27 +25,17 @@
       "steamId": "76561198121549932",
       "name": "Prostyak",
       "sessionSeconds": 27,
-      "playTimeSeconds": 224802,
-      "money": 8195221,
+      "playTimeSeconds": 224862,
+      "money": 8216275,
       "gold": 524,
       "fame": 14013,
       "rank": 5
     },
     {
-      "steamId": "76561198984429540",
-      "name": "Тапик связи на базе",
-      "sessionSeconds": 27,
-      "playTimeSeconds": 128487,
-      "money": 299272,
-      "gold": 168,
-      "fame": 1540,
-      "rank": 26
-    },
-    {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 27,
-      "playTimeSeconds": 163342,
+      "playTimeSeconds": 163402,
       "money": 307178,
       "gold": 390,
       "fame": 827,
@@ -55,17 +45,17 @@
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
       "sessionSeconds": 27,
-      "playTimeSeconds": 273610,
-      "money": 2130910,
+      "playTimeSeconds": 273670,
+      "money": 2132010,
       "gold": 774,
-      "fame": 18660,
+      "fame": 18715,
       "rank": 3
     },
     {
       "steamId": "76561198041539804",
       "name": "Ded_13",
       "sessionSeconds": 27,
-      "playTimeSeconds": 155995,
+      "playTimeSeconds": 156055,
       "money": 2784762,
       "gold": 771,
       "fame": 6167,
@@ -75,12 +65,32 @@
       "steamId": "76561198077981589",
       "name": "Чилим",
       "sessionSeconds": 27,
-      "playTimeSeconds": 127914,
+      "playTimeSeconds": 127974,
       "money": 482099,
       "gold": 282,
       "fame": 1657,
       "rank": 27
+    },
+    {
+      "steamId": "76561198984429540",
+      "name": "Тапик связи на базе",
+      "sessionSeconds": 27,
+      "playTimeSeconds": 128537,
+      "money": 299272,
+      "gold": 168,
+      "fame": 1540,
+      "rank": 26
+    },
+    {
+      "steamId": "76561198794536026",
+      "name": "Ayanakoji",
+      "sessionSeconds": 27,
+      "playTimeSeconds": 173799,
+      "money": 230700,
+      "gold": 286,
+      "fame": 2619,
+      "rank": 12
     }
   ],
-  "updated": "2026-10-15T07:13:44.328Z"
+  "updated": "2026-10-15T07:14:44.336Z"
 }
