@@ -1,11 +1,11 @@
 {
-  "online": 10,
+  "online": 11,
   "players": [
     {
       "steamId": "76561198117979766",
       "name": "Хлебушек",
-      "sessionSeconds": 22490,
-      "playTimeSeconds": 30183,
+      "sessionSeconds": 22550,
+      "playTimeSeconds": 30245,
       "money": 9935,
       "gold": 40,
       "fame": 197,
@@ -14,18 +14,18 @@
     {
       "steamId": "76561199125649189",
       "name": "K9 Торговец",
-      "sessionSeconds": 21343,
-      "playTimeSeconds": 26718,
+      "sessionSeconds": 21403,
+      "playTimeSeconds": 26780,
       "money": 10406,
       "gold": 30,
       "fame": 703,
-      "rank": 82
+      "rank": 81
     },
     {
       "steamId": "76561199569191127",
       "name": "Mira",
-      "sessionSeconds": 20843,
-      "playTimeSeconds": 211325,
+      "sessionSeconds": 20903,
+      "playTimeSeconds": 211387,
       "money": 754131,
       "gold": 111,
       "fame": 3443,
@@ -35,7 +35,7 @@
       "steamId": "76561198826257359",
       "name": "XXXX",
       "sessionSeconds": 26,
-      "playTimeSeconds": 164843,
+      "playTimeSeconds": 164905,
       "money": 22830,
       "gold": 191,
       "fame": 645,
@@ -45,7 +45,7 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 26,
-      "playTimeSeconds": 293583,
+      "playTimeSeconds": 293645,
       "money": 74439,
       "gold": 405,
       "fame": 984,
@@ -55,17 +55,17 @@
       "steamId": "76561198256601130",
       "name": "Clumsy",
       "sessionSeconds": 26,
-      "playTimeSeconds": 53169,
-      "money": 32227,
+      "playTimeSeconds": 53231,
+      "money": 32727,
       "gold": 70,
-      "fame": 411,
+      "fame": 416,
       "rank": 58
     },
     {
       "steamId": "76561198372320271",
       "name": "ADA",
       "sessionSeconds": 26,
-      "playTimeSeconds": 181943,
+      "playTimeSeconds": 182005,
       "money": 709615,
       "gold": 220,
       "fame": 2328,
@@ -75,7 +75,7 @@
       "steamId": "76561199189470290",
       "name": "Konffetka",
       "sessionSeconds": 26,
-      "playTimeSeconds": 188975,
+      "playTimeSeconds": 189037,
       "money": 1123827,
       "gold": 390,
       "fame": 7096,
@@ -85,22 +85,32 @@
       "steamId": "76561198029476275",
       "name": "XEH",
       "sessionSeconds": 26,
-      "playTimeSeconds": 139047,
-      "money": 603679,
-      "gold": 328,
-      "fame": 1937,
+      "playTimeSeconds": 139109,
+      "money": 604679,
+      "gold": 333,
+      "fame": 1947,
       "rank": 26
     },
     {
       "steamId": "76561198067720439",
       "name": "Genih",
       "sessionSeconds": 26,
-      "playTimeSeconds": 188399,
+      "playTimeSeconds": 188461,
       "money": 2738961,
       "gold": 726,
       "fame": 5477,
       "rank": 10
+    },
+    {
+      "steamId": "76561198984429540",
+      "name": "Тапик связи на базе",
+      "sessionSeconds": 26,
+      "playTimeSeconds": 164446,
+      "money": 301647,
+      "gold": 121,
+      "fame": 2238,
+      "rank": 20
     }
   ],
-  "updated": "2026-10-15T19:26:52.907Z"
+  "updated": "2026-10-15T19:27:52.912Z"
 }
