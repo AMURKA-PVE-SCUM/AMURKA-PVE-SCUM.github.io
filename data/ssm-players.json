@@ -1,11 +1,11 @@
 {
-  "online": 2,
+  "online": 3,
   "players": [
     {
       "steamId": "76561198276974656",
       "name": "gatu",
       "sessionSeconds": 2,
-      "playTimeSeconds": 77060,
+      "playTimeSeconds": 77120,
       "money": 1797,
       "gold": 105,
       "fame": 403,
@@ -15,12 +15,22 @@
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 2,
-      "playTimeSeconds": 247587,
+      "playTimeSeconds": 247647,
       "money": 1309130,
       "gold": 678,
       "fame": 3762,
       "rank": 4
+    },
+    {
+      "steamId": "76561198748940532",
+      "name": "Wild_Man",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 111356,
+      "money": 13588,
+      "gold": 85,
+      "fame": 435,
+      "rank": 33
     }
   ],
-  "updated": "2026-10-15T06:07:43.841Z"
+  "updated": "2026-10-15T06:08:43.856Z"
 }
