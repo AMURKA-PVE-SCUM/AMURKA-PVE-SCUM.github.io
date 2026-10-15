@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 288612,
+      "playTimeSeconds": 288672,
       "money": 67439,
       "gold": 395,
       "fame": 961,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "playTimeSeconds": 210369,
+      "playTimeSeconds": 210429,
       "money": 251024,
       "gold": 306,
       "fame": 2775,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561199569191127",
       "name": "Mira",
-      "playTimeSeconds": 206454,
+      "playTimeSeconds": 206514,
       "money": 752231,
       "gold": 101,
       "fame": 3415,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "playTimeSeconds": 186220,
+      "playTimeSeconds": 186280,
       "money": 1177018,
       "gold": 5313,
       "fame": 4545,
@@ -112,6 +112,16 @@
     },
     {
       "rank": 12,
+      "steamId": "76561198372320271",
+      "name": "ADA",
+      "playTimeSeconds": 177112,
+      "money": 709615,
+      "gold": 215,
+      "fame": 2310,
+      "isOnline": true
+    },
+    {
+      "rank": 13,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "playTimeSeconds": 177084,
@@ -119,16 +129,6 @@
       "gold": 410,
       "fame": 902,
       "isOnline": false
-    },
-    {
-      "rank": 13,
-      "steamId": "76561198372320271",
-      "name": "ADA",
-      "playTimeSeconds": 177052,
-      "money": 709615,
-      "gold": 215,
-      "fame": 2310,
-      "isOnline": true
     },
     {
       "rank": 14,
@@ -174,7 +174,7 @@
       "rank": 18,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 159872,
+      "playTimeSeconds": 159932,
       "money": 21736,
       "gold": 186,
       "fame": 631,
@@ -184,7 +184,7 @@
       "rank": 19,
       "steamId": "76561198984429540",
       "name": "Тапик связи на базе",
-      "playTimeSeconds": 159465,
+      "playTimeSeconds": 159525,
       "money": 412403,
       "gold": 116,
       "fame": 2223,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-15T18:03:52.342Z"
+  "updated": "2026-10-15T18:04:52.357Z"
 }
