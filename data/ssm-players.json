@@ -1,11 +1,11 @@
 {
-  "online": 4,
+  "online": 10,
   "players": [
     {
       "steamId": "76561199569191127",
       "name": "Mira",
-      "sessionSeconds": 15803,
-      "playTimeSeconds": 206394,
+      "sessionSeconds": 15863,
+      "playTimeSeconds": 206454,
       "money": 752231,
       "gold": 101,
       "fame": 3415,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 11344,
-      "playTimeSeconds": 268092,
+      "sessionSeconds": 11404,
+      "playTimeSeconds": 268152,
       "money": 1333863,
       "gold": 708,
       "fame": 3887,
@@ -25,7 +25,7 @@
       "steamId": "76561199580351165",
       "name": "ШРинат",
       "sessionSeconds": 2,
-      "playTimeSeconds": 186160,
+      "playTimeSeconds": 186220,
       "money": 1177018,
       "gold": 5313,
       "fame": 4545,
@@ -35,12 +35,72 @@
       "steamId": "76561198826257359",
       "name": "XXXX",
       "sessionSeconds": 2,
-      "playTimeSeconds": 159812,
+      "playTimeSeconds": 159872,
       "money": 21736,
       "gold": 186,
       "fame": 631,
       "rank": 19
+    },
+    {
+      "steamId": "76561198372320271",
+      "name": "ADA",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 177052,
+      "money": 709615,
+      "gold": 215,
+      "fame": 2310,
+      "rank": 14
+    },
+    {
+      "steamId": "76561198029476275",
+      "name": "XEH",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 134299,
+      "money": 602679,
+      "gold": 323,
+      "fame": 1921,
+      "rank": 27
+    },
+    {
+      "steamId": "76561198794536026",
+      "name": "Ayanakoji",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 210369,
+      "money": 251024,
+      "gold": 306,
+      "fame": 2775,
+      "rank": 7
+    },
+    {
+      "steamId": "76561198352984050",
+      "name": "Vlad",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 288612,
+      "money": 67439,
+      "gold": 395,
+      "fame": 961,
+      "rank": 3
+    },
+    {
+      "steamId": "76561198256601130",
+      "name": "Clumsy",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 48198,
+      "money": 36816,
+      "gold": 65,
+      "fame": 396,
+      "rank": 60
+    },
+    {
+      "steamId": "76561198984429540",
+      "name": "Тапик связи на базе",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 159465,
+      "money": 412403,
+      "gold": 116,
+      "fame": 2223,
+      "rank": 20
     }
   ],
-  "updated": "2026-10-15T18:02:52.332Z"
+  "updated": "2026-10-15T18:03:52.342Z"
 }
