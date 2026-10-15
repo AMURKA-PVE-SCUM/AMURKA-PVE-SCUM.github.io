@@ -1,21 +1,11 @@
 {
-  "online": 6,
+  "online": 4,
   "players": [
-    {
-      "steamId": "76561199125649189",
-      "name": "K9 Торговец",
-      "sessionSeconds": 16242,
-      "playTimeSeconds": 22474,
-      "money": 9406,
-      "gold": 25,
-      "fame": 619,
-      "rank": 83
-    },
     {
       "steamId": "76561199569191127",
       "name": "Mira",
-      "sessionSeconds": 15743,
-      "playTimeSeconds": 206334,
+      "sessionSeconds": 15803,
+      "playTimeSeconds": 206394,
       "money": 752231,
       "gold": 101,
       "fame": 3415,
@@ -24,43 +14,33 @@
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 11284,
-      "playTimeSeconds": 268042,
+      "sessionSeconds": 11344,
+      "playTimeSeconds": 268092,
       "money": 1333863,
       "gold": 708,
       "fame": 3887,
       "rank": 4
     },
     {
+      "steamId": "76561199580351165",
+      "name": "ШРинат",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 186160,
+      "money": 1177018,
+      "gold": 5313,
+      "fame": 4545,
+      "rank": 9
+    },
+    {
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "sessionSeconds": 3,
-      "playTimeSeconds": 159756,
+      "sessionSeconds": 2,
+      "playTimeSeconds": 159812,
       "money": 21736,
       "gold": 186,
       "fame": 631,
       "rank": 19
-    },
-    {
-      "steamId": "76561198256601130",
-      "name": "Clumsy",
-      "sessionSeconds": 3,
-      "playTimeSeconds": 48120,
-      "money": 36816,
-      "gold": 65,
-      "fame": 396,
-      "rank": 60
-    },
-    {
-      "steamId": "76561198215398893",
-      "name": "Shmulkee",
-      "sessionSeconds": 3,
-      "playTimeSeconds": 104728,
-      "money": 378185,
-      "gold": 325,
-      "fame": 3694,
-      "rank": 38
     }
   ],
-  "updated": "2026-10-15T18:01:52.332Z"
+  "updated": "2026-10-15T18:02:52.332Z"
 }
