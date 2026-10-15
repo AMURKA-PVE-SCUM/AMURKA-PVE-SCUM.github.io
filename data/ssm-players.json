@@ -2,10 +2,20 @@
   "online": 6,
   "players": [
     {
+      "steamId": "76561198271336608",
+      "name": "Валерка",
+      "sessionSeconds": 56384,
+      "playTimeSeconds": 102838,
+      "money": 169109,
+      "gold": 20,
+      "fame": 387,
+      "rank": 38
+    },
+    {
       "steamId": "76561198276974656",
       "name": "gatu",
       "sessionSeconds": 1,
-      "playTimeSeconds": 77660,
+      "playTimeSeconds": 77720,
       "money": 1797,
       "gold": 105,
       "fame": 403,
@@ -15,7 +25,7 @@
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 1,
-      "playTimeSeconds": 248187,
+      "playTimeSeconds": 248247,
       "money": 1309130,
       "gold": 678,
       "fame": 3762,
@@ -25,7 +35,7 @@
       "steamId": "76561198121549932",
       "name": "Prostyak",
       "sessionSeconds": 1,
-      "playTimeSeconds": 221447,
+      "playTimeSeconds": 221507,
       "money": 8026859,
       "gold": 519,
       "fame": 13977,
@@ -35,32 +45,22 @@
       "steamId": "76561198328189885",
       "name": "vlaD0S",
       "sessionSeconds": 1,
-      "playTimeSeconds": 11886,
+      "playTimeSeconds": 11946,
       "money": 2800,
       "gold": 15,
       "fame": 38,
-      "rank": 93
+      "rank": 92
     },
     {
       "steamId": "76561198748940532",
       "name": "Wild_Man",
       "sessionSeconds": 1,
-      "playTimeSeconds": 111596,
+      "playTimeSeconds": 111656,
       "money": 13588,
       "gold": 85,
       "fame": 435,
       "rank": 33
-    },
-    {
-      "steamId": "76561198156375337",
-      "name": "Domo",
-      "sessionSeconds": 1,
-      "playTimeSeconds": 34550,
-      "money": 2108256,
-      "gold": 11390,
-      "fame": 545,
-      "rank": 71
     }
   ],
-  "updated": "2026-10-15T06:17:43.908Z"
+  "updated": "2026-10-15T06:18:43.909Z"
 }
