@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198117979766",
       "name": "Хлебушек",
-      "sessionSeconds": 27111,
-      "playTimeSeconds": 34798,
+      "sessionSeconds": 27171,
+      "playTimeSeconds": 34858,
       "money": 10935,
       "gold": 45,
       "fame": 210,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561199125649189",
       "name": "K9 Торговец",
-      "sessionSeconds": 25963,
-      "playTimeSeconds": 31333,
+      "sessionSeconds": 26023,
+      "playTimeSeconds": 31393,
       "money": 11406,
       "gold": 35,
       "fame": 716,
@@ -25,7 +25,7 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 20,
-      "playTimeSeconds": 298198,
+      "playTimeSeconds": 298258,
       "money": 75439,
       "gold": 410,
       "fame": 997,
@@ -35,17 +35,17 @@
       "steamId": "76561198256601130",
       "name": "Clumsy",
       "sessionSeconds": 20,
-      "playTimeSeconds": 57784,
+      "playTimeSeconds": 57844,
       "money": 109299,
       "gold": 75,
-      "fame": 454,
+      "fame": 455,
       "rank": 56
     },
     {
       "steamId": "76561199189470290",
       "name": "Konffetka",
       "sessionSeconds": 20,
-      "playTimeSeconds": 193590,
+      "playTimeSeconds": 193650,
       "money": 1126027,
       "gold": 395,
       "fame": 7130,
@@ -55,7 +55,7 @@
       "steamId": "76561198067720439",
       "name": "Genih",
       "sessionSeconds": 20,
-      "playTimeSeconds": 193014,
+      "playTimeSeconds": 193074,
       "money": 2742961,
       "gold": 731,
       "fame": 5511,
@@ -65,12 +65,22 @@
       "steamId": "76561198039769049",
       "name": "Gennadich",
       "sessionSeconds": 20,
-      "playTimeSeconds": 26407,
+      "playTimeSeconds": 26467,
       "money": 5668,
       "gold": 35,
       "fame": 200,
       "rank": 83
+    },
+    {
+      "steamId": "76561198037904934",
+      "name": "Astaf",
+      "sessionSeconds": 20,
+      "playTimeSeconds": 34140,
+      "money": 11250,
+      "gold": 45,
+      "fame": 113,
+      "rank": 75
     }
   ],
-  "updated": "2026-10-15T20:43:53.456Z"
+  "updated": "2026-10-15T20:44:53.456Z"
 }
