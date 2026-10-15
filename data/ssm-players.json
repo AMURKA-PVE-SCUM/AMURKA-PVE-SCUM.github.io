@@ -1,11 +1,11 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 124234,
+      "sessionSeconds": 10,
+      "playTimeSeconds": 124294,
       "money": 481099,
       "gold": 277,
       "fame": 1639,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198193943237",
       "name": "ABNOX",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 8715,
+      "sessionSeconds": 10,
+      "playTimeSeconds": 8775,
       "money": 5482,
       "gold": 10,
       "fame": 41,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198118646763",
       "name": "John Doe",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 43247,
+      "sessionSeconds": 10,
+      "playTimeSeconds": 43307,
       "money": 96035,
       "gold": 105,
       "fame": 406,
@@ -34,23 +34,33 @@
     {
       "steamId": "76561198028621423",
       "name": "Lesnik",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 78150,
+      "sessionSeconds": 10,
+      "playTimeSeconds": 78210,
       "money": 582804,
       "gold": 82,
       "fame": 1687,
       "rank": 43
     },
     {
+      "steamId": "76561198869337858",
+      "name": "Shelby",
+      "sessionSeconds": 10,
+      "playTimeSeconds": 103014,
+      "money": 384903,
+      "gold": 216,
+      "fame": 2477,
+      "rank": 37
+    },
+    {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 161233,
+      "sessionSeconds": 10,
+      "playTimeSeconds": 161293,
       "money": 287259,
       "gold": 390,
       "fame": 826,
       "rank": 16
     }
   ],
-  "updated": "2026-10-15T04:27:43.111Z"
+  "updated": "2026-10-15T04:28:43.118Z"
 }
