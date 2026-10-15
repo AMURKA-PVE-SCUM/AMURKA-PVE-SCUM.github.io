@@ -1,21 +1,21 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198869337858",
       "name": "Shelby",
       "sessionSeconds": 20,
-      "playTimeSeconds": 100584,
-      "money": 383903,
-      "gold": 211,
-      "fame": 2465,
+      "playTimeSeconds": 100644,
+      "money": 384903,
+      "gold": 216,
+      "fame": 2475,
       "rank": 38
     },
     {
       "steamId": "76561198039769049",
       "name": "Gennadich",
       "sessionSeconds": 20,
-      "playTimeSeconds": 12103,
+      "playTimeSeconds": 12163,
       "money": 3000,
       "gold": 15,
       "fame": 142,
@@ -25,7 +25,7 @@
       "steamId": "76561199580351165",
       "name": "ШРинат",
       "sessionSeconds": 20,
-      "playTimeSeconds": 167302,
+      "playTimeSeconds": 167362,
       "money": 1008450,
       "gold": 5278,
       "fame": 4143,
@@ -35,7 +35,7 @@
       "steamId": "76561198276974656",
       "name": "gatu",
       "sessionSeconds": 20,
-      "playTimeSeconds": 71160,
+      "playTimeSeconds": 71220,
       "money": 15732,
       "gold": 95,
       "fame": 377,
@@ -45,7 +45,7 @@
       "steamId": "76561198115245396",
       "name": "Хабаровчанин",
       "sessionSeconds": 20,
-      "playTimeSeconds": 111798,
+      "playTimeSeconds": 111858,
       "money": 353998,
       "gold": 175,
       "fame": 701,
@@ -55,7 +55,7 @@
       "steamId": "76561198193943237",
       "name": "ABNOX",
       "sessionSeconds": 20,
-      "playTimeSeconds": 6149,
+      "playTimeSeconds": 6209,
       "money": 0,
       "gold": 0,
       "fame": 24,
@@ -65,12 +65,22 @@
       "steamId": "76561198748940532",
       "name": "Wild_Man",
       "sessionSeconds": 20,
-      "playTimeSeconds": 106473,
+      "playTimeSeconds": 106533,
       "money": 7699,
       "gold": 75,
       "fame": 410,
       "rank": 34
+    },
+    {
+      "steamId": "76561199877063571",
+      "name": "Mazay",
+      "sessionSeconds": 20,
+      "playTimeSeconds": 244648,
+      "money": 1308130,
+      "gold": 673,
+      "fame": 3749,
+      "rank": 4
     }
   ],
-  "updated": "2026-10-15T02:30:42.305Z"
+  "updated": "2026-10-15T02:31:42.305Z"
 }
