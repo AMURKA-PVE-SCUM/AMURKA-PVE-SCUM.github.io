@@ -1,5 +1,16 @@
 {
-  "online": 0,
-  "players": [],
-  "updated": "2026-10-15T12:05:49.695Z"
+  "online": 1,
+  "players": [
+    {
+      "steamId": "76561198028621423",
+      "name": "Lesnik",
+      "sessionSeconds": 8,
+      "playTimeSeconds": 83633,
+      "money": 577909,
+      "gold": 87,
+      "fame": 1717,
+      "rank": 42
+    }
+  ],
+  "updated": "2026-10-15T12:06:49.709Z"
 }
