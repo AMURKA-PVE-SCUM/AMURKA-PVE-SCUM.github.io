@@ -1,11 +1,11 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "sessionSeconds": 61707,
-      "playTimeSeconds": 548581,
+      "sessionSeconds": 61767,
+      "playTimeSeconds": 548641,
       "money": 2193237,
       "gold": 1535,
       "fame": 6371,
@@ -15,7 +15,7 @@
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 25,
-      "playTimeSeconds": 165200,
+      "playTimeSeconds": 165260,
       "money": 308178,
       "gold": 395,
       "fame": 839,
@@ -25,7 +25,7 @@
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
       "sessionSeconds": 25,
-      "playTimeSeconds": 275468,
+      "playTimeSeconds": 275528,
       "money": 2139280,
       "gold": 779,
       "fame": 18768,
@@ -35,7 +35,7 @@
       "steamId": "76561198041539804",
       "name": "Ded_13",
       "sessionSeconds": 25,
-      "playTimeSeconds": 157853,
+      "playTimeSeconds": 157913,
       "money": 2813205,
       "gold": 776,
       "fame": 6203,
@@ -45,7 +45,7 @@
       "steamId": "76561198077981589",
       "name": "Чилим",
       "sessionSeconds": 25,
-      "playTimeSeconds": 129772,
+      "playTimeSeconds": 129832,
       "money": 482099,
       "gold": 282,
       "fame": 1669,
@@ -55,17 +55,17 @@
       "steamId": "76561198984429540",
       "name": "Тапик связи на базе",
       "sessionSeconds": 25,
-      "playTimeSeconds": 130335,
+      "playTimeSeconds": 130395,
       "money": 302772,
       "gold": 169,
-      "fame": 1648,
+      "fame": 1649,
       "rank": 26
     },
     {
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
       "sessionSeconds": 25,
-      "playTimeSeconds": 175597,
+      "playTimeSeconds": 175657,
       "money": 231700,
       "gold": 291,
       "fame": 2635,
@@ -75,12 +75,22 @@
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
       "sessionSeconds": 25,
-      "playTimeSeconds": 222050,
+      "playTimeSeconds": 222110,
       "money": 576444,
       "gold": 480,
       "fame": 1556,
       "rank": 6
+    },
+    {
+      "steamId": "76561199591086707",
+      "name": "Kasam",
+      "sessionSeconds": 25,
+      "playTimeSeconds": 37,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "rank": 140
     }
   ],
-  "updated": "2026-10-15T07:44:44.601Z"
+  "updated": "2026-10-15T07:45:44.609Z"
 }
