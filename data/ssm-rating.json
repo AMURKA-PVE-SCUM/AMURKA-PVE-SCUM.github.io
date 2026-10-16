@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 592669,
+      "playTimeSeconds": 592729,
       "money": 2548704,
       "gold": 1595,
       "fame": 6605,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 308662,
+      "playTimeSeconds": 308722,
       "money": 78439,
       "gold": 425,
       "fame": 1034,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "playTimeSeconds": 240612,
+      "playTimeSeconds": 240672,
       "money": 401699,
       "gold": 351,
       "fame": 2908,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561199569191127",
       "name": "Mira",
-      "playTimeSeconds": 224892,
+      "playTimeSeconds": 224952,
       "money": 726750,
       "gold": 126,
       "fame": 3544,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
-      "playTimeSeconds": 211593,
+      "playTimeSeconds": 211653,
       "money": 725398,
       "gold": 292,
       "fame": 2357,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561198372320271",
       "name": "ADA",
-      "playTimeSeconds": 197400,
+      "playTimeSeconds": 197460,
       "money": 627809,
       "gold": 240,
       "fame": 2442,
@@ -172,6 +172,16 @@
     },
     {
       "rank": 18,
+      "steamId": "76561198071060590",
+      "name": "Black_Mamba",
+      "playTimeSeconds": 166092,
+      "money": 752656,
+      "gold": 197,
+      "fame": 2461,
+      "isOnline": true
+    },
+    {
+      "rank": 19,
       "steamId": "76561198041539804",
       "name": "Ded_13",
       "playTimeSeconds": 166061,
@@ -179,16 +189,6 @@
       "gold": 786,
       "fame": 6258,
       "isOnline": false
-    },
-    {
-      "rank": 19,
-      "steamId": "76561198071060590",
-      "name": "Black_Mamba",
-      "playTimeSeconds": 166032,
-      "money": 752656,
-      "gold": 197,
-      "fame": 2461,
-      "isOnline": true
     },
     {
       "rank": 20,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-16T17:50:06.689Z"
+  "updated": "2026-10-16T17:51:06.690Z"
 }
