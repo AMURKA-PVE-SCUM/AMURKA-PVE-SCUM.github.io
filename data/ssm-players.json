@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 7,
   "players": [
     {
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 196850,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 196910,
       "money": 1280885,
       "gold": 5328,
       "fame": 4482,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198121549932",
       "name": "Prostyak",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 235666,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 235726,
       "money": 8305895,
       "gold": 539,
       "fame": 14092,
@@ -24,18 +24,18 @@
     {
       "steamId": "76561199480908551",
       "name": "gv_61 rus",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 47289,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 47349,
       "money": 696255,
       "gold": 131,
       "fame": 665,
-      "rank": 62
+      "rank": 61
     },
     {
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 256226,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 256286,
       "money": 642204,
       "gold": 530,
       "fame": 1695,
@@ -44,8 +44,8 @@
     {
       "steamId": "76561198118646763",
       "name": "John Doe",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 45818,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 45878,
       "money": 97035,
       "gold": 110,
       "fame": 418,
@@ -54,13 +54,23 @@
     {
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 566704,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 566764,
       "money": 2238555,
       "gold": 1560,
       "fame": 6479,
       "rank": 1
+    },
+    {
+      "steamId": "76561197991701874",
+      "name": "Baloo",
+      "sessionSeconds": 8,
+      "playTimeSeconds": 14160,
+      "money": 430003,
+      "gold": 114,
+      "fame": 1563,
+      "rank": 91
     }
   ],
-  "updated": "2026-10-16T05:28:57.315Z"
+  "updated": "2026-10-16T05:29:57.324Z"
 }
