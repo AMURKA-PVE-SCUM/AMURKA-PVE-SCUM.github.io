@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 309795,
+      "playTimeSeconds": 309855,
       "money": 78439,
       "gold": 425,
       "fame": 1035,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "playTimeSeconds": 241498,
+      "playTimeSeconds": 241558,
       "money": 401699,
       "gold": 351,
       "fame": 2910,
@@ -64,10 +64,10 @@
       "rank": 7,
       "steamId": "76561199569191127",
       "name": "Mira",
-      "playTimeSeconds": 225455,
-      "money": 731200,
+      "playTimeSeconds": 225515,
+      "money": 739200,
       "gold": 131,
-      "fame": 3575,
+      "fame": 3585,
       "isOnline": true
     },
     {
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
-      "playTimeSeconds": 213018,
+      "playTimeSeconds": 213078,
       "money": 725398,
       "gold": 292,
       "fame": 2358,
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561199404896383",
+      "name": "Victor_Vilkouskas",
+      "playTimeSeconds": 177403,
+      "money": 1432467,
+      "gold": 448,
+      "fame": 6027,
+      "isOnline": true
+    },
+    {
+      "rank": 16,
       "steamId": "76561199684926739",
       "name": "Skeleton",
       "playTimeSeconds": 177354,
@@ -151,24 +161,14 @@
       "isOnline": false
     },
     {
-      "rank": 16,
-      "steamId": "76561199404896383",
-      "name": "Victor_Vilkouskas",
-      "playTimeSeconds": 177343,
-      "money": 1432467,
-      "gold": 448,
-      "fame": 6027,
-      "isOnline": true
-    },
-    {
       "rank": 17,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 174263,
+      "playTimeSeconds": 174267,
       "money": 15028,
       "gold": 206,
       "fame": 683,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 18,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-16T18:15:06.848Z"
+  "updated": "2026-10-16T18:16:06.849Z"
 }
