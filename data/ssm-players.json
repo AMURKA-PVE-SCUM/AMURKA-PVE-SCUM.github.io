@@ -1,76 +1,46 @@
 {
-  "online": 7,
+  "online": 4,
   "players": [
     {
       "steamId": "76561198117979766",
       "name": "Хлебушек",
-      "sessionSeconds": 93003,
-      "playTimeSeconds": 50842,
+      "sessionSeconds": 93063,
+      "playTimeSeconds": 50885,
       "money": 4486,
       "gold": 70,
       "fame": 224,
       "rank": 62
     },
     {
-      "steamId": "76561198748940532",
-      "name": "Wild_Man",
-      "sessionSeconds": 3164,
-      "playTimeSeconds": 136532,
-      "money": 9297,
-      "gold": 115,
-      "fame": 516,
-      "rank": 29
-    },
-    {
-      "steamId": "76561199569191127",
-      "name": "Mira",
-      "sessionSeconds": 2901,
-      "playTimeSeconds": 216301,
-      "money": 746603,
-      "gold": 116,
-      "fame": 3487,
-      "rank": 9
-    },
-    {
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "sessionSeconds": 2793,
-      "playTimeSeconds": 217813,
+      "sessionSeconds": 2853,
+      "playTimeSeconds": 217850,
       "money": 1367326,
       "gold": 5360,
       "fame": 5142,
       "rank": 8
     },
     {
-      "steamId": "76561199246198020",
-      "name": "Komodo",
-      "sessionSeconds": 1796,
-      "playTimeSeconds": 46115,
-      "money": 421379,
-      "gold": 75,
-      "fame": 906,
-      "rank": 66
-    },
-    {
-      "steamId": "76561198071060590",
-      "name": "Black_Mamba",
-      "sessionSeconds": 308,
-      "playTimeSeconds": 155991,
-      "money": 754605,
-      "gold": 182,
-      "fame": 2420,
-      "rank": 23
-    },
-    {
       "steamId": "76561198328189885",
       "name": "vlaD0S",
-      "sessionSeconds": 26,
-      "playTimeSeconds": 36202,
+      "sessionSeconds": 25,
+      "playTimeSeconds": 36261,
       "money": 42671,
       "gold": 50,
       "fame": 190,
       "rank": 77
+    },
+    {
+      "steamId": "76561198039769049",
+      "name": "Gennadich",
+      "sessionSeconds": 7,
+      "playTimeSeconds": 37492,
+      "money": 8568,
+      "gold": 50,
+      "fame": 252,
+      "rank": 75
     }
   ],
-  "updated": "2026-10-16T15:02:05.515Z"
+  "updated": "2026-10-16T15:03:05.517Z"
 }
