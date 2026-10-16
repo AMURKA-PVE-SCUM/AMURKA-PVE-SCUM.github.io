@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 61090,
-      "playTimeSeconds": 271397,
+      "sessionSeconds": 61150,
+      "playTimeSeconds": 271457,
       "money": 1342398,
       "gold": 713,
       "fame": 3866,
@@ -15,7 +15,7 @@
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 27,
-      "playTimeSeconds": 575057,
+      "playTimeSeconds": 575117,
       "money": 2418160,
       "gold": 1570,
       "fame": 6542,
@@ -25,7 +25,7 @@
       "steamId": "76561199033254903",
       "name": "Kety",
       "sessionSeconds": 27,
-      "playTimeSeconds": 153943,
+      "playTimeSeconds": 154003,
       "money": 408477,
       "gold": 225,
       "fame": 1237,
@@ -35,7 +35,7 @@
       "steamId": "76561198834935876",
       "name": "Aleks",
       "sessionSeconds": 27,
-      "playTimeSeconds": 27835,
+      "playTimeSeconds": 27895,
       "money": 32613,
       "gold": 5,
       "fame": 186,
@@ -45,7 +45,7 @@
       "steamId": "76561198271336608",
       "name": "Валерка",
       "sessionSeconds": 27,
-      "playTimeSeconds": 115734,
+      "playTimeSeconds": 115794,
       "money": 184900,
       "gold": 40,
       "fame": 394,
@@ -55,7 +55,7 @@
       "steamId": "76561198215398893",
       "name": "Shmulkee",
       "sessionSeconds": 27,
-      "playTimeSeconds": 111870,
+      "playTimeSeconds": 111930,
       "money": 410272,
       "gold": 335,
       "fame": 3863,
@@ -65,12 +65,22 @@
       "steamId": "76561198748940532",
       "name": "Wild_Man",
       "sessionSeconds": 27,
-      "playTimeSeconds": 125895,
+      "playTimeSeconds": 125955,
       "money": 6297,
       "gold": 100,
-      "fame": 477,
+      "fame": 478,
       "rank": 30
+    },
+    {
+      "steamId": "76561199801792277",
+      "name": "Сол Хоггар",
+      "sessionSeconds": 16,
+      "playTimeSeconds": 111982,
+      "money": 29834,
+      "gold": 40,
+      "fame": 1184,
+      "rank": 35
     }
   ],
-  "updated": "2026-10-16T07:51:58.375Z"
+  "updated": "2026-10-16T07:52:58.387Z"
 }
