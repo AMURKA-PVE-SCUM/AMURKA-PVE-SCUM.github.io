@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 61510,
-      "playTimeSeconds": 271816,
+      "sessionSeconds": 61570,
+      "playTimeSeconds": 271876,
       "money": 1342398,
       "gold": 713,
       "fame": 3866,
@@ -15,17 +15,27 @@
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 27,
-      "playTimeSeconds": 575476,
+      "playTimeSeconds": 575536,
       "money": 2418160,
       "gold": 1570,
       "fame": 6542,
       "rank": 1
     },
     {
+      "steamId": "76561198037904934",
+      "name": "Astaf",
+      "sessionSeconds": 27,
+      "playTimeSeconds": 38166,
+      "money": 10150,
+      "gold": 50,
+      "fame": 132,
+      "rank": 72
+    },
+    {
       "steamId": "76561199033254903",
       "name": "Kety",
       "sessionSeconds": 27,
-      "playTimeSeconds": 154362,
+      "playTimeSeconds": 154422,
       "money": 408477,
       "gold": 225,
       "fame": 1237,
@@ -35,7 +45,7 @@
       "steamId": "76561198834935876",
       "name": "Aleks",
       "sessionSeconds": 27,
-      "playTimeSeconds": 28254,
+      "playTimeSeconds": 28314,
       "money": 32613,
       "gold": 5,
       "fame": 186,
@@ -45,7 +55,7 @@
       "steamId": "76561198271336608",
       "name": "Валерка",
       "sessionSeconds": 27,
-      "playTimeSeconds": 116153,
+      "playTimeSeconds": 116213,
       "money": 184900,
       "gold": 40,
       "fame": 394,
@@ -55,7 +65,7 @@
       "steamId": "76561199801792277",
       "name": "Сол Хоггар",
       "sessionSeconds": 27,
-      "playTimeSeconds": 112341,
+      "playTimeSeconds": 112401,
       "money": 29834,
       "gold": 40,
       "fame": 1184,
@@ -65,12 +75,12 @@
       "steamId": "76561198748940532",
       "name": "Wild_Man",
       "sessionSeconds": 27,
-      "playTimeSeconds": 126314,
+      "playTimeSeconds": 126374,
       "money": 7297,
       "gold": 105,
       "fame": 488,
       "rank": 30
     }
   ],
-  "updated": "2026-10-16T07:58:58.431Z"
+  "updated": "2026-10-16T07:59:58.435Z"
 }
