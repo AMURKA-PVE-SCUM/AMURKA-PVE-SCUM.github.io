@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561199580351165",
       "name": "ШРинат",
       "sessionSeconds": 20,
-      "playTimeSeconds": 188219,
+      "playTimeSeconds": 188279,
       "money": 1170720,
       "gold": 5318,
       "fame": 4506,
       "rank": 11
+    },
+    {
+      "steamId": "76561198337531947",
+      "name": "brantozavr_voin2",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 249018,
+      "money": 581560,
+      "gold": 520,
+      "fame": 1668,
+      "rank": 5
     }
   ],
-  "updated": "2026-10-16T03:04:56.189Z"
+  "updated": "2026-10-16T03:05:56.196Z"
 }
