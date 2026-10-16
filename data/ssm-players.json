@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 7,
   "players": [
     {
       "steamId": "76561198834935876",
       "name": "Aleks",
-      "sessionSeconds": 6,
-      "playTimeSeconds": 21723,
+      "sessionSeconds": 5,
+      "playTimeSeconds": 21783,
       "money": 15121,
       "gold": 20,
       "fame": 134,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561199033254903",
       "name": "Kety",
-      "sessionSeconds": 6,
-      "playTimeSeconds": 148034,
+      "sessionSeconds": 5,
+      "playTimeSeconds": 148094,
       "money": 404057,
       "gold": 215,
       "fame": 1193,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "sessionSeconds": 6,
-      "playTimeSeconds": 199070,
+      "sessionSeconds": 5,
+      "playTimeSeconds": 199130,
       "money": 1049079,
       "gold": 5333,
       "fame": 4394,
@@ -34,8 +34,8 @@
     {
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "sessionSeconds": 6,
-      "playTimeSeconds": 136422,
+      "sessionSeconds": 5,
+      "playTimeSeconds": 136482,
       "money": 483160,
       "gold": 292,
       "fame": 1692,
@@ -44,8 +44,8 @@
     {
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "sessionSeconds": 6,
-      "playTimeSeconds": 258174,
+      "sessionSeconds": 5,
+      "playTimeSeconds": 258234,
       "money": 642204,
       "gold": 530,
       "fame": 1700,
@@ -54,13 +54,23 @@
     {
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "sessionSeconds": 6,
-      "playTimeSeconds": 568951,
+      "sessionSeconds": 5,
+      "playTimeSeconds": 569011,
       "money": 2244555,
       "gold": 1565,
       "fame": 6492,
       "rank": 1
+    },
+    {
+      "steamId": "76561198156375337",
+      "name": "Domo",
+      "sessionSeconds": 5,
+      "playTimeSeconds": 43098,
+      "money": 2110256,
+      "gold": 11400,
+      "fame": 420,
+      "rank": 65
     }
   ],
-  "updated": "2026-10-16T06:09:57.647Z"
+  "updated": "2026-10-16T06:10:57.652Z"
 }
