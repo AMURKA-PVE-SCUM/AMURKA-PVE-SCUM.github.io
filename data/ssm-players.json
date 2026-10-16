@@ -1,21 +1,21 @@
 {
-  "online": 6,
+  "online": 7,
   "players": [
     {
       "steamId": "76561199580351165",
       "name": "ШРинат",
       "sessionSeconds": 11,
-      "playTimeSeconds": 194813,
+      "playTimeSeconds": 194873,
       "money": 1293085,
       "gold": 5323,
-      "fame": 4521,
+      "fame": 4471,
       "rank": 9
     },
     {
       "steamId": "76561198121549932",
       "name": "Prostyak",
       "sessionSeconds": 11,
-      "playTimeSeconds": 233629,
+      "playTimeSeconds": 233689,
       "money": 8305895,
       "gold": 539,
       "fame": 14090,
@@ -25,17 +25,17 @@
       "steamId": "76561198329185290",
       "name": "Roberto Ross",
       "sessionSeconds": 11,
-      "playTimeSeconds": 787,
+      "playTimeSeconds": 847,
       "money": 0,
       "gold": 0,
       "fame": 0,
-      "rank": 131
+      "rank": 130
     },
     {
       "steamId": "76561199480908551",
       "name": "gv_61 rus",
       "sessionSeconds": 11,
-      "playTimeSeconds": 45252,
+      "playTimeSeconds": 45312,
       "money": 695255,
       "gold": 126,
       "fame": 653,
@@ -45,7 +45,7 @@
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
       "sessionSeconds": 11,
-      "playTimeSeconds": 254189,
+      "playTimeSeconds": 254249,
       "money": 641204,
       "gold": 525,
       "fame": 1682,
@@ -55,12 +55,22 @@
       "steamId": "76561198118646763",
       "name": "John Doe",
       "sessionSeconds": 11,
-      "playTimeSeconds": 44133,
+      "playTimeSeconds": 44193,
       "money": 96035,
       "gold": 105,
       "fame": 407,
       "rank": 64
+    },
+    {
+      "steamId": "76561198156375337",
+      "name": "Domo",
+      "sessionSeconds": 11,
+      "playTimeSeconds": 42270,
+      "money": 2110256,
+      "gold": 11400,
+      "fame": 469,
+      "rank": 67
     }
   ],
-  "updated": "2026-10-16T04:54:57.054Z"
+  "updated": "2026-10-16T04:55:57.066Z"
 }
