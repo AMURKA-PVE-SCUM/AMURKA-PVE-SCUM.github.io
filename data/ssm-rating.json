@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "playTimeSeconds": 589314,
+      "playTimeSeconds": 589374,
       "money": 2422160,
       "gold": 1590,
       "fame": 6592,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 305307,
+      "playTimeSeconds": 305367,
       "money": 77439,
       "gold": 420,
       "fame": 1022,
@@ -34,11 +34,11 @@
       "rank": 4,
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "playTimeSeconds": 273166,
+      "playTimeSeconds": 273179,
       "money": 644029,
       "gold": 555,
       "fame": 1780,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 5,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "playTimeSeconds": 237586,
+      "playTimeSeconds": 237646,
       "money": 400699,
       "gold": 346,
       "fame": 2895,
@@ -62,6 +62,16 @@
     },
     {
       "rank": 7,
+      "steamId": "76561199569191127",
+      "name": "Mira",
+      "playTimeSeconds": 221597,
+      "money": 723050,
+      "gold": 126,
+      "fame": 3515,
+      "isOnline": true
+    },
+    {
+      "rank": 8,
       "steamId": "76561199580351165",
       "name": "ШРинат",
       "playTimeSeconds": 221553,
@@ -71,20 +81,10 @@
       "isOnline": false
     },
     {
-      "rank": 8,
-      "steamId": "76561199569191127",
-      "name": "Mira",
-      "playTimeSeconds": 221537,
-      "money": 723050,
-      "gold": 126,
-      "fame": 3515,
-      "isOnline": true
-    },
-    {
       "rank": 9,
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
-      "playTimeSeconds": 208238,
+      "playTimeSeconds": 208298,
       "money": 725398,
       "gold": 287,
       "fame": 2344,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561198372320271",
       "name": "ADA",
-      "playTimeSeconds": 194045,
+      "playTimeSeconds": 194105,
       "money": 691392,
       "gold": 235,
       "fame": 2410,
@@ -194,12 +194,12 @@
       "rank": 20,
       "steamId": "76561198071060590",
       "name": "Black_Mamba",
-      "playTimeSeconds": 162677,
+      "playTimeSeconds": 162737,
       "money": 756605,
       "gold": 192,
       "fame": 2447,
       "isOnline": true
     }
   ],
-  "updated": "2026-10-16T16:54:06.328Z"
+  "updated": "2026-10-16T16:55:06.329Z"
 }
