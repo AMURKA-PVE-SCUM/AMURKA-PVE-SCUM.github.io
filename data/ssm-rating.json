@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199168999163",
       "name": "Puteshestvinica",
-      "playTimeSeconds": 19219,
+      "playTimeSeconds": 19244,
       "money": 24737,
       "gold": 175,
       "fame": 594,
@@ -34,17 +34,17 @@
       "rank": 4,
       "steamId": "76561199699294853",
       "name": "ПАТRИК",
-      "playTimeSeconds": 10519,
+      "playTimeSeconds": 10551,
       "money": 455418,
       "gold": 195,
       "fame": 705,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 5,
       "steamId": "76561199125649189",
       "name": "K9 Торговец",
-      "playTimeSeconds": 9619,
+      "playTimeSeconds": 9678,
       "money": 12406,
       "gold": 45,
       "fame": 390,
@@ -94,11 +94,11 @@
       "rank": 10,
       "steamId": "76561198117979766",
       "name": "Хлебушек",
-      "playTimeSeconds": 7751,
+      "playTimeSeconds": 7769,
       "money": 163721,
       "gold": 120,
       "fame": 412,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 11,
@@ -132,6 +132,16 @@
     },
     {
       "rank": 14,
+      "steamId": "76561198352984050",
+      "name": "Vlad",
+      "playTimeSeconds": 4828,
+      "money": 77965,
+      "gold": 650,
+      "fame": 1099,
+      "isOnline": true
+    },
+    {
+      "rank": 15,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "playTimeSeconds": 4816,
@@ -139,16 +149,6 @@
       "gold": 420,
       "fame": 930,
       "isOnline": false
-    },
-    {
-      "rank": 15,
-      "steamId": "76561198352984050",
-      "name": "Vlad",
-      "playTimeSeconds": 4769,
-      "money": 77965,
-      "gold": 650,
-      "fame": 1099,
-      "isOnline": true
     },
     {
       "rank": 16,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-17T09:04:13.399Z"
+  "updated": "2026-10-17T09:05:13.409Z"
 }
