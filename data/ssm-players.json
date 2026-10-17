@@ -1,21 +1,31 @@
 {
-  "online": 14,
+  "online": 15,
   "players": [
+    {
+      "steamId": "76561198117979766",
+      "name": "Хлебушек",
+      "sessionSeconds": 179717,
+      "playTimeSeconds": 29014,
+      "money": 243675,
+      "gold": 150,
+      "fame": 526,
+      "rank": 3
+    },
     {
       "steamId": "76561198230911236",
       "name": "TOR",
       "sessionSeconds": 5,
-      "playTimeSeconds": 393,
+      "playTimeSeconds": 453,
       "money": 41662,
       "gold": 120,
       "fame": 459,
-      "rank": 57
+      "rank": 56
     },
     {
       "steamId": "76561198826257359",
       "name": "XXXX",
       "sessionSeconds": 5,
-      "playTimeSeconds": 17001,
+      "playTimeSeconds": 17061,
       "money": 16394,
       "gold": 241,
       "fame": 802,
@@ -25,7 +35,7 @@
       "steamId": "76561199206700564",
       "name": "_Adskiy_Yozhik_",
       "sessionSeconds": 5,
-      "playTimeSeconds": 4254,
+      "playTimeSeconds": 4314,
       "money": 54149,
       "gold": 125,
       "fame": 366,
@@ -35,17 +45,17 @@
       "steamId": "76561199244636054",
       "name": "_PsixichkA_",
       "sessionSeconds": 5,
-      "playTimeSeconds": 9779,
+      "playTimeSeconds": 9839,
       "money": 87198,
       "gold": 325,
       "fame": 983,
-      "rank": 32
+      "rank": 31
     },
     {
       "steamId": "76561198372320271",
       "name": "ADA",
       "sessionSeconds": 5,
-      "playTimeSeconds": 5057,
+      "playTimeSeconds": 5117,
       "money": 580451,
       "gold": 250,
       "fame": 2482,
@@ -55,17 +65,17 @@
       "steamId": "76561198089285406",
       "name": "Джони Д",
       "sessionSeconds": 5,
-      "playTimeSeconds": 13823,
+      "playTimeSeconds": 13883,
       "money": 11701,
       "gold": 15,
-      "fame": 152,
+      "fame": 153,
       "rank": 23
     },
     {
       "steamId": "76561198039769049",
       "name": "Gennadich",
       "sessionSeconds": 5,
-      "playTimeSeconds": 16044,
+      "playTimeSeconds": 16104,
       "money": 7262,
       "gold": 100,
       "fame": 405,
@@ -75,7 +85,7 @@
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
       "sessionSeconds": 5,
-      "playTimeSeconds": 14136,
+      "playTimeSeconds": 14196,
       "money": 684229,
       "gold": 570,
       "fame": 1829,
@@ -85,17 +95,17 @@
       "steamId": "76561199684926739",
       "name": "Skeleton",
       "sessionSeconds": 5,
-      "playTimeSeconds": 3016,
+      "playTimeSeconds": 3076,
       "money": 964759,
       "gold": 181,
-      "fame": 6118,
+      "fame": 6119,
       "rank": 50
     },
     {
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
       "sessionSeconds": 5,
-      "playTimeSeconds": 5095,
+      "playTimeSeconds": 5155,
       "money": 1032774,
       "gold": 233,
       "fame": 3119,
@@ -105,7 +115,7 @@
       "steamId": "76561199189470290",
       "name": "Konffetka",
       "sessionSeconds": 5,
-      "playTimeSeconds": 20459,
+      "playTimeSeconds": 20519,
       "money": 1273093,
       "gold": 346,
       "fame": 8172,
@@ -115,32 +125,32 @@
       "steamId": "76561198115245396",
       "name": "Хабаровчанин",
       "sessionSeconds": 5,
-      "playTimeSeconds": 13931,
+      "playTimeSeconds": 13991,
       "money": 462658,
       "gold": 246,
       "fame": 920,
-      "rank": 22
-    },
-    {
-      "steamId": "76561198941316634",
-      "name": "нннннн",
-      "sessionSeconds": 5,
-      "playTimeSeconds": 4273,
-      "money": 1000,
-      "gold": 5,
-      "fame": 16,
-      "rank": 47
+      "rank": 21
     },
     {
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "sessionSeconds": 3,
-      "playTimeSeconds": 20674,
+      "sessionSeconds": 5,
+      "playTimeSeconds": 20734,
       "money": 501885,
       "gold": 382,
       "fame": 2349,
-      "rank": 8
+      "rank": 7
+    },
+    {
+      "steamId": "76561198877709613",
+      "name": "_RE_",
+      "sessionSeconds": 5,
+      "playTimeSeconds": 1047,
+      "money": 0,
+      "gold": 0,
+      "fame": 2,
+      "rank": 54
     }
   ],
-  "updated": "2026-10-17T15:06:20.075Z"
+  "updated": "2026-10-17T15:07:20.089Z"
 }
