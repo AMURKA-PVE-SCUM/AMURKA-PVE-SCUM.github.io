@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199125649189",
       "name": "K9 Торговец",
-      "playTimeSeconds": 29089,
+      "playTimeSeconds": 29149,
       "money": 54072,
       "gold": 75,
       "fame": 385,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198117979766",
       "name": "Хлебушек",
-      "playTimeSeconds": 27096,
+      "playTimeSeconds": 27156,
       "money": 242675,
       "gold": 145,
       "fame": 515,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561198067720439",
       "name": "Genih",
-      "playTimeSeconds": 19338,
+      "playTimeSeconds": 19398,
       "money": 4045008,
       "gold": 921,
       "fame": 6393,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561198121549932",
       "name": "Prostyak",
-      "playTimeSeconds": 19173,
+      "playTimeSeconds": 19233,
       "money": 8754524,
       "gold": 581,
       "fame": 14796,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "playTimeSeconds": 19003,
+      "playTimeSeconds": 19063,
       "money": 500885,
       "gold": 377,
       "fame": 2338,
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561199189470290",
       "name": "Konffetka",
-      "playTimeSeconds": 18485,
+      "playTimeSeconds": 18545,
       "money": 1273093,
       "gold": 346,
       "fame": 8171,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 14922,
+      "playTimeSeconds": 14982,
       "money": 20449,
       "gold": 241,
       "fame": 800,
@@ -172,6 +172,16 @@
     },
     {
       "rank": 18,
+      "steamId": "76561198039769049",
+      "name": "Gennadich",
+      "playTimeSeconds": 14248,
+      "money": 6262,
+      "gold": 95,
+      "fame": 391,
+      "isOnline": true
+    },
+    {
+      "rank": 19,
       "steamId": "76561199155262151",
       "name": "MazaaFakell",
       "playTimeSeconds": 14197,
@@ -179,16 +189,6 @@
       "gold": 135,
       "fame": 452,
       "isOnline": false
-    },
-    {
-      "rank": 19,
-      "steamId": "76561198039769049",
-      "name": "Gennadich",
-      "playTimeSeconds": 14188,
-      "money": 6262,
-      "gold": 95,
-      "fame": 391,
-      "isOnline": true
     },
     {
       "rank": 20,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-17T14:31:19.782Z"
+  "updated": "2026-10-17T14:32:19.793Z"
 }
