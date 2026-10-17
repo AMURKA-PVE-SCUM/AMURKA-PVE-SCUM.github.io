@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199125649189",
       "name": "K9 Торговец",
-      "playTimeSeconds": 30706,
+      "playTimeSeconds": 30766,
       "money": 54072,
       "gold": 75,
       "fame": 386,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198117979766",
       "name": "Хлебушек",
-      "playTimeSeconds": 28713,
+      "playTimeSeconds": 28773,
       "money": 243675,
       "gold": 150,
       "fame": 526,
@@ -62,6 +62,16 @@
     },
     {
       "rank": 7,
+      "steamId": "76561198794536026",
+      "name": "Ayanakoji",
+      "playTimeSeconds": 20671,
+      "money": 501885,
+      "gold": 382,
+      "fame": 2349,
+      "isOnline": false
+    },
+    {
+      "rank": 8,
       "steamId": "76561199168999163",
       "name": "Puteshestvinica",
       "playTimeSeconds": 20665,
@@ -71,20 +81,10 @@
       "isOnline": false
     },
     {
-      "rank": 8,
-      "steamId": "76561198794536026",
-      "name": "Ayanakoji",
-      "playTimeSeconds": 20620,
-      "money": 501885,
-      "gold": 382,
-      "fame": 2349,
-      "isOnline": true
-    },
-    {
       "rank": 9,
       "steamId": "76561198067720439",
       "name": "Genih",
-      "playTimeSeconds": 20474,
+      "playTimeSeconds": 20534,
       "money": 4045008,
       "gold": 921,
       "fame": 6396,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561199189470290",
       "name": "Konffetka",
-      "playTimeSeconds": 20102,
+      "playTimeSeconds": 20162,
       "money": 1273093,
       "gold": 346,
       "fame": 8172,
@@ -144,7 +144,7 @@
       "rank": 15,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 16539,
+      "playTimeSeconds": 16599,
       "money": 16394,
       "gold": 241,
       "fame": 801,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561198039769049",
       "name": "Gennadich",
-      "playTimeSeconds": 15805,
+      "playTimeSeconds": 15865,
       "money": 7262,
       "gold": 100,
       "fame": 405,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-17T14:58:20.010Z"
+  "updated": "2026-10-17T14:59:20.014Z"
 }
