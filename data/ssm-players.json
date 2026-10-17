@@ -1,11 +1,21 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
+    {
+      "steamId": "76561198794536026",
+      "name": "Ayanakoji",
+      "sessionSeconds": 26,
+      "playTimeSeconds": 48581,
+      "money": 433828,
+      "gold": 322,
+      "fame": 2478,
+      "rank": 5
+    },
     {
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
       "sessionSeconds": 26,
-      "playTimeSeconds": 19127,
+      "playTimeSeconds": 19186,
       "money": 756675,
       "gold": 349,
       "fame": 2917,
@@ -15,7 +25,7 @@
       "steamId": "76561198121549932",
       "name": "Prostyak",
       "sessionSeconds": 26,
-      "playTimeSeconds": 20492,
+      "playTimeSeconds": 20551,
       "money": 8757024,
       "gold": 581,
       "fame": 14817,
@@ -25,32 +35,32 @@
       "steamId": "76561199189470290",
       "name": "Konffetka",
       "sessionSeconds": 26,
-      "playTimeSeconds": 50234,
-      "money": 1654381,
-      "gold": 387,
-      "fame": 9294,
+      "playTimeSeconds": 50293,
+      "money": 1655381,
+      "gold": 392,
+      "fame": 9304,
       "rank": 3
     },
     {
       "steamId": "76561198067720439",
       "name": "Genih",
       "sessionSeconds": 26,
-      "playTimeSeconds": 49954,
+      "playTimeSeconds": 50013,
       "money": 4420634,
       "gold": 972,
-      "fame": 7339,
+      "fame": 7340,
       "rank": 4
     },
     {
       "steamId": "76561198389868086",
       "name": "Cerberus_old",
       "sessionSeconds": 26,
-      "playTimeSeconds": 6832,
+      "playTimeSeconds": 6891,
       "money": 800,
       "gold": 5,
       "fame": 116,
       "rank": 54
     }
   ],
-  "updated": "2026-10-17T23:26:23.746Z"
+  "updated": "2026-10-17T23:27:23.754Z"
 }
