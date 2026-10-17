@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561199168999163",
       "name": "Puteshestvinica",
-      "playTimeSeconds": 5279,
+      "playTimeSeconds": 5339,
       "money": 83170,
       "gold": 155,
       "fame": 537,
@@ -22,23 +22,23 @@
     },
     {
       "rank": 3,
-      "steamId": "76561198118646763",
-      "name": "John Doe",
-      "playTimeSeconds": 223,
-      "money": 60035,
-      "gold": 120,
-      "fame": 454,
-      "isOnline": true
-    },
-    {
-      "rank": 4,
       "steamId": "76561198193943237",
       "name": "ABNOX",
-      "playTimeSeconds": 207,
+      "playTimeSeconds": 267,
       "money": 5482,
       "gold": 10,
       "fame": 42,
       "isOnline": true
+    },
+    {
+      "rank": 4,
+      "steamId": "76561198118646763",
+      "name": "John Doe",
+      "playTimeSeconds": 261,
+      "money": 60035,
+      "gold": 120,
+      "fame": 454,
+      "isOnline": false
     },
     {
       "rank": 5,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-17T02:31:10.582Z"
+  "updated": "2026-10-17T02:32:10.594Z"
 }
