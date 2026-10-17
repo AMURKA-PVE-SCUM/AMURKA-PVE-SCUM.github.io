@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561199033254903",
       "name": "Kety",
-      "playTimeSeconds": 11126,
+      "playTimeSeconds": 11186,
       "money": 512237,
       "gold": 250,
       "fame": 1354,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199168999163",
       "name": "Puteshestvinica",
-      "playTimeSeconds": 9948,
+      "playTimeSeconds": 10008,
       "money": 21119,
       "gold": 160,
       "fame": 552,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561199699294853",
       "name": "ПАТRИК",
-      "playTimeSeconds": 6787,
+      "playTimeSeconds": 6847,
       "money": 406474,
       "gold": 190,
       "fame": 687,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198193943237",
       "name": "ABNOX",
-      "playTimeSeconds": 3116,
+      "playTimeSeconds": 3176,
       "money": 6482,
       "gold": 15,
       "fame": 57,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
-      "playTimeSeconds": 3115,
+      "playTimeSeconds": 3175,
       "money": 2657682,
       "gold": 960,
       "fame": 21411,
@@ -102,6 +102,16 @@
     },
     {
       "rank": 11,
+      "steamId": "76561199125649189",
+      "name": "K9 Торговец",
+      "playTimeSeconds": 100,
+      "money": 10406,
+      "gold": 35,
+      "fame": 360,
+      "isOnline": true
+    },
+    {
+      "rank": 12,
       "steamId": "76561198831354124",
       "name": "poosifer",
       "playTimeSeconds": 55,
@@ -109,16 +119,6 @@
       "gold": 167,
       "fame": 937,
       "isOnline": false
-    },
-    {
-      "rank": 12,
-      "steamId": "76561199125649189",
-      "name": "K9 Торговец",
-      "playTimeSeconds": 40,
-      "money": 10406,
-      "gold": 35,
-      "fame": 360,
-      "isOnline": true
     },
     {
       "rank": 13,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-17T06:24:12.280Z"
+  "updated": "2026-10-17T06:25:12.283Z"
 }
