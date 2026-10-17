@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561199168999163",
       "name": "Puteshestvinica",
-      "playTimeSeconds": 5099,
+      "playTimeSeconds": 5159,
       "money": 83170,
       "gold": 155,
       "fame": 537,
@@ -22,6 +22,26 @@
     },
     {
       "rank": 3,
+      "steamId": "76561198118646763",
+      "name": "John Doe",
+      "playTimeSeconds": 103,
+      "money": 60035,
+      "gold": 120,
+      "fame": 454,
+      "isOnline": true
+    },
+    {
+      "rank": 4,
+      "steamId": "76561198193943237",
+      "name": "ABNOX",
+      "playTimeSeconds": 87,
+      "money": 5482,
+      "gold": 10,
+      "fame": 41,
+      "isOnline": true
+    },
+    {
+      "rank": 5,
       "steamId": "76561198831354124",
       "name": "poosifer",
       "playTimeSeconds": 55,
@@ -29,26 +49,6 @@
       "gold": 167,
       "fame": 937,
       "isOnline": false
-    },
-    {
-      "rank": 4,
-      "steamId": "76561198118646763",
-      "name": "John Doe",
-      "playTimeSeconds": 43,
-      "money": 60035,
-      "gold": 120,
-      "fame": 454,
-      "isOnline": true
-    },
-    {
-      "rank": 5,
-      "steamId": "76561198193943237",
-      "name": "ABNOX",
-      "playTimeSeconds": 27,
-      "money": 5482,
-      "gold": 10,
-      "fame": 41,
-      "isOnline": true
     },
     {
       "rank": 6,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-17T02:28:10.558Z"
+  "updated": "2026-10-17T02:29:10.568Z"
 }
