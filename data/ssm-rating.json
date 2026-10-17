@@ -14,11 +14,11 @@
       "rank": 2,
       "steamId": "76561199125649189",
       "name": "K9 Торговец",
-      "playTimeSeconds": 30962,
+      "playTimeSeconds": 30993,
       "money": 54072,
       "gold": 75,
       "fame": 386,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 3,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198328189885",
       "name": "vlaD0S",
-      "playTimeSeconds": 25945,
+      "playTimeSeconds": 26005,
       "money": 177271,
       "gold": 120,
       "fame": 460,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "playTimeSeconds": 21273,
+      "playTimeSeconds": 21333,
       "money": 501885,
       "gold": 382,
       "fame": 2350,
@@ -74,17 +74,17 @@
       "rank": 8,
       "steamId": "76561199189470290",
       "name": "Konffetka",
-      "playTimeSeconds": 21058,
+      "playTimeSeconds": 21118,
       "money": 1273093,
       "gold": 346,
-      "fame": 8173,
+      "fame": 8175,
       "isOnline": true
     },
     {
       "rank": 9,
       "steamId": "76561198067720439",
       "name": "Genih",
-      "playTimeSeconds": 20908,
+      "playTimeSeconds": 20968,
       "money": 4146008,
       "gold": 932,
       "fame": 6597,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 17600,
+      "playTimeSeconds": 17660,
       "money": 16394,
       "gold": 241,
       "fame": 802,
@@ -132,6 +132,16 @@
     },
     {
       "rank": 14,
+      "steamId": "76561198039769049",
+      "name": "Gennadich",
+      "playTimeSeconds": 16703,
+      "money": 7262,
+      "gold": 100,
+      "fame": 406,
+      "isOnline": true
+    },
+    {
+      "rank": 15,
       "steamId": "76561198748940532",
       "name": "Wild_Man",
       "playTimeSeconds": 16674,
@@ -141,7 +151,7 @@
       "isOnline": false
     },
     {
-      "rank": 15,
+      "rank": 16,
       "steamId": "76561198382114262",
       "name": "Montana",
       "playTimeSeconds": 16668,
@@ -149,16 +159,6 @@
       "gold": 140,
       "fame": 841,
       "isOnline": false
-    },
-    {
-      "rank": 16,
-      "steamId": "76561198039769049",
-      "name": "Gennadich",
-      "playTimeSeconds": 16643,
-      "money": 7262,
-      "gold": 100,
-      "fame": 406,
-      "isOnline": true
     },
     {
       "rank": 17,
@@ -172,6 +172,16 @@
     },
     {
       "rank": 18,
+      "steamId": "76561198337531947",
+      "name": "brantozavr_voin2",
+      "playTimeSeconds": 14795,
+      "money": 685229,
+      "gold": 575,
+      "fame": 1841,
+      "isOnline": true
+    },
+    {
+      "rank": 19,
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "playTimeSeconds": 14793,
@@ -181,25 +191,15 @@
       "isOnline": false
     },
     {
-      "rank": 19,
-      "steamId": "76561198337531947",
-      "name": "brantozavr_voin2",
-      "playTimeSeconds": 14735,
-      "money": 685229,
-      "gold": 575,
-      "fame": 1841,
-      "isOnline": true
-    },
-    {
       "rank": 20,
       "steamId": "76561198115245396",
       "name": "Хабаровчанин",
-      "playTimeSeconds": 14530,
+      "playTimeSeconds": 14590,
       "money": 462658,
       "gold": 246,
       "fame": 920,
       "isOnline": true
     }
   ],
-  "updated": "2026-10-17T15:16:20.143Z"
+  "updated": "2026-10-17T15:17:20.150Z"
 }
