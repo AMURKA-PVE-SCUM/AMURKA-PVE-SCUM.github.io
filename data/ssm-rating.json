@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561199033254903",
       "name": "Kety",
-      "playTimeSeconds": 11306,
+      "playTimeSeconds": 11364,
       "money": 512237,
       "gold": 250,
       "fame": 1354,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199168999163",
       "name": "Puteshestvinica",
-      "playTimeSeconds": 10128,
+      "playTimeSeconds": 10186,
       "money": 21119,
       "gold": 160,
       "fame": 553,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561199699294853",
       "name": "ПАТRИК",
-      "playTimeSeconds": 6967,
+      "playTimeSeconds": 7025,
       "money": 406474,
       "gold": 190,
       "fame": 687,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198193943237",
       "name": "ABNOX",
-      "playTimeSeconds": 3296,
+      "playTimeSeconds": 3354,
       "money": 6482,
       "gold": 15,
       "fame": 57,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
-      "playTimeSeconds": 3295,
+      "playTimeSeconds": 3353,
       "money": 2657682,
       "gold": 960,
       "fame": 21411,
@@ -92,6 +92,16 @@
     },
     {
       "rank": 10,
+      "steamId": "76561199125649189",
+      "name": "K9 Торговец",
+      "playTimeSeconds": 278,
+      "money": 10406,
+      "gold": 35,
+      "fame": 360,
+      "isOnline": true
+    },
+    {
+      "rank": 11,
       "steamId": "76561198118646763",
       "name": "John Doe",
       "playTimeSeconds": 261,
@@ -101,17 +111,17 @@
       "isOnline": false
     },
     {
-      "rank": 11,
-      "steamId": "76561199125649189",
-      "name": "K9 Торговец",
-      "playTimeSeconds": 220,
-      "money": 10406,
-      "gold": 35,
-      "fame": 360,
+      "rank": 12,
+      "steamId": "76561198037904934",
+      "name": "Astaf",
+      "playTimeSeconds": 99,
+      "money": 19150,
+      "gold": 70,
+      "fame": 189,
       "isOnline": true
     },
     {
-      "rank": 12,
+      "rank": 13,
       "steamId": "76561198831354124",
       "name": "poosifer",
       "playTimeSeconds": 55,
@@ -119,16 +129,6 @@
       "gold": 167,
       "fame": 937,
       "isOnline": false
-    },
-    {
-      "rank": 13,
-      "steamId": "76561198037904934",
-      "name": "Astaf",
-      "playTimeSeconds": 41,
-      "money": 19150,
-      "gold": 70,
-      "fame": 189,
-      "isOnline": true
     },
     {
       "rank": 14,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-17T06:27:12.298Z"
+  "updated": "2026-10-17T06:28:12.299Z"
 }
