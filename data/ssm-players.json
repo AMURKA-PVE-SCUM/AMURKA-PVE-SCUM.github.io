@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198117979766",
       "name": "Хлебушек",
-      "sessionSeconds": 207381,
-      "playTimeSeconds": 45350,
+      "sessionSeconds": 207441,
+      "playTimeSeconds": 45410,
       "money": 298635,
       "gold": 170,
       "fame": 609,
@@ -14,18 +14,28 @@
     {
       "steamId": "76561199125649189",
       "name": "K9 Торговец",
-      "sessionSeconds": 206234,
-      "playTimeSeconds": 57950,
+      "sessionSeconds": 206293,
+      "playTimeSeconds": 58010,
       "money": 194838,
       "gold": 116,
       "fame": 850,
       "rank": 1
     },
     {
+      "steamId": "76561198909785165",
+      "name": "HeavenlyInjecti",
+      "sessionSeconds": 29,
+      "playTimeSeconds": 16166,
+      "money": 7161,
+      "gold": 20,
+      "fame": 67,
+      "rank": 29
+    },
+    {
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 46284,
+      "sessionSeconds": 29,
+      "playTimeSeconds": 46344,
       "money": 432828,
       "gold": 317,
       "fame": 2466,
@@ -34,8 +44,8 @@
     {
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 16850,
+      "sessionSeconds": 29,
+      "playTimeSeconds": 16910,
       "money": 755675,
       "gold": 344,
       "fame": 2903,
@@ -44,8 +54,8 @@
     {
       "steamId": "76561199189470290",
       "name": "Konffetka",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 47957,
+      "sessionSeconds": 29,
+      "playTimeSeconds": 48017,
       "money": 1604381,
       "gold": 386,
       "fame": 9105,
@@ -54,8 +64,8 @@
     {
       "steamId": "76561198067720439",
       "name": "Genih",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 47677,
+      "sessionSeconds": 29,
+      "playTimeSeconds": 47737,
       "money": 4419634,
       "gold": 967,
       "fame": 7326,
@@ -64,13 +74,13 @@
     {
       "steamId": "76561198389868086",
       "name": "Cerberus_old",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 4555,
+      "sessionSeconds": 29,
+      "playTimeSeconds": 4615,
       "money": 900,
       "gold": 5,
       "fame": 114,
-      "rank": 60
+      "rank": 58
     }
   ],
-  "updated": "2026-10-17T22:48:23.479Z"
+  "updated": "2026-10-17T22:49:23.492Z"
 }
