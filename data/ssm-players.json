@@ -1,11 +1,31 @@
 {
-  "online": 4,
+  "online": 6,
   "players": [
+    {
+      "steamId": "76561199125649189",
+      "name": "K9 Торговец",
+      "sessionSeconds": 189191,
+      "playTimeSeconds": 40951,
+      "money": 57072,
+      "gold": 90,
+      "fame": 432,
+      "rank": 1
+    },
+    {
+      "steamId": "76561199569191127",
+      "name": "Mira",
+      "sessionSeconds": 100237,
+      "playTimeSeconds": 14895,
+      "money": 845282,
+      "gold": 116,
+      "fame": 3819,
+      "rank": 24
+    },
     {
       "steamId": "76561198071060590",
       "name": "Black_Mamba",
-      "sessionSeconds": 97584,
-      "playTimeSeconds": 13850,
+      "sessionSeconds": 97644,
+      "playTimeSeconds": 13909,
       "money": 756656,
       "gold": 217,
       "fame": 2523,
@@ -15,7 +35,7 @@
       "steamId": "76561198328189885",
       "name": "vlaD0S",
       "sessionSeconds": 22,
-      "playTimeSeconds": 35941,
+      "playTimeSeconds": 36001,
       "money": 179271,
       "gold": 135,
       "fame": 500,
@@ -24,8 +44,8 @@
     {
       "steamId": "76561198029476275",
       "name": "XEH",
-      "sessionSeconds": 14,
-      "playTimeSeconds": 13488,
+      "sessionSeconds": 22,
+      "playTimeSeconds": 13548,
       "money": 816384,
       "gold": 378,
       "fame": 2100,
@@ -34,13 +54,13 @@
     {
       "steamId": "76561198372320271",
       "name": "ADA",
-      "sessionSeconds": 6,
-      "playTimeSeconds": 14463,
+      "sessionSeconds": 22,
+      "playTimeSeconds": 14523,
       "money": 468914,
       "gold": 260,
       "fame": 2641,
       "rank": 26
     }
   ],
-  "updated": "2026-10-17T18:03:21.346Z"
+  "updated": "2026-10-17T18:04:21.352Z"
 }
