@@ -32,6 +32,16 @@
     },
     {
       "rank": 4,
+      "steamId": "76561199033254903",
+      "name": "Kety",
+      "playTimeSeconds": 300,
+      "money": 409477,
+      "gold": 235,
+      "fame": 1249,
+      "isOnline": true
+    },
+    {
+      "rank": 5,
       "steamId": "76561198118646763",
       "name": "John Doe",
       "playTimeSeconds": 261,
@@ -39,16 +49,6 @@
       "gold": 120,
       "fame": 454,
       "isOnline": false
-    },
-    {
-      "rank": 5,
-      "steamId": "76561199033254903",
-      "name": "Kety",
-      "playTimeSeconds": 240,
-      "money": 409477,
-      "gold": 235,
-      "fame": 1249,
-      "isOnline": true
     },
     {
       "rank": 6,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-17T03:09:10.869Z"
+  "updated": "2026-10-17T03:10:10.869Z"
 }
