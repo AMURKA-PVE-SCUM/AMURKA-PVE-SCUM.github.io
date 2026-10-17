@@ -2,6 +2,16 @@
   "leaderboard": [
     {
       "rank": 1,
+      "steamId": "76561199033254903",
+      "name": "Kety",
+      "playTimeSeconds": 7054,
+      "money": 511237,
+      "gold": 245,
+      "fame": 1342,
+      "isOnline": true
+    },
+    {
+      "rank": 2,
       "steamId": "76561199168999163",
       "name": "Puteshestvinica",
       "playTimeSeconds": 7001,
@@ -9,16 +19,6 @@
       "gold": 155,
       "fame": 539,
       "isOnline": false
-    },
-    {
-      "rank": 2,
-      "steamId": "76561199033254903",
-      "name": "Kety",
-      "playTimeSeconds": 6994,
-      "money": 511237,
-      "gold": 245,
-      "fame": 1342,
-      "isOnline": true
     },
     {
       "rank": 3,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
-      "playTimeSeconds": 5496,
+      "playTimeSeconds": 5556,
       "money": 687948,
       "gold": 560,
       "fame": 1799,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-17T05:10:11.724Z"
+  "updated": "2026-10-17T05:11:11.731Z"
 }
