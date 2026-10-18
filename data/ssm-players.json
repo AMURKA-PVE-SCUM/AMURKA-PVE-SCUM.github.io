@@ -1,21 +1,21 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198123537318",
       "name": "aloxa",
       "sessionSeconds": 11,
-      "playTimeSeconds": 8630,
+      "playTimeSeconds": 8690,
       "money": 156086,
       "gold": 35,
-      "fame": 595,
+      "fame": 596,
       "rank": 55
     },
     {
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 11,
-      "playTimeSeconds": 20419,
+      "playTimeSeconds": 20479,
       "money": 82965,
       "gold": 675,
       "fame": 1161,
@@ -25,32 +25,42 @@
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "sessionSeconds": 11,
-      "playTimeSeconds": 20772,
+      "playTimeSeconds": 20832,
       "money": 1000,
       "gold": 747,
       "fame": 1972,
       "rank": 21
     },
     {
+      "steamId": "76561198118646763",
+      "name": "John Doe",
+      "sessionSeconds": 11,
+      "playTimeSeconds": 1561,
+      "money": 75035,
+      "gold": 120,
+      "fame": 456,
+      "rank": 68
+    },
+    {
       "steamId": "76561198077981589",
       "name": "Чилим",
       "sessionSeconds": 11,
-      "playTimeSeconds": 5236,
+      "playTimeSeconds": 5296,
       "money": 499560,
       "gold": 418,
       "fame": 2005,
-      "rank": 59
+      "rank": 58
     },
     {
       "steamId": "76561198354031168",
       "name": "sanchez",
       "sessionSeconds": 11,
-      "playTimeSeconds": 15208,
-      "money": 269064,
-      "gold": 145,
-      "fame": 430,
+      "playTimeSeconds": 15268,
+      "money": 270064,
+      "gold": 150,
+      "fame": 440,
       "rank": 33
     }
   ],
-  "updated": "2026-10-18T02:34:25.141Z"
+  "updated": "2026-10-18T02:35:25.140Z"
 }
