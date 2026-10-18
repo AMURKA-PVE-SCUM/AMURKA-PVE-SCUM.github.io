@@ -1,11 +1,21 @@
 {
-  "online": 2,
+  "online": 3,
   "players": [
+    {
+      "steamId": "76561198077981589",
+      "name": "Чилим",
+      "sessionSeconds": 23,
+      "playTimeSeconds": 1522,
+      "money": 586595,
+      "gold": 313,
+      "fame": 1959,
+      "rank": 66
+    },
     {
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
       "sessionSeconds": 23,
-      "playTimeSeconds": 50669,
+      "playTimeSeconds": 50729,
       "money": 580267,
       "gold": 322,
       "fame": 2576,
@@ -15,12 +25,12 @@
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
       "sessionSeconds": 23,
-      "playTimeSeconds": 21493,
+      "playTimeSeconds": 21553,
       "money": 790766,
       "gold": 349,
       "fame": 2978,
       "rank": 20
     }
   ],
-  "updated": "2026-10-18T00:06:24.003Z"
+  "updated": "2026-10-18T00:07:24.013Z"
 }
