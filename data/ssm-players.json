@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198117979766",
       "name": "Хлебушек",
-      "sessionSeconds": 276693,
-      "playTimeSeconds": 83128,
+      "sessionSeconds": 276753,
+      "playTimeSeconds": 83188,
       "money": 576394,
       "gold": 227,
       "fame": 1203,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561199125649189",
       "name": "K9 Торговец",
-      "sessionSeconds": 275546,
-      "playTimeSeconds": 97832,
+      "sessionSeconds": 275606,
+      "playTimeSeconds": 97892,
       "money": 286763,
       "gold": 171,
       "fame": 1142,
@@ -24,28 +24,48 @@
     {
       "steamId": "76561199569191127",
       "name": "Mira",
-      "sessionSeconds": 186591,
-      "playTimeSeconds": 62255,
+      "sessionSeconds": 186651,
+      "playTimeSeconds": 62315,
       "money": 1092494,
       "gold": 182,
       "fame": 4667,
       "rank": 10
     },
     {
+      "steamId": "76561198071060590",
+      "name": "Black_Mamba",
+      "sessionSeconds": 184058,
+      "playTimeSeconds": 50288,
+      "money": 1124384,
+      "gold": 283,
+      "fame": 3351,
+      "rank": 14
+    },
+    {
+      "steamId": "76561198794536026",
+      "name": "Ayanakoji",
+      "sessionSeconds": 4,
+      "playTimeSeconds": 82068,
+      "money": 553495,
+      "gold": 354,
+      "fame": 3130,
+      "rank": 4
+    },
+    {
       "steamId": "76561199015438436",
       "name": "Vladimir",
       "sessionSeconds": 4,
-      "playTimeSeconds": 22783,
+      "playTimeSeconds": 22843,
       "money": 16292,
       "gold": 55,
-      "fame": 282,
+      "fame": 283,
       "rank": 40
     },
     {
       "steamId": "76561198826257359",
       "name": "XXXX",
       "sessionSeconds": 4,
-      "playTimeSeconds": 34698,
+      "playTimeSeconds": 34758,
       "money": 51846,
       "gold": 266,
       "fame": 873,
@@ -55,7 +75,7 @@
       "steamId": "76561198328189885",
       "name": "vlaD0S",
       "sessionSeconds": 4,
-      "playTimeSeconds": 87659,
+      "playTimeSeconds": 87719,
       "money": 461966,
       "gold": 106,
       "fame": 978,
@@ -65,12 +85,12 @@
       "steamId": "76561198379125401",
       "name": "Taeno",
       "sessionSeconds": 4,
-      "playTimeSeconds": 13302,
+      "playTimeSeconds": 13362,
       "money": 3000,
       "gold": 15,
       "fame": 150,
       "rank": 57
     }
   ],
-  "updated": "2026-10-18T18:03:35.715Z"
+  "updated": "2026-10-18T18:04:35.730Z"
 }
