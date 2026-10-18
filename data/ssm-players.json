@@ -1,21 +1,71 @@
 {
-  "online": 4,
+  "online": 10,
   "players": [
+    {
+      "steamId": "76561199125649189",
+      "name": "K9 Торговец",
+      "sessionSeconds": 243198,
+      "playTimeSeconds": 71157,
+      "money": 199547,
+      "gold": 131,
+      "fame": 939,
+      "rank": 1
+    },
+    {
+      "steamId": "76561199569191127",
+      "name": "Mira",
+      "sessionSeconds": 154243,
+      "playTimeSeconds": 31966,
+      "money": 861048,
+      "gold": 141,
+      "fame": 4083,
+      "rank": 16
+    },
     {
       "steamId": "76561198071060590",
       "name": "Black_Mamba",
-      "sessionSeconds": 151590,
-      "playTimeSeconds": 26857,
+      "sessionSeconds": 151650,
+      "playTimeSeconds": 26917,
       "money": 884910,
       "gold": 252,
-      "fame": 2772,
+      "fame": 2773,
       "rank": 19
+    },
+    {
+      "steamId": "76561199480908551",
+      "name": "gv_61 rus",
+      "sessionSeconds": 12,
+      "playTimeSeconds": 6696,
+      "money": 694420,
+      "gold": 141,
+      "fame": 690,
+      "rank": 61
+    },
+    {
+      "steamId": "76561198337531947",
+      "name": "brantozavr_voin2",
+      "sessionSeconds": 12,
+      "playTimeSeconds": 42923,
+      "money": 711185,
+      "gold": 610,
+      "fame": 1970,
+      "rank": 8
+    },
+    {
+      "steamId": "76561198156375337",
+      "name": "Domo",
+      "sessionSeconds": 12,
+      "playTimeSeconds": 3506,
+      "money": 2113956,
+      "gold": 11420,
+      "fame": 368,
+      "rank": 71
     },
     {
       "steamId": "76561198831354124",
       "name": "poosifer",
       "sessionSeconds": 12,
-      "playTimeSeconds": 23723,
+      "playTimeSeconds": 23783,
       "money": 869822,
       "gold": 197,
       "fame": 1035,
@@ -25,7 +75,7 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 12,
-      "playTimeSeconds": 42036,
+      "playTimeSeconds": 42096,
       "money": 2391,
       "gold": 705,
       "fame": 1239,
@@ -35,12 +85,22 @@
       "steamId": "76561198328189885",
       "name": "vlaD0S",
       "sessionSeconds": 12,
-      "playTimeSeconds": 58215,
+      "playTimeSeconds": 58275,
       "money": 216120,
       "gold": 65,
       "fame": 597,
       "rank": 2
+    },
+    {
+      "steamId": "76561198077981589",
+      "name": "Чилим",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 27241,
+      "money": 499047,
+      "gold": 448,
+      "fame": 2098,
+      "rank": 18
     }
   ],
-  "updated": "2026-10-18T09:03:27.904Z"
+  "updated": "2026-10-18T09:04:27.910Z"
 }
