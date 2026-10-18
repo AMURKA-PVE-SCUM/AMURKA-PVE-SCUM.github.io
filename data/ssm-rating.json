@@ -112,6 +112,16 @@
     },
     {
       "rank": 12,
+      "steamId": "76561198352984050",
+      "name": "Vlad",
+      "playTimeSeconds": 27652,
+      "money": 84965,
+      "gold": 685,
+      "fame": 1187,
+      "isOnline": true
+    },
+    {
+      "rank": 13,
       "steamId": "76561199569191127",
       "name": "Mira",
       "playTimeSeconds": 27620,
@@ -119,16 +129,6 @@
       "gold": 131,
       "fame": 4058,
       "isOnline": false
-    },
-    {
-      "rank": 13,
-      "steamId": "76561198352984050",
-      "name": "Vlad",
-      "playTimeSeconds": 27592,
-      "money": 84965,
-      "gold": 685,
-      "fame": 1187,
-      "isOnline": true
     },
     {
       "rank": 14,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-18T04:48:26.091Z"
+  "updated": "2026-10-18T04:49:26.098Z"
 }
