@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561198329185290",
       "name": "Roberto Ross",
       "sessionSeconds": 27,
-      "playTimeSeconds": 26885,
+      "playTimeSeconds": 26945,
       "money": 20165,
       "gold": 40,
       "fame": 43,
       "rank": 35
+    },
+    {
+      "steamId": "76561198029476275",
+      "name": "XEH",
+      "sessionSeconds": 13,
+      "playTimeSeconds": 18841,
+      "money": 817384,
+      "gold": 383,
+      "fame": 2114,
+      "rank": 49
     }
   ],
-  "updated": "2026-10-19T01:54:39.112Z"
+  "updated": "2026-10-19T01:55:39.124Z"
 }
