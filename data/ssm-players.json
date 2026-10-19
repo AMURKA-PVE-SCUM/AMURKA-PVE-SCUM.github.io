@@ -2,21 +2,11 @@
   "online": 7,
   "players": [
     {
-      "steamId": "76561198328189885",
-      "name": "vlaD0S",
-      "sessionSeconds": 27,
-      "playTimeSeconds": 106928,
-      "money": 620039,
-      "gold": 131,
-      "fame": 1114,
-      "rank": 2
-    },
-    {
       "steamId": "76561198198157306",
       "name": "alekx838",
       "sessionSeconds": 27,
-      "playTimeSeconds": 52461,
-      "money": 464567,
+      "playTimeSeconds": 52521,
+      "money": 465602,
       "gold": 199,
       "fame": 1451,
       "rank": 15
@@ -25,8 +15,8 @@
       "steamId": "76561198077981589",
       "name": "Чилим",
       "sessionSeconds": 27,
-      "playTimeSeconds": 36056,
-      "money": 502047,
+      "playTimeSeconds": 36116,
+      "money": 502121,
       "gold": 463,
       "fame": 2144,
       "rank": 23
@@ -35,7 +25,7 @@
       "steamId": "76561198329185290",
       "name": "Roberto Ross",
       "sessionSeconds": 27,
-      "playTimeSeconds": 31598,
+      "playTimeSeconds": 31658,
       "money": 33011,
       "gold": 45,
       "fame": 79,
@@ -45,7 +35,7 @@
       "steamId": "76561198354031168",
       "name": "sanchez",
       "sessionSeconds": 27,
-      "playTimeSeconds": 47367,
+      "playTimeSeconds": 47427,
       "money": 282743,
       "gold": 190,
       "fame": 570,
@@ -55,7 +45,7 @@
       "steamId": "76561198115245396",
       "name": "Хабаровчанин",
       "sessionSeconds": 27,
-      "playTimeSeconds": 16699,
+      "playTimeSeconds": 16759,
       "money": 463658,
       "gold": 251,
       "fame": 931,
@@ -65,12 +55,22 @@
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
       "sessionSeconds": 27,
-      "playTimeSeconds": 99698,
+      "playTimeSeconds": 99758,
       "money": 606022,
       "gold": 389,
       "fame": 3640,
       "rank": 3
+    },
+    {
+      "steamId": "76561198328189885",
+      "name": "vlaD0S",
+      "sessionSeconds": 27,
+      "playTimeSeconds": 106980,
+      "money": 620039,
+      "gold": 131,
+      "fame": 1114,
+      "rank": 2
     }
   ],
-  "updated": "2026-10-19T08:14:41.886Z"
+  "updated": "2026-10-19T08:15:41.892Z"
 }
