@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561198328189885",
       "name": "vlaD0S",
       "sessionSeconds": 7,
-      "playTimeSeconds": 99136,
+      "playTimeSeconds": 99197,
       "money": 466072,
       "gold": 121,
       "fame": 938,
       "rank": 2
+    },
+    {
+      "steamId": "76561198271336608",
+      "name": "Валерка",
+      "sessionSeconds": 7,
+      "playTimeSeconds": 19644,
+      "money": 327660,
+      "gold": 90,
+      "fame": 686,
+      "rank": 48
     }
   ],
-  "updated": "2026-10-19T06:04:40.956Z"
+  "updated": "2026-10-19T06:05:40.959Z"
 }
