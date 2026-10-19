@@ -1,11 +1,31 @@
 {
-  "online": 3,
+  "online": 7,
   "players": [
+    {
+      "steamId": "76561199569191127",
+      "name": "Mira",
+      "sessionSeconds": 262264,
+      "playTimeSeconds": 72138,
+      "money": 1090494,
+      "gold": 197,
+      "fame": 4707,
+      "rank": 9
+    },
+    {
+      "steamId": "76561198071060590",
+      "name": "Black_Mamba",
+      "sessionSeconds": 259671,
+      "playTimeSeconds": 58373,
+      "money": 1121493,
+      "gold": 293,
+      "fame": 3379,
+      "rank": 15
+    },
     {
       "steamId": "76561198826257359",
       "name": "XXXX",
       "sessionSeconds": 25,
-      "playTimeSeconds": 57575,
+      "playTimeSeconds": 57633,
       "money": 104511,
       "gold": 10,
       "fame": 951,
@@ -14,8 +34,8 @@
     {
       "steamId": "76561198067720439",
       "name": "Genih",
-      "sessionSeconds": 17,
-      "playTimeSeconds": 79318,
+      "sessionSeconds": 25,
+      "playTimeSeconds": 79376,
       "money": 4621547,
       "gold": 720,
       "fame": 8395,
@@ -24,13 +44,33 @@
     {
       "steamId": "76561199504735154",
       "name": "BuHHu nyx",
-      "sessionSeconds": 11,
-      "playTimeSeconds": 67254,
+      "sessionSeconds": 25,
+      "playTimeSeconds": 67312,
       "money": 259177,
       "gold": 33,
       "fame": 1055,
       "rank": 10
+    },
+    {
+      "steamId": "76561198346100195",
+      "name": "161",
+      "sessionSeconds": 25,
+      "playTimeSeconds": 902,
+      "money": 0,
+      "gold": 0,
+      "fame": 100,
+      "rank": 86
+    },
+    {
+      "steamId": "76561198372320271",
+      "name": "ADA",
+      "sessionSeconds": 17,
+      "playTimeSeconds": 53932,
+      "money": 570628,
+      "gold": 315,
+      "fame": 3045,
+      "rank": 21
     }
   ],
-  "updated": "2026-10-19T15:03:48.883Z"
+  "updated": "2026-10-19T15:04:48.890Z"
 }
