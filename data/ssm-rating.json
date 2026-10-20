@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198117979766",
       "name": "Хлебушек",
-      "playTimeSeconds": 157511,
+      "playTimeSeconds": 157574,
       "money": 718388,
       "gold": 327,
       "fame": 1461,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198328189885",
       "name": "vlaD0S",
-      "playTimeSeconds": 141656,
+      "playTimeSeconds": 141719,
       "money": 630083,
       "gold": 171,
       "fame": 1231,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "playTimeSeconds": 130351,
+      "playTimeSeconds": 130414,
       "money": 1752995,
       "gold": 345,
       "fame": 5364,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
-      "playTimeSeconds": 115028,
+      "playTimeSeconds": 115091,
       "money": 1019027,
       "gold": 482,
       "fame": 4312,
@@ -82,6 +82,16 @@
     },
     {
       "rank": 9,
+      "steamId": "76561198039769049",
+      "name": "Gennadich",
+      "playTimeSeconds": 88744,
+      "money": 13642,
+      "gold": 200,
+      "fame": 704,
+      "isOnline": true
+    },
+    {
+      "rank": 10,
       "steamId": "76561199569191127",
       "name": "Mira",
       "playTimeSeconds": 88718,
@@ -89,16 +99,6 @@
       "gold": 117,
       "fame": 4799,
       "isOnline": false
-    },
-    {
-      "rank": 10,
-      "steamId": "76561198039769049",
-      "name": "Gennadich",
-      "playTimeSeconds": 88681,
-      "money": 13642,
-      "gold": 200,
-      "fame": 703,
-      "isOnline": true
     },
     {
       "rank": 11,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-20T11:15:57.480Z"
+  "updated": "2026-10-20T11:16:57.485Z"
 }
