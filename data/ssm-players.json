@@ -1,11 +1,11 @@
 {
-  "online": 3,
+  "online": 4,
   "players": [
     {
       "steamId": "76561199125649189",
       "name": "K9 Торговец",
-      "sessionSeconds": 459116,
-      "playTimeSeconds": 161267,
+      "sessionSeconds": 459176,
+      "playTimeSeconds": 161327,
       "money": 692692,
       "gold": 257,
       "fame": 1553,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "sessionSeconds": 5,
-      "playTimeSeconds": 42184,
+      "sessionSeconds": 4,
+      "playTimeSeconds": 42244,
       "money": 23916,
       "gold": 55,
       "fame": 245,
@@ -24,13 +24,23 @@
     {
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 85332,
+      "sessionSeconds": 4,
+      "playTimeSeconds": 85392,
       "money": 115382,
       "gold": 45,
       "fame": 1094,
       "rank": 16
+    },
+    {
+      "steamId": "76561199562774415",
+      "name": "ALIGATOR",
+      "sessionSeconds": 4,
+      "playTimeSeconds": 123982,
+      "money": 1021027,
+      "gold": 492,
+      "fame": 4348,
+      "rank": 6
     }
   ],
-  "updated": "2026-10-20T21:03:05.721Z"
+  "updated": "2026-10-20T21:04:05.723Z"
 }
