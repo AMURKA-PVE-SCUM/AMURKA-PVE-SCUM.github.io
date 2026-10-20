@@ -1,21 +1,31 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
+    {
+      "steamId": "76561198071060590",
+      "name": "Black_Mamba",
+      "sessionSeconds": 369848,
+      "playTimeSeconds": 89294,
+      "money": 1431774,
+      "gold": 345,
+      "fame": 4326,
+      "rank": 14
+    },
     {
       "steamId": "76561198032084496",
       "name": "бродяга",
       "sessionSeconds": 2,
-      "playTimeSeconds": 44401,
+      "playTimeSeconds": 44461,
       "money": 24916,
       "gold": 60,
       "fame": 206,
-      "rank": 35
+      "rank": 34
     },
     {
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
       "sessionSeconds": 2,
-      "playTimeSeconds": 126139,
+      "playTimeSeconds": 126199,
       "money": 1021027,
       "gold": 492,
       "fame": 4351,
@@ -25,7 +35,7 @@
       "steamId": "76561199760655876",
       "name": "Viking",
       "sessionSeconds": 2,
-      "playTimeSeconds": 24309,
+      "playTimeSeconds": 24369,
       "money": 109705,
       "gold": 30,
       "fame": 214,
@@ -35,7 +45,7 @@
       "steamId": "76561198328189885",
       "name": "vlaD0S",
       "sessionSeconds": 2,
-      "playTimeSeconds": 177826,
+      "playTimeSeconds": 177886,
       "money": 806153,
       "gold": 221,
       "fame": 1592,
@@ -45,7 +55,7 @@
       "steamId": "76561198084620275",
       "name": "Денис",
       "sessionSeconds": 2,
-      "playTimeSeconds": 40066,
+      "playTimeSeconds": 40126,
       "money": 12238,
       "gold": 55,
       "fame": 258,
@@ -55,7 +65,7 @@
       "steamId": "76561198271336608",
       "name": "Валерка",
       "sessionSeconds": 2,
-      "playTimeSeconds": 33205,
+      "playTimeSeconds": 33265,
       "money": 307066,
       "gold": 125,
       "fame": 676,
@@ -65,7 +75,7 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 2,
-      "playTimeSeconds": 144480,
+      "playTimeSeconds": 144540,
       "money": 50564,
       "gold": 850,
       "fame": 1591,
@@ -75,12 +85,12 @@
       "steamId": "76561198068992719",
       "name": "Alina",
       "sessionSeconds": 2,
-      "playTimeSeconds": 9334,
+      "playTimeSeconds": 9394,
       "money": 1117714,
       "gold": 465,
       "fame": 930,
       "rank": 78
     }
   ],
-  "updated": "2026-10-20T21:40:06.038Z"
+  "updated": "2026-10-20T21:41:06.039Z"
 }
