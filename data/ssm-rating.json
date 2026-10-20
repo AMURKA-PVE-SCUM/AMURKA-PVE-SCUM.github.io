@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198117979766",
       "name": "Хлебушек",
-      "playTimeSeconds": 151570,
+      "playTimeSeconds": 151630,
       "money": 711482,
       "gold": 322,
       "fame": 1412,
@@ -92,6 +92,16 @@
     },
     {
       "rank": 10,
+      "steamId": "76561198039769049",
+      "name": "Gennadich",
+      "playTimeSeconds": 82250,
+      "money": 11642,
+      "gold": 190,
+      "fame": 676,
+      "isOnline": true
+    },
+    {
+      "rank": 11,
       "steamId": "76561198037904934",
       "name": "Astaf",
       "playTimeSeconds": 82198,
@@ -99,16 +109,6 @@
       "gold": 126,
       "fame": 751,
       "isOnline": false
-    },
-    {
-      "rank": 11,
-      "steamId": "76561198039769049",
-      "name": "Gennadich",
-      "playTimeSeconds": 82190,
-      "money": 11642,
-      "gold": 190,
-      "fame": 676,
-      "isOnline": true
     },
     {
       "rank": 12,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-20T00:30:52.778Z"
+  "updated": "2026-10-20T00:31:52.787Z"
 }
