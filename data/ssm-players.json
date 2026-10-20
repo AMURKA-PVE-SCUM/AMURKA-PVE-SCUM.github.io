@@ -1,16 +1,66 @@
 {
-  "online": 1,
+  "online": 6,
   "players": [
+    {
+      "steamId": "76561199426786745",
+      "name": "Dark Angel",
+      "sessionSeconds": 13,
+      "playTimeSeconds": 5631,
+      "money": 1000,
+      "gold": 5,
+      "fame": 17,
+      "rank": 79
+    },
+    {
+      "steamId": "76561198120086834",
+      "name": "Myp3ilka",
+      "sessionSeconds": 13,
+      "playTimeSeconds": 16648,
+      "money": 1116434,
+      "gold": 248,
+      "fame": 3223,
+      "rank": 63
+    },
     {
       "steamId": "76561198398949061",
       "name": "Ksn",
       "sessionSeconds": 13,
-      "playTimeSeconds": 2561,
+      "playTimeSeconds": 2621,
       "money": 70667,
       "gold": 85,
       "fame": 232,
-      "rank": 90
+      "rank": 89
+    },
+    {
+      "steamId": "76561199857773373",
+      "name": "DeD_Admural",
+      "sessionSeconds": 13,
+      "playTimeSeconds": 32519,
+      "money": 45355,
+      "gold": 35,
+      "fame": 109,
+      "rank": 37
+    },
+    {
+      "steamId": "76561198077981589",
+      "name": "Чилим",
+      "sessionSeconds": 13,
+      "playTimeSeconds": 54499,
+      "money": 617451,
+      "gold": 488,
+      "fame": 2269,
+      "rank": 23
+    },
+    {
+      "steamId": "76561198271336608",
+      "name": "Валерка",
+      "sessionSeconds": 13,
+      "playTimeSeconds": 23348,
+      "money": 304066,
+      "gold": 110,
+      "fame": 638,
+      "rank": 54
     }
   ],
-  "updated": "2026-10-20T06:02:55.192Z"
+  "updated": "2026-10-20T06:03:55.201Z"
 }
