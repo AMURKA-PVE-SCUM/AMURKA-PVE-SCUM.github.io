@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198071060590",
       "name": "Black_Mamba",
-      "sessionSeconds": 314818,
-      "playTimeSeconds": 71996,
+      "sessionSeconds": 314878,
+      "playTimeSeconds": 72056,
       "money": 1343013,
       "gold": 314,
       "fame": 3832,
@@ -15,7 +15,7 @@
       "steamId": "76561199426786745",
       "name": "Dark Angel",
       "sessionSeconds": 12,
-      "playTimeSeconds": 6832,
+      "playTimeSeconds": 6892,
       "money": 8858,
       "gold": 5,
       "fame": 18,
@@ -25,7 +25,7 @@
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
       "sessionSeconds": 12,
-      "playTimeSeconds": 17849,
+      "playTimeSeconds": 17909,
       "money": 1117434,
       "gold": 253,
       "fame": 3235,
@@ -35,7 +35,7 @@
       "steamId": "76561198398949061",
       "name": "Ksn",
       "sessionSeconds": 12,
-      "playTimeSeconds": 3822,
+      "playTimeSeconds": 3882,
       "money": 71667,
       "gold": 90,
       "fame": 244,
@@ -45,17 +45,17 @@
       "steamId": "76561199857773373",
       "name": "DeD_Admural",
       "sessionSeconds": 12,
-      "playTimeSeconds": 33720,
+      "playTimeSeconds": 33780,
       "money": 44315,
       "gold": 40,
       "fame": 120,
-      "rank": 35
+      "rank": 34
     },
     {
       "steamId": "76561198077981589",
       "name": "Чилим",
       "sessionSeconds": 12,
-      "playTimeSeconds": 55700,
+      "playTimeSeconds": 55760,
       "money": 617451,
       "gold": 488,
       "fame": 2270,
@@ -65,12 +65,22 @@
       "steamId": "76561198271336608",
       "name": "Валерка",
       "sessionSeconds": 12,
-      "playTimeSeconds": 24549,
+      "playTimeSeconds": 24609,
       "money": 305066,
       "gold": 115,
       "fame": 649,
       "rank": 52
+    },
+    {
+      "steamId": "76561198352984050",
+      "name": "Vlad",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 111147,
+      "money": 29969,
+      "gold": 805,
+      "fame": 1478,
+      "rank": 6
     }
   ],
-  "updated": "2026-10-20T06:23:55.361Z"
+  "updated": "2026-10-20T06:24:55.363Z"
 }
