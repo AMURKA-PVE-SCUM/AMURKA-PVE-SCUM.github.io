@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
-      "playTimeSeconds": 129734,
+      "playTimeSeconds": 129794,
       "money": 1022527,
       "gold": 497,
       "fame": 4388,
@@ -92,6 +92,16 @@
     },
     {
       "rank": 10,
+      "steamId": "76561198039769049",
+      "name": "Gennadich",
+      "playTimeSeconds": 106224,
+      "money": 42358,
+      "gold": 225,
+      "fame": 805,
+      "isOnline": true
+    },
+    {
+      "rank": 11,
       "steamId": "76561199569191127",
       "name": "Mira",
       "playTimeSeconds": 106223,
@@ -99,16 +109,6 @@
       "gold": 142,
       "fame": 4876,
       "isOnline": false
-    },
-    {
-      "rank": 11,
-      "steamId": "76561198039769049",
-      "name": "Gennadich",
-      "playTimeSeconds": 106164,
-      "money": 42358,
-      "gold": 225,
-      "fame": 804,
-      "isOnline": true
     },
     {
       "rank": 12,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-20T22:40:06.422Z"
+  "updated": "2026-10-20T22:41:06.432Z"
 }
