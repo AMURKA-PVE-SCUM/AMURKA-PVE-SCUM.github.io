@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561198193943237",
       "name": "ABNOX",
       "sessionSeconds": 13,
-      "playTimeSeconds": 43122,
+      "playTimeSeconds": 43182,
       "money": 5800,
       "gold": 30,
       "fame": 109,
       "rank": 37
+    },
+    {
+      "steamId": "76561198220671051",
+      "name": "Котэ_Вездессущий",
+      "sessionSeconds": 13,
+      "playTimeSeconds": 42,
+      "money": 109453,
+      "gold": 45,
+      "fame": 298,
+      "rank": 108
     }
   ],
-  "updated": "2026-10-21T01:27:07.685Z"
+  "updated": "2026-10-21T01:28:07.694Z"
 }
