@@ -1,21 +1,31 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198071060590",
       "name": "Black_Mamba",
-      "sessionSeconds": 408913,
-      "playTimeSeconds": 95993,
+      "sessionSeconds": 408973,
+      "playTimeSeconds": 96053,
       "money": 1523304,
       "gold": 356,
       "fame": 4727,
       "rank": 13
     },
     {
+      "steamId": "76561198909785165",
+      "name": "HeavenlyInjecti",
+      "sessionSeconds": 16,
+      "playTimeSeconds": 41915,
+      "money": 60453,
+      "gold": 55,
+      "fame": 162,
+      "rank": 39
+    },
+    {
       "steamId": "76561198072704902",
       "name": "hookzver",
       "sessionSeconds": 16,
-      "playTimeSeconds": 1184,
+      "playTimeSeconds": 1244,
       "money": 0,
       "gold": 0,
       "fame": 3,
@@ -25,7 +35,7 @@
       "steamId": "76561198077981589",
       "name": "Чилим",
       "sessionSeconds": 16,
-      "playTimeSeconds": 73368,
+      "playTimeSeconds": 73428,
       "money": 625451,
       "gold": 513,
       "fame": 2354,
@@ -35,7 +45,7 @@
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
       "sessionSeconds": 16,
-      "playTimeSeconds": 159450,
+      "playTimeSeconds": 159510,
       "money": 1749612,
       "gold": 385,
       "fame": 5479,
@@ -45,7 +55,7 @@
       "steamId": "76561198271336608",
       "name": "Валерка",
       "sessionSeconds": 16,
-      "playTimeSeconds": 40812,
+      "playTimeSeconds": 40872,
       "money": 909,
       "gold": 135,
       "fame": 715,
@@ -55,17 +65,17 @@
       "steamId": "76561198328189885",
       "name": "vlaD0S",
       "sessionSeconds": 16,
-      "playTimeSeconds": 186607,
-      "money": 807575,
+      "playTimeSeconds": 186667,
+      "money": 809075,
       "gold": 236,
-      "fame": 1683,
+      "fame": 1689,
       "rank": 2
     },
     {
       "steamId": "76561198123537318",
       "name": "aloxa",
       "sessionSeconds": 16,
-      "playTimeSeconds": 15494,
+      "playTimeSeconds": 15554,
       "money": 157052,
       "gold": 45,
       "fame": 621,
@@ -75,12 +85,12 @@
       "steamId": "76561199760655876",
       "name": "Viking",
       "sessionSeconds": 16,
-      "playTimeSeconds": 32414,
+      "playTimeSeconds": 32474,
       "money": 284804,
       "gold": 40,
       "fame": 370,
       "rank": 54
     }
   ],
-  "updated": "2026-10-21T08:32:10.760Z"
+  "updated": "2026-10-21T08:33:10.764Z"
 }
