@@ -1,11 +1,11 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198071060590",
       "name": "Black_Mamba",
-      "sessionSeconds": 407653,
-      "playTimeSeconds": 94734,
+      "sessionSeconds": 407713,
+      "playTimeSeconds": 94794,
       "money": 1442240,
       "gold": 350,
       "fame": 4606,
@@ -15,7 +15,7 @@
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 18,
-      "playTimeSeconds": 34620,
+      "playTimeSeconds": 34680,
       "money": 2859836,
       "gold": 1950,
       "fame": 6750,
@@ -25,7 +25,7 @@
       "steamId": "76561198077981589",
       "name": "Чилим",
       "sessionSeconds": 18,
-      "playTimeSeconds": 72109,
+      "playTimeSeconds": 72169,
       "money": 625451,
       "gold": 513,
       "fame": 2352,
@@ -35,7 +35,7 @@
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
       "sessionSeconds": 18,
-      "playTimeSeconds": 158191,
+      "playTimeSeconds": 158251,
       "money": 1749612,
       "gold": 385,
       "fame": 5478,
@@ -45,7 +45,7 @@
       "steamId": "76561198271336608",
       "name": "Валерка",
       "sessionSeconds": 18,
-      "playTimeSeconds": 39553,
+      "playTimeSeconds": 39613,
       "money": 309066,
       "gold": 135,
       "fame": 700,
@@ -55,17 +55,17 @@
       "steamId": "76561198328189885",
       "name": "vlaD0S",
       "sessionSeconds": 18,
-      "playTimeSeconds": 185348,
-      "money": 806037,
+      "playTimeSeconds": 185408,
+      "money": 807037,
       "gold": 231,
-      "fame": 1655,
+      "fame": 1666,
       "rank": 2
     },
     {
       "steamId": "76561198123537318",
       "name": "aloxa",
       "sessionSeconds": 18,
-      "playTimeSeconds": 14235,
+      "playTimeSeconds": 14295,
       "money": 157052,
       "gold": 45,
       "fame": 620,
@@ -75,12 +75,22 @@
       "steamId": "76561199760655876",
       "name": "Viking",
       "sessionSeconds": 18,
-      "playTimeSeconds": 31155,
+      "playTimeSeconds": 31215,
       "money": 284804,
       "gold": 40,
       "fame": 366,
       "rank": 54
+    },
+    {
+      "steamId": "76561198072704902",
+      "name": "hookzver",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 15,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "rank": 110
     }
   ],
-  "updated": "2026-10-21T08:11:10.618Z"
+  "updated": "2026-10-21T08:12:10.633Z"
 }
