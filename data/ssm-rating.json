@@ -2,6 +2,16 @@
   "leaderboard": [
     {
       "rank": 1,
+      "steamId": "76561198328189885",
+      "name": "vlaD0S",
+      "playTimeSeconds": 186726,
+      "money": 809075,
+      "gold": 236,
+      "fame": 1689,
+      "isOnline": true
+    },
+    {
+      "rank": 2,
       "steamId": "76561198117979766",
       "name": "Хлебушек",
       "playTimeSeconds": 186701,
@@ -9,16 +19,6 @@
       "gold": 368,
       "fame": 1744,
       "isOnline": false
-    },
-    {
-      "rank": 2,
-      "steamId": "76561198328189885",
-      "name": "vlaD0S",
-      "playTimeSeconds": 186667,
-      "money": 809075,
-      "gold": 236,
-      "fame": 1689,
-      "isOnline": true
     },
     {
       "rank": 3,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "playTimeSeconds": 159510,
+      "playTimeSeconds": 159569,
       "money": 1749612,
       "gold": 385,
       "fame": 5479,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198071060590",
       "name": "Black_Mamba",
-      "playTimeSeconds": 96053,
+      "playTimeSeconds": 96112,
       "money": 1523304,
       "gold": 356,
       "fame": 4727,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-21T08:33:10.764Z"
+  "updated": "2026-10-21T08:34:10.777Z"
 }
