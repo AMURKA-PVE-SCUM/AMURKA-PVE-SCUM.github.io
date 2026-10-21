@@ -1,21 +1,21 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198071060590",
       "name": "Black_Mamba",
-      "sessionSeconds": 402732,
-      "playTimeSeconds": 91996,
+      "sessionSeconds": 402793,
+      "playTimeSeconds": 92056,
       "money": 1434173,
       "gold": 350,
-      "fame": 4448,
+      "fame": 4449,
       "rank": 14
     },
     {
       "steamId": "76561198123537318",
       "name": "aloxa",
       "sessionSeconds": 25,
-      "playTimeSeconds": 10276,
+      "playTimeSeconds": 10336,
       "money": 156052,
       "gold": 40,
       "fame": 607,
@@ -25,7 +25,7 @@
       "steamId": "76561198193943237",
       "name": "ABNOX",
       "sessionSeconds": 25,
-      "playTimeSeconds": 47716,
+      "playTimeSeconds": 47776,
       "money": 6700,
       "gold": 35,
       "fame": 124,
@@ -35,7 +35,7 @@
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 25,
-      "playTimeSeconds": 29707,
+      "playTimeSeconds": 29767,
       "money": 2781525,
       "gold": 1940,
       "fame": 6725,
@@ -45,7 +45,7 @@
       "steamId": "76561199095490074",
       "name": "KeKsIk",
       "sessionSeconds": 25,
-      "playTimeSeconds": 30320,
+      "playTimeSeconds": 30380,
       "money": 970438,
       "gold": 149,
       "fame": 801,
@@ -55,7 +55,7 @@
       "steamId": "76561198037904934",
       "name": "Astaf",
       "sessionSeconds": 25,
-      "playTimeSeconds": 92649,
+      "playTimeSeconds": 92709,
       "money": 121740,
       "gold": 146,
       "fame": 834,
@@ -65,22 +65,32 @@
       "steamId": "76561198909785165",
       "name": "HeavenlyInjecti",
       "sessionSeconds": 25,
-      "playTimeSeconds": 36945,
+      "playTimeSeconds": 37005,
       "money": 13678,
       "gold": 50,
-      "fame": 149,
-      "rank": 46
+      "fame": 150,
+      "rank": 45
     },
     {
       "steamId": "76561198328189885",
       "name": "vlaD0S",
       "sessionSeconds": 25,
-      "playTimeSeconds": 182202,
+      "playTimeSeconds": 182262,
       "money": 814962,
       "gold": 231,
       "fame": 1652,
       "rank": 2
+    },
+    {
+      "steamId": "76561198077981589",
+      "name": "Чилим",
+      "sessionSeconds": 19,
+      "playTimeSeconds": 67256,
+      "money": 620451,
+      "gold": 503,
+      "fame": 2313,
+      "rank": 21
     }
   ],
-  "updated": "2026-10-21T06:49:10.003Z"
+  "updated": "2026-10-21T06:50:10.008Z"
 }
