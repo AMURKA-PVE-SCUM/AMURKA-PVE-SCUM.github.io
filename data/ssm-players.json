@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561198071060590",
       "name": "Black_Mamba",
-      "sessionSeconds": 485966,
-      "playTimeSeconds": 108151,
+      "sessionSeconds": 486026,
+      "playTimeSeconds": 108211,
       "money": 1503087,
       "gold": 371,
       "fame": 4792,
       "rank": 15
+    },
+    {
+      "steamId": "76561198193943237",
+      "name": "ABNOX",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 58316,
+      "money": 6741,
+      "gold": 50,
+      "fame": 173,
+      "rank": 36
     }
   ],
-  "updated": "2026-10-22T05:56:24.059Z"
+  "updated": "2026-10-22T05:57:24.068Z"
 }
