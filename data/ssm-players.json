@@ -1,11 +1,21 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
+    {
+      "steamId": "76561198071060590",
+      "name": "Black_Mamba",
+      "sessionSeconds": 484466,
+      "playTimeSeconds": 106652,
+      "money": 1503087,
+      "gold": 371,
+      "fame": 4791,
+      "rank": 15
+    },
     {
       "steamId": "76561199857773373",
       "name": "DeD_Admural",
       "sessionSeconds": 8,
-      "playTimeSeconds": 115219,
+      "playTimeSeconds": 115278,
       "money": 147455,
       "gold": 150,
       "fame": 344,
@@ -15,7 +25,7 @@
       "steamId": "76561199426786745",
       "name": "Dark Angel",
       "sessionSeconds": 8,
-      "playTimeSeconds": 89934,
+      "playTimeSeconds": 89993,
       "money": 119131,
       "gold": 125,
       "fame": 513,
@@ -25,7 +35,7 @@
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
       "sessionSeconds": 8,
-      "playTimeSeconds": 147718,
+      "playTimeSeconds": 147777,
       "money": 1594869,
       "gold": 1157,
       "fame": 28255,
@@ -35,7 +45,7 @@
       "steamId": "76561198123537318",
       "name": "aloxa",
       "sessionSeconds": 8,
-      "playTimeSeconds": 20167,
+      "playTimeSeconds": 20226,
       "money": 234276,
       "gold": 50,
       "fame": 640,
@@ -45,12 +55,12 @@
       "steamId": "76561197980782331",
       "name": "Eleksnet",
       "sessionSeconds": 8,
-      "playTimeSeconds": 467,
+      "playTimeSeconds": 526,
       "money": 0,
       "gold": 0,
       "fame": 0,
-      "rank": 109
+      "rank": 108
     }
   ],
-  "updated": "2026-10-22T05:30:23.863Z"
+  "updated": "2026-10-22T05:31:23.863Z"
 }
