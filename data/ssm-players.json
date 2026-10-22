@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561199857773373",
       "name": "DeD_Admural",
       "sessionSeconds": 20,
-      "playTimeSeconds": 106410,
+      "playTimeSeconds": 106470,
       "money": 144455,
       "gold": 140,
       "fame": 604,
       "rank": 15
+    },
+    {
+      "steamId": "76561199426786745",
+      "name": "Dark Angel",
+      "sessionSeconds": 20,
+      "playTimeSeconds": 81243,
+      "money": 116131,
+      "gold": 110,
+      "fame": 474,
+      "rank": 25
     }
   ],
-  "updated": "2026-10-22T03:03:22.804Z"
+  "updated": "2026-10-22T03:04:22.805Z"
 }
