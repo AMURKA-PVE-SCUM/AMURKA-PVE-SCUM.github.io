@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 7,
   "players": [
     {
       "steamId": "76561198084620275",
       "name": "Денис",
-      "sessionSeconds": 20319,
-      "playTimeSeconds": 101230,
+      "sessionSeconds": 20379,
+      "playTimeSeconds": 101290,
       "money": 6409,
       "gold": 140,
       "fame": 130,
@@ -15,7 +15,7 @@
       "steamId": "76561198037904934",
       "name": "Astaf",
       "sessionSeconds": 23,
-      "playTimeSeconds": 114026,
+      "playTimeSeconds": 114086,
       "money": 151342,
       "gold": 196,
       "fame": 1077,
@@ -25,7 +25,7 @@
       "steamId": "76561198826257359",
       "name": "XXXX",
       "sessionSeconds": 23,
-      "playTimeSeconds": 114390,
+      "playTimeSeconds": 114450,
       "money": 164144,
       "gold": 5,
       "fame": 1207,
@@ -35,7 +35,7 @@
       "steamId": "76561199857773373",
       "name": "DeD_Admural",
       "sessionSeconds": 23,
-      "playTimeSeconds": 151730,
+      "playTimeSeconds": 151790,
       "money": 49132,
       "gold": 205,
       "fame": 498,
@@ -45,7 +45,7 @@
       "steamId": "76561198032084496",
       "name": "бродяга",
       "sessionSeconds": 23,
-      "playTimeSeconds": 116854,
+      "playTimeSeconds": 116914,
       "money": 37423,
       "gold": 60,
       "fame": 279,
@@ -55,12 +55,22 @@
       "steamId": "76561199426786745",
       "name": "Dark Angel",
       "sessionSeconds": 23,
-      "playTimeSeconds": 117709,
+      "playTimeSeconds": 117769,
       "money": 132547,
       "gold": 160,
       "fame": 644,
       "rank": 16
+    },
+    {
+      "steamId": "76561198156375337",
+      "name": "Domo",
+      "sessionSeconds": 23,
+      "playTimeSeconds": 7934,
+      "money": 2114956,
+      "gold": 11425,
+      "fame": 330,
+      "rank": 89
     }
   ],
-  "updated": "2026-10-22T23:08:35.382Z"
+  "updated": "2026-10-22T23:09:35.388Z"
 }
