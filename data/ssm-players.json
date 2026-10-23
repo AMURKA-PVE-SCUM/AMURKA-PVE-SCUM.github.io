@@ -1,26 +1,76 @@
 {
-  "online": 2,
+  "online": 7,
   "players": [
     {
       "steamId": "76561198230911236",
       "name": "TOR",
-      "sessionSeconds": 330,
-      "playTimeSeconds": 38421,
+      "sessionSeconds": 390,
+      "playTimeSeconds": 38481,
       "money": 135181,
       "gold": 175,
       "fame": 595,
       "rank": 59
     },
     {
+      "steamId": "76561199206700564",
+      "name": "_Adskiy_Yozhik_",
+      "sessionSeconds": 265,
+      "playTimeSeconds": 38973,
+      "money": 147708,
+      "gold": 175,
+      "fame": 560,
+      "rank": 57
+    },
+    {
       "steamId": "76561199857773373",
       "name": "DeD_Admural",
-      "sessionSeconds": 1,
-      "playTimeSeconds": 188033,
+      "sessionSeconds": 26,
+      "playTimeSeconds": 188093,
       "money": 181493,
       "gold": 255,
       "fame": 641,
       "rank": 6
+    },
+    {
+      "steamId": "76561199426786745",
+      "name": "Dark Angel",
+      "sessionSeconds": 26,
+      "playTimeSeconds": 149360,
+      "money": 139766,
+      "gold": 205,
+      "fame": 777,
+      "rank": 14
+    },
+    {
+      "steamId": "76561198826257359",
+      "name": "XXXX",
+      "sessionSeconds": 26,
+      "playTimeSeconds": 136260,
+      "money": 205220,
+      "gold": 0,
+      "fame": 1249,
+      "rank": 18
+    },
+    {
+      "steamId": "76561198071060590",
+      "name": "Black_Mamba",
+      "sessionSeconds": 20,
+      "playTimeSeconds": 149939,
+      "money": 1802398,
+      "gold": 432,
+      "fame": 5681,
+      "rank": 13
+    },
+    {
+      "steamId": "76561198029476275",
+      "name": "XEH",
+      "sessionSeconds": 12,
+      "playTimeSeconds": 57307,
+      "money": 970937,
+      "gold": 439,
+      "fame": 2425,
+      "rank": 46
     }
   ],
-  "updated": "2026-10-23T18:02:47.551Z"
+  "updated": "2026-10-23T18:03:47.558Z"
 }
