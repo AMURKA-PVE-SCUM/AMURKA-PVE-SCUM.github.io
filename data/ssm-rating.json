@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561199857773373",
       "name": "DeD_Admural",
-      "playTimeSeconds": 171412,
+      "playTimeSeconds": 171472,
       "money": 50648,
       "gold": 230,
       "fame": 579,
@@ -102,6 +102,16 @@
     },
     {
       "rank": 11,
+      "steamId": "76561199426786745",
+      "name": "Dark Angel",
+      "playTimeSeconds": 137467,
+      "money": 136766,
+      "gold": 190,
+      "fame": 737,
+      "isOnline": true
+    },
+    {
+      "rank": 12,
       "steamId": "76561198039769049",
       "name": "Gennadich",
       "playTimeSeconds": 137452,
@@ -109,16 +119,6 @@
       "gold": 270,
       "fame": 928,
       "isOnline": false
-    },
-    {
-      "rank": 12,
-      "steamId": "76561199426786745",
-      "name": "Dark Angel",
-      "playTimeSeconds": 137407,
-      "money": 136766,
-      "gold": 190,
-      "fame": 737,
-      "isOnline": true
     },
     {
       "rank": 13,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-23T04:44:37.804Z"
+  "updated": "2026-10-23T04:45:37.808Z"
 }
