@@ -1,11 +1,11 @@
 {
-  "online": 4,
+  "online": 5,
   "players": [
     {
       "steamId": "76561199426786745",
       "name": "Dark Angel",
       "sessionSeconds": 11,
-      "playTimeSeconds": 126761,
+      "playTimeSeconds": 126821,
       "money": 135547,
       "gold": 175,
       "fame": 697,
@@ -15,7 +15,7 @@
       "steamId": "76561199857773373",
       "name": "DeD_Admural",
       "sessionSeconds": 11,
-      "playTimeSeconds": 160774,
+      "playTimeSeconds": 160834,
       "money": 46478,
       "gold": 215,
       "fame": 526,
@@ -25,22 +25,32 @@
       "steamId": "76561198826257359",
       "name": "XXXX",
       "sessionSeconds": 11,
-      "playTimeSeconds": 123677,
+      "playTimeSeconds": 123737,
       "money": 156044,
       "gold": 20,
       "fame": 1201,
       "rank": 17
     },
     {
+      "steamId": "76561198329185290",
+      "name": "Roberto Ross",
+      "sessionSeconds": 11,
+      "playTimeSeconds": 74049,
+      "money": 1000,
+      "gold": 105,
+      "fame": 64,
+      "rank": 35
+    },
+    {
       "steamId": "76561198121549932",
       "name": "Prostyak",
       "sessionSeconds": 11,
-      "playTimeSeconds": 68434,
+      "playTimeSeconds": 68494,
       "money": 10398358,
       "gold": 653,
       "fame": 17074,
       "rank": 36
     }
   ],
-  "updated": "2026-10-23T01:43:36.537Z"
+  "updated": "2026-10-23T01:44:36.538Z"
 }
