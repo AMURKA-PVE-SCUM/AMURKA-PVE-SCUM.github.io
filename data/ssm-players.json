@@ -1,21 +1,21 @@
 {
-  "online": 4,
+  "online": 5,
   "players": [
     {
       "steamId": "76561199125649189",
       "name": "K9 Торговец",
       "sessionSeconds": 21,
-      "playTimeSeconds": 217593,
+      "playTimeSeconds": 217653,
       "money": 2012176,
       "gold": 447,
-      "fame": 2364,
+      "fame": 2365,
       "rank": 3
     },
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 21,
-      "playTimeSeconds": 121774,
+      "playTimeSeconds": 121834,
       "money": 2294869,
       "gold": 960,
       "fame": 6015,
@@ -25,7 +25,7 @@
       "steamId": "76561199857773373",
       "name": "DeD_Admural",
       "sessionSeconds": 21,
-      "playTimeSeconds": 176236,
+      "playTimeSeconds": 176296,
       "money": 177493,
       "gold": 235,
       "fame": 592,
@@ -35,12 +35,22 @@
       "steamId": "76561199426786745",
       "name": "Dark Angel",
       "sessionSeconds": 21,
-      "playTimeSeconds": 141982,
+      "playTimeSeconds": 142042,
       "money": 137766,
       "gold": 195,
       "fame": 750,
       "rank": 10
+    },
+    {
+      "steamId": "76561198077981589",
+      "name": "Чилим",
+      "sessionSeconds": 21,
+      "playTimeSeconds": 93381,
+      "money": 754636,
+      "gold": 543,
+      "fame": 2446,
+      "rank": 27
     }
   ],
-  "updated": "2026-10-23T06:05:38.326Z"
+  "updated": "2026-10-23T06:06:38.335Z"
 }
