@@ -1,46 +1,36 @@
 {
-  "online": 4,
+  "online": 3,
   "players": [
-    {
-      "steamId": "76561199877063571",
-      "name": "Mazay",
-      "sessionSeconds": 21,
-      "playTimeSeconds": 121600,
-      "money": 2293869,
-      "gold": 955,
-      "fame": 6005,
-      "rank": 19
-    },
     {
       "steamId": "76561199125649189",
       "name": "K9 Торговец",
       "sessionSeconds": 21,
-      "playTimeSeconds": 217413,
+      "playTimeSeconds": 217473,
       "money": 2012176,
       "gold": 447,
       "fame": 2364,
       "rank": 3
     },
     {
+      "steamId": "76561199877063571",
+      "name": "Mazay",
+      "sessionSeconds": 21,
+      "playTimeSeconds": 121654,
+      "money": 2293869,
+      "gold": 955,
+      "fame": 6005,
+      "rank": 19
+    },
+    {
       "steamId": "76561199857773373",
       "name": "DeD_Admural",
       "sessionSeconds": 21,
-      "playTimeSeconds": 176068,
+      "playTimeSeconds": 176116,
       "money": 178693,
       "gold": 235,
       "fame": 592,
       "rank": 7
-    },
-    {
-      "steamId": "76561198337811646",
-      "name": "VERSUS_65_",
-      "sessionSeconds": 21,
-      "playTimeSeconds": 47182,
-      "money": 544978,
-      "gold": 480,
-      "fame": 1095,
-      "rank": 48
     }
   ],
-  "updated": "2026-10-23T06:02:38.304Z"
+  "updated": "2026-10-23T06:03:38.313Z"
 }
