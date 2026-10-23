@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561199125649189",
       "name": "K9 Торговец",
-      "playTimeSeconds": 219810,
+      "playTimeSeconds": 219870,
       "money": 2013776,
       "gold": 447,
       "fame": 2383,
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561198071060590",
+      "name": "Black_Mamba",
+      "playTimeSeconds": 130217,
+      "money": 1754511,
+      "gold": 401,
+      "fame": 5406,
+      "isOnline": true
+    },
+    {
+      "rank": 16,
       "steamId": "76561199189470290",
       "name": "Konffetka",
       "playTimeSeconds": 130211,
@@ -151,24 +161,14 @@
       "isOnline": false
     },
     {
-      "rank": 16,
-      "steamId": "76561198071060590",
-      "name": "Black_Mamba",
-      "playTimeSeconds": 130165,
-      "money": 1754511,
-      "gold": 401,
-      "fame": 5406,
-      "isOnline": true
-    },
-    {
       "rank": 17,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 124600,
+      "playTimeSeconds": 124650,
       "money": 156044,
       "gold": 20,
       "fame": 1203,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 18,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-23T06:42:38.609Z"
+  "updated": "2026-10-23T06:43:38.615Z"
 }
