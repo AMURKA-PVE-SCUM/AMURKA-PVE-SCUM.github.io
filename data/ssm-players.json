@@ -2,20 +2,10 @@
   "online": 4,
   "players": [
     {
-      "steamId": "76561199857773373",
-      "name": "DeD_Admural",
-      "sessionSeconds": 23,
-      "playTimeSeconds": 174348,
-      "money": 51648,
-      "gold": 235,
-      "fame": 591,
-      "rank": 7
-    },
-    {
       "steamId": "76561199426786745",
       "name": "Dark Angel",
       "sessionSeconds": 23,
-      "playTimeSeconds": 140343,
+      "playTimeSeconds": 140403,
       "money": 136766,
       "gold": 190,
       "fame": 739,
@@ -25,7 +15,7 @@
       "steamId": "76561198077981589",
       "name": "Чилим",
       "sessionSeconds": 23,
-      "playTimeSeconds": 91817,
+      "playTimeSeconds": 91877,
       "money": 753636,
       "gold": 538,
       "fame": 2430,
@@ -35,12 +25,22 @@
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 23,
-      "playTimeSeconds": 119862,
+      "playTimeSeconds": 119922,
       "money": 2293869,
       "gold": 955,
       "fame": 6002,
       "rank": 20
+    },
+    {
+      "steamId": "76561199857773373",
+      "name": "DeD_Admural",
+      "sessionSeconds": 11,
+      "playTimeSeconds": 174398,
+      "money": 51648,
+      "gold": 235,
+      "fame": 591,
+      "rank": 7
     }
   ],
-  "updated": "2026-10-23T05:33:38.112Z"
+  "updated": "2026-10-23T05:34:38.115Z"
 }
