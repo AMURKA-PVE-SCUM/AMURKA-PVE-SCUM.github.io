@@ -1,11 +1,11 @@
 {
-  "online": 4,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198379125401",
       "name": "Taeno",
       "sessionSeconds": 2,
-      "playTimeSeconds": 37558,
+      "playTimeSeconds": 37618,
       "money": 38148,
       "gold": 10,
       "fame": 235,
@@ -15,7 +15,7 @@
       "steamId": "76561198118646763",
       "name": "John Doe",
       "sessionSeconds": 2,
-      "playTimeSeconds": 38841,
+      "playTimeSeconds": 38901,
       "money": 317507,
       "gold": 186,
       "fame": 873,
@@ -25,7 +25,7 @@
       "steamId": "76561198329185290",
       "name": "Roberto Ross",
       "sessionSeconds": 2,
-      "playTimeSeconds": 95773,
+      "playTimeSeconds": 95833,
       "money": 4974,
       "gold": 35,
       "fame": 111,
@@ -35,12 +35,32 @@
       "steamId": "76561198077981589",
       "name": "Чилим",
       "sessionSeconds": 2,
-      "playTimeSeconds": 130260,
+      "playTimeSeconds": 130320,
       "money": 823423,
       "gold": 593,
       "fame": 2598,
       "rank": 25
+    },
+    {
+      "steamId": "76561198794536026",
+      "name": "Ayanakoji",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 274844,
+      "money": 2143974,
+      "gold": 582,
+      "fame": 8305,
+      "rank": 3
+    },
+    {
+      "steamId": "76561199699294853",
+      "name": "ПАТRИК",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 29074,
+      "money": 460543,
+      "gold": 220,
+      "fame": 780,
+      "rank": 73
     }
   ],
-  "updated": "2026-10-24T12:04:59.534Z"
+  "updated": "2026-10-24T12:05:59.546Z"
 }
