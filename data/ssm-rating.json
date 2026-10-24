@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199125649189",
       "name": "K9 Торговец",
-      "playTimeSeconds": 303463,
+      "playTimeSeconds": 303523,
       "money": 2244208,
       "gold": 543,
       "fame": 3303,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198117979766",
       "name": "Хлебушек",
-      "playTimeSeconds": 254202,
+      "playTimeSeconds": 254262,
       "money": 1116935,
       "gold": 470,
       "fame": 2728,
@@ -82,6 +82,16 @@
     },
     {
       "rank": 9,
+      "steamId": "76561198032084496",
+      "name": "бродяга",
+      "playTimeSeconds": 179349,
+      "money": 136783,
+      "gold": 145,
+      "fame": 143,
+      "isOnline": true
+    },
+    {
+      "rank": 10,
       "steamId": "76561198071060590",
       "name": "Black_Mamba",
       "playTimeSeconds": 179314,
@@ -91,20 +101,10 @@
       "isOnline": false
     },
     {
-      "rank": 10,
-      "steamId": "76561198032084496",
-      "name": "бродяга",
-      "playTimeSeconds": 179289,
-      "money": 136783,
-      "gold": 145,
-      "fame": 143,
-      "isOnline": true
-    },
-    {
       "rank": 11,
       "steamId": "76561199569191127",
       "name": "Mira",
-      "playTimeSeconds": 174416,
+      "playTimeSeconds": 174476,
       "money": 1227177,
       "gold": 238,
       "fame": 5704,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-24T19:35:02.787Z"
+  "updated": "2026-10-24T19:36:02.787Z"
 }
