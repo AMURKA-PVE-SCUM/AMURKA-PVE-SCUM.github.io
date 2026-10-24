@@ -1,21 +1,31 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198382114262",
       "name": "Montana",
-      "sessionSeconds": 173393,
-      "playTimeSeconds": 115286,
+      "sessionSeconds": 173453,
+      "playTimeSeconds": 115346,
       "money": 1444190,
       "gold": 275,
       "fame": 1284,
       "rank": 29
     },
     {
+      "steamId": "76561198994811901",
+      "name": "Malina",
+      "sessionSeconds": 5,
+      "playTimeSeconds": 6556,
+      "money": 6000,
+      "gold": 5,
+      "fame": 18,
+      "rank": 104
+    },
+    {
       "steamId": "76561199480908551",
       "name": "gv_61 rus",
-      "sessionSeconds": 4,
-      "playTimeSeconds": 51279,
+      "sessionSeconds": 5,
+      "playTimeSeconds": 51339,
       "money": 514990,
       "gold": 562,
       "fame": 1151,
@@ -24,8 +34,8 @@
     {
       "steamId": "76561198399306435",
       "name": "MasSawka",
-      "sessionSeconds": 4,
-      "playTimeSeconds": 5624,
+      "sessionSeconds": 5,
+      "playTimeSeconds": 5684,
       "money": 104677,
       "gold": 25,
       "fame": 136,
@@ -34,8 +44,8 @@
     {
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "sessionSeconds": 4,
-      "playTimeSeconds": 148404,
+      "sessionSeconds": 5,
+      "playTimeSeconds": 148464,
       "money": 827851,
       "gold": 618,
       "fame": 2725,
@@ -44,18 +54,18 @@
     {
       "steamId": "76561199356142588",
       "name": "starik_andrey",
-      "sessionSeconds": 4,
-      "playTimeSeconds": 67149,
+      "sessionSeconds": 5,
+      "playTimeSeconds": 67209,
       "money": 10886,
       "gold": 90,
-      "fame": 241,
+      "fame": 242,
       "rank": 46
     },
     {
       "steamId": "76561199125649189",
       "name": "K9 Торговец",
-      "sessionSeconds": 4,
-      "playTimeSeconds": 298030,
+      "sessionSeconds": 5,
+      "playTimeSeconds": 298090,
       "money": 2240708,
       "gold": 533,
       "fame": 3272,
@@ -64,13 +74,13 @@
     {
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "sessionSeconds": 4,
-      "playTimeSeconds": 173836,
+      "sessionSeconds": 5,
+      "playTimeSeconds": 173896,
       "money": 114932,
       "gold": 140,
       "fame": 328,
       "rank": 11
     }
   ],
-  "updated": "2026-10-24T18:04:02.087Z"
+  "updated": "2026-10-24T18:05:02.090Z"
 }
