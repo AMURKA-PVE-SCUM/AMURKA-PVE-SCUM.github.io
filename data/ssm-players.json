@@ -1,11 +1,31 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
+    {
+      "steamId": "76561198328189885",
+      "name": "vlaD0S",
+      "sessionSeconds": 28,
+      "playTimeSeconds": 332339,
+      "money": 1460762,
+      "gold": 42,
+      "fame": 4516,
+      "rank": 1
+    },
+    {
+      "steamId": "76561199150613853",
+      "name": "Махлюк",
+      "sessionSeconds": 28,
+      "playTimeSeconds": 36891,
+      "money": 36689,
+      "gold": 50,
+      "fame": 262,
+      "rank": 64
+    },
     {
       "steamId": "76561198117979766",
       "name": "Хлебушек",
       "sessionSeconds": 28,
-      "playTimeSeconds": 231883,
+      "playTimeSeconds": 231943,
       "money": 950543,
       "gold": 439,
       "fame": 2491,
@@ -15,7 +35,7 @@
       "steamId": "76561199125649189",
       "name": "K9 Торговец",
       "sessionSeconds": 28,
-      "playTimeSeconds": 263687,
+      "playTimeSeconds": 263747,
       "money": 2114674,
       "gold": 532,
       "fame": 2813,
@@ -25,7 +45,7 @@
       "steamId": "76561198140281063",
       "name": "NetrezvbIi_Kot",
       "sessionSeconds": 28,
-      "playTimeSeconds": 25117,
+      "playTimeSeconds": 25177,
       "money": 238796,
       "gold": 187,
       "fame": 1239,
@@ -35,7 +55,7 @@
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
       "sessionSeconds": 28,
-      "playTimeSeconds": 50738,
+      "playTimeSeconds": 50798,
       "money": 176669,
       "gold": 230,
       "fame": 985,
@@ -45,32 +65,22 @@
       "steamId": "76561199857773373",
       "name": "DeD_Admural",
       "sessionSeconds": 28,
-      "playTimeSeconds": 209211,
+      "playTimeSeconds": 209271,
       "money": 255541,
       "gold": 280,
       "fame": 807,
       "rank": 6
     },
     {
-      "steamId": "76561199150613853",
-      "name": "Махлюк",
-      "sessionSeconds": 24,
-      "playTimeSeconds": 36831,
-      "money": 36689,
-      "gold": 50,
-      "fame": 262,
-      "rank": 64
-    },
-    {
-      "steamId": "76561198328189885",
-      "name": "vlaD0S",
-      "sessionSeconds": 20,
-      "playTimeSeconds": 332279,
-      "money": 1460762,
-      "gold": 42,
-      "fame": 4516,
-      "rank": 1
+      "steamId": "76561198028621423",
+      "name": "Lesnik",
+      "sessionSeconds": 12,
+      "playTimeSeconds": 79281,
+      "money": 359810,
+      "gold": 827,
+      "fame": 2291,
+      "rank": 36
     }
   ],
-  "updated": "2026-10-24T00:04:50.261Z"
+  "updated": "2026-10-24T00:05:50.267Z"
 }
