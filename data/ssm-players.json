@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198379125401",
       "name": "Taeno",
       "sessionSeconds": 2,
-      "playTimeSeconds": 37618,
+      "playTimeSeconds": 37678,
       "money": 38148,
       "gold": 10,
       "fame": 235,
@@ -15,7 +15,7 @@
       "steamId": "76561198118646763",
       "name": "John Doe",
       "sessionSeconds": 2,
-      "playTimeSeconds": 38901,
+      "playTimeSeconds": 38961,
       "money": 317507,
       "gold": 186,
       "fame": 873,
@@ -25,7 +25,7 @@
       "steamId": "76561198329185290",
       "name": "Roberto Ross",
       "sessionSeconds": 2,
-      "playTimeSeconds": 95833,
+      "playTimeSeconds": 95893,
       "money": 4974,
       "gold": 35,
       "fame": 111,
@@ -35,7 +35,7 @@
       "steamId": "76561198077981589",
       "name": "Чилим",
       "sessionSeconds": 2,
-      "playTimeSeconds": 130320,
+      "playTimeSeconds": 130380,
       "money": 823423,
       "gold": 593,
       "fame": 2598,
@@ -45,7 +45,7 @@
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
       "sessionSeconds": 2,
-      "playTimeSeconds": 274844,
+      "playTimeSeconds": 274904,
       "money": 2143974,
       "gold": 582,
       "fame": 8305,
@@ -55,12 +55,32 @@
       "steamId": "76561199699294853",
       "name": "ПАТRИК",
       "sessionSeconds": 2,
-      "playTimeSeconds": 29074,
+      "playTimeSeconds": 29134,
       "money": 460543,
       "gold": 220,
       "fame": 780,
       "rank": 73
+    },
+    {
+      "steamId": "76561198039769049",
+      "name": "Gennadich",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 137465,
+      "money": 48859,
+      "gold": 270,
+      "fame": 928,
+      "rank": 20
+    },
+    {
+      "steamId": "76561199125649189",
+      "name": "K9 Торговец",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 282087,
+      "money": 2207344,
+      "gold": 513,
+      "fame": 3250,
+      "rank": 2
     }
   ],
-  "updated": "2026-10-24T12:05:59.546Z"
+  "updated": "2026-10-24T12:06:59.560Z"
 }
