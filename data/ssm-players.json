@@ -1,11 +1,21 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
+    {
+      "steamId": "76561199877063571",
+      "name": "Mazay",
+      "sessionSeconds": 27568,
+      "playTimeSeconds": 162175,
+      "money": 2203869,
+      "gold": 1015,
+      "fame": 6154,
+      "rank": 11
+    },
     {
       "steamId": "76561199426786745",
       "name": "Dark Angel",
-      "sessionSeconds": 22,
-      "playTimeSeconds": 175215,
+      "sessionSeconds": 21,
+      "playTimeSeconds": 175275,
       "money": 179779,
       "gold": 240,
       "fame": 929,
@@ -14,8 +24,8 @@
     {
       "steamId": "76561198140281063",
       "name": "NetrezvbIi_Kot",
-      "sessionSeconds": 22,
-      "playTimeSeconds": 30033,
+      "sessionSeconds": 21,
+      "playTimeSeconds": 30093,
       "money": 232811,
       "gold": 192,
       "fame": 1255,
@@ -24,8 +34,8 @@
     {
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
-      "sessionSeconds": 22,
-      "playTimeSeconds": 55654,
+      "sessionSeconds": 21,
+      "playTimeSeconds": 55714,
       "money": 178669,
       "gold": 240,
       "fame": 1011,
@@ -34,18 +44,18 @@
     {
       "steamId": "76561199857773373",
       "name": "DeD_Admural",
-      "sessionSeconds": 22,
-      "playTimeSeconds": 214127,
+      "sessionSeconds": 21,
+      "playTimeSeconds": 214187,
       "money": 256384,
       "gold": 290,
-      "fame": 846,
+      "fame": 847,
       "rank": 6
     },
     {
       "steamId": "76561198372320271",
       "name": "ADA",
-      "sessionSeconds": 22,
-      "playTimeSeconds": 115101,
+      "sessionSeconds": 21,
+      "playTimeSeconds": 115161,
       "money": 236798,
       "gold": 6,
       "fame": 3539,
@@ -54,8 +64,8 @@
     {
       "steamId": "76561198328189885",
       "name": "vlaD0S",
-      "sessionSeconds": 22,
-      "playTimeSeconds": 337180,
+      "sessionSeconds": 21,
+      "playTimeSeconds": 337240,
       "money": 1666762,
       "gold": 53,
       "fame": 4812,
@@ -64,13 +74,13 @@
     {
       "steamId": "76561198072704902",
       "name": "hookzver",
-      "sessionSeconds": 22,
-      "playTimeSeconds": 67209,
+      "sessionSeconds": 21,
+      "playTimeSeconds": 67269,
       "money": 168270,
       "gold": 60,
       "fame": 210,
       "rank": 42
     }
   ],
-  "updated": "2026-10-24T01:26:50.911Z"
+  "updated": "2026-10-24T01:27:50.912Z"
 }
