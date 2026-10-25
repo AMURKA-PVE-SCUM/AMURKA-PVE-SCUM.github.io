@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561198831354124",
       "name": "poosifer",
       "sessionSeconds": 23,
-      "playTimeSeconds": 68579,
+      "playTimeSeconds": 68639,
       "money": 1005855,
       "gold": 262,
       "fame": 1186,
       "rank": 46
+    },
+    {
+      "steamId": "76561198118646763",
+      "name": "John Doe",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 40390,
+      "money": 318507,
+      "gold": 191,
+      "fame": 884,
+      "rank": 69
     }
   ],
-  "updated": "2026-10-25T02:56:05.971Z"
+  "updated": "2026-10-25T02:57:05.973Z"
 }
