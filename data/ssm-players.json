@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
       "sessionSeconds": 15,
-      "playTimeSeconds": 64836,
+      "playTimeSeconds": 64896,
       "money": 700415,
       "gold": 645,
       "fame": 2066,
@@ -15,17 +15,27 @@
       "steamId": "76561198831354124",
       "name": "poosifer",
       "sessionSeconds": 15,
-      "playTimeSeconds": 73287,
+      "playTimeSeconds": 73347,
       "money": 1006855,
       "gold": 267,
       "fame": 1227,
       "rank": 43
     },
     {
+      "steamId": "76561198187228587",
+      "name": "Шустрый",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 72,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "rank": 149
+    },
+    {
       "steamId": "76561198077981589",
       "name": "Чилим",
       "sessionSeconds": 15,
-      "playTimeSeconds": 154980,
+      "playTimeSeconds": 155040,
       "money": 840195,
       "gold": 628,
       "fame": 2817,
@@ -35,7 +45,7 @@
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
       "sessionSeconds": 15,
-      "playTimeSeconds": 65018,
+      "playTimeSeconds": 65078,
       "money": 27411,
       "gold": 90,
       "fame": 328,
@@ -45,32 +55,12 @@
       "steamId": "76561198029476275",
       "name": "XEH",
       "sessionSeconds": 15,
-      "playTimeSeconds": 81624,
+      "playTimeSeconds": 81684,
       "money": 897134,
       "gold": 469,
       "fame": 2523,
       "rank": 41
-    },
-    {
-      "steamId": "76561198399306435",
-      "name": "MasSawka",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 10273,
-      "money": 41976,
-      "gold": 35,
-      "fame": 164,
-      "rank": 96
-    },
-    {
-      "steamId": "76561198187228587",
-      "name": "Шустрый",
-      "sessionSeconds": 12,
-      "playTimeSeconds": 12,
-      "money": 0,
-      "gold": 0,
-      "fame": 0,
-      "rank": 152
     }
   ],
-  "updated": "2026-10-25T04:41:06.683Z"
+  "updated": "2026-10-25T04:42:06.691Z"
 }
