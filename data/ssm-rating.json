@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198328189885",
       "name": "vlaD0S",
-      "playTimeSeconds": 396093,
+      "playTimeSeconds": 396153,
       "money": 2047864,
       "gold": 20,
       "fame": 6510,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "playTimeSeconds": 232741,
+      "playTimeSeconds": 232801,
       "money": 142406,
       "gold": 220,
       "fame": 129,
@@ -94,11 +94,11 @@
       "rank": 10,
       "steamId": "76561198037904934",
       "name": "Astaf",
-      "playTimeSeconds": 198990,
+      "playTimeSeconds": 199033,
       "money": 157147,
       "gold": 156,
       "fame": 2082,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 11,
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561198084620275",
+      "name": "Денис",
+      "playTimeSeconds": 191069,
+      "money": 127734,
+      "gold": 262,
+      "fame": 246,
+      "isOnline": true
+    },
+    {
+      "rank": 16,
       "steamId": "76561199426786745",
       "name": "Dark Angel",
       "playTimeSeconds": 191051,
@@ -149,16 +159,6 @@
       "gold": 60,
       "fame": 1016,
       "isOnline": false
-    },
-    {
-      "rank": 16,
-      "steamId": "76561198084620275",
-      "name": "Денис",
-      "playTimeSeconds": 191009,
-      "money": 127734,
-      "gold": 262,
-      "fame": 246,
-      "isOnline": true
     },
     {
       "rank": 17,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-25T22:03:18.279Z"
+  "updated": "2026-10-25T22:04:18.293Z"
 }
