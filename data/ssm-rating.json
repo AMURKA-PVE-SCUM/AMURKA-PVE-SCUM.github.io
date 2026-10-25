@@ -24,11 +24,11 @@
       "rank": 3,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "playTimeSeconds": 323495,
+      "playTimeSeconds": 323525,
       "money": 2205596,
       "gold": 654,
       "fame": 9318,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 4,
@@ -64,11 +64,11 @@
       "rank": 7,
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "playTimeSeconds": 218727,
+      "playTimeSeconds": 218781,
       "money": 208656,
       "gold": 200,
       "fame": 30,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 8,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561199569191127",
       "name": "Mira",
-      "playTimeSeconds": 200660,
+      "playTimeSeconds": 200720,
       "money": 1319838,
       "gold": 273,
       "fame": 6027,
@@ -112,6 +112,16 @@
     },
     {
       "rank": 12,
+      "steamId": "76561198037904934",
+      "name": "Astaf",
+      "playTimeSeconds": 191093,
+      "money": 151214,
+      "gold": 146,
+      "fame": 2006,
+      "isOnline": true
+    },
+    {
+      "rank": 13,
       "steamId": "76561199426786745",
       "name": "Dark Angel",
       "playTimeSeconds": 191051,
@@ -119,16 +129,6 @@
       "gold": 60,
       "fame": 1016,
       "isOnline": false
-    },
-    {
-      "rank": 13,
-      "steamId": "76561198037904934",
-      "name": "Astaf",
-      "playTimeSeconds": 191033,
-      "money": 151214,
-      "gold": 146,
-      "fame": 2006,
-      "isOnline": true
     },
     {
       "rank": 14,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-25T18:03:16.573Z"
+  "updated": "2026-10-25T18:04:16.576Z"
 }
