@@ -1,31 +1,41 @@
 {
-  "online": 7,
+  "online": 6,
   "players": [
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 130485,
-      "playTimeSeconds": 192867,
+      "sessionSeconds": 130545,
+      "playTimeSeconds": 192927,
       "money": 2211869,
       "gold": 1055,
       "fame": 6252,
       "rank": 8
     },
     {
-      "steamId": "76561198831354124",
-      "name": "poosifer",
+      "steamId": "76561199552589497",
+      "name": "Raskalbasman",
       "sessionSeconds": 8,
-      "playTimeSeconds": 78201,
-      "money": 1000347,
-      "gold": 272,
-      "fame": 1248,
-      "rank": 42
+      "playTimeSeconds": 76003,
+      "money": 185969,
+      "gold": 265,
+      "fame": 1100,
+      "rank": 43
+    },
+    {
+      "steamId": "76561198029476275",
+      "name": "XEH",
+      "sessionSeconds": 8,
+      "playTimeSeconds": 85276,
+      "money": 898134,
+      "gold": 474,
+      "fame": 2538,
+      "rank": 39
     },
     {
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
       "sessionSeconds": 8,
-      "playTimeSeconds": 69932,
+      "playTimeSeconds": 69990,
       "money": 28411,
       "gold": 95,
       "fame": 343,
@@ -35,42 +45,22 @@
       "steamId": "76561198082947468",
       "name": "bolollo",
       "sessionSeconds": 8,
-      "playTimeSeconds": 53711,
+      "playTimeSeconds": 53763,
       "money": 45925,
       "gold": 65,
       "fame": 495,
       "rank": 55
     },
     {
-      "steamId": "76561198877709613",
-      "name": "_RE_",
+      "steamId": "76561198352984050",
+      "name": "Vlad",
       "sessionSeconds": 8,
-      "playTimeSeconds": 165349,
-      "money": 406014,
-      "gold": 225,
-      "fame": 868,
-      "rank": 17
-    },
-    {
-      "steamId": "76561199552589497",
-      "name": "Raskalbasman",
-      "sessionSeconds": 8,
-      "playTimeSeconds": 75975,
-      "money": 185969,
-      "gold": 265,
-      "fame": 1100,
-      "rank": 43
-    },
-    {
-      "steamId": "76561198128211851",
-      "name": "zloy",
-      "sessionSeconds": 8,
-      "playTimeSeconds": 52932,
-      "money": 461402,
-      "gold": 195,
-      "fame": 1165,
-      "rank": 57
+      "playTimeSeconds": 254052,
+      "money": 28578,
+      "gold": 1000,
+      "fame": 1887,
+      "rank": 5
     }
   ],
-  "updated": "2026-10-25T06:03:07.278Z"
+  "updated": "2026-10-25T06:04:07.283Z"
 }
