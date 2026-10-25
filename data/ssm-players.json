@@ -1,26 +1,36 @@
 {
-  "online": 2,
+  "online": 3,
   "players": [
     {
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "sessionSeconds": 20,
-      "playTimeSeconds": 151790,
+      "sessionSeconds": 19,
+      "playTimeSeconds": 151849,
       "money": 839396,
       "gold": 623,
-      "fame": 2769,
+      "fame": 2773,
       "rank": 22
     },
     {
       "steamId": "76561198399306435",
       "name": "MasSawka",
-      "sessionSeconds": 20,
-      "playTimeSeconds": 8896,
+      "sessionSeconds": 19,
+      "playTimeSeconds": 8955,
       "money": 40034,
       "gold": 30,
       "fame": 154,
       "rank": 99
+    },
+    {
+      "steamId": "76561198831354124",
+      "name": "poosifer",
+      "sessionSeconds": 19,
+      "playTimeSeconds": 70111,
+      "money": 1005855,
+      "gold": 262,
+      "fame": 1188,
+      "rank": 45
     }
   ],
-  "updated": "2026-10-25T03:47:06.320Z"
+  "updated": "2026-10-25T03:48:06.321Z"
 }
