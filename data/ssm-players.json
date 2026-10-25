@@ -1,11 +1,21 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
+    {
+      "steamId": "76561199877063571",
+      "name": "Mazay",
+      "sessionSeconds": 128385,
+      "playTimeSeconds": 190769,
+      "money": 2211869,
+      "gold": 1055,
+      "fame": 6251,
+      "rank": 9
+    },
     {
       "steamId": "76561198337531947",
       "name": "brantozavr_voin2",
       "sessionSeconds": 11,
-      "playTimeSeconds": 67592,
+      "playTimeSeconds": 67652,
       "money": 700415,
       "gold": 645,
       "fame": 2077,
@@ -15,8 +25,8 @@
       "steamId": "76561198831354124",
       "name": "poosifer",
       "sessionSeconds": 11,
-      "playTimeSeconds": 76043,
-      "money": 1006342,
+      "playTimeSeconds": 76103,
+      "money": 1000347,
       "gold": 272,
       "fame": 1246,
       "rank": 42
@@ -25,17 +35,27 @@
       "steamId": "76561198077981589",
       "name": "Чилим",
       "sessionSeconds": 11,
-      "playTimeSeconds": 157736,
+      "playTimeSeconds": 157796,
       "money": 838874,
       "gold": 633,
       "fame": 2826,
       "rank": 20
     },
     {
+      "steamId": "76561198050349091",
+      "name": "Лунь",
+      "sessionSeconds": 11,
+      "playTimeSeconds": 1187,
+      "money": 0,
+      "gold": 0,
+      "fame": 3,
+      "rank": 129
+    },
+    {
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
       "sessionSeconds": 11,
-      "playTimeSeconds": 67774,
+      "playTimeSeconds": 67834,
       "money": 27411,
       "gold": 90,
       "fame": 332,
@@ -45,42 +65,32 @@
       "steamId": "76561198877709613",
       "name": "_RE_",
       "sessionSeconds": 11,
-      "playTimeSeconds": 163191,
+      "playTimeSeconds": 163251,
       "money": 379758,
       "gold": 225,
       "fame": 838,
       "rank": 18
     },
     {
-      "steamId": "76561198029476275",
-      "name": "XEH",
-      "sessionSeconds": 11,
-      "playTimeSeconds": 84380,
-      "money": 898134,
-      "gold": 474,
-      "fame": 2537,
-      "rank": 39
-    },
-    {
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
       "sessionSeconds": 11,
-      "playTimeSeconds": 73817,
+      "playTimeSeconds": 73877,
       "money": 185969,
       "gold": 265,
-      "fame": 1098,
+      "fame": 1099,
       "rank": 43
     },
     {
       "steamId": "76561198360241995",
       "name": "Jack sparrow",
       "sessionSeconds": 11,
-      "playTimeSeconds": 645,
+      "playTimeSeconds": 705,
       "money": 0,
       "gold": 0,
       "fame": 0,
-      "rank": 138
+      "rank": 137
     }
   ],
-  "updated": "2026-10-25T05:27:07.012Z"
+  "updated": "2026-10-25T05:28:07.014Z"
 }
