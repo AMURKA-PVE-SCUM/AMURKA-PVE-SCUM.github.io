@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198328189885",
       "name": "vlaD0S",
-      "playTimeSeconds": 406781,
+      "playTimeSeconds": 406841,
       "money": 2221756,
       "gold": 35,
       "fame": 6954,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199125649189",
       "name": "K9 Торговец",
-      "playTimeSeconds": 350426,
+      "playTimeSeconds": 350486,
       "money": 3385296,
       "gold": 723,
       "fame": 4460,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198794536026",
       "name": "Ayanakoji",
-      "playTimeSeconds": 333100,
+      "playTimeSeconds": 333160,
       "money": 2214556,
       "gold": 565,
       "fame": 9578,
@@ -92,6 +92,16 @@
     },
     {
       "rank": 10,
+      "steamId": "76561198790887864",
+      "name": "Roma",
+      "playTimeSeconds": 200680,
+      "money": 288475,
+      "gold": 481,
+      "fame": 1277,
+      "isOnline": true
+    },
+    {
+      "rank": 11,
       "steamId": "76561198084620275",
       "name": "Денис",
       "playTimeSeconds": 200645,
@@ -99,16 +109,6 @@
       "gold": 272,
       "fame": 326,
       "isOnline": false
-    },
-    {
-      "rank": 11,
-      "steamId": "76561198790887864",
-      "name": "Roma",
-      "playTimeSeconds": 200620,
-      "money": 288475,
-      "gold": 481,
-      "fame": 1277,
-      "isOnline": true
     },
     {
       "rank": 12,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-26T08:13:22.711Z"
+  "updated": "2026-10-26T08:14:22.714Z"
 }
