@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 7,
   "players": [
     {
       "steamId": "76561198271336608",
       "name": "Валерка",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 88648,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 88708,
       "money": 50656,
       "gold": 185,
       "fame": 592,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561199125649189",
       "name": "K9 Торговец",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 346772,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 346832,
       "money": 3384296,
       "gold": 718,
       "fame": 4447,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 71218,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 71278,
       "money": 2170269,
       "gold": 5732,
       "fame": 7122,
@@ -34,18 +34,28 @@
     {
       "steamId": "76561198077981589",
       "name": "Чилим",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 163422,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 163482,
       "money": 840874,
       "gold": 643,
       "fame": 2845,
       "rank": 22
     },
     {
+      "steamId": "76561198327689237",
+      "name": "Albert",
+      "sessionSeconds": 8,
+      "playTimeSeconds": 36438,
+      "money": 6954,
+      "gold": 60,
+      "fame": 28,
+      "rank": 76
+    },
+    {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 196966,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 197026,
       "money": 287475,
       "gold": 476,
       "fame": 1264,
@@ -54,13 +64,13 @@
     {
       "steamId": "76561199760655876",
       "name": "Viking",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 138552,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 138612,
       "money": 496470,
       "gold": 155,
       "fame": 978,
       "rank": 26
     }
   ],
-  "updated": "2026-10-26T07:12:22.328Z"
+  "updated": "2026-10-26T07:13:22.329Z"
 }
