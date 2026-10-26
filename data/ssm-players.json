@@ -2,20 +2,10 @@
   "online": 9,
   "players": [
     {
-      "steamId": "76561198794536026",
-      "name": "Ayanakoji",
-      "sessionSeconds": 2,
-      "playTimeSeconds": 334538,
-      "money": 2215556,
-      "gold": 570,
-      "fame": 9589,
-      "rank": 3
-    },
-    {
       "steamId": "76561198271336608",
       "name": "Валерка",
       "sessionSeconds": 2,
-      "playTimeSeconds": 93740,
+      "playTimeSeconds": 93800,
       "money": 52656,
       "gold": 195,
       "fame": 516,
@@ -25,7 +15,7 @@
       "steamId": "76561199125649189",
       "name": "K9 Торговец",
       "sessionSeconds": 2,
-      "playTimeSeconds": 351864,
+      "playTimeSeconds": 351924,
       "money": 3385296,
       "gold": 723,
       "fame": 4461,
@@ -35,27 +25,27 @@
       "steamId": "76561199580351165",
       "name": "ШРинат",
       "sessionSeconds": 2,
-      "playTimeSeconds": 76310,
+      "playTimeSeconds": 76370,
       "money": 2118613,
       "gold": 5817,
-      "fame": 7386,
+      "fame": 7387,
       "rank": 49
     },
     {
       "steamId": "76561198328189885",
       "name": "vlaD0S",
       "sessionSeconds": 2,
-      "playTimeSeconds": 408219,
-      "money": 2226456,
+      "playTimeSeconds": 408279,
+      "money": 2227956,
       "gold": 35,
-      "fame": 7020,
+      "fame": 7025,
       "rank": 1
     },
     {
       "steamId": "76561198327689237",
       "name": "Albert",
       "sessionSeconds": 2,
-      "playTimeSeconds": 41470,
+      "playTimeSeconds": 41530,
       "money": 7954,
       "gold": 65,
       "fame": 43,
@@ -65,7 +55,7 @@
       "steamId": "76561198790887864",
       "name": "Roma",
       "sessionSeconds": 2,
-      "playTimeSeconds": 202058,
+      "playTimeSeconds": 202118,
       "money": 288475,
       "gold": 481,
       "fame": 1277,
@@ -75,7 +65,7 @@
       "steamId": "76561199760655876",
       "name": "Viking",
       "sessionSeconds": 2,
-      "playTimeSeconds": 143644,
+      "playTimeSeconds": 143704,
       "money": 426910,
       "gold": 160,
       "fame": 999,
@@ -85,12 +75,22 @@
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 2,
-      "playTimeSeconds": 114997,
+      "playTimeSeconds": 115057,
       "money": 649210,
       "gold": 570,
       "fame": 1385,
       "rank": 34
+    },
+    {
+      "steamId": "76561198794536026",
+      "name": "Ayanakoji",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 334577,
+      "money": 2215556,
+      "gold": 570,
+      "fame": 9589,
+      "rank": 3
     }
   ],
-  "updated": "2026-10-26T08:37:22.895Z"
+  "updated": "2026-10-26T08:38:22.908Z"
 }
