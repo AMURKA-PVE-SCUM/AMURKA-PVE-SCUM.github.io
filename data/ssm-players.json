@@ -1,26 +1,36 @@
 {
-  "online": 2,
+  "online": 3,
   "players": [
     {
       "steamId": "76561199125649189",
       "name": "K9 Торговец",
       "sessionSeconds": 16,
-      "playTimeSeconds": 341158,
+      "playTimeSeconds": 341218,
       "money": 3382296,
       "gold": 708,
       "fame": 4424,
       "rank": 2
     },
     {
+      "steamId": "76561199085787322",
+      "name": "MIRA",
+      "sessionSeconds": 16,
+      "playTimeSeconds": 11002,
+      "money": 102149,
+      "gold": 15,
+      "fame": 55,
+      "rank": 100
+    },
+    {
       "steamId": "76561198128515579",
       "name": "Drozd",
       "sessionSeconds": 16,
-      "playTimeSeconds": 33147,
+      "playTimeSeconds": 33207,
       "money": 247323,
       "gold": 45,
-      "fame": 550,
+      "fame": 551,
       "rank": 77
     }
   ],
-  "updated": "2026-10-26T05:38:21.639Z"
+  "updated": "2026-10-26T05:39:21.649Z"
 }
