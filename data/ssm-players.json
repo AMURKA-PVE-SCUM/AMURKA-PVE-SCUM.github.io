@@ -1,21 +1,51 @@
 {
-  "online": 3,
+  "online": 6,
   "players": [
+    {
+      "steamId": "76561198794536026",
+      "name": "Ayanakoji",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 346197,
+      "money": 2270408,
+      "gold": 596,
+      "fame": 10064,
+      "rank": 3
+    },
+    {
+      "steamId": "76561199086334651",
+      "name": "Soda",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 543,
+      "money": 0,
+      "gold": 0,
+      "fame": 2,
+      "rank": 158
+    },
+    {
+      "steamId": "76561199504735154",
+      "name": "BuHHu nyx",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 186572,
+      "money": 659959,
+      "gold": 77,
+      "fame": 2127,
+      "rank": 19
+    },
     {
       "steamId": "76561198118646763",
       "name": "Иствинд",
-      "sessionSeconds": 16,
-      "playTimeSeconds": 42895,
+      "sessionSeconds": 15,
+      "playTimeSeconds": 42955,
       "money": 327507,
       "gold": 191,
       "fame": 886,
-      "rank": 72
+      "rank": 71
     },
     {
       "steamId": "76561198328189885",
       "name": "vlaD0S",
-      "sessionSeconds": 16,
-      "playTimeSeconds": 414457,
+      "sessionSeconds": 15,
+      "playTimeSeconds": 414517,
       "money": 2315236,
       "gold": 45,
       "fame": 7306,
@@ -24,13 +54,13 @@
     {
       "steamId": "76561199125649189",
       "name": "K9 Торговец",
-      "sessionSeconds": 14,
-      "playTimeSeconds": 359255,
+      "sessionSeconds": 15,
+      "playTimeSeconds": 359315,
       "money": 3387296,
       "gold": 733,
       "fame": 4485,
       "rank": 2
     }
   ],
-  "updated": "2026-10-26T12:03:28.403Z"
+  "updated": "2026-10-26T12:04:28.412Z"
 }
