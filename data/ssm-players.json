@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561198084620275",
       "name": "Денис",
       "sessionSeconds": 16,
-      "playTimeSeconds": 231225,
+      "playTimeSeconds": 231285,
       "money": 2861882,
       "gold": 212,
       "fame": 615,
       "rank": 9
+    },
+    {
+      "steamId": "76561198118646763",
+      "name": "Иствинд",
+      "sessionSeconds": 16,
+      "playTimeSeconds": 45085,
+      "money": 328507,
+      "gold": 196,
+      "fame": 898,
+      "rank": 70
     }
   ],
-  "updated": "2026-10-27T00:47:33.820Z"
+  "updated": "2026-10-27T00:48:33.824Z"
 }
