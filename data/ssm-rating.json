@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561199013118084",
       "name": "DANTE",
-      "playTimeSeconds": 19869,
+      "playTimeSeconds": 19929,
       "money": 247984,
       "gold": 86,
       "fame": 707,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 17213,
+      "playTimeSeconds": 17273,
       "money": 103435,
       "gold": 175,
       "fame": 602,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 13854,
+      "playTimeSeconds": 13914,
       "money": 5750763,
       "gold": 240,
       "fame": 1271,
@@ -54,17 +54,17 @@
       "rank": 6,
       "steamId": "76561199699294853",
       "name": "ПАТRИК",
-      "playTimeSeconds": 9190,
+      "playTimeSeconds": 9250,
       "money": 556739,
       "gold": 256,
-      "fame": 1085,
+      "fame": 1086,
       "isOnline": true
     },
     {
       "rank": 7,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 8629,
+      "playTimeSeconds": 8689,
       "money": 343996,
       "gold": 546,
       "fame": 1526,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198372320271",
       "name": "ADA",
-      "playTimeSeconds": 7940,
+      "playTimeSeconds": 8000,
       "money": 759467,
       "gold": 48,
       "fame": 4710,
@@ -84,14 +84,24 @@
       "rank": 9,
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "playTimeSeconds": 7483,
-      "money": 1366445,
+      "playTimeSeconds": 7543,
+      "money": 1370445,
       "gold": 287,
-      "fame": 1197,
+      "fame": 1237,
       "isOnline": true
     },
     {
       "rank": 10,
+      "steamId": "76561199801792277",
+      "name": "Сол Хоггар",
+      "playTimeSeconds": 7194,
+      "money": 342909,
+      "gold": 155,
+      "fame": 1994,
+      "isOnline": true
+    },
+    {
+      "rank": 11,
       "steamId": "76561198328189885",
       "name": "vlaD0S",
       "playTimeSeconds": 7143,
@@ -99,16 +109,6 @@
       "gold": 401,
       "fame": 8910,
       "isOnline": false
-    },
-    {
-      "rank": 11,
-      "steamId": "76561199801792277",
-      "name": "Сол Хоггар",
-      "playTimeSeconds": 7134,
-      "money": 342909,
-      "gold": 155,
-      "fame": 1994,
-      "isOnline": true
     },
     {
       "rank": 12,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 6331,
+      "playTimeSeconds": 6391,
       "money": 737500,
       "gold": 600,
       "fame": 1477,
@@ -144,7 +144,7 @@
       "rank": 15,
       "steamId": "76561199168999163",
       "name": "Puteshestvinica",
-      "playTimeSeconds": 5395,
+      "playTimeSeconds": 5455,
       "money": 26737,
       "gold": 185,
       "fame": 624,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561199758816988",
       "name": "Nikolai",
-      "playTimeSeconds": 4815,
+      "playTimeSeconds": 4875,
       "money": 2900,
       "gold": 15,
       "fame": 50,
@@ -162,6 +162,16 @@
     },
     {
       "rank": 17,
+      "steamId": "76561198083074543",
+      "name": "МужНаЧас",
+      "playTimeSeconds": 4515,
+      "money": 11024,
+      "gold": 5,
+      "fame": 24,
+      "isOnline": true
+    },
+    {
+      "rank": 18,
       "steamId": "76561198071060590",
       "name": "Sushi",
       "playTimeSeconds": 4461,
@@ -171,23 +181,13 @@
       "isOnline": false
     },
     {
-      "rank": 18,
-      "steamId": "76561198083074543",
-      "name": "МужНаЧас",
-      "playTimeSeconds": 4455,
-      "money": 11024,
-      "gold": 5,
-      "fame": 24,
-      "isOnline": true
-    },
-    {
       "rank": 19,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 4117,
-      "money": 3528256,
-      "gold": 2994,
-      "fame": 5154,
+      "playTimeSeconds": 4177,
+      "money": 3529256,
+      "gold": 2999,
+      "fame": 5164,
       "isOnline": true
     },
     {
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-27T10:11:38.091Z"
+  "updated": "2026-10-27T10:12:38.097Z"
 }
