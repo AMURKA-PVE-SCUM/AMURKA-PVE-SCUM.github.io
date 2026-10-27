@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199013118084",
       "name": "DANTE",
-      "playTimeSeconds": 11120,
+      "playTimeSeconds": 11180,
       "money": 16092,
       "gold": 70,
       "fame": 351,
@@ -32,6 +32,16 @@
     },
     {
       "rank": 4,
+      "steamId": "76561198159265980",
+      "name": "Evelina_Live",
+      "playTimeSeconds": 8447,
+      "money": 97753,
+      "gold": 165,
+      "fame": 551,
+      "isOnline": true
+    },
+    {
+      "rank": 5,
       "steamId": "76561198327689237",
       "name": "Albert",
       "playTimeSeconds": 8395,
@@ -39,16 +49,6 @@
       "gold": 235,
       "fame": 1306,
       "isOnline": false
-    },
-    {
-      "rank": 5,
-      "steamId": "76561198159265980",
-      "name": "Evelina_Live",
-      "playTimeSeconds": 8387,
-      "money": 97753,
-      "gold": 165,
-      "fame": 551,
-      "isOnline": true
     },
     {
       "rank": 6,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198034672308",
       "name": "9IMaKaCbKa",
-      "playTimeSeconds": 2706,
+      "playTimeSeconds": 2766,
       "money": 113304,
       "gold": 70,
       "fame": 381,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561198328189885",
       "name": "vlaD0S",
-      "playTimeSeconds": 2393,
+      "playTimeSeconds": 2453,
       "money": 2830018,
       "gold": 391,
       "fame": 8887,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561199699294853",
       "name": "ПАТRИК",
-      "playTimeSeconds": 471,
+      "playTimeSeconds": 531,
       "money": 512215,
       "gold": 245,
       "fame": 851,
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561199801792277",
       "name": "Сол Хоггар",
-      "playTimeSeconds": 115,
+      "playTimeSeconds": 175,
       "money": 325384,
       "gold": 145,
       "fame": 1860,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-27T07:43:36.927Z"
+  "updated": "2026-10-27T07:44:36.940Z"
 }
