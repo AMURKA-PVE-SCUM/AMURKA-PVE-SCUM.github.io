@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561199013118084",
       "name": "DANTE",
-      "playTimeSeconds": 16932,
+      "playTimeSeconds": 16992,
       "money": 246984,
       "gold": 81,
       "fame": 695,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 14276,
+      "playTimeSeconds": 14336,
       "money": 103435,
       "gold": 175,
       "fame": 586,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 10917,
+      "playTimeSeconds": 10977,
       "money": 5750763,
       "gold": 240,
       "fame": 1268,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561199699294853",
       "name": "ПАТRИК",
-      "playTimeSeconds": 6253,
+      "playTimeSeconds": 6313,
       "money": 505739,
       "gold": 250,
       "fame": 866,
@@ -82,6 +82,16 @@
     },
     {
       "rank": 9,
+      "steamId": "76561198790887864",
+      "name": "Roma",
+      "playTimeSeconds": 5752,
+      "money": 342996,
+      "gold": 541,
+      "fame": 1510,
+      "isOnline": true
+    },
+    {
+      "rank": 10,
       "steamId": "76561198034672308",
       "name": "9IMaKaCbKa",
       "playTimeSeconds": 5732,
@@ -91,21 +101,11 @@
       "isOnline": false
     },
     {
-      "rank": 10,
-      "steamId": "76561198790887864",
-      "name": "Roma",
-      "playTimeSeconds": 5692,
-      "money": 342996,
-      "gold": 541,
-      "fame": 1509,
-      "isOnline": true
-    },
-    {
       "rank": 11,
       "steamId": "76561198372320271",
       "name": "ADA",
-      "playTimeSeconds": 5003,
-      "money": 595491,
+      "playTimeSeconds": 5063,
+      "money": 667782,
       "gold": 43,
       "fame": 4697,
       "isOnline": true
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "playTimeSeconds": 4546,
+      "playTimeSeconds": 4606,
       "money": 1365445,
       "gold": 282,
       "fame": 1184,
@@ -124,10 +124,10 @@
       "rank": 13,
       "steamId": "76561199801792277",
       "name": "Сол Хоггар",
-      "playTimeSeconds": 4197,
-      "money": 338958,
-      "gold": 150,
-      "fame": 1892,
+      "playTimeSeconds": 4257,
+      "money": 341658,
+      "gold": 155,
+      "fame": 1917,
       "isOnline": true
     },
     {
@@ -144,7 +144,7 @@
       "rank": 15,
       "steamId": "76561198071060590",
       "name": "Sushi",
-      "playTimeSeconds": 3539,
+      "playTimeSeconds": 3599,
       "money": 762570,
       "gold": 434,
       "fame": 7427,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 3394,
+      "playTimeSeconds": 3454,
       "money": 751251,
       "gold": 595,
       "fame": 1465,
@@ -164,14 +164,24 @@
       "rank": 17,
       "steamId": "76561198121549932",
       "name": "Prostyak",
-      "playTimeSeconds": 3356,
-      "money": 10708544,
+      "playTimeSeconds": 3416,
+      "money": 10808544,
       "gold": 663,
-      "fame": 17206,
+      "fame": 17256,
       "isOnline": true
     },
     {
       "rank": 18,
+      "steamId": "76561199168999163",
+      "name": "Puteshestvinica",
+      "playTimeSeconds": 2518,
+      "money": 25737,
+      "gold": 180,
+      "fame": 607,
+      "isOnline": true
+    },
+    {
+      "rank": 19,
       "steamId": "76561198118646763",
       "name": "Иствинд",
       "playTimeSeconds": 2506,
@@ -181,25 +191,15 @@
       "isOnline": false
     },
     {
-      "rank": 19,
-      "steamId": "76561199168999163",
-      "name": "Puteshestvinica",
-      "playTimeSeconds": 2458,
-      "money": 25737,
-      "gold": 180,
-      "fame": 607,
-      "isOnline": true
-    },
-    {
       "rank": 20,
       "steamId": "76561199758816988",
       "name": "Nikolai",
-      "playTimeSeconds": 1878,
+      "playTimeSeconds": 1938,
       "money": 3000,
       "gold": 15,
       "fame": 46,
       "isOnline": true
     }
   ],
-  "updated": "2026-10-27T09:22:37.689Z"
+  "updated": "2026-10-27T09:23:37.699Z"
 }
