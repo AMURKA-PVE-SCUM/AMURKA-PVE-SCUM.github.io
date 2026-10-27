@@ -2,6 +2,16 @@
   "leaderboard": [
     {
       "rank": 1,
+      "steamId": "76561199125649189",
+      "name": "HEADLESS",
+      "playTimeSeconds": 42983,
+      "money": 3671505,
+      "gold": 3051,
+      "fame": 6262,
+      "isOnline": true
+    },
+    {
+      "rank": 2,
       "steamId": "76561198327689237",
       "name": "Albert",
       "playTimeSeconds": 42939,
@@ -9,16 +19,6 @@
       "gold": 200,
       "fame": 1339,
       "isOnline": false
-    },
-    {
-      "rank": 2,
-      "steamId": "76561199125649189",
-      "name": "HEADLESS",
-      "playTimeSeconds": 42923,
-      "money": 3671505,
-      "gold": 3051,
-      "fame": 6262,
-      "isOnline": true
     },
     {
       "rank": 3,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "playTimeSeconds": 38440,
+      "playTimeSeconds": 38500,
       "money": 1470032,
       "gold": 328,
       "fame": 1896,
@@ -54,10 +54,10 @@
       "rank": 6,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 34601,
-      "money": 1882522,
+      "playTimeSeconds": 34661,
+      "money": 1884022,
       "gold": 263,
-      "fame": 1042,
+      "fame": 1052,
       "isOnline": true
     },
     {
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561198271336608",
       "name": "Валерка",
-      "playTimeSeconds": 21035,
+      "playTimeSeconds": 21095,
       "money": 1167006,
       "gold": 375,
       "fame": 767,
@@ -174,7 +174,7 @@
       "rank": 18,
       "steamId": "76561199150613853",
       "name": "Махлюк",
-      "playTimeSeconds": 17476,
+      "playTimeSeconds": 17536,
       "money": 485014,
       "gold": 202,
       "fame": 1380,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-27T22:36:48.847Z"
+  "updated": "2026-10-27T22:37:48.853Z"
 }
