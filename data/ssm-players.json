@@ -1,11 +1,11 @@
 {
-  "online": 5,
+  "online": 8,
   "players": [
     {
       "steamId": "76561199013118084",
       "name": "DANTE",
-      "sessionSeconds": 59124,
-      "playTimeSeconds": 38555,
+      "sessionSeconds": 59184,
+      "playTimeSeconds": 38615,
       "money": 263624,
       "gold": 111,
       "fame": 881,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198327689237",
       "name": "Albert",
-      "sessionSeconds": 44635,
-      "playTimeSeconds": 37926,
+      "sessionSeconds": 44695,
+      "playTimeSeconds": 37986,
       "money": 5984347,
       "gold": 175,
       "fame": 1317,
@@ -25,7 +25,7 @@
       "steamId": "76561198032084496",
       "name": "бродяга",
       "sessionSeconds": 7,
-      "playTimeSeconds": 32890,
+      "playTimeSeconds": 32950,
       "money": 1416247,
       "gold": 323,
       "fame": 1840,
@@ -35,7 +35,7 @@
       "steamId": "76561198826257359",
       "name": "XXXX",
       "sessionSeconds": 7,
-      "playTimeSeconds": 18812,
+      "playTimeSeconds": 18872,
       "money": 491995,
       "gold": 49,
       "fame": 1514,
@@ -45,12 +45,42 @@
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 7,
-      "playTimeSeconds": 60931,
+      "playTimeSeconds": 60991,
       "money": 2513400,
       "gold": 1199,
       "fame": 7869,
       "rank": 1
+    },
+    {
+      "steamId": "76561198037904934",
+      "name": "Astaf",
+      "sessionSeconds": 7,
+      "playTimeSeconds": 3976,
+      "money": 243777,
+      "gold": 176,
+      "fame": 2283,
+      "rank": 48
+    },
+    {
+      "steamId": "76561198084620275",
+      "name": "Денис",
+      "sessionSeconds": 7,
+      "playTimeSeconds": 29115,
+      "money": 1872562,
+      "gold": 258,
+      "fame": 1044,
+      "rank": 8
+    },
+    {
+      "steamId": "76561199760655876",
+      "name": "Viking",
+      "sessionSeconds": 7,
+      "playTimeSeconds": 6752,
+      "money": 1329683,
+      "gold": 215,
+      "fame": 1183,
+      "rank": 41
     }
   ],
-  "updated": "2026-10-27T21:03:48.186Z"
+  "updated": "2026-10-27T21:04:48.198Z"
 }
