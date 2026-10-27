@@ -14,41 +14,41 @@
       "rank": 2,
       "steamId": "76561199013118084",
       "name": "DANTE",
-      "playTimeSeconds": 38468,
+      "playTimeSeconds": 38522,
       "money": 263624,
       "gold": 111,
       "fame": 881,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 3,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 37870,
+      "playTimeSeconds": 37924,
       "money": 5984347,
       "gold": 175,
       "fame": 1317,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 4,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 37538,
+      "playTimeSeconds": 37592,
       "money": 3670505,
       "gold": 3046,
       "fame": 6246,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 5,
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "playTimeSeconds": 32824,
+      "playTimeSeconds": 32830,
       "money": 1416247,
       "gold": 323,
       "fame": 1840,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 6,
@@ -122,6 +122,16 @@
     },
     {
       "rank": 13,
+      "steamId": "76561198826257359",
+      "name": "XXXX",
+      "playTimeSeconds": 18752,
+      "money": 491995,
+      "gold": 49,
+      "fame": 1514,
+      "isOnline": true
+    },
+    {
+      "rank": 14,
       "steamId": "76561198071060590",
       "name": "Sushi",
       "playTimeSeconds": 18740,
@@ -131,24 +141,14 @@
       "isOnline": false
     },
     {
-      "rank": 14,
-      "steamId": "76561198826257359",
-      "name": "XXXX",
-      "playTimeSeconds": 18694,
-      "money": 491995,
-      "gold": 49,
-      "fame": 1514,
-      "isOnline": true
-    },
-    {
       "rank": 15,
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
-      "playTimeSeconds": 18243,
+      "playTimeSeconds": 18297,
       "money": 1017830,
       "gold": 577,
       "fame": 4632,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 16,
@@ -194,12 +194,12 @@
       "rank": 20,
       "steamId": "76561198271336608",
       "name": "Валерка",
-      "playTimeSeconds": 15710,
+      "playTimeSeconds": 15764,
       "money": 150006,
       "gold": 255,
       "fame": 387,
-      "isOnline": true
+      "isOnline": false
     }
   ],
-  "updated": "2026-10-27T21:01:48.181Z"
+  "updated": "2026-10-27T21:02:48.184Z"
 }
