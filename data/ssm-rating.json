@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199013118084",
       "name": "DANTE",
-      "playTimeSeconds": 35592,
+      "playTimeSeconds": 35654,
       "money": 262624,
       "gold": 106,
       "fame": 865,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 34994,
+      "playTimeSeconds": 35056,
       "money": 5983347,
       "gold": 170,
       "fame": 1304,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 34662,
+      "playTimeSeconds": 34724,
       "money": 3661305,
       "gold": 3041,
       "fame": 6189,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "playTimeSeconds": 30137,
+      "playTimeSeconds": 30199,
       "money": 1415247,
       "gold": 318,
       "fame": 1827,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 26344,
+      "playTimeSeconds": 26406,
       "money": 1871562,
       "gold": 253,
       "fame": 1031,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561198117979766",
       "name": "Хлебушек",
-      "playTimeSeconds": 22268,
+      "playTimeSeconds": 22330,
       "money": 1136935,
       "gold": 545,
       "fame": 2972,
@@ -162,6 +162,16 @@
     },
     {
       "rank": 17,
+      "steamId": "76561198826257359",
+      "name": "XXXX",
+      "playTimeSeconds": 15880,
+      "money": 442935,
+      "gold": 49,
+      "fame": 1507,
+      "isOnline": true
+    },
+    {
+      "rank": 18,
       "steamId": "76561198072704902",
       "name": "hookzver",
       "playTimeSeconds": 15850,
@@ -171,20 +181,10 @@
       "isOnline": false
     },
     {
-      "rank": 18,
-      "steamId": "76561198826257359",
-      "name": "XXXX",
-      "playTimeSeconds": 15818,
-      "money": 442935,
-      "gold": 49,
-      "fame": 1507,
-      "isOnline": true
-    },
-    {
       "rank": 19,
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
-      "playTimeSeconds": 15367,
+      "playTimeSeconds": 15429,
       "money": 1017830,
       "gold": 577,
       "fame": 4626,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-27T20:13:47.824Z"
+  "updated": "2026-10-27T20:14:47.838Z"
 }
