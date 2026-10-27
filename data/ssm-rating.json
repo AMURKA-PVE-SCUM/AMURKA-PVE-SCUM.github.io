@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199013118084",
       "name": "DANTE",
-      "playTimeSeconds": 28015,
+      "playTimeSeconds": 28075,
       "money": 261100,
       "gold": 96,
       "fame": 780,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 27116,
+      "playTimeSeconds": 27176,
       "money": 5981347,
       "gold": 160,
       "fame": 1321,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 27037,
+      "playTimeSeconds": 27097,
       "money": 3623514,
       "gold": 3030,
       "fame": 5700,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 26849,
+      "playTimeSeconds": 26909,
       "money": 377728,
       "gold": 571,
       "fame": 1627,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "playTimeSeconds": 22257,
+      "playTimeSeconds": 22317,
       "money": 1452567,
       "gold": 308,
       "fame": 1811,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198071060590",
       "name": "Sushi",
-      "playTimeSeconds": 16381,
+      "playTimeSeconds": 16441,
       "money": 868611,
       "gold": 454,
       "fame": 7784,
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561198117979766",
+      "name": "Хлебушек",
+      "playTimeSeconds": 14964,
+      "money": 1134935,
+      "gold": 535,
+      "fame": 2944,
+      "isOnline": true
+    },
+    {
+      "rank": 16,
       "steamId": "76561199218614720",
       "name": "Демоница",
       "playTimeSeconds": 14916,
@@ -149,16 +159,6 @@
       "gold": 20,
       "fame": 157,
       "isOnline": false
-    },
-    {
-      "rank": 16,
-      "steamId": "76561198117979766",
-      "name": "Хлебушек",
-      "playTimeSeconds": 14904,
-      "money": 1134935,
-      "gold": 535,
-      "fame": 2944,
-      "isOnline": true
     },
     {
       "rank": 17,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-27T18:01:41.520Z"
+  "updated": "2026-10-27T18:02:41.521Z"
 }
