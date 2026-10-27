@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 34231,
+      "playTimeSeconds": 34291,
       "money": 180883,
       "gold": 201,
       "fame": 885,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 21072,
+      "playTimeSeconds": 21132,
       "money": 3513514,
       "gold": 3019,
       "fame": 5419,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561199758816988",
       "name": "Nikolai",
-      "playTimeSeconds": 19849,
+      "playTimeSeconds": 19909,
       "money": 15800,
       "gold": 40,
       "fame": 123,
@@ -62,6 +62,16 @@
     },
     {
       "rank": 7,
+      "steamId": "76561198352984050",
+      "name": "Vlad",
+      "playTimeSeconds": 17591,
+      "money": 57578,
+      "gold": 1105,
+      "fame": 2182,
+      "isOnline": true
+    },
+    {
+      "rank": 8,
       "steamId": "76561198083074543",
       "name": "МужНаЧас",
       "playTimeSeconds": 17559,
@@ -71,20 +81,10 @@
       "isOnline": false
     },
     {
-      "rank": 8,
-      "steamId": "76561198352984050",
-      "name": "Vlad",
-      "playTimeSeconds": 17531,
-      "money": 57578,
-      "gold": 1105,
-      "fame": 2182,
-      "isOnline": true
-    },
-    {
       "rank": 9,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 17344,
+      "playTimeSeconds": 17404,
       "money": 374728,
       "gold": 556,
       "fame": 1584,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561199218614720",
       "name": "Демоница",
-      "playTimeSeconds": 13554,
+      "playTimeSeconds": 13614,
       "money": 2523,
       "gold": 15,
       "fame": 145,
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 12862,
+      "playTimeSeconds": 12922,
       "money": 442035,
       "gold": 44,
       "fame": 1493,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-27T14:55:40.206Z"
+  "updated": "2026-10-27T14:56:40.215Z"
 }
