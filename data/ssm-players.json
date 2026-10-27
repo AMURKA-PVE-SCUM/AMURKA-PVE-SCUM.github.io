@@ -1,21 +1,61 @@
 {
-  "online": 6,
+  "online": 10,
   "players": [
     {
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "sessionSeconds": 13189,
-      "playTimeSeconds": 13139,
+      "sessionSeconds": 13249,
+      "playTimeSeconds": 13200,
       "money": 102435,
       "gold": 170,
-      "fame": 574,
+      "fame": 575,
       "rank": 4
+    },
+    {
+      "steamId": "76561198952987908",
+      "name": "VoItElGrEyS",
+      "sessionSeconds": 2263,
+      "playTimeSeconds": 3263,
+      "money": 0,
+      "gold": 0,
+      "fame": 5,
+      "rank": 16
+    },
+    {
+      "steamId": "76561198327689237",
+      "name": "Albert",
+      "sessionSeconds": 1484,
+      "playTimeSeconds": 9841,
+      "money": 5749763,
+      "gold": 235,
+      "fame": 1257,
+      "rank": 5
+    },
+    {
+      "steamId": "76561198083074543",
+      "name": "ShilkA",
+      "sessionSeconds": 482,
+      "playTimeSeconds": 442,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "rank": 24
+    },
+    {
+      "steamId": "76561199758816988",
+      "name": "Nikolai",
+      "sessionSeconds": 277,
+      "playTimeSeconds": 802,
+      "money": 2000,
+      "gold": 10,
+      "fame": 34,
+      "rank": 23
     },
     {
       "steamId": "76561198790887864",
       "name": "Roma",
       "sessionSeconds": 3,
-      "playTimeSeconds": 4556,
+      "playTimeSeconds": 4616,
       "money": 341996,
       "gold": 536,
       "fame": 1498,
@@ -25,17 +65,17 @@
       "steamId": "76561198372320271",
       "name": "ADA",
       "sessionSeconds": 3,
-      "playTimeSeconds": 3867,
+      "playTimeSeconds": 3927,
       "money": 519330,
       "gold": 43,
       "fame": 4696,
-      "rank": 13
+      "rank": 12
     },
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 3,
-      "playTimeSeconds": 18292,
+      "playTimeSeconds": 18352,
       "money": 2502400,
       "gold": 1149,
       "fame": 7680,
@@ -45,7 +85,7 @@
       "steamId": "76561198032084496",
       "name": "бродяга",
       "sessionSeconds": 3,
-      "playTimeSeconds": 3410,
+      "playTimeSeconds": 3470,
       "money": 1363280,
       "gold": 282,
       "fame": 1143,
@@ -55,12 +95,12 @@
       "steamId": "76561199125649189",
       "name": "HEADLESS",
       "sessionSeconds": 3,
-      "playTimeSeconds": 44,
+      "playTimeSeconds": 104,
       "money": 3516436,
       "gold": 2988,
       "fame": 4965,
       "rank": 26
     }
   ],
-  "updated": "2026-10-27T09:03:37.538Z"
+  "updated": "2026-10-27T09:04:37.539Z"
 }
