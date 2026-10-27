@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 44421,
+      "playTimeSeconds": 44484,
       "money": 3687505,
       "gold": 3066,
       "fame": 7323,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "playTimeSeconds": 39938,
+      "playTimeSeconds": 40001,
       "money": 1489182,
       "gold": 334,
       "fame": 2082,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 36099,
+      "playTimeSeconds": 36162,
       "money": 1891722,
       "gold": 268,
       "fame": 1118,
@@ -92,6 +92,16 @@
     },
     {
       "rank": 10,
+      "steamId": "76561198271336608",
+      "name": "Валерка",
+      "playTimeSeconds": 22596,
+      "money": 1167006,
+      "gold": 375,
+      "fame": 771,
+      "isOnline": true
+    },
+    {
+      "rank": 11,
       "steamId": "76561198826257359",
       "name": "XXXX",
       "playTimeSeconds": 22573,
@@ -99,16 +109,6 @@
       "gold": 54,
       "fame": 1523,
       "isOnline": false
-    },
-    {
-      "rank": 11,
-      "steamId": "76561198271336608",
-      "name": "Валерка",
-      "playTimeSeconds": 22533,
-      "money": 1167006,
-      "gold": 375,
-      "fame": 771,
-      "isOnline": true
     },
     {
       "rank": 12,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 20026,
+      "playTimeSeconds": 20089,
       "money": 58578,
       "gold": 1110,
       "fame": 2194,
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561199150613853",
+      "name": "Махлюк",
+      "playTimeSeconds": 19037,
+      "money": 486014,
+      "gold": 207,
+      "fame": 1392,
+      "isOnline": true
+    },
+    {
+      "rank": 16,
       "steamId": "76561199086334651",
       "name": "Soda",
       "playTimeSeconds": 19029,
@@ -149,16 +159,6 @@
       "gold": 40,
       "fame": 261,
       "isOnline": false
-    },
-    {
-      "rank": 16,
-      "steamId": "76561199150613853",
-      "name": "Махлюк",
-      "playTimeSeconds": 18974,
-      "money": 486014,
-      "gold": 207,
-      "fame": 1392,
-      "isOnline": true
     },
     {
       "rank": 17,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-27T23:01:49.034Z"
+  "updated": "2026-10-27T23:02:49.045Z"
 }
