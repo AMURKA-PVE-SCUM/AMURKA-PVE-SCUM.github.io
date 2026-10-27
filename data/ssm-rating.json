@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561199013118084",
       "name": "DANTE",
-      "playTimeSeconds": 14415,
+      "playTimeSeconds": 14475,
       "money": 141267,
       "gold": 75,
       "fame": 394,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 11682,
+      "playTimeSeconds": 11742,
       "money": 102435,
       "gold": 170,
       "fame": 574,
@@ -44,11 +44,11 @@
       "rank": 5,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 8395,
+      "playTimeSeconds": 8400,
       "money": 5791763,
       "gold": 235,
       "fame": 1306,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 6,
@@ -62,6 +62,16 @@
     },
     {
       "rank": 7,
+      "steamId": "76561198328189885",
+      "name": "vlaD0S",
+      "playTimeSeconds": 5748,
+      "money": 2831018,
+      "gold": 396,
+      "fame": 8899,
+      "isOnline": true
+    },
+    {
+      "rank": 8,
       "steamId": "76561198034672308",
       "name": "9IMaKaCbKa",
       "playTimeSeconds": 5732,
@@ -71,30 +81,20 @@
       "isOnline": false
     },
     {
-      "rank": 8,
-      "steamId": "76561198328189885",
-      "name": "vlaD0S",
-      "playTimeSeconds": 5688,
-      "money": 2831018,
-      "gold": 396,
-      "fame": 8899,
-      "isOnline": true
-    },
-    {
       "rank": 9,
       "steamId": "76561199699294853",
       "name": "ПАТRИК",
-      "playTimeSeconds": 3766,
+      "playTimeSeconds": 3826,
       "money": 505739,
       "gold": 250,
-      "fame": 863,
+      "fame": 864,
       "isOnline": true
     },
     {
       "rank": 10,
       "steamId": "76561199801792277",
       "name": "Сол Хоггар",
-      "playTimeSeconds": 3368,
+      "playTimeSeconds": 3428,
       "money": 327934,
       "gold": 150,
       "fame": 1887,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 3095,
+      "playTimeSeconds": 3155,
       "money": 341996,
       "gold": 536,
       "fame": 1497,
@@ -114,10 +114,10 @@
       "rank": 12,
       "steamId": "76561198071060590",
       "name": "Sushi",
-      "playTimeSeconds": 3077,
-      "money": 754830,
+      "playTimeSeconds": 3137,
+      "money": 756330,
       "gold": 434,
-      "fame": 7417,
+      "fame": 7427,
       "isOnline": true
     },
     {
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561198372320271",
       "name": "ADA",
-      "playTimeSeconds": 2391,
+      "playTimeSeconds": 2451,
       "money": 523291,
       "gold": 43,
       "fame": 4652,
@@ -144,17 +144,17 @@
       "rank": 15,
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "playTimeSeconds": 2116,
+      "playTimeSeconds": 2176,
       "money": 1451832,
       "gold": 277,
-      "fame": 1132,
+      "fame": 1133,
       "isOnline": true
     },
     {
       "rank": 16,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 1915,
+      "playTimeSeconds": 1975,
       "money": 750251,
       "gold": 590,
       "fame": 1454,
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561198952987908",
       "name": "VoItElGrEyS",
-      "playTimeSeconds": 1754,
+      "playTimeSeconds": 1814,
       "money": 0,
       "gold": 0,
       "fame": 3,
@@ -174,7 +174,7 @@
       "rank": 18,
       "steamId": "76561199168999163",
       "name": "Puteshestvinica",
-      "playTimeSeconds": 985,
+      "playTimeSeconds": 1045,
       "money": 24737,
       "gold": 175,
       "fame": 596,
@@ -184,10 +184,10 @@
       "rank": 19,
       "steamId": "76561198121549932",
       "name": "Prostyak",
-      "playTimeSeconds": 827,
+      "playTimeSeconds": 887,
       "money": 10406858,
       "gold": 658,
-      "fame": 17114,
+      "fame": 17115,
       "isOnline": true
     },
     {
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-27T08:38:37.358Z"
+  "updated": "2026-10-27T08:39:37.372Z"
 }
