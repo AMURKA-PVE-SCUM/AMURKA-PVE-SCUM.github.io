@@ -72,6 +72,16 @@
     },
     {
       "rank": 8,
+      "steamId": "76561198084620275",
+      "name": "Денис",
+      "playTimeSeconds": 230866,
+      "money": 2847632,
+      "gold": 212,
+      "fame": 564,
+      "isOnline": true
+    },
+    {
+      "rank": 9,
       "steamId": "76561199569191127",
       "name": "Mira",
       "playTimeSeconds": 230854,
@@ -79,16 +89,6 @@
       "gold": 319,
       "fame": 6547,
       "isOnline": false
-    },
-    {
-      "rank": 9,
-      "steamId": "76561198084620275",
-      "name": "Денис",
-      "playTimeSeconds": 230806,
-      "money": 2847632,
-      "gold": 212,
-      "fame": 564,
-      "isOnline": true
     },
     {
       "rank": 10,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-27T00:40:33.774Z"
+  "updated": "2026-10-27T00:41:33.783Z"
 }
