@@ -4,11 +4,11 @@
       "rank": 1,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 34668,
+      "playTimeSeconds": 34691,
       "money": 180883,
       "gold": 201,
       "fame": 885,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 2,
@@ -62,22 +62,22 @@
     },
     {
       "rank": 7,
+      "steamId": "76561198352984050",
+      "name": "Vlad",
+      "playTimeSeconds": 17814,
+      "money": 57578,
+      "gold": 1105,
+      "fame": 2182,
+      "isOnline": true
+    },
+    {
+      "rank": 8,
       "steamId": "76561198790887864",
       "name": "Roma",
       "playTimeSeconds": 17781,
       "money": 374728,
       "gold": 556,
       "fame": 1584,
-      "isOnline": false
-    },
-    {
-      "rank": 8,
-      "steamId": "76561198352984050",
-      "name": "Vlad",
-      "playTimeSeconds": 17761,
-      "money": 57578,
-      "gold": 1105,
-      "fame": 2182,
       "isOnline": false
     },
     {
@@ -132,6 +132,16 @@
     },
     {
       "rank": 14,
+      "steamId": "76561199218614720",
+      "name": "Демоница",
+      "playTimeSeconds": 14090,
+      "money": 2523,
+      "gold": 15,
+      "fame": 145,
+      "isOnline": true
+    },
+    {
+      "rank": 15,
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
       "playTimeSeconds": 14043,
@@ -139,16 +149,6 @@
       "gold": 1265,
       "fame": 30917,
       "isOnline": false
-    },
-    {
-      "rank": 15,
-      "steamId": "76561199218614720",
-      "name": "Демоница",
-      "playTimeSeconds": 14030,
-      "money": 2523,
-      "gold": 15,
-      "fame": 145,
-      "isOnline": true
     },
     {
       "rank": 16,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-27T15:03:40.251Z"
+  "updated": "2026-10-27T15:04:40.265Z"
 }
