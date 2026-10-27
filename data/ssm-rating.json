@@ -24,21 +24,21 @@
       "rank": 3,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 13139,
+      "playTimeSeconds": 13200,
       "money": 102435,
       "gold": 170,
-      "fame": 574,
+      "fame": 575,
       "isOnline": true
     },
     {
       "rank": 4,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 9795,
+      "playTimeSeconds": 9841,
       "money": 5749763,
       "gold": 235,
       "fame": 1257,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 5,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 4556,
+      "playTimeSeconds": 4616,
       "money": 341996,
       "gold": 536,
       "fame": 1498,
@@ -102,6 +102,16 @@
     },
     {
       "rank": 11,
+      "steamId": "76561198372320271",
+      "name": "ADA",
+      "playTimeSeconds": 3927,
+      "money": 519330,
+      "gold": 43,
+      "fame": 4696,
+      "isOnline": true
+    },
+    {
+      "rank": 12,
       "steamId": "76561199801792277",
       "name": "Сол Хоггар",
       "playTimeSeconds": 3876,
@@ -109,16 +119,6 @@
       "gold": 150,
       "fame": 1887,
       "isOnline": false
-    },
-    {
-      "rank": 12,
-      "steamId": "76561198372320271",
-      "name": "ADA",
-      "playTimeSeconds": 3867,
-      "money": 519330,
-      "gold": 43,
-      "fame": 4696,
-      "isOnline": true
     },
     {
       "rank": 13,
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "playTimeSeconds": 3410,
+      "playTimeSeconds": 3470,
       "money": 1363280,
       "gold": 282,
       "fame": 1143,
@@ -144,11 +144,11 @@
       "rank": 15,
       "steamId": "76561198952987908",
       "name": "VoItElGrEyS",
-      "playTimeSeconds": 3209,
+      "playTimeSeconds": 3263,
       "money": 0,
       "gold": 0,
       "fame": 5,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 16,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-27T09:03:37.538Z"
+  "updated": "2026-10-27T09:04:37.539Z"
 }
