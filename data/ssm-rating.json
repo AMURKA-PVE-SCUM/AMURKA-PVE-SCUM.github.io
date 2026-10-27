@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 41641,
+      "playTimeSeconds": 41701,
       "money": 5985347,
       "gold": 180,
       "fame": 1329,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 41066,
+      "playTimeSeconds": 41126,
       "money": 3671505,
       "gold": 3051,
       "fame": 6260,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "playTimeSeconds": 36583,
+      "playTimeSeconds": 36643,
       "money": 1417247,
       "gold": 328,
       "fame": 1840,
@@ -52,6 +52,16 @@
     },
     {
       "rank": 6,
+      "steamId": "76561198084620275",
+      "name": "Денис",
+      "playTimeSeconds": 32804,
+      "money": 1873562,
+      "gold": 263,
+      "fame": 995,
+      "isOnline": true
+    },
+    {
+      "rank": 7,
       "steamId": "76561198790887864",
       "name": "Roma",
       "playTimeSeconds": 32763,
@@ -59,16 +69,6 @@
       "gold": 576,
       "fame": 1668,
       "isOnline": false
-    },
-    {
-      "rank": 7,
-      "steamId": "76561198084620275",
-      "name": "Денис",
-      "playTimeSeconds": 32744,
-      "money": 1873562,
-      "gold": 263,
-      "fame": 995,
-      "isOnline": true
     },
     {
       "rank": 8,
@@ -94,11 +94,11 @@
       "rank": 10,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 22527,
+      "playTimeSeconds": 22573,
       "money": 492802,
       "gold": 54,
       "fame": 1523,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 11,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198271336608",
       "name": "Валерка",
-      "playTimeSeconds": 19178,
+      "playTimeSeconds": 19238,
       "money": 1166006,
       "gold": 370,
       "fame": 754,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-27T22:05:48.634Z"
+  "updated": "2026-10-27T22:06:48.638Z"
 }
