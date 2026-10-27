@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "playTimeSeconds": 7778,
+      "playTimeSeconds": 7838,
       "money": 2996071,
       "gold": 5978,
       "fame": 8930,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561199013118084",
       "name": "DANTE",
-      "playTimeSeconds": 5847,
+      "playTimeSeconds": 5907,
       "money": 15092,
       "gold": 65,
       "fame": 334,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 3114,
+      "playTimeSeconds": 3174,
       "money": 97753,
       "gold": 160,
       "fame": 537,
@@ -92,6 +92,16 @@
     },
     {
       "rank": 10,
+      "steamId": "76561198071060590",
+      "name": "Black_Mamba",
+      "playTimeSeconds": 5,
+      "money": 654076,
+      "gold": 429,
+      "fame": 7334,
+      "isOnline": true
+    },
+    {
+      "rank": 11,
       "steamId": "76561198082947468",
       "name": "bolollo",
       "playTimeSeconds": 0,
@@ -101,23 +111,13 @@
       "isOnline": false
     },
     {
-      "rank": 11,
+      "rank": 12,
       "steamId": "76561198372320271",
       "name": "ADA",
       "playTimeSeconds": 0,
       "money": 661065,
       "gold": 38,
       "fame": 4639,
-      "isOnline": false
-    },
-    {
-      "rank": 12,
-      "steamId": "76561198071060590",
-      "name": "Black_Mamba",
-      "playTimeSeconds": 0,
-      "money": 654076,
-      "gold": 429,
-      "fame": 7334,
       "isOnline": false
     },
     {
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-27T06:15:36.301Z"
+  "updated": "2026-10-27T06:16:36.310Z"
 }
