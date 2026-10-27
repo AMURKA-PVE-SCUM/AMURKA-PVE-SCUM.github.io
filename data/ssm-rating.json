@@ -14,17 +14,17 @@
       "rank": 2,
       "steamId": "76561199013118084",
       "name": "DANTE",
-      "playTimeSeconds": 33193,
-      "money": 266759,
+      "playTimeSeconds": 33253,
+      "money": 262624,
       "gold": 106,
-      "fame": 861,
+      "fame": 863,
       "isOnline": true
     },
     {
       "rank": 3,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 32595,
+      "playTimeSeconds": 32655,
       "money": 5983347,
       "gold": 170,
       "fame": 1303,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 32263,
+      "playTimeSeconds": 32323,
       "money": 3644575,
       "gold": 3035,
       "fame": 5910,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 32169,
+      "playTimeSeconds": 32229,
       "money": 527334,
       "gold": 576,
       "fame": 1668,
@@ -54,10 +54,10 @@
       "rank": 6,
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "playTimeSeconds": 27738,
-      "money": 1456717,
-      "gold": 313,
-      "fame": 1848,
+      "playTimeSeconds": 27798,
+      "money": 1457717,
+      "gold": 318,
+      "fame": 1858,
       "isOnline": true
     },
     {
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 23945,
+      "playTimeSeconds": 24005,
       "money": 1820662,
       "gold": 247,
       "fame": 817,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561198117979766",
       "name": "Хлебушек",
-      "playTimeSeconds": 19869,
+      "playTimeSeconds": 19929,
       "money": 1135935,
       "gold": 540,
       "fame": 2957,
@@ -162,6 +162,16 @@
     },
     {
       "rank": 17,
+      "steamId": "76561198372320271",
+      "name": "ADA",
+      "playTimeSeconds": 14950,
+      "money": 1101880,
+      "gold": 58,
+      "fame": 4820,
+      "isOnline": true
+    },
+    {
+      "rank": 18,
       "steamId": "76561199218614720",
       "name": "Демоница",
       "playTimeSeconds": 14916,
@@ -169,16 +179,6 @@
       "gold": 20,
       "fame": 157,
       "isOnline": false
-    },
-    {
-      "rank": 18,
-      "steamId": "76561198372320271",
-      "name": "ADA",
-      "playTimeSeconds": 14890,
-      "money": 1101880,
-      "gold": 58,
-      "fame": 4820,
-      "isOnline": true
     },
     {
       "rank": 19,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-27T19:33:42.172Z"
+  "updated": "2026-10-27T19:34:42.184Z"
 }
