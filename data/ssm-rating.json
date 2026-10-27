@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 39664,
+      "playTimeSeconds": 39723,
       "money": 182883,
       "gold": 211,
       "fame": 909,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199758816988",
       "name": "Nikolai",
-      "playTimeSeconds": 24713,
+      "playTimeSeconds": 24772,
       "money": 19892,
       "gold": 45,
       "fame": 220,
@@ -42,6 +42,16 @@
     },
     {
       "rank": 5,
+      "steamId": "76561198327689237",
+      "name": "Albert",
+      "playTimeSeconds": 21540,
+      "money": 5788757,
+      "gold": 255,
+      "fame": 1307,
+      "isOnline": true
+    },
+    {
+      "rank": 6,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
       "playTimeSeconds": 21509,
@@ -51,20 +61,10 @@
       "isOnline": false
     },
     {
-      "rank": 6,
-      "steamId": "76561198327689237",
-      "name": "Albert",
-      "playTimeSeconds": 21481,
-      "money": 5788757,
-      "gold": 255,
-      "fame": 1307,
-      "isOnline": true
-    },
-    {
       "rank": 7,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 21214,
+      "playTimeSeconds": 21273,
       "money": 375728,
       "gold": 561,
       "fame": 1598,
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561199086334651",
       "name": "Soda",
-      "playTimeSeconds": 13901,
+      "playTimeSeconds": 13960,
       "money": 52539,
       "gold": 35,
       "fame": 240,
@@ -184,7 +184,7 @@
       "rank": 19,
       "steamId": "76561198071060590",
       "name": "Sushi",
-      "playTimeSeconds": 10746,
+      "playTimeSeconds": 10805,
       "money": 862911,
       "gold": 444,
       "fame": 7733,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-27T16:27:40.831Z"
+  "updated": "2026-10-27T16:28:40.835Z"
 }
