@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 42180,
+      "playTimeSeconds": 42240,
       "money": 5985347,
       "gold": 195,
       "fame": 1329,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 41605,
+      "playTimeSeconds": 41665,
       "money": 3671505,
       "gold": 3051,
       "fame": 6261,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "playTimeSeconds": 37122,
+      "playTimeSeconds": 37182,
       "money": 1417247,
       "gold": 328,
       "fame": 1840,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 33283,
+      "playTimeSeconds": 33343,
       "money": 1882522,
       "gold": 263,
       "fame": 1040,
@@ -112,6 +112,16 @@
     },
     {
       "rank": 12,
+      "steamId": "76561198271336608",
+      "name": "Валерка",
+      "playTimeSeconds": 19777,
+      "money": 1166006,
+      "gold": 370,
+      "fame": 755,
+      "isOnline": true
+    },
+    {
+      "rank": 13,
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
       "playTimeSeconds": 19752,
@@ -119,16 +129,6 @@
       "gold": 582,
       "fame": 4644,
       "isOnline": false
-    },
-    {
-      "rank": 13,
-      "steamId": "76561198271336608",
-      "name": "Валерка",
-      "playTimeSeconds": 19717,
-      "money": 1166006,
-      "gold": 370,
-      "fame": 755,
-      "isOnline": true
     },
     {
       "rank": 14,
@@ -194,12 +194,12 @@
       "rank": 20,
       "steamId": "76561199150613853",
       "name": "Махлюк",
-      "playTimeSeconds": 16158,
+      "playTimeSeconds": 16218,
       "money": 485014,
       "gold": 202,
       "fame": 1376,
       "isOnline": true
     }
   ],
-  "updated": "2026-10-27T22:14:48.706Z"
+  "updated": "2026-10-27T22:15:48.712Z"
 }
