@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 39783,
+      "playTimeSeconds": 39843,
       "money": 182883,
       "gold": 211,
       "fame": 909,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199758816988",
       "name": "Nikolai",
-      "playTimeSeconds": 24832,
+      "playTimeSeconds": 24892,
       "money": 19892,
       "gold": 45,
       "fame": 220,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 21600,
+      "playTimeSeconds": 21660,
       "money": 5788757,
       "gold": 255,
       "fame": 1307,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 21522,
+      "playTimeSeconds": 21581,
       "money": 3513514,
       "gold": 3019,
       "fame": 5419,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 21333,
+      "playTimeSeconds": 21393,
       "money": 375728,
       "gold": 561,
       "fame": 1598,
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561199086334651",
+      "name": "Soda",
+      "playTimeSeconds": 14080,
+      "money": 52539,
+      "gold": 35,
+      "fame": 240,
+      "isOnline": true
+    },
+    {
+      "rank": 16,
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
       "playTimeSeconds": 14043,
@@ -151,24 +161,14 @@
       "isOnline": false
     },
     {
-      "rank": 16,
-      "steamId": "76561199086334651",
-      "name": "Soda",
-      "playTimeSeconds": 14020,
-      "money": 52539,
-      "gold": 35,
-      "fame": 240,
-      "isOnline": true
-    },
-    {
       "rank": 17,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 14018,
+      "playTimeSeconds": 14029,
       "money": 1809712,
       "gold": 232,
       "fame": 721,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 18,
@@ -184,7 +184,7 @@
       "rank": 19,
       "steamId": "76561198071060590",
       "name": "Sushi",
-      "playTimeSeconds": 10865,
+      "playTimeSeconds": 10925,
       "money": 862911,
       "gold": 444,
       "fame": 7733,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-27T16:29:40.847Z"
+  "updated": "2026-10-27T16:30:40.848Z"
 }
