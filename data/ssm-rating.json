@@ -4,10 +4,10 @@
       "rank": 1,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 43764,
+      "playTimeSeconds": 43824,
       "money": 3686505,
       "gold": 3061,
-      "fame": 6813,
+      "fame": 7313,
       "isOnline": true
     },
     {
@@ -32,6 +32,16 @@
     },
     {
       "rank": 4,
+      "steamId": "76561198032084496",
+      "name": "бродяга",
+      "playTimeSeconds": 39341,
+      "money": 1473232,
+      "gold": 333,
+      "fame": 1926,
+      "isOnline": true
+    },
+    {
+      "rank": 5,
       "steamId": "76561199013118084",
       "name": "DANTE",
       "playTimeSeconds": 39304,
@@ -41,23 +51,13 @@
       "isOnline": false
     },
     {
-      "rank": 5,
-      "steamId": "76561198032084496",
-      "name": "бродяга",
-      "playTimeSeconds": 39281,
-      "money": 1473232,
-      "gold": 333,
-      "fame": 1926,
-      "isOnline": true
-    },
-    {
       "rank": 6,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 35442,
+      "playTimeSeconds": 35502,
       "money": 1887272,
       "gold": 263,
-      "fame": 1082,
+      "fame": 1083,
       "isOnline": true
     },
     {
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561198271336608",
       "name": "Валерка",
-      "playTimeSeconds": 21876,
+      "playTimeSeconds": 21936,
       "money": 1167006,
       "gold": 375,
       "fame": 768,
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 19369,
+      "playTimeSeconds": 19429,
       "money": 58578,
       "gold": 1110,
       "fame": 2193,
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561199150613853",
       "name": "Махлюк",
-      "playTimeSeconds": 18317,
+      "playTimeSeconds": 18377,
       "money": 486014,
       "gold": 207,
       "fame": 1391,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-27T22:50:48.932Z"
+  "updated": "2026-10-27T22:51:48.933Z"
 }
