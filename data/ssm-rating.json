@@ -14,17 +14,17 @@
       "rank": 2,
       "steamId": "76561199013118084",
       "name": "DANTE",
-      "playTimeSeconds": 30370,
+      "playTimeSeconds": 30430,
       "money": 261958,
       "gold": 101,
-      "fame": 819,
+      "fame": 820,
       "isOnline": true
     },
     {
       "rank": 3,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 29718,
+      "playTimeSeconds": 29778,
       "money": 5982347,
       "gold": 165,
       "fame": 1286,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 29386,
+      "playTimeSeconds": 29446,
       "money": 3629514,
       "gold": 3035,
       "fame": 5712,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 29292,
+      "playTimeSeconds": 29352,
       "money": 426020,
       "gold": 571,
       "fame": 1656,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "playTimeSeconds": 24861,
+      "playTimeSeconds": 24921,
       "money": 1456717,
       "gold": 313,
       "fame": 1842,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 21068,
+      "playTimeSeconds": 21128,
       "money": 1819662,
       "gold": 242,
       "fame": 810,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198117979766",
       "name": "Хлебушек",
-      "playTimeSeconds": 16992,
+      "playTimeSeconds": 17052,
       "money": 1134935,
       "gold": 535,
       "fame": 2945,
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561199482254015",
+      "name": "ViMeR",
+      "playTimeSeconds": 15884,
+      "money": 267325,
+      "gold": 135,
+      "fame": 670,
+      "isOnline": true
+    },
+    {
+      "rank": 16,
       "steamId": "76561198072704902",
       "name": "hookzver",
       "playTimeSeconds": 15850,
@@ -149,16 +159,6 @@
       "gold": 219,
       "fame": 1805,
       "isOnline": false
-    },
-    {
-      "rank": 16,
-      "steamId": "76561199482254015",
-      "name": "ViMeR",
-      "playTimeSeconds": 15824,
-      "money": 267325,
-      "gold": 135,
-      "fame": 670,
-      "isOnline": true
     },
     {
       "rank": 17,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-27T18:45:41.828Z"
+  "updated": "2026-10-27T18:46:41.832Z"
 }
