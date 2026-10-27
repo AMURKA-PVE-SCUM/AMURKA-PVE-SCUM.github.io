@@ -1,31 +1,21 @@
 {
-  "online": 9,
+  "online": 10,
   "players": [
     {
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "sessionSeconds": 35032,
-      "playTimeSeconds": 34871,
+      "sessionSeconds": 35092,
+      "playTimeSeconds": 34931,
       "money": 180883,
       "gold": 201,
       "fame": 885,
       "rank": 2
     },
     {
-      "steamId": "76561199758816988",
-      "name": "Nikolai",
-      "sessionSeconds": 22059,
-      "playTimeSeconds": 19954,
-      "money": 15800,
-      "gold": 40,
-      "fame": 123,
-      "rank": 6
-    },
-    {
       "steamId": "76561198115245396",
       "name": "Хабаровчанин",
       "sessionSeconds": 5,
-      "playTimeSeconds": 7333,
+      "playTimeSeconds": 7393,
       "money": 886929,
       "gold": 328,
       "fame": 1850,
@@ -35,7 +25,7 @@
       "steamId": "76561198790887864",
       "name": "Roma",
       "sessionSeconds": 5,
-      "playTimeSeconds": 17860,
+      "playTimeSeconds": 17920,
       "money": 374728,
       "gold": 556,
       "fame": 1584,
@@ -45,7 +35,7 @@
       "steamId": "76561198117979766",
       "name": "Хлебушек",
       "sessionSeconds": 5,
-      "playTimeSeconds": 4476,
+      "playTimeSeconds": 4536,
       "money": 1131935,
       "gold": 520,
       "fame": 2900,
@@ -55,7 +45,7 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 5,
-      "playTimeSeconds": 17994,
+      "playTimeSeconds": 18054,
       "money": 57578,
       "gold": 1105,
       "fame": 2182,
@@ -65,17 +55,17 @@
       "steamId": "76561199086334651",
       "name": "Soda",
       "sessionSeconds": 5,
-      "playTimeSeconds": 9108,
+      "playTimeSeconds": 9168,
       "money": 52304,
       "gold": 30,
-      "fame": 200,
+      "fame": 201,
       "rank": 24
     },
     {
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
       "sessionSeconds": 5,
-      "playTimeSeconds": 283,
+      "playTimeSeconds": 343,
       "money": 1012830,
       "gold": 552,
       "fame": 4561,
@@ -85,12 +75,32 @@
       "steamId": "76561199218614720",
       "name": "Демоница",
       "sessionSeconds": 5,
-      "playTimeSeconds": 14270,
+      "playTimeSeconds": 14330,
       "money": 2523,
       "gold": 15,
       "fame": 145,
       "rank": 13
+    },
+    {
+      "steamId": "76561199877063571",
+      "name": "Mazay",
+      "sessionSeconds": 5,
+      "playTimeSeconds": 39810,
+      "money": 2508400,
+      "gold": 1179,
+      "fame": 7783,
+      "rank": 1
+    },
+    {
+      "steamId": "76561198061663790",
+      "name": "yloo",
+      "sessionSeconds": 5,
+      "playTimeSeconds": 17,
+      "money": 450095,
+      "gold": 230,
+      "fame": 3695,
+      "rank": 49
     }
   ],
-  "updated": "2026-10-27T15:07:40.286Z"
+  "updated": "2026-10-27T15:08:40.289Z"
 }
