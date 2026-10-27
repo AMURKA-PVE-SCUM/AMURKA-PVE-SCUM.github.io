@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 41401,
+      "playTimeSeconds": 41461,
       "money": 5985347,
       "gold": 180,
       "fame": 1329,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 40826,
+      "playTimeSeconds": 40886,
       "money": 3671505,
       "gold": 3051,
       "fame": 6259,
@@ -44,10 +44,10 @@
       "rank": 5,
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "playTimeSeconds": 36343,
+      "playTimeSeconds": 36403,
       "money": 1417247,
       "gold": 328,
-      "fame": 1839,
+      "fame": 1840,
       "isOnline": true
     },
     {
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 32504,
+      "playTimeSeconds": 32564,
       "money": 1873562,
       "gold": 263,
       "fame": 1045,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 22287,
+      "playTimeSeconds": 22347,
       "money": 492802,
       "gold": 54,
       "fame": 1523,
@@ -132,6 +132,16 @@
     },
     {
       "rank": 14,
+      "steamId": "76561198271336608",
+      "name": "Валерка",
+      "playTimeSeconds": 18998,
+      "money": 1166006,
+      "gold": 370,
+      "fame": 754,
+      "isOnline": true
+    },
+    {
+      "rank": 15,
       "steamId": "76561198352984050",
       "name": "Vlad",
       "playTimeSeconds": 18967,
@@ -139,16 +149,6 @@
       "gold": 1110,
       "fame": 2193,
       "isOnline": false
-    },
-    {
-      "rank": 15,
-      "steamId": "76561198271336608",
-      "name": "Валерка",
-      "playTimeSeconds": 18938,
-      "money": 1166006,
-      "gold": 370,
-      "fame": 754,
-      "isOnline": true
     },
     {
       "rank": 16,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-27T22:01:48.601Z"
+  "updated": "2026-10-27T22:02:48.605Z"
 }
