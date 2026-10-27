@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
+    {
+      "steamId": "76561198068992719",
+      "name": "Alina",
+      "sessionSeconds": 13,
+      "playTimeSeconds": 72,
+      "money": 1118985,
+      "gold": 490,
+      "fame": 996,
+      "rank": 5
+    },
     {
       "steamId": "76561198327689237",
       "name": "Albert",
       "sessionSeconds": 13,
-      "playTimeSeconds": 929,
+      "playTimeSeconds": 989,
       "money": 4991035,
       "gold": 115,
       "fame": 932,
       "rank": 3
     }
   ],
-  "updated": "2026-10-27T02:46:34.869Z"
+  "updated": "2026-10-27T02:47:34.877Z"
 }
