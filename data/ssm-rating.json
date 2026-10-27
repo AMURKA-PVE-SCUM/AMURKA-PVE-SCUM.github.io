@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561199013118084",
       "name": "DANTE",
-      "playTimeSeconds": 8663,
+      "playTimeSeconds": 8723,
       "money": 16092,
       "gold": 70,
       "fame": 346,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 5930,
+      "playTimeSeconds": 5990,
       "money": 96753,
       "gold": 160,
       "fame": 539,
@@ -92,6 +92,16 @@
     },
     {
       "rank": 10,
+      "steamId": "76561198034672308",
+      "name": "9IMaKaCbKa",
+      "playTimeSeconds": 309,
+      "money": 102650,
+      "gold": 65,
+      "fame": 304,
+      "isOnline": true
+    },
+    {
+      "rank": 11,
       "steamId": "76561198328189885",
       "name": "vlaD0S",
       "playTimeSeconds": 279,
@@ -99,16 +109,6 @@
       "gold": 391,
       "fame": 8885,
       "isOnline": false
-    },
-    {
-      "rank": 11,
-      "steamId": "76561198034672308",
-      "name": "9IMaKaCbKa",
-      "playTimeSeconds": 249,
-      "money": 102650,
-      "gold": 65,
-      "fame": 304,
-      "isOnline": true
     },
     {
       "rank": 12,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-27T07:02:36.632Z"
+  "updated": "2026-10-27T07:03:36.640Z"
 }
