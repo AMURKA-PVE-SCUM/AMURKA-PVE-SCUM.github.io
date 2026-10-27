@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 41102,
+      "playTimeSeconds": 41161,
       "money": 5985347,
       "gold": 180,
       "fame": 1328,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 40527,
+      "playTimeSeconds": 40586,
       "money": 3671505,
       "gold": 3051,
       "fame": 6258,
@@ -44,11 +44,11 @@
       "rank": 5,
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "playTimeSeconds": 36066,
+      "playTimeSeconds": 36113,
       "money": 1417247,
       "gold": 328,
       "fame": 1839,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 6,
@@ -64,10 +64,10 @@
       "rank": 7,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 32205,
-      "money": 1872562,
-      "gold": 258,
-      "fame": 1034,
+      "playTimeSeconds": 32264,
+      "money": 1873562,
+      "gold": 263,
+      "fame": 1044,
       "isOnline": true
     },
     {
@@ -92,6 +92,16 @@
     },
     {
       "rank": 10,
+      "steamId": "76561198826257359",
+      "name": "XXXX",
+      "playTimeSeconds": 22047,
+      "money": 492802,
+      "gold": 54,
+      "fame": 1522,
+      "isOnline": true
+    },
+    {
+      "rank": 11,
       "steamId": "76561199699294853",
       "name": "ПАТRИК",
       "playTimeSeconds": 22039,
@@ -99,16 +109,6 @@
       "gold": 276,
       "fame": 1129,
       "isOnline": false
-    },
-    {
-      "rank": 11,
-      "steamId": "76561198826257359",
-      "name": "XXXX",
-      "playTimeSeconds": 21988,
-      "money": 492802,
-      "gold": 54,
-      "fame": 1522,
-      "isOnline": true
     },
     {
       "rank": 12,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561198271336608",
       "name": "Валерка",
-      "playTimeSeconds": 18639,
+      "playTimeSeconds": 18698,
       "money": 1166006,
       "gold": 370,
       "fame": 754,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-27T21:56:48.572Z"
+  "updated": "2026-10-27T21:57:48.582Z"
 }
