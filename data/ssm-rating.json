@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 11654,
+      "playTimeSeconds": 11714,
       "money": 1870461,
       "gold": 232,
       "fame": 720,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561199580351165",
       "name": "ШРинат",
-      "playTimeSeconds": 4883,
+      "playTimeSeconds": 4943,
       "money": 2793079,
       "gold": 5978,
       "fame": 8808,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561199013118084",
       "name": "DANTE",
-      "playTimeSeconds": 2729,
+      "playTimeSeconds": 2789,
       "money": 123053,
       "gold": 60,
       "fame": 321,
@@ -72,6 +72,16 @@
     },
     {
       "rank": 8,
+      "steamId": "76561198159265980",
+      "name": "Evelina_Live",
+      "playTimeSeconds": 65,
+      "money": 97753,
+      "gold": 155,
+      "fame": 525,
+      "isOnline": true
+    },
+    {
+      "rank": 9,
       "steamId": "76561198658441762",
       "name": "Zhiva",
       "playTimeSeconds": 34,
@@ -79,16 +89,6 @@
       "gold": 0,
       "fame": 3,
       "isOnline": false
-    },
-    {
-      "rank": 9,
-      "steamId": "76561198159265980",
-      "name": "Evelina_Live",
-      "playTimeSeconds": 5,
-      "money": 97753,
-      "gold": 155,
-      "fame": 525,
-      "isOnline": true
     },
     {
       "rank": 10,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-27T05:23:35.978Z"
+  "updated": "2026-10-27T05:24:35.978Z"
 }
