@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 64666,
+      "playTimeSeconds": 64726,
       "money": 3785109,
       "gold": 3024,
       "fame": 8205,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 43767,
+      "playTimeSeconds": 43827,
       "money": 64578,
       "gold": 1140,
       "fame": 2271,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 43190,
+      "playTimeSeconds": 43250,
       "money": 530334,
       "gold": 591,
       "fame": 1705,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561199218614720",
       "name": "Демоница",
-      "playTimeSeconds": 28086,
+      "playTimeSeconds": 28146,
       "money": 3752,
       "gold": 35,
       "fame": 208,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 26340,
+      "playTimeSeconds": 26400,
       "money": 761440,
       "gold": 625,
       "fame": 1548,
@@ -132,6 +132,16 @@
     },
     {
       "rank": 14,
+      "steamId": "76561199086334651",
+      "name": "Soda",
+      "playTimeSeconds": 24587,
+      "money": 16188,
+      "gold": 50,
+      "fame": 295,
+      "isOnline": true
+    },
+    {
+      "rank": 15,
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
       "playTimeSeconds": 24558,
@@ -139,16 +149,6 @@
       "gold": 355,
       "fame": 1622,
       "isOnline": false
-    },
-    {
-      "rank": 15,
-      "steamId": "76561199086334651",
-      "name": "Soda",
-      "playTimeSeconds": 24527,
-      "money": 16188,
-      "gold": 50,
-      "fame": 295,
-      "isOnline": true
     },
     {
       "rank": 16,
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561198802007304",
       "name": "SEV",
-      "playTimeSeconds": 23749,
+      "playTimeSeconds": 23809,
       "money": 1197552,
       "gold": 160,
       "fame": 2339,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-28T13:02:57.359Z"
+  "updated": "2026-10-28T13:03:57.366Z"
 }
