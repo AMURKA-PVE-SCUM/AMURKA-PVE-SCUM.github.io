@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 49600,
+      "playTimeSeconds": 49660,
       "money": 242651,
       "gold": 221,
       "fame": 959,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561198271336608",
       "name": "Валерка",
-      "playTimeSeconds": 23305,
+      "playTimeSeconds": 23365,
       "money": 1167006,
       "gold": 375,
       "fame": 772,
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561198071060590",
+      "name": "Sushi",
+      "playTimeSeconds": 19779,
+      "money": 870911,
+      "gold": 459,
+      "fame": 7807,
+      "isOnline": true
+    },
+    {
+      "rank": 16,
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
       "playTimeSeconds": 19752,
@@ -149,16 +159,6 @@
       "gold": 582,
       "fame": 4644,
       "isOnline": false
-    },
-    {
-      "rank": 16,
-      "steamId": "76561198071060590",
-      "name": "Sushi",
-      "playTimeSeconds": 19719,
-      "money": 869911,
-      "gold": 454,
-      "fame": 7797,
-      "isOnline": true
     },
     {
       "rank": 17,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-28T06:31:52.362Z"
+  "updated": "2026-10-28T06:32:52.362Z"
 }
