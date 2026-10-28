@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 61191,
+      "playTimeSeconds": 61251,
       "money": 3730575,
       "gold": 3019,
       "fame": 7995,
@@ -52,6 +52,16 @@
     },
     {
       "rank": 6,
+      "steamId": "76561198352984050",
+      "name": "Vlad",
+      "playTimeSeconds": 40352,
+      "money": 63578,
+      "gold": 1135,
+      "fame": 2258,
+      "isOnline": true
+    },
+    {
+      "rank": 7,
       "steamId": "76561198790887864",
       "name": "Roma",
       "playTimeSeconds": 40292,
@@ -59,16 +69,6 @@
       "gold": 586,
       "fame": 1693,
       "isOnline": false
-    },
-    {
-      "rank": 7,
-      "steamId": "76561198352984050",
-      "name": "Vlad",
-      "playTimeSeconds": 40292,
-      "money": 63578,
-      "gold": 1135,
-      "fame": 2258,
-      "isOnline": true
     },
     {
       "rank": 8,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561199482254015",
       "name": "ViMeR",
-      "playTimeSeconds": 25199,
+      "playTimeSeconds": 25259,
       "money": 263026,
       "gold": 150,
       "fame": 714,
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561199218614720",
       "name": "Демоница",
-      "playTimeSeconds": 24611,
+      "playTimeSeconds": 24671,
       "money": 1004,
       "gold": 30,
       "fame": 186,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 22865,
+      "playTimeSeconds": 22925,
       "money": 760440,
       "gold": 620,
       "fame": 1535,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-28T12:04:56.968Z"
+  "updated": "2026-10-28T12:05:56.975Z"
 }
