@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 57221,
+      "playTimeSeconds": 57280,
       "money": 568180,
       "gold": 606,
       "fame": 1775,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 56986,
+      "playTimeSeconds": 57045,
       "money": 5945872,
       "gold": 225,
       "fame": 1419,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 49701,
+      "playTimeSeconds": 49760,
       "money": 1826749,
       "gold": 283,
       "fame": 1257,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "playTimeSeconds": 43262,
+      "playTimeSeconds": 43321,
       "money": 1490182,
       "gold": 339,
       "fame": 2095,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561199013118084",
       "name": "DANTE",
-      "playTimeSeconds": 41281,
+      "playTimeSeconds": 41340,
       "money": 264624,
       "gold": 116,
       "fame": 894,
@@ -162,6 +162,16 @@
     },
     {
       "rank": 17,
+      "steamId": "76561198826257359",
+      "name": "XXXX",
+      "playTimeSeconds": 24637,
+      "money": 493802,
+      "gold": 59,
+      "fame": 1545,
+      "isOnline": true
+    },
+    {
+      "rank": 18,
       "steamId": "76561198802007304",
       "name": "SEV",
       "playTimeSeconds": 24578,
@@ -171,20 +181,10 @@
       "isOnline": false
     },
     {
-      "rank": 18,
-      "steamId": "76561198826257359",
-      "name": "XXXX",
-      "playTimeSeconds": 24578,
-      "money": 493802,
-      "gold": 59,
-      "fame": 1545,
-      "isOnline": true
-    },
-    {
       "rank": 19,
       "steamId": "76561198372320271",
       "name": "ADA",
-      "playTimeSeconds": 24177,
+      "playTimeSeconds": 24236,
       "money": 1435386,
       "gold": 73,
       "fame": 4910,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-28T20:11:01.036Z"
+  "updated": "2026-10-28T20:12:01.038Z"
 }
