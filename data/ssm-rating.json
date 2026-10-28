@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 64547,
+      "playTimeSeconds": 64607,
       "money": 3785109,
       "gold": 3024,
       "fame": 8205,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 43648,
+      "playTimeSeconds": 43708,
       "money": 64578,
       "gold": 1140,
       "fame": 2271,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 43071,
+      "playTimeSeconds": 43131,
       "money": 530334,
       "gold": 591,
       "fame": 1705,
@@ -102,6 +102,16 @@
     },
     {
       "rank": 11,
+      "steamId": "76561199218614720",
+      "name": "Демоница",
+      "playTimeSeconds": 28027,
+      "money": 3752,
+      "gold": 35,
+      "fame": 208,
+      "isOnline": true
+    },
+    {
+      "rank": 12,
       "steamId": "76561199482254015",
       "name": "ViMeR",
       "playTimeSeconds": 28017,
@@ -111,20 +121,10 @@
       "isOnline": false
     },
     {
-      "rank": 12,
-      "steamId": "76561199218614720",
-      "name": "Демоница",
-      "playTimeSeconds": 27967,
-      "money": 5552,
-      "gold": 35,
-      "fame": 208,
-      "isOnline": true
-    },
-    {
       "rank": 13,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 26221,
+      "playTimeSeconds": 26281,
       "money": 761440,
       "gold": 625,
       "fame": 1548,
@@ -144,8 +144,8 @@
       "rank": 15,
       "steamId": "76561199086334651",
       "name": "Soda",
-      "playTimeSeconds": 24408,
-      "money": 47160,
+      "playTimeSeconds": 24468,
+      "money": 23960,
       "gold": 50,
       "fame": 295,
       "isOnline": true
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561198802007304",
       "name": "SEV",
-      "playTimeSeconds": 23630,
+      "playTimeSeconds": 23690,
       "money": 1197552,
       "gold": 160,
       "fame": 2339,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-28T13:00:57.349Z"
+  "updated": "2026-10-28T13:01:57.352Z"
 }
