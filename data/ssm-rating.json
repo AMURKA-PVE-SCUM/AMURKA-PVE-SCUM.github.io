@@ -64,10 +64,10 @@
       "rank": 7,
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "playTimeSeconds": 47312,
+      "playTimeSeconds": 47372,
       "money": 1448501,
       "gold": 344,
-      "fame": 2187,
+      "fame": 2188,
       "isOnline": true
     },
     {
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561198271336608",
       "name": "Валерка",
-      "playTimeSeconds": 34199,
+      "playTimeSeconds": 34259,
       "money": 508250,
       "gold": 395,
       "fame": 564,
@@ -122,6 +122,16 @@
     },
     {
       "rank": 13,
+      "steamId": "76561198826257359",
+      "name": "XXXX",
+      "playTimeSeconds": 30162,
+      "money": 488502,
+      "gold": 69,
+      "fame": 1571,
+      "isOnline": true
+    },
+    {
+      "rank": 14,
       "steamId": "76561199086334651",
       "name": "Soda",
       "playTimeSeconds": 30104,
@@ -129,16 +139,6 @@
       "gold": 55,
       "fame": 311,
       "isOnline": false
-    },
-    {
-      "rank": 14,
-      "steamId": "76561198826257359",
-      "name": "XXXX",
-      "playTimeSeconds": 30102,
-      "money": 487502,
-      "gold": 64,
-      "fame": 1561,
-      "isOnline": true
     },
     {
       "rank": 15,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-28T21:47:01.627Z"
+  "updated": "2026-10-28T21:48:01.636Z"
 }
