@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
+    {
+      "steamId": "76561199760655876",
+      "name": "Viking",
+      "sessionSeconds": 10,
+      "playTimeSeconds": 13717,
+      "money": 117220,
+      "gold": 125,
+      "fame": 1215,
+      "rank": 36
+    },
     {
       "steamId": "76561198826257359",
       "name": "XXXX",
       "sessionSeconds": 10,
-      "playTimeSeconds": 22656,
+      "playTimeSeconds": 22716,
       "money": 492802,
       "gold": 54,
       "fame": 1524,
       "rank": 22
     }
   ],
-  "updated": "2026-10-28T19:39:00.783Z"
+  "updated": "2026-10-28T19:40:00.793Z"
 }
