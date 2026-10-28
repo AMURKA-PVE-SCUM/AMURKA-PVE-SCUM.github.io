@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 63708,
+      "playTimeSeconds": 63768,
       "money": 3785109,
       "gold": 3024,
       "fame": 8205,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 42809,
+      "playTimeSeconds": 42869,
       "money": 64578,
       "gold": 1140,
       "fame": 2271,
@@ -52,6 +52,16 @@
     },
     {
       "rank": 6,
+      "steamId": "76561198790887864",
+      "name": "Roma",
+      "playTimeSeconds": 42292,
+      "money": 530334,
+      "gold": 591,
+      "fame": 1704,
+      "isOnline": true
+    },
+    {
+      "rank": 7,
       "steamId": "76561198032084496",
       "name": "бродяга",
       "playTimeSeconds": 42277,
@@ -59,16 +69,6 @@
       "gold": 339,
       "fame": 2094,
       "isOnline": false
-    },
-    {
-      "rank": 7,
-      "steamId": "76561198790887864",
-      "name": "Roma",
-      "playTimeSeconds": 42232,
-      "money": 530334,
-      "gold": 591,
-      "fame": 1704,
-      "isOnline": true
     },
     {
       "rank": 8,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561199482254015",
       "name": "ViMeR",
-      "playTimeSeconds": 27716,
+      "playTimeSeconds": 27776,
       "money": 264026,
       "gold": 155,
       "fame": 727,
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561199218614720",
       "name": "Демоница",
-      "playTimeSeconds": 27128,
+      "playTimeSeconds": 27188,
       "money": 5552,
       "gold": 35,
       "fame": 208,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 25382,
+      "playTimeSeconds": 25442,
       "money": 761440,
       "gold": 625,
       "fame": 1547,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561199086334651",
       "name": "Soda",
-      "playTimeSeconds": 23569,
+      "playTimeSeconds": 23629,
       "money": 65800,
       "gold": 50,
       "fame": 295,
@@ -174,7 +174,7 @@
       "rank": 18,
       "steamId": "76561198802007304",
       "name": "SEV",
-      "playTimeSeconds": 22791,
+      "playTimeSeconds": 22851,
       "money": 1197552,
       "gold": 160,
       "fame": 2339,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-28T12:46:57.276Z"
+  "updated": "2026-10-28T12:47:57.283Z"
 }
