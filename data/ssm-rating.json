@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 54752,
+      "playTimeSeconds": 54812,
       "money": 186133,
       "gold": 231,
       "fame": 985,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 46737,
+      "playTimeSeconds": 46797,
       "money": 3687505,
       "gold": 3066,
       "fame": 7325,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 44328,
+      "playTimeSeconds": 44388,
       "money": 5910521,
       "gold": 210,
       "fame": 1390,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561198271336608",
       "name": "Валерка",
-      "playTimeSeconds": 28457,
+      "playTimeSeconds": 28517,
       "money": 333279,
       "gold": 385,
       "fame": 698,
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561198071060590",
       "name": "Sushi",
-      "playTimeSeconds": 21962,
+      "playTimeSeconds": 22022,
       "money": 874911,
       "gold": 459,
       "fame": 7840,
@@ -152,6 +152,16 @@
     },
     {
       "rank": 16,
+      "steamId": "76561198372320271",
+      "name": "ADA",
+      "playTimeSeconds": 19792,
+      "money": 1098479,
+      "gold": 68,
+      "fame": 4875,
+      "isOnline": true
+    },
+    {
+      "rank": 17,
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
       "playTimeSeconds": 19752,
@@ -159,16 +169,6 @@
       "gold": 582,
       "fame": 4644,
       "isOnline": false
-    },
-    {
-      "rank": 17,
-      "steamId": "76561198372320271",
-      "name": "ADA",
-      "playTimeSeconds": 19732,
-      "money": 1098479,
-      "gold": 68,
-      "fame": 4875,
-      "isOnline": true
     },
     {
       "rank": 18,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-28T07:57:52.980Z"
+  "updated": "2026-10-28T07:58:52.985Z"
 }
