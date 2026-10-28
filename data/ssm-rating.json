@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 55109,
+      "playTimeSeconds": 55169,
       "money": 1827450,
       "gold": 293,
       "fame": 1297,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "playTimeSeconds": 52226,
+      "playTimeSeconds": 52286,
       "money": 1449501,
       "gold": 349,
       "fame": 2204,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561198271336608",
       "name": "Валерка",
-      "playTimeSeconds": 39113,
+      "playTimeSeconds": 39173,
       "money": 505330,
       "gold": 405,
       "fame": 339,
@@ -102,6 +102,16 @@
     },
     {
       "rank": 11,
+      "steamId": "76561198826257359",
+      "name": "XXXX",
+      "playTimeSeconds": 35076,
+      "money": 488202,
+      "gold": 74,
+      "fame": 1600,
+      "isOnline": true
+    },
+    {
+      "rank": 12,
       "steamId": "76561199218614720",
       "name": "Демоница",
       "playTimeSeconds": 35063,
@@ -109,16 +119,6 @@
       "gold": 45,
       "fame": 236,
       "isOnline": false
-    },
-    {
-      "rank": 12,
-      "steamId": "76561198826257359",
-      "name": "XXXX",
-      "playTimeSeconds": 35016,
-      "money": 488202,
-      "gold": 74,
-      "fame": 1599,
-      "isOnline": true
     },
     {
       "rank": 13,
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561199760655876",
       "name": "Viking",
-      "playTimeSeconds": 25178,
+      "playTimeSeconds": 25238,
       "money": 106220,
       "gold": 140,
       "fame": 1263,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-28T23:09:02.177Z"
+  "updated": "2026-10-28T23:10:02.186Z"
 }
