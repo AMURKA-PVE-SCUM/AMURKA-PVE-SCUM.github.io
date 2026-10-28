@@ -1,16 +1,36 @@
 {
-  "online": 1,
+  "online": 3,
   "players": [
     {
       "steamId": "76561199150613853",
       "name": "Махлюк",
-      "sessionSeconds": 214,
-      "playTimeSeconds": 22464,
+      "sessionSeconds": 274,
+      "playTimeSeconds": 22524,
       "money": 533767,
       "gold": 212,
       "fame": 1419,
       "rank": 22
+    },
+    {
+      "steamId": "76561198877709613",
+      "name": "_RE_",
+      "sessionSeconds": 20,
+      "playTimeSeconds": 72,
+      "money": 566469,
+      "gold": 281,
+      "fame": 1231,
+      "rank": 82
+    },
+    {
+      "steamId": "76561199684926739",
+      "name": "Skeleton",
+      "sessionSeconds": 1,
+      "playTimeSeconds": 8103,
+      "money": 1531729,
+      "gold": 354,
+      "fame": 8524,
+      "rank": 47
     }
   ],
-  "updated": "2026-10-28T15:33:58.458Z"
+  "updated": "2026-10-28T15:34:58.458Z"
 }
