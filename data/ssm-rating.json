@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 60680,
+      "playTimeSeconds": 60740,
       "money": 3730575,
       "gold": 3019,
       "fame": 7995,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 39923,
+      "playTimeSeconds": 39983,
       "money": 63578,
       "gold": 1135,
       "fame": 2258,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 39819,
+      "playTimeSeconds": 39879,
       "money": 529334,
       "gold": 586,
       "fame": 1693,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561199482254015",
       "name": "ViMeR",
-      "playTimeSeconds": 24599,
+      "playTimeSeconds": 24659,
       "money": 263026,
       "gold": 150,
       "fame": 714,
@@ -112,6 +112,16 @@
     },
     {
       "rank": 12,
+      "steamId": "76561199218614720",
+      "name": "Демоница",
+      "playTimeSeconds": 24259,
+      "money": 1004,
+      "gold": 30,
+      "fame": 186,
+      "isOnline": true
+    },
+    {
+      "rank": 13,
       "steamId": "76561198071060590",
       "name": "Sushi",
       "playTimeSeconds": 24218,
@@ -121,20 +131,10 @@
       "isOnline": false
     },
     {
-      "rank": 13,
-      "steamId": "76561199218614720",
-      "name": "Демоница",
-      "playTimeSeconds": 24199,
-      "money": 1004,
-      "gold": 30,
-      "fame": 186,
-      "isOnline": true
-    },
-    {
       "rank": 14,
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
-      "playTimeSeconds": 24085,
+      "playTimeSeconds": 24145,
       "money": 253148,
       "gold": 355,
       "fame": 1622,
@@ -152,6 +152,16 @@
     },
     {
       "rank": 16,
+      "steamId": "76561198337811646",
+      "name": "VERSUS_65_",
+      "playTimeSeconds": 22818,
+      "money": 760440,
+      "gold": 620,
+      "fame": 1535,
+      "isOnline": true
+    },
+    {
+      "rank": 17,
       "steamId": "76561198372320271",
       "name": "ADA",
       "playTimeSeconds": 22759,
@@ -159,16 +169,6 @@
       "gold": 68,
       "fame": 4898,
       "isOnline": false
-    },
-    {
-      "rank": 17,
-      "steamId": "76561198337811646",
-      "name": "VERSUS_65_",
-      "playTimeSeconds": 22758,
-      "money": 760440,
-      "gold": 620,
-      "fame": 1535,
-      "isOnline": true
     },
     {
       "rank": 18,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-28T11:54:56.897Z"
+  "updated": "2026-10-28T11:55:56.900Z"
 }
