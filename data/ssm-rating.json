@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "playTimeSeconds": 47432,
+      "playTimeSeconds": 47492,
       "money": 1448501,
       "gold": 344,
       "fame": 2188,
@@ -104,14 +104,24 @@
       "rank": 11,
       "steamId": "76561198271336608",
       "name": "Валерка",
-      "playTimeSeconds": 34319,
-      "money": 508250,
-      "gold": 395,
-      "fame": 564,
+      "playTimeSeconds": 34379,
+      "money": 509250,
+      "gold": 400,
+      "fame": 574,
       "isOnline": true
     },
     {
       "rank": 12,
+      "steamId": "76561198826257359",
+      "name": "XXXX",
+      "playTimeSeconds": 30282,
+      "money": 488502,
+      "gold": 69,
+      "fame": 1571,
+      "isOnline": true
+    },
+    {
+      "rank": 13,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "playTimeSeconds": 30264,
@@ -119,16 +129,6 @@
       "gold": 630,
       "fame": 1561,
       "isOnline": false
-    },
-    {
-      "rank": 13,
-      "steamId": "76561198826257359",
-      "name": "XXXX",
-      "playTimeSeconds": 30222,
-      "money": 488502,
-      "gold": 69,
-      "fame": 1571,
-      "isOnline": true
     },
     {
       "rank": 14,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-28T21:49:01.642Z"
+  "updated": "2026-10-28T21:50:01.646Z"
 }
