@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 55352,
+      "playTimeSeconds": 55412,
       "money": 185946,
       "gold": 231,
       "fame": 986,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 47337,
+      "playTimeSeconds": 47397,
       "money": 3687505,
       "gold": 3066,
       "fame": 7325,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 44928,
+      "playTimeSeconds": 44988,
       "money": 5910521,
       "gold": 210,
       "fame": 1391,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561198271336608",
       "name": "Валерка",
-      "playTimeSeconds": 29057,
+      "playTimeSeconds": 29117,
       "money": 511300,
       "gold": 385,
       "fame": 648,
@@ -112,6 +112,16 @@
     },
     {
       "rank": 12,
+      "steamId": "76561198071060590",
+      "name": "Sushi",
+      "playTimeSeconds": 22622,
+      "money": 874911,
+      "gold": 459,
+      "fame": 7840,
+      "isOnline": true
+    },
+    {
+      "rank": 13,
       "steamId": "76561198826257359",
       "name": "XXXX",
       "playTimeSeconds": 22573,
@@ -119,16 +129,6 @@
       "gold": 54,
       "fame": 1523,
       "isOnline": false
-    },
-    {
-      "rank": 13,
-      "steamId": "76561198071060590",
-      "name": "Sushi",
-      "playTimeSeconds": 22562,
-      "money": 874911,
-      "gold": 459,
-      "fame": 7840,
-      "isOnline": true
     },
     {
       "rank": 14,
@@ -154,8 +154,8 @@
       "rank": 16,
       "steamId": "76561198372320271",
       "name": "ADA",
-      "playTimeSeconds": 20332,
-      "money": 1301474,
+      "playTimeSeconds": 20392,
+      "money": 1299284,
       "gold": 68,
       "fame": 4895,
       "isOnline": true
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-28T08:07:53.063Z"
+  "updated": "2026-10-28T08:08:53.068Z"
 }
