@@ -24,17 +24,17 @@
       "rank": 3,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 70163,
+      "playTimeSeconds": 70223,
       "money": 436718,
       "gold": 596,
-      "fame": 1827,
+      "fame": 1828,
       "isOnline": true
     },
     {
       "rank": 4,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 66072,
+      "playTimeSeconds": 66132,
       "money": 71578,
       "gold": 1175,
       "fame": 2357,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 63786,
+      "playTimeSeconds": 63846,
       "money": 1844500,
       "gold": 303,
       "fame": 1404,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 46645,
+      "playTimeSeconds": 46705,
       "money": 492702,
       "gold": 89,
       "fame": 1650,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561199758816988",
       "name": "Nikolai",
-      "playTimeSeconds": 45358,
+      "playTimeSeconds": 45418,
       "money": 6811,
       "gold": 75,
       "fame": 304,
@@ -152,6 +152,16 @@
     },
     {
       "rank": 16,
+      "steamId": "76561199552589497",
+      "name": "Raskalbasman",
+      "playTimeSeconds": 26242,
+      "money": 254148,
+      "gold": 360,
+      "fame": 1635,
+      "isOnline": true
+    },
+    {
+      "rank": 17,
       "steamId": "76561198071060590",
       "name": "Sushi",
       "playTimeSeconds": 26230,
@@ -159,16 +169,6 @@
       "gold": 464,
       "fame": 7914,
       "isOnline": false
-    },
-    {
-      "rank": 17,
-      "steamId": "76561199552589497",
-      "name": "Raskalbasman",
-      "playTimeSeconds": 26182,
-      "money": 254148,
-      "gold": 360,
-      "fame": 1634,
-      "isOnline": true
     },
     {
       "rank": 18,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-29T05:31:05.136Z"
+  "updated": "2026-10-29T05:32:05.146Z"
 }
