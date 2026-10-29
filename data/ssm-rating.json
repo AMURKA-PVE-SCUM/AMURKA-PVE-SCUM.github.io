@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 107901,
+      "playTimeSeconds": 107961,
       "money": 716497,
       "gold": 653,
       "fame": 2465,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 82291,
+      "playTimeSeconds": 82351,
       "money": 1871144,
       "gold": 330,
       "fame": 1941,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "playTimeSeconds": 64736,
+      "playTimeSeconds": 64796,
       "money": 1458501,
       "gold": 369,
       "fame": 1146,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561199013118084",
       "name": "DANTE",
-      "playTimeSeconds": 64648,
+      "playTimeSeconds": 64708,
       "money": 201929,
       "gold": 146,
       "fame": 1078,
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561199760655876",
       "name": "Viking",
-      "playTimeSeconds": 48172,
+      "playTimeSeconds": 48232,
       "money": 120286,
       "gold": 175,
       "fame": 1392,
@@ -162,6 +162,16 @@
     },
     {
       "rank": 17,
+      "steamId": "76561198029476275",
+      "name": "XEH",
+      "playTimeSeconds": 45555,
+      "money": 1112396,
+      "gold": 565,
+      "fame": 3396,
+      "isOnline": true
+    },
+    {
+      "rank": 18,
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
       "playTimeSeconds": 45544,
@@ -171,20 +181,10 @@
       "isOnline": false
     },
     {
-      "rank": 18,
-      "steamId": "76561198029476275",
-      "name": "XEH",
-      "playTimeSeconds": 45495,
-      "money": 1112396,
-      "gold": 565,
-      "fame": 3396,
-      "isOnline": true
-    },
-    {
       "rank": 19,
       "steamId": "76561198799249034",
       "name": "Pafka",
-      "playTimeSeconds": 43925,
+      "playTimeSeconds": 43985,
       "money": 4601,
       "gold": 35,
       "fame": 257,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-29T20:46:16.182Z"
+  "updated": "2026-10-29T20:47:16.195Z"
 }
