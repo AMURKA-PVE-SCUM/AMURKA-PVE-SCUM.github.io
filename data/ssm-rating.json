@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 92512,
+      "playTimeSeconds": 92572,
       "money": 215073,
       "gold": 281,
       "fame": 1159,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561199758816988",
       "name": "Nikolai",
-      "playTimeSeconds": 63300,
+      "playTimeSeconds": 63360,
       "money": 30646,
       "gold": 100,
       "fame": 373,
@@ -72,6 +72,16 @@
     },
     {
       "rank": 8,
+      "steamId": "76561198271336608",
+      "name": "Валерка",
+      "playTimeSeconds": 54272,
+      "money": 518635,
+      "gold": 435,
+      "fame": 347,
+      "isOnline": true
+    },
+    {
+      "rank": 9,
       "steamId": "76561198032084496",
       "name": "бродяга",
       "playTimeSeconds": 54259,
@@ -79,16 +89,6 @@
       "gold": 354,
       "fame": 2225,
       "isOnline": false
-    },
-    {
-      "rank": 9,
-      "steamId": "76561198271336608",
-      "name": "Валерка",
-      "playTimeSeconds": 54212,
-      "money": 518635,
-      "gold": 435,
-      "fame": 347,
-      "isOnline": true
     },
     {
       "rank": 10,
@@ -114,10 +114,10 @@
       "rank": 12,
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
-      "playTimeSeconds": 44880,
+      "playTimeSeconds": 44940,
       "money": 259890,
       "gold": 385,
-      "fame": 1723,
+      "fame": 1724,
       "isOnline": true
     },
     {
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561198329185290",
       "name": "Roberto Ross",
-      "playTimeSeconds": 31992,
+      "playTimeSeconds": 32052,
       "money": 33133,
       "gold": 15,
       "fame": 305,
@@ -184,7 +184,7 @@
       "rank": 19,
       "steamId": "76561198848497080",
       "name": "BERENDEI",
-      "playTimeSeconds": 28388,
+      "playTimeSeconds": 28448,
       "money": 8135,
       "gold": 35,
       "fame": 215,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-29T10:53:07.558Z"
+  "updated": "2026-10-29T10:54:07.569Z"
 }
