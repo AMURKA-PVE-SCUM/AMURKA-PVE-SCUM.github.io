@@ -4,11 +4,11 @@
       "rank": 1,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 95088,
+      "playTimeSeconds": 95139,
       "money": 216370,
       "gold": 286,
       "fame": 1174,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 2,
@@ -68,7 +68,7 @@
       "money": 5326509,
       "gold": 195,
       "fame": 1392,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 8,
@@ -108,7 +108,7 @@
       "money": 262390,
       "gold": 385,
       "fame": 1745,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 12,
@@ -118,7 +118,7 @@
       "money": 264363,
       "gold": 121,
       "fame": 910,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 13,
@@ -152,6 +152,16 @@
     },
     {
       "rank": 16,
+      "steamId": "76561198848497080",
+      "name": "BERENDEI",
+      "playTimeSeconds": 31015,
+      "money": 9135,
+      "gold": 40,
+      "fame": 228,
+      "isOnline": false
+    },
+    {
+      "rank": 17,
       "steamId": "76561198372320271",
       "name": "ADA",
       "playTimeSeconds": 31003,
@@ -159,16 +169,6 @@
       "gold": 83,
       "fame": 4835,
       "isOnline": false
-    },
-    {
-      "rank": 17,
-      "steamId": "76561198848497080",
-      "name": "BERENDEI",
-      "playTimeSeconds": 30964,
-      "money": 9135,
-      "gold": 40,
-      "fame": 228,
-      "isOnline": true
     },
     {
       "rank": 18,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-29T11:36:07.848Z"
+  "updated": "2026-10-29T11:37:07.864Z"
 }
