@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 70283,
+      "playTimeSeconds": 70343,
       "money": 436718,
       "gold": 596,
       "fame": 1828,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 66192,
+      "playTimeSeconds": 66252,
       "money": 71578,
       "gold": 1175,
       "fame": 2357,
@@ -44,8 +44,8 @@
       "rank": 5,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 63906,
-      "money": 1844500,
+      "playTimeSeconds": 63966,
+      "money": 1844224,
       "gold": 303,
       "fame": 1404,
       "isOnline": true
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 46765,
+      "playTimeSeconds": 46825,
       "money": 492702,
       "gold": 89,
       "fame": 1650,
@@ -82,6 +82,16 @@
     },
     {
       "rank": 9,
+      "steamId": "76561199758816988",
+      "name": "Nikolai",
+      "playTimeSeconds": 45538,
+      "money": 6811,
+      "gold": 75,
+      "fame": 304,
+      "isOnline": true
+    },
+    {
+      "rank": 10,
       "steamId": "76561199013118084",
       "name": "DANTE",
       "playTimeSeconds": 45531,
@@ -89,16 +99,6 @@
       "gold": 121,
       "fame": 910,
       "isOnline": false
-    },
-    {
-      "rank": 10,
-      "steamId": "76561199758816988",
-      "name": "Nikolai",
-      "playTimeSeconds": 45478,
-      "money": 6811,
-      "gold": 75,
-      "fame": 304,
-      "isOnline": true
     },
     {
       "rank": 11,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
-      "playTimeSeconds": 26302,
+      "playTimeSeconds": 26362,
       "money": 254148,
       "gold": 360,
       "fame": 1635,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-29T05:33:05.158Z"
+  "updated": "2026-10-29T05:34:05.170Z"
 }
