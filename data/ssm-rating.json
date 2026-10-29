@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 83461,
+      "playTimeSeconds": 83521,
       "money": 451018,
       "gold": 616,
       "fame": 1925,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561199758816988",
       "name": "Nikolai",
-      "playTimeSeconds": 68398,
+      "playTimeSeconds": 68458,
       "money": 31646,
       "gold": 105,
       "fame": 388,
@@ -74,11 +74,11 @@
       "rank": 8,
       "steamId": "76561198271336608",
       "name": "Валерка",
-      "playTimeSeconds": 58027,
+      "playTimeSeconds": 58067,
       "money": 515680,
       "gold": 440,
       "fame": 362,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 9,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
-      "playTimeSeconds": 49497,
+      "playTimeSeconds": 49557,
       "money": 265990,
       "gold": 390,
       "fame": 1762,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198329185290",
       "name": "Roberto Ross",
-      "playTimeSeconds": 38526,
+      "playTimeSeconds": 38586,
       "money": 24095,
       "gold": 25,
       "fame": 284,
@@ -152,6 +152,16 @@
     },
     {
       "rank": 16,
+      "steamId": "76561198848497080",
+      "name": "BERENDEI",
+      "playTimeSeconds": 31752,
+      "money": 9135,
+      "gold": 40,
+      "fame": 228,
+      "isOnline": true
+    },
+    {
+      "rank": 17,
       "steamId": "76561198071060590",
       "name": "Sushi",
       "playTimeSeconds": 31705,
@@ -159,16 +169,6 @@
       "gold": 479,
       "fame": 8082,
       "isOnline": false
-    },
-    {
-      "rank": 17,
-      "steamId": "76561198848497080",
-      "name": "BERENDEI",
-      "playTimeSeconds": 31692,
-      "money": 9135,
-      "gold": 40,
-      "fame": 228,
-      "isOnline": true
     },
     {
       "rank": 18,
@@ -194,12 +194,12 @@
       "rank": 20,
       "steamId": "76561199504735154",
       "name": "BuHHu nyx",
-      "playTimeSeconds": 29364,
+      "playTimeSeconds": 29424,
       "money": 851247,
       "gold": 144,
       "fame": 2717,
       "isOnline": true
     }
   ],
-  "updated": "2026-10-29T12:58:12.666Z"
+  "updated": "2026-10-29T12:59:12.666Z"
 }
