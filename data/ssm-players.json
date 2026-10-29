@@ -1,21 +1,51 @@
 {
-  "online": 5,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198327689237",
       "name": "Albert",
-      "sessionSeconds": 75891,
-      "playTimeSeconds": 67597,
+      "sessionSeconds": 75952,
+      "playTimeSeconds": 67657,
       "money": 5342509,
       "gold": 210,
       "fame": 1455,
       "rank": 8
     },
     {
+      "steamId": "76561199244636054",
+      "name": "_PsixichkA_",
+      "sessionSeconds": 5,
+      "playTimeSeconds": 8577,
+      "money": 451318,
+      "gold": 380,
+      "fame": 1137,
+      "rank": 54
+    },
+    {
+      "steamId": "76561199823548897",
+      "name": "Night_FoX",
+      "sessionSeconds": 5,
+      "playTimeSeconds": 4870,
+      "money": 3351,
+      "gold": 5,
+      "fame": 26,
+      "rank": 65
+    },
+    {
+      "steamId": "76561199482254015",
+      "name": "ViMeR",
+      "sessionSeconds": 5,
+      "playTimeSeconds": 32850,
+      "money": 265026,
+      "gold": 160,
+      "fame": 744,
+      "rank": 24
+    },
+    {
       "steamId": "76561198230911236",
       "name": "TOR",
       "sessionSeconds": 5,
-      "playTimeSeconds": 5208,
+      "playTimeSeconds": 5268,
       "money": 134181,
       "gold": 195,
       "fame": 650,
@@ -25,7 +55,7 @@
       "steamId": "76561199504735154",
       "name": "BuHHu nyx",
       "sessionSeconds": 5,
-      "playTimeSeconds": 44467,
+      "playTimeSeconds": 44527,
       "money": 926204,
       "gold": 169,
       "fame": 2818,
@@ -35,7 +65,7 @@
       "steamId": "76561199206700564",
       "name": "_Adskiy_Yozhik_",
       "sessionSeconds": 5,
-      "playTimeSeconds": 8479,
+      "playTimeSeconds": 8539,
       "money": 151108,
       "gold": 195,
       "fame": 612,
@@ -44,13 +74,23 @@
     {
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "sessionSeconds": 2,
-      "playTimeSeconds": 111826,
+      "sessionSeconds": 5,
+      "playTimeSeconds": 111886,
       "money": 179281,
       "gold": 306,
       "fame": 1227,
       "rank": 2
+    },
+    {
+      "steamId": "76561198372320271",
+      "name": "ADA",
+      "sessionSeconds": 1,
+      "playTimeSeconds": 31004,
+      "money": 1313168,
+      "gold": 83,
+      "fame": 4835,
+      "rank": 25
     }
   ],
-  "updated": "2026-10-29T18:03:14.981Z"
+  "updated": "2026-10-29T18:04:14.991Z"
 }
