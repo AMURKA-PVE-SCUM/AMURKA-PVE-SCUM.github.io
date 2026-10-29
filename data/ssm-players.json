@@ -1,11 +1,11 @@
 {
-  "online": 9,
+  "online": 10,
   "players": [
     {
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
-      "sessionSeconds": 6994,
-      "playTimeSeconds": 44101,
+      "sessionSeconds": 7054,
+      "playTimeSeconds": 44161,
       "money": 259890,
       "gold": 385,
       "fame": 1722,
@@ -14,18 +14,28 @@
     {
       "steamId": "76561198799249034",
       "name": "Pafka",
-      "sessionSeconds": 6051,
-      "playTimeSeconds": 18349,
+      "sessionSeconds": 6111,
+      "playTimeSeconds": 18409,
       "money": 10993,
       "gold": 25,
       "fame": 153,
       "rank": 33
     },
     {
+      "steamId": "76561198271336608",
+      "name": "Валерка",
+      "sessionSeconds": 5,
+      "playTimeSeconds": 53493,
+      "money": 518635,
+      "gold": 435,
+      "fame": 346,
+      "rank": 10
+    },
+    {
       "steamId": "76561199758816988",
       "name": "Nikolai",
       "sessionSeconds": 5,
-      "playTimeSeconds": 62521,
+      "playTimeSeconds": 62581,
       "money": 19616,
       "gold": 95,
       "fame": 361,
@@ -35,7 +45,7 @@
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
       "sessionSeconds": 5,
-      "playTimeSeconds": 91733,
+      "playTimeSeconds": 91793,
       "money": 215073,
       "gold": 281,
       "fame": 1156,
@@ -45,7 +55,7 @@
       "steamId": "76561199504735154",
       "name": "BuHHu nyx",
       "sessionSeconds": 5,
-      "playTimeSeconds": 22531,
+      "playTimeSeconds": 22591,
       "money": 848525,
       "gold": 139,
       "fame": 2699,
@@ -55,17 +65,17 @@
       "steamId": "76561198120086834",
       "name": "Myp3ilka",
       "sessionSeconds": 5,
-      "playTimeSeconds": 16922,
-      "money": 101122,
+      "playTimeSeconds": 16982,
+      "money": 104122,
       "gold": 2546,
-      "fame": 5419,
+      "fame": 5429,
       "rank": 35
     },
     {
       "steamId": "76561198848497080",
       "name": "BERENDEI",
       "sessionSeconds": 5,
-      "playTimeSeconds": 27609,
+      "playTimeSeconds": 27669,
       "money": 8135,
       "gold": 35,
       "fame": 214,
@@ -75,7 +85,7 @@
       "steamId": "76561198329185290",
       "name": "Roberto Ross",
       "sessionSeconds": 5,
-      "playTimeSeconds": 31213,
+      "playTimeSeconds": 31273,
       "money": 33133,
       "gold": 15,
       "fame": 305,
@@ -85,12 +95,12 @@
       "steamId": "76561198071060590",
       "name": "Sushi",
       "sessionSeconds": 5,
-      "playTimeSeconds": 31407,
+      "playTimeSeconds": 31467,
       "money": 984359,
       "gold": 479,
       "fame": 8081,
       "rank": 15
     }
   ],
-  "updated": "2026-10-29T10:40:07.469Z"
+  "updated": "2026-10-29T10:41:07.471Z"
 }
