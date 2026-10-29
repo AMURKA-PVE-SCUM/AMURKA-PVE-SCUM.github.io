@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 82081,
+      "playTimeSeconds": 82141,
       "money": 450218,
       "gold": 611,
       "fame": 1913,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561199758816988",
       "name": "Nikolai",
-      "playTimeSeconds": 67018,
+      "playTimeSeconds": 67078,
       "money": 31646,
       "gold": 105,
       "fame": 387,
@@ -74,11 +74,11 @@
       "rank": 8,
       "steamId": "76561198271336608",
       "name": "Валерка",
-      "playTimeSeconds": 56691,
+      "playTimeSeconds": 56706,
       "money": 515680,
       "gold": 440,
       "fame": 361,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 9,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
-      "playTimeSeconds": 48117,
+      "playTimeSeconds": 48177,
       "money": 263390,
       "gold": 390,
       "fame": 1756,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198329185290",
       "name": "Roberto Ross",
-      "playTimeSeconds": 37146,
+      "playTimeSeconds": 37206,
       "money": 35133,
       "gold": 25,
       "fame": 332,
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561199086334651",
+      "name": "Soda",
+      "playTimeSeconds": 31723,
+      "money": 13688,
+      "gold": 65,
+      "fame": 322,
+      "isOnline": true
+    },
+    {
+      "rank": 16,
       "steamId": "76561198071060590",
       "name": "Sushi",
       "playTimeSeconds": 31705,
@@ -149,16 +159,6 @@
       "gold": 479,
       "fame": 8082,
       "isOnline": false
-    },
-    {
-      "rank": 16,
-      "steamId": "76561199086334651",
-      "name": "Soda",
-      "playTimeSeconds": 31663,
-      "money": 13688,
-      "gold": 65,
-      "fame": 322,
-      "isOnline": true
     },
     {
       "rank": 17,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-29T12:35:12.494Z"
+  "updated": "2026-10-29T12:36:12.505Z"
 }
