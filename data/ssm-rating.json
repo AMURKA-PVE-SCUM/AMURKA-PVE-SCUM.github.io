@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 82259,
+      "playTimeSeconds": 82319,
       "money": 451118,
       "gold": 616,
       "fame": 1924,
@@ -42,6 +42,16 @@
     },
     {
       "rank": 5,
+      "steamId": "76561199758816988",
+      "name": "Nikolai",
+      "playTimeSeconds": 67256,
+      "money": 31646,
+      "gold": 105,
+      "fame": 388,
+      "isOnline": true
+    },
+    {
+      "rank": 6,
       "steamId": "76561198352984050",
       "name": "Vlad",
       "playTimeSeconds": 67230,
@@ -49,16 +59,6 @@
       "gold": 1175,
       "fame": 2358,
       "isOnline": false
-    },
-    {
-      "rank": 6,
-      "steamId": "76561199758816988",
-      "name": "Nikolai",
-      "playTimeSeconds": 67196,
-      "money": 31646,
-      "gold": 105,
-      "fame": 387,
-      "isOnline": true
     },
     {
       "rank": 7,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198271336608",
       "name": "Валерка",
-      "playTimeSeconds": 56825,
+      "playTimeSeconds": 56885,
       "money": 515680,
       "gold": 440,
       "fame": 361,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
-      "playTimeSeconds": 48295,
+      "playTimeSeconds": 48355,
       "money": 263390,
       "gold": 390,
       "fame": 1756,
@@ -124,10 +124,10 @@
       "rank": 13,
       "steamId": "76561198329185290",
       "name": "Roberto Ross",
-      "playTimeSeconds": 37324,
+      "playTimeSeconds": 37384,
       "money": 35133,
       "gold": 25,
-      "fame": 332,
+      "fame": 333,
       "isOnline": true
     },
     {
@@ -144,7 +144,7 @@
       "rank": 15,
       "steamId": "76561199086334651",
       "name": "Soda",
-      "playTimeSeconds": 31841,
+      "playTimeSeconds": 31901,
       "money": 13688,
       "gold": 65,
       "fame": 322,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-29T12:38:12.520Z"
+  "updated": "2026-10-29T12:39:12.529Z"
 }
