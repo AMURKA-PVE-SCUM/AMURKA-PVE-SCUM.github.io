@@ -1,11 +1,11 @@
 {
-  "online": 3,
+  "online": 4,
   "players": [
     {
       "steamId": "76561198329185290",
       "name": "Roberto Ross",
       "sessionSeconds": 0,
-      "playTimeSeconds": 34488,
+      "playTimeSeconds": 34548,
       "money": 34133,
       "gold": 20,
       "fame": 318,
@@ -15,22 +15,32 @@
       "steamId": "76561199801792277",
       "name": "Сол Хоггар",
       "sessionSeconds": 0,
-      "playTimeSeconds": 16552,
+      "playTimeSeconds": 16612,
       "money": 489873,
       "gold": 171,
       "fame": 2306,
-      "rank": 37
+      "rank": 36
+    },
+    {
+      "steamId": "76561198159265980",
+      "name": "Evelina_Live",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 95194,
+      "money": 216370,
+      "gold": 286,
+      "fame": 1174,
+      "rank": 2
     },
     {
       "steamId": "76561198156375337",
       "name": "Domo",
       "sessionSeconds": 0,
-      "playTimeSeconds": 1738,
+      "playTimeSeconds": 1798,
       "money": 2116956,
       "gold": 11435,
       "fame": 304,
-      "rank": 74
+      "rank": 73
     }
   ],
-  "updated": "2026-10-29T11:39:07.884Z"
+  "updated": "2026-10-29T11:40:07.886Z"
 }
