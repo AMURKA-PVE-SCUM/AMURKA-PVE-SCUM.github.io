@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 110040,
+      "playTimeSeconds": 110100,
       "money": 747314,
       "gold": 653,
       "fame": 2476,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 84340,
+      "playTimeSeconds": 84400,
       "money": 1873144,
       "gold": 335,
       "fame": 1959,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561198032084496",
       "name": "бродяга",
-      "playTimeSeconds": 66822,
+      "playTimeSeconds": 66882,
       "money": 1458501,
       "gold": 369,
       "fame": 1150,
@@ -152,6 +152,16 @@
     },
     {
       "rank": 16,
+      "steamId": "76561198799249034",
+      "name": "Pafka",
+      "playTimeSeconds": 46313,
+      "money": 4601,
+      "gold": 35,
+      "fame": 263,
+      "isOnline": true
+    },
+    {
+      "rank": 17,
       "steamId": "76561198029476275",
       "name": "XEH",
       "playTimeSeconds": 46267,
@@ -159,16 +169,6 @@
       "gold": 565,
       "fame": 3397,
       "isOnline": false
-    },
-    {
-      "rank": 17,
-      "steamId": "76561198799249034",
-      "name": "Pafka",
-      "playTimeSeconds": 46253,
-      "money": 4601,
-      "gold": 35,
-      "fame": 263,
-      "isOnline": true
     },
     {
       "rank": 18,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-29T21:25:16.405Z"
+  "updated": "2026-10-29T21:26:16.421Z"
 }
