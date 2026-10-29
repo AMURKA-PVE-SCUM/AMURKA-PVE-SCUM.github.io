@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561199760655876",
       "name": "Viking",
-      "sessionSeconds": 493,
-      "playTimeSeconds": 31737,
+      "sessionSeconds": 553,
+      "playTimeSeconds": 31797,
       "money": 108220,
       "gold": 150,
       "fame": 1291,
@@ -15,7 +15,7 @@
       "steamId": "76561199469647730",
       "name": "eeddiikk",
       "sessionSeconds": 18,
-      "playTimeSeconds": 20847,
+      "playTimeSeconds": 20907,
       "money": 55733,
       "gold": 55,
       "fame": 239,
@@ -25,7 +25,7 @@
       "steamId": "76561198156375337",
       "name": "Domo",
       "sessionSeconds": 18,
-      "playTimeSeconds": 3264,
+      "playTimeSeconds": 3324,
       "money": 2117956,
       "gold": 11440,
       "fame": 315,
@@ -35,7 +35,7 @@
       "steamId": "76561198032084496",
       "name": "бродяга",
       "sessionSeconds": 18,
-      "playTimeSeconds": 55876,
+      "playTimeSeconds": 55936,
       "money": 1450501,
       "gold": 354,
       "fame": 2226,
@@ -45,17 +45,17 @@
       "steamId": "76561198877709613",
       "name": "_RE_",
       "sessionSeconds": 18,
-      "playTimeSeconds": 1904,
+      "playTimeSeconds": 1964,
       "money": 567469,
       "gold": 286,
       "fame": 1242,
-      "rank": 76
+      "rank": 75
     },
     {
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
       "sessionSeconds": 18,
-      "playTimeSeconds": 56893,
+      "playTimeSeconds": 56953,
       "money": 372540,
       "gold": 402,
       "fame": 2219,
@@ -65,12 +65,22 @@
       "steamId": "76561199758816988",
       "name": "Nikolai",
       "sessionSeconds": 18,
-      "playTimeSeconds": 75715,
+      "playTimeSeconds": 75755,
       "money": 33646,
       "gold": 115,
       "fame": 414,
       "rank": 4
+    },
+    {
+      "steamId": "76561198994811901",
+      "name": "Malina",
+      "sessionSeconds": 7,
+      "playTimeSeconds": 21287,
+      "money": 80424,
+      "gold": 80,
+      "fame": 351,
+      "rank": 35
     }
   ],
-  "updated": "2026-10-29T15:08:13.662Z"
+  "updated": "2026-10-29T15:09:13.675Z"
 }
