@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 108822,
+      "playTimeSeconds": 108882,
       "money": 1886096,
       "gold": 372,
       "fame": 2481,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561199758816988",
       "name": "Nikolai",
-      "playTimeSeconds": 93053,
+      "playTimeSeconds": 93113,
       "money": 31081,
       "gold": 140,
       "fame": 485,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 87922,
+      "playTimeSeconds": 87982,
       "money": 77478,
       "gold": 1205,
       "fame": 2436,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 76299,
+      "playTimeSeconds": 76359,
       "money": 6461288,
       "gold": 335,
       "fame": 1840,
@@ -114,8 +114,8 @@
       "rank": 12,
       "steamId": "76561198799249034",
       "name": "Pafka",
-      "playTimeSeconds": 54467,
-      "money": 576957,
+      "playTimeSeconds": 54527,
+      "money": 593244,
       "gold": 50,
       "fame": 312,
       "isOnline": true
@@ -172,6 +172,16 @@
     },
     {
       "rank": 18,
+      "steamId": "76561198029476275",
+      "name": "XEH",
+      "playTimeSeconds": 46766,
+      "money": 1112396,
+      "gold": 565,
+      "fame": 3398,
+      "isOnline": true
+    },
+    {
+      "rank": 19,
       "steamId": "76561199086334651",
       "name": "Soda",
       "playTimeSeconds": 46751,
@@ -179,16 +189,6 @@
       "gold": 5,
       "fame": 412,
       "isOnline": false
-    },
-    {
-      "rank": 19,
-      "steamId": "76561198029476275",
-      "name": "XEH",
-      "playTimeSeconds": 46706,
-      "money": 1112396,
-      "gold": 565,
-      "fame": 3398,
-      "isOnline": true
     },
     {
       "rank": 20,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-30T05:09:19.860Z"
+  "updated": "2026-10-30T05:10:19.864Z"
 }
