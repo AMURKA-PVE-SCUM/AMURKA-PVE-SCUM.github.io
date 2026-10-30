@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 120481,
+      "playTimeSeconds": 120540,
       "money": 814959,
       "gold": 668,
       "fame": 2619,
@@ -34,11 +34,11 @@
       "rank": 4,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 105724,
+      "playTimeSeconds": 105748,
       "money": 62237,
       "gold": 1230,
       "fame": 2505,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 5,
@@ -64,10 +64,10 @@
       "rank": 7,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 74660,
+      "playTimeSeconds": 74719,
       "money": 3794829,
       "gold": 3049,
-      "fame": 8305,
+      "fame": 8310,
       "isOnline": true
     },
     {
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561198037904934",
       "name": "Astaf",
-      "playTimeSeconds": 66901,
+      "playTimeSeconds": 66960,
       "money": 433550,
       "gold": 266,
       "fame": 2514,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 64219,
+      "playTimeSeconds": 64278,
       "money": 567012,
       "gold": 14,
       "fame": 1723,
@@ -144,7 +144,7 @@
       "rank": 15,
       "steamId": "76561199760655876",
       "name": "Viking",
-      "playTimeSeconds": 59391,
+      "playTimeSeconds": 59450,
       "money": 202910,
       "gold": 190,
       "fame": 1596,
@@ -152,6 +152,16 @@
     },
     {
       "rank": 16,
+      "steamId": "76561198029476275",
+      "name": "XEH",
+      "playTimeSeconds": 58071,
+      "money": 1115396,
+      "gold": 580,
+      "fame": 3437,
+      "isOnline": true
+    },
+    {
+      "rank": 17,
       "steamId": "76561198271336608",
       "name": "Валерка",
       "playTimeSeconds": 58067,
@@ -159,16 +169,6 @@
       "gold": 440,
       "fame": 362,
       "isOnline": false
-    },
-    {
-      "rank": 17,
-      "steamId": "76561198029476275",
-      "name": "XEH",
-      "playTimeSeconds": 58012,
-      "money": 1115396,
-      "gold": 580,
-      "fame": 3437,
-      "isOnline": true
     },
     {
       "rank": 18,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-30T17:10:29.340Z"
+  "updated": "2026-10-30T17:11:29.341Z"
 }
