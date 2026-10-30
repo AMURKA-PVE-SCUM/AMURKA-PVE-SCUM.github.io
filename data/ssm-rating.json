@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 115305,
+      "playTimeSeconds": 115365,
       "money": 1830186,
       "gold": 382,
       "fame": 2512,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 90654,
+      "playTimeSeconds": 90714,
       "money": 77478,
       "gold": 1205,
       "fame": 2438,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 84598,
+      "playTimeSeconds": 84658,
       "money": 6326377,
       "gold": 345,
       "fame": 1866,
@@ -152,6 +152,16 @@
     },
     {
       "rank": 16,
+      "steamId": "76561198329185290",
+      "name": "Roberto Ross",
+      "playTimeSeconds": 48789,
+      "money": 34351,
+      "gold": 41,
+      "fame": 434,
+      "isOnline": true
+    },
+    {
+      "rank": 17,
       "steamId": "76561199760655876",
       "name": "Viking",
       "playTimeSeconds": 48745,
@@ -159,16 +169,6 @@
       "gold": 175,
       "fame": 1393,
       "isOnline": false
-    },
-    {
-      "rank": 17,
-      "steamId": "76561198329185290",
-      "name": "Roberto Ross",
-      "playTimeSeconds": 48729,
-      "money": 34351,
-      "gold": 41,
-      "fame": 434,
-      "isOnline": true
     },
     {
       "rank": 18,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-30T07:28:20.836Z"
+  "updated": "2026-10-30T07:29:20.850Z"
 }
