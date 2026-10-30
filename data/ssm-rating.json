@@ -4,17 +4,17 @@
       "rank": 1,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 133724,
+      "playTimeSeconds": 133727,
       "money": 2053371,
       "gold": 410,
       "fame": 3249,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 2,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 118805,
+      "playTimeSeconds": 118865,
       "money": 814959,
       "gold": 668,
       "fame": 2618,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 72984,
+      "playTimeSeconds": 73044,
       "money": 3786516,
       "gold": 3034,
       "fame": 8243,
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561198037904934",
       "name": "Astaf",
-      "playTimeSeconds": 65225,
+      "playTimeSeconds": 65285,
       "money": 432550,
       "gold": 261,
       "fame": 2504,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 62543,
+      "playTimeSeconds": 62603,
       "money": 566012,
       "gold": 9,
       "fame": 1711,
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561199760655876",
       "name": "Viking",
-      "playTimeSeconds": 57715,
+      "playTimeSeconds": 57775,
       "money": 201360,
       "gold": 185,
       "fame": 1476,
@@ -172,6 +172,16 @@
     },
     {
       "rank": 18,
+      "steamId": "76561198029476275",
+      "name": "XEH",
+      "playTimeSeconds": 56629,
+      "money": 1115396,
+      "gold": 580,
+      "fame": 3436,
+      "isOnline": true
+    },
+    {
+      "rank": 19,
       "steamId": "76561198329185290",
       "name": "Roberto Ross",
       "playTimeSeconds": 56608,
@@ -179,16 +189,6 @@
       "gold": 51,
       "fame": 470,
       "isOnline": false
-    },
-    {
-      "rank": 19,
-      "steamId": "76561198029476275",
-      "name": "XEH",
-      "playTimeSeconds": 56569,
-      "money": 1115396,
-      "gold": 580,
-      "fame": 3436,
-      "isOnline": true
     },
     {
       "rank": 20,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-30T16:42:29.079Z"
+  "updated": "2026-10-30T16:43:29.092Z"
 }
