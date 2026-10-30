@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 7,
   "players": [
     {
       "steamId": "76561198799249034",
       "name": "Pafka",
-      "sessionSeconds": 3146,
-      "playTimeSeconds": 67590,
+      "sessionSeconds": 3206,
+      "playTimeSeconds": 67650,
       "money": 246778,
       "gold": 265,
       "fame": 387,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198877709613",
       "name": "_RE_",
-      "sessionSeconds": 783,
-      "playTimeSeconds": 13182,
+      "sessionSeconds": 843,
+      "playTimeSeconds": 13242,
       "money": 570469,
       "gold": 301,
       "fame": 1279,
@@ -25,7 +25,7 @@
       "steamId": "76561198099206226",
       "name": "Донской",
       "sessionSeconds": 15,
-      "playTimeSeconds": 10861,
+      "playTimeSeconds": 10921,
       "money": 167336,
       "gold": 80,
       "fame": 424,
@@ -35,32 +35,42 @@
       "steamId": "76561198115245396",
       "name": "Хабаровчанин",
       "sessionSeconds": 15,
-      "playTimeSeconds": 34242,
+      "playTimeSeconds": 34302,
       "money": 1002679,
       "gold": 363,
-      "fame": 2034,
+      "fame": 2033,
       "rank": 30
     },
     {
       "steamId": "76561199689872634",
       "name": "DevilDark",
       "sessionSeconds": 15,
-      "playTimeSeconds": 199,
+      "playTimeSeconds": 259,
       "money": 0,
       "gold": 0,
       "fame": 0,
-      "rank": 103
+      "rank": 101
     },
     {
       "steamId": "76561198826257359",
       "name": "XXXX",
       "sessionSeconds": 15,
-      "playTimeSeconds": 52955,
+      "playTimeSeconds": 53015,
       "money": 583813,
       "gold": 99,
       "fame": 1677,
       "rank": 19
+    },
+    {
+      "steamId": "76561199469647730",
+      "name": "eeddiikk",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 24619,
+      "money": 71733,
+      "gold": 60,
+      "fame": 251,
+      "rank": 34
     }
   ],
-  "updated": "2026-10-30T14:02:27.874Z"
+  "updated": "2026-10-30T14:03:27.883Z"
 }
