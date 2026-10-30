@@ -1,16 +1,36 @@
 {
-  "online": 1,
+  "online": 3,
   "players": [
+    {
+      "steamId": "76561198799249034",
+      "name": "Pafka",
+      "sessionSeconds": 9,
+      "playTimeSeconds": 63578,
+      "money": 360325,
+      "gold": 260,
+      "fame": 372,
+      "rank": 12
+    },
     {
       "steamId": "76561199760655876",
       "name": "Viking",
-      "sessionSeconds": 4,
-      "playTimeSeconds": 53081,
+      "sessionSeconds": 9,
+      "playTimeSeconds": 53143,
       "money": 158910,
       "gold": 180,
       "fame": 1406,
       "rank": 18
+    },
+    {
+      "steamId": "76561198115245396",
+      "name": "Хабаровчанин",
+      "sessionSeconds": 5,
+      "playTimeSeconds": 28828,
+      "money": 1001679,
+      "gold": 358,
+      "fame": 2023,
+      "rank": 32
     }
   ],
-  "updated": "2026-10-30T12:03:26.956Z"
+  "updated": "2026-10-30T12:04:26.971Z"
 }
