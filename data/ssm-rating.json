@@ -32,6 +32,16 @@
     },
     {
       "rank": 4,
+      "steamId": "76561198352984050",
+      "name": "Vlad",
+      "playTimeSeconds": 103161,
+      "money": 61237,
+      "gold": 1225,
+      "fame": 2494,
+      "isOnline": true
+    },
+    {
+      "rank": 5,
       "steamId": "76561199758816988",
       "name": "Nikolai",
       "playTimeSeconds": 103117,
@@ -39,16 +49,6 @@
       "gold": 55,
       "fame": 527,
       "isOnline": false
-    },
-    {
-      "rank": 5,
-      "steamId": "76561198352984050",
-      "name": "Vlad",
-      "playTimeSeconds": 103101,
-      "money": 61237,
-      "gold": 1225,
-      "fame": 2494,
-      "isOnline": true
     },
     {
       "rank": 6,
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561198037904934",
       "name": "Astaf",
-      "playTimeSeconds": 63547,
+      "playTimeSeconds": 63607,
       "money": 432550,
       "gold": 261,
       "fame": 2502,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 60865,
+      "playTimeSeconds": 60925,
       "money": 566012,
       "gold": 9,
       "fame": 1707,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561199086334651",
       "name": "Soda",
-      "playTimeSeconds": 57138,
+      "playTimeSeconds": 57198,
       "money": 45264,
       "gold": 20,
       "fame": 474,
@@ -174,7 +174,7 @@
       "rank": 18,
       "steamId": "76561199760655876",
       "name": "Viking",
-      "playTimeSeconds": 56037,
+      "playTimeSeconds": 56097,
       "money": 151360,
       "gold": 185,
       "fame": 1423,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-30T16:14:28.850Z"
+  "updated": "2026-10-30T16:15:28.861Z"
 }
