@@ -1,5 +1,16 @@
 {
-  "online": 0,
-  "players": [],
-  "updated": "2026-10-30T12:41:27.312Z"
+  "online": 1,
+  "players": [
+    {
+      "steamId": "76561199086334651",
+      "name": "Soda",
+      "sessionSeconds": 17,
+      "playTimeSeconds": 46769,
+      "money": 6861,
+      "gold": 5,
+      "fame": 412,
+      "rank": 23
+    }
+  ],
+  "updated": "2026-10-30T12:42:27.319Z"
 }
