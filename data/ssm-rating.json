@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 122090,
+      "playTimeSeconds": 122150,
       "money": 1853707,
       "gold": 392,
       "fame": 2743,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 97779,
+      "playTimeSeconds": 97839,
       "money": 79478,
       "gold": 1215,
       "fame": 2470,
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561198329185290",
       "name": "Roberto Ross",
-      "playTimeSeconds": 55576,
+      "playTimeSeconds": 55636,
       "money": 36351,
       "gold": 51,
       "fame": 468,
@@ -144,7 +144,7 @@
       "rank": 15,
       "steamId": "76561198037904934",
       "name": "Astaf",
-      "playTimeSeconds": 50540,
+      "playTimeSeconds": 50600,
       "money": 260727,
       "gold": 241,
       "fame": 2509,
@@ -162,6 +162,26 @@
     },
     {
       "rank": 17,
+      "steamId": "76561199760655876",
+      "name": "Viking",
+      "playTimeSeconds": 48968,
+      "money": 120286,
+      "gold": 175,
+      "fame": 1393,
+      "isOnline": true
+    },
+    {
+      "rank": 18,
+      "steamId": "76561198120086834",
+      "name": "Myp3ilka",
+      "playTimeSeconds": 48958,
+      "money": 308247,
+      "gold": 2591,
+      "fame": 5826,
+      "isOnline": true
+    },
+    {
+      "rank": 19,
       "steamId": "76561198029476275",
       "name": "XEH",
       "playTimeSeconds": 48910,
@@ -169,26 +189,6 @@
       "gold": 570,
       "fame": 3411,
       "isOnline": false
-    },
-    {
-      "rank": 18,
-      "steamId": "76561199760655876",
-      "name": "Viking",
-      "playTimeSeconds": 48908,
-      "money": 120286,
-      "gold": 175,
-      "fame": 1393,
-      "isOnline": true
-    },
-    {
-      "rank": 19,
-      "steamId": "76561198120086834",
-      "name": "Myp3ilka",
-      "playTimeSeconds": 48898,
-      "money": 308247,
-      "gold": 2591,
-      "fame": 5826,
-      "isOnline": true
     },
     {
       "rank": 20,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-30T09:32:21.778Z"
+  "updated": "2026-10-30T09:33:21.782Z"
 }
