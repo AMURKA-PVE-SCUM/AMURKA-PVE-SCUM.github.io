@@ -1,36 +1,46 @@
 {
-  "online": 3,
+  "online": 4,
   "players": [
     {
-      "steamId": "76561198159265980",
-      "name": "Evelina_Live",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 123841,
-      "money": 246339,
-      "gold": 326,
-      "fame": 1339,
-      "rank": 5
+      "steamId": "76561198071060590",
+      "name": "Sushi",
+      "sessionSeconds": 55734,
+      "playTimeSeconds": 70833,
+      "money": 1140124,
+      "gold": 530,
+      "fame": 9062,
+      "rank": 14
     },
     {
-      "steamId": "76561199001555207",
-      "name": "Вульва",
+      "steamId": "76561199758816988",
+      "name": "Nikolai",
       "sessionSeconds": 15,
-      "playTimeSeconds": 8231,
-      "money": 263436,
-      "gold": 50,
-      "fame": 219,
-      "rank": 70
+      "playTimeSeconds": 120714,
+      "money": 132297,
+      "gold": 80,
+      "fame": 667,
+      "rank": 6
     },
     {
       "steamId": "76561198335985629",
       "name": "Lapis",
       "sessionSeconds": 15,
-      "playTimeSeconds": 24567,
+      "playTimeSeconds": 24617,
       "money": 61891,
       "gold": 120,
       "fame": 471,
       "rank": 41
+    },
+    {
+      "steamId": "76561198159265980",
+      "name": "Evelina_Live",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 123901,
+      "money": 246339,
+      "gold": 326,
+      "fame": 1339,
+      "rank": 5
     }
   ],
-  "updated": "2026-10-31T09:03:36.369Z"
+  "updated": "2026-10-31T09:04:36.373Z"
 }
