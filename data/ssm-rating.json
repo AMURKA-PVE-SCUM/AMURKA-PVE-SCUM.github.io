@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 140971,
+      "playTimeSeconds": 141031,
       "money": 900496,
       "gold": 698,
       "fame": 2810,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 132214,
+      "playTimeSeconds": 132274,
       "money": 255927,
       "gold": 336,
       "fame": 1368,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561199758816988",
       "name": "Nikolai",
-      "playTimeSeconds": 128148,
+      "playTimeSeconds": 128208,
       "money": 134847,
       "gold": 90,
       "fame": 701,
@@ -122,6 +122,16 @@
     },
     {
       "rank": 13,
+      "steamId": "76561199086334651",
+      "name": "Soda",
+      "playTimeSeconds": 70925,
+      "money": 106089,
+      "gold": 40,
+      "fame": 547,
+      "isOnline": true
+    },
+    {
+      "rank": 14,
       "steamId": "76561198071060590",
       "name": "Sushi",
       "playTimeSeconds": 70882,
@@ -129,16 +139,6 @@
       "gold": 530,
       "fame": 9062,
       "isOnline": false
-    },
-    {
-      "rank": 14,
-      "steamId": "76561199086334651",
-      "name": "Soda",
-      "playTimeSeconds": 70865,
-      "money": 106089,
-      "gold": 40,
-      "fame": 547,
-      "isOnline": true
     },
     {
       "rank": 15,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561198328189885",
       "name": "vlaD0S",
-      "playTimeSeconds": 67703,
+      "playTimeSeconds": 67763,
       "money": 3306775,
       "gold": 284,
       "fame": 11998,
@@ -174,11 +174,11 @@
       "rank": 18,
       "steamId": "76561198329185290",
       "name": "Roberto Ross",
-      "playTimeSeconds": 63425,
+      "playTimeSeconds": 63433,
       "money": 38351,
       "gold": 61,
       "fame": 445,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 19,
@@ -194,12 +194,12 @@
       "rank": 20,
       "steamId": "76561198115245396",
       "name": "Хабаровчанин",
-      "playTimeSeconds": 61659,
+      "playTimeSeconds": 61719,
       "money": 1222352,
       "gold": 406,
       "fame": 2623,
       "isOnline": true
     }
   ],
-  "updated": "2026-10-31T11:25:37.502Z"
+  "updated": "2026-10-31T11:26:37.508Z"
 }
