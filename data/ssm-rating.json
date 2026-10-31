@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 158683,
+      "playTimeSeconds": 158743,
       "money": 979619,
       "gold": 724,
       "fame": 3236,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 158394,
+      "playTimeSeconds": 158454,
       "money": 2073113,
       "gold": 446,
       "fame": 3737,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 151666,
+      "playTimeSeconds": 151726,
       "money": 234227,
       "gold": 366,
       "fame": 1396,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 141140,
+      "playTimeSeconds": 141200,
       "money": 83585,
       "gold": 1290,
       "fame": 2632,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 116961,
+      "playTimeSeconds": 117021,
       "money": 7067991,
       "gold": 400,
       "fame": 2046,
@@ -72,6 +72,16 @@
     },
     {
       "rank": 8,
+      "steamId": "76561199125649189",
+      "name": "HEADLESS",
+      "playTimeSeconds": 97057,
+      "money": 4084696,
+      "gold": 3080,
+      "fame": 9195,
+      "isOnline": true
+    },
+    {
+      "rank": 9,
       "steamId": "76561198826257359",
       "name": "XXXX",
       "playTimeSeconds": 97014,
@@ -79,16 +89,6 @@
       "gold": 59,
       "fame": 1861,
       "isOnline": false
-    },
-    {
-      "rank": 9,
-      "steamId": "76561199125649189",
-      "name": "HEADLESS",
-      "playTimeSeconds": 96997,
-      "money": 4084696,
-      "gold": 3080,
-      "fame": 9195,
-      "isOnline": true
     },
     {
       "rank": 10,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561198071060590",
       "name": "Sushi",
-      "playTimeSeconds": 86139,
+      "playTimeSeconds": 86199,
       "money": 1111397,
       "gold": 555,
       "fame": 9565,
@@ -174,7 +174,7 @@
       "rank": 18,
       "steamId": "76561198877709613",
       "name": "_RE_",
-      "playTimeSeconds": 70343,
+      "playTimeSeconds": 70403,
       "money": 725721,
       "gold": 382,
       "fame": 1955,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-31T16:54:43.860Z"
+  "updated": "2026-10-31T16:55:43.864Z"
 }
