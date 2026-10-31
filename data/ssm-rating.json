@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 106568,
+      "playTimeSeconds": 106628,
       "money": 6783162,
       "gold": 385,
       "fame": 1998,
@@ -64,10 +64,10 @@
       "rank": 7,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 95038,
-      "money": 605387,
-      "gold": 54,
-      "fame": 1844,
+      "playTimeSeconds": 95098,
+      "money": 606387,
+      "gold": 59,
+      "fame": 1854,
       "isOnline": true
     },
     {
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561198799249034",
       "name": "Pafka",
-      "playTimeSeconds": 79558,
+      "playTimeSeconds": 79618,
       "money": 408821,
       "gold": 280,
       "fame": 478,
@@ -172,6 +172,16 @@
     },
     {
       "rank": 18,
+      "steamId": "76561198329185290",
+      "name": "Roberto Ross",
+      "playTimeSeconds": 59161,
+      "money": 37351,
+      "gold": 56,
+      "fame": 432,
+      "isOnline": true
+    },
+    {
+      "rank": 19,
       "steamId": "76561198271336608",
       "name": "Валерка",
       "playTimeSeconds": 59138,
@@ -179,16 +189,6 @@
       "gold": 440,
       "fame": 363,
       "isOnline": false
-    },
-    {
-      "rank": 19,
-      "steamId": "76561198329185290",
-      "name": "Roberto Ross",
-      "playTimeSeconds": 59101,
-      "money": 37351,
-      "gold": 56,
-      "fame": 432,
-      "isOnline": true
     },
     {
       "rank": 20,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-31T02:14:33.428Z"
+  "updated": "2026-10-31T02:15:33.437Z"
 }
