@@ -2,10 +2,20 @@
   "online": 7,
   "players": [
     {
+      "steamId": "76561198054804619",
+      "name": "Zephyr",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 3977,
+      "money": 1000,
+      "gold": 5,
+      "fame": 116,
+      "rank": 77
+    },
+    {
       "steamId": "76561199480908551",
       "name": "gv_61 rus",
-      "sessionSeconds": 4,
-      "playTimeSeconds": 11252,
+      "sessionSeconds": 3,
+      "playTimeSeconds": 11312,
       "money": 512706,
       "gold": 582,
       "fame": 1203,
@@ -14,8 +24,8 @@
     {
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "sessionSeconds": 4,
-      "playTimeSeconds": 119532,
+      "sessionSeconds": 3,
+      "playTimeSeconds": 119592,
       "money": 62585,
       "gold": 1245,
       "fame": 2555,
@@ -24,38 +34,28 @@
     {
       "steamId": "76561198028621423",
       "name": "Lesnik",
-      "sessionSeconds": 4,
-      "playTimeSeconds": 54190,
-      "money": 919922,
-      "gold": 942,
-      "fame": 3058,
+      "sessionSeconds": 3,
+      "playTimeSeconds": 54250,
+      "money": 930422,
+      "gold": 943,
+      "fame": 3188,
       "rank": 23
     },
     {
       "steamId": "76561198799249034",
       "name": "Pafka",
-      "sessionSeconds": 4,
-      "playTimeSeconds": 89621,
-      "money": 541740,
+      "sessionSeconds": 3,
+      "playTimeSeconds": 89681,
+      "money": 655926,
       "gold": 295,
-      "fame": 527,
+      "fame": 532,
       "rank": 9
-    },
-    {
-      "steamId": "76561198054804619",
-      "name": "Zephyr",
-      "sessionSeconds": 4,
-      "playTimeSeconds": 3925,
-      "money": 1000,
-      "gold": 5,
-      "fame": 116,
-      "rank": 77
     },
     {
       "steamId": "76561199758816988",
       "name": "Nikolai",
-      "sessionSeconds": 4,
-      "playTimeSeconds": 106812,
+      "sessionSeconds": 3,
+      "playTimeSeconds": 106872,
       "money": 32902,
       "gold": 60,
       "fame": 544,
@@ -64,13 +64,13 @@
     {
       "steamId": "76561198089442311",
       "name": "SouRiK",
-      "sessionSeconds": 4,
-      "playTimeSeconds": 6045,
+      "sessionSeconds": 3,
+      "playTimeSeconds": 6105,
       "money": 3571,
       "gold": 5,
       "fame": 24,
       "rank": 68
     }
   ],
-  "updated": "2026-10-31T05:04:34.597Z"
+  "updated": "2026-10-31T05:05:34.601Z"
 }
