@@ -2,6 +2,16 @@
   "leaderboard": [
     {
       "rank": 1,
+      "steamId": "76561198159265980",
+      "name": "Evelina_Live",
+      "playTimeSeconds": 171735,
+      "money": 348772,
+      "gold": 391,
+      "fame": 1276,
+      "isOnline": true
+    },
+    {
+      "rank": 2,
       "steamId": "76561198790887864",
       "name": "Roma",
       "playTimeSeconds": 171701,
@@ -9,16 +19,6 @@
       "gold": 739,
       "fame": 3392,
       "isOnline": false
-    },
-    {
-      "rank": 2,
-      "steamId": "76561198159265980",
-      "name": "Evelina_Live",
-      "playTimeSeconds": 171676,
-      "money": 348772,
-      "gold": 391,
-      "fame": 1276,
-      "isOnline": true
     },
     {
       "rank": 3,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 116944,
+      "playTimeSeconds": 117003,
       "money": 4318680,
       "gold": 3120,
       "fame": 9642,
@@ -74,10 +74,10 @@
       "rank": 8,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 115665,
+      "playTimeSeconds": 115724,
       "money": 523386,
       "gold": 84,
-      "fame": 1699,
+      "fame": 1700,
       "isOnline": true
     },
     {
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561198037904934",
       "name": "Astaf",
-      "playTimeSeconds": 94521,
+      "playTimeSeconds": 94580,
       "money": 452800,
       "gold": 361,
       "fame": 2700,
@@ -184,7 +184,7 @@
       "rank": 19,
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
-      "playTimeSeconds": 70260,
+      "playTimeSeconds": 70319,
       "money": 376540,
       "gold": 422,
       "fame": 2272,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-31T22:29:46.279Z"
+  "updated": "2026-10-31T22:30:46.294Z"
 }
