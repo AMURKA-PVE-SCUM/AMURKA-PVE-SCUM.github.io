@@ -1,11 +1,11 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 80292,
-      "playTimeSeconds": 210042,
+      "sessionSeconds": 80352,
+      "playTimeSeconds": 210102,
       "money": 2658929,
       "gold": 1405,
       "fame": 8895,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198071060590",
       "name": "Sushi",
-      "sessionSeconds": 77401,
-      "playTimeSeconds": 80197,
+      "sessionSeconds": 77461,
+      "playTimeSeconds": 80257,
       "money": 1091397,
       "gold": 545,
       "fame": 9422,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198372320271",
       "name": "ADA",
-      "sessionSeconds": 1109,
-      "playTimeSeconds": 50387,
+      "sessionSeconds": 1169,
+      "playTimeSeconds": 50447,
       "money": 2026310,
       "gold": 125,
       "fame": 5174,
@@ -35,7 +35,7 @@
       "steamId": "76561199000739219",
       "name": "Yakytenok",
       "sessionSeconds": 21,
-      "playTimeSeconds": 4885,
+      "playTimeSeconds": 4945,
       "money": 87000,
       "gold": 10,
       "fame": 24,
@@ -45,17 +45,27 @@
       "steamId": "76561199569191127",
       "name": "Mira",
       "sessionSeconds": 21,
-      "playTimeSeconds": 44948,
+      "playTimeSeconds": 45008,
       "money": 1673576,
       "gold": 385,
       "fame": 7223,
       "rank": 33
     },
     {
+      "steamId": "76561198790887864",
+      "name": "Roma",
+      "sessionSeconds": 21,
+      "playTimeSeconds": 153652,
+      "money": 977619,
+      "gold": 714,
+      "fame": 3201,
+      "rank": 3
+    },
+    {
       "steamId": "76561198082947468",
       "name": "bolollo",
       "sessionSeconds": 21,
-      "playTimeSeconds": 43407,
+      "playTimeSeconds": 43467,
       "money": 190509,
       "gold": 150,
       "fame": 1156,
@@ -65,7 +75,7 @@
       "steamId": "76561198848497080",
       "name": "BERENDEI",
       "sessionSeconds": 21,
-      "playTimeSeconds": 56575,
+      "playTimeSeconds": 56635,
       "money": 52850,
       "gold": 75,
       "fame": 344,
@@ -75,12 +85,12 @@
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
       "sessionSeconds": 21,
-      "playTimeSeconds": 145134,
+      "playTimeSeconds": 145194,
       "money": 232327,
       "gold": 356,
       "fame": 1369,
       "rank": 4
     }
   ],
-  "updated": "2026-10-31T15:05:43.047Z"
+  "updated": "2026-10-31T15:06:43.061Z"
 }
