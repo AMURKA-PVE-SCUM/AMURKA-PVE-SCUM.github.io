@@ -1,41 +1,31 @@
 {
-  "online": 5,
+  "online": 7,
   "players": [
+    {
+      "steamId": "76561198071060590",
+      "name": "Sushi",
+      "sessionSeconds": 77341,
+      "playTimeSeconds": 80137,
+      "money": 1091397,
+      "gold": 545,
+      "fame": 9422,
+      "rank": 14
+    },
     {
       "steamId": "76561198372320271",
       "name": "ADA",
-      "sessionSeconds": 989,
-      "playTimeSeconds": 50268,
+      "sessionSeconds": 1049,
+      "playTimeSeconds": 50327,
       "money": 2026310,
       "gold": 125,
       "fame": 5174,
       "rank": 31
     },
     {
-      "steamId": "76561198370514728",
-      "name": "1XPEH",
-      "sessionSeconds": 21,
-      "playTimeSeconds": 3129,
-      "money": 0,
-      "gold": 0,
-      "fame": 1,
-      "rank": 87
-    },
-    {
-      "steamId": "76561198159265980",
-      "name": "Evelina_Live",
-      "sessionSeconds": 21,
-      "playTimeSeconds": 145014,
-      "money": 232327,
-      "gold": 356,
-      "fame": 1369,
-      "rank": 4
-    },
-    {
       "steamId": "76561198082947468",
       "name": "bolollo",
-      "sessionSeconds": 16,
-      "playTimeSeconds": 43287,
+      "sessionSeconds": 21,
+      "playTimeSeconds": 43347,
       "money": 190509,
       "gold": 150,
       "fame": 1156,
@@ -44,13 +34,43 @@
     {
       "steamId": "76561198848497080",
       "name": "BERENDEI",
-      "sessionSeconds": 16,
-      "playTimeSeconds": 56455,
+      "sessionSeconds": 21,
+      "playTimeSeconds": 56515,
       "money": 52850,
       "gold": 75,
       "fame": 344,
       "rank": 29
+    },
+    {
+      "steamId": "76561198159265980",
+      "name": "Evelina_Live",
+      "sessionSeconds": 21,
+      "playTimeSeconds": 145074,
+      "money": 232327,
+      "gold": 356,
+      "fame": 1369,
+      "rank": 4
+    },
+    {
+      "steamId": "76561199569191127",
+      "name": "Mira",
+      "sessionSeconds": 11,
+      "playTimeSeconds": 44888,
+      "money": 1673576,
+      "gold": 385,
+      "fame": 7223,
+      "rank": 33
+    },
+    {
+      "steamId": "76561199000739219",
+      "name": "Yakytenok",
+      "sessionSeconds": 1,
+      "playTimeSeconds": 4826,
+      "money": 87000,
+      "gold": 10,
+      "fame": 24,
+      "rank": 82
     }
   ],
-  "updated": "2026-10-31T15:03:43.038Z"
+  "updated": "2026-10-31T15:04:43.039Z"
 }
