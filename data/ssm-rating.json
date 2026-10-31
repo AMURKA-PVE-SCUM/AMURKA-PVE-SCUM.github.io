@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 162280,
+      "playTimeSeconds": 162340,
       "money": 980519,
       "gold": 729,
       "fame": 3249,
@@ -24,21 +24,21 @@
       "rank": 3,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 155229,
+      "playTimeSeconds": 155289,
       "money": 235227,
       "gold": 371,
-      "fame": 1361,
+      "fame": 1311,
       "isOnline": true
     },
     {
       "rank": 4,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 144737,
+      "playTimeSeconds": 144778,
       "money": 84585,
       "gold": 1295,
       "fame": 2644,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 5,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 100594,
+      "playTimeSeconds": 100654,
       "money": 4305696,
       "gold": 3095,
       "fame": 9383,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 99358,
+      "playTimeSeconds": 99418,
       "money": 607387,
       "gold": 64,
       "fame": 1872,
@@ -112,6 +112,16 @@
     },
     {
       "rank": 12,
+      "steamId": "76561198029476275",
+      "name": "XEH",
+      "playTimeSeconds": 85362,
+      "money": 1146002,
+      "gold": 620,
+      "fame": 3595,
+      "isOnline": true
+    },
+    {
+      "rank": 13,
       "steamId": "76561199086334651",
       "name": "Soda",
       "playTimeSeconds": 85357,
@@ -119,16 +129,6 @@
       "gold": 60,
       "fame": 601,
       "isOnline": false
-    },
-    {
-      "rank": 13,
-      "steamId": "76561198029476275",
-      "name": "XEH",
-      "playTimeSeconds": 85302,
-      "money": 1146002,
-      "gold": 620,
-      "fame": 3595,
-      "isOnline": true
     },
     {
       "rank": 14,
@@ -144,7 +144,7 @@
       "rank": 15,
       "steamId": "76561198877709613",
       "name": "_RE_",
-      "playTimeSeconds": 73940,
+      "playTimeSeconds": 74000,
       "money": 748193,
       "gold": 387,
       "fame": 1986,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-31T17:54:44.329Z"
+  "updated": "2026-10-31T17:55:44.337Z"
 }
