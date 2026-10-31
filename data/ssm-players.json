@@ -1,11 +1,11 @@
 {
-  "online": 3,
+  "online": 4,
   "players": [
     {
       "steamId": "76561199001555207",
       "name": "Вульва",
       "sessionSeconds": 15,
-      "playTimeSeconds": 8343,
+      "playTimeSeconds": 8403,
       "money": 263436,
       "gold": 50,
       "fame": 219,
@@ -15,22 +15,32 @@
       "steamId": "76561198335985629",
       "name": "Lapis",
       "sessionSeconds": 15,
-      "playTimeSeconds": 24677,
+      "playTimeSeconds": 24737,
       "money": 61891,
       "gold": 120,
       "fame": 472,
       "rank": 41
     },
     {
+      "steamId": "76561199801792277",
+      "name": "Сол Хоггар",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 32696,
+      "money": 608601,
+      "gold": 191,
+      "fame": 2467,
+      "rank": 36
+    },
+    {
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
       "sessionSeconds": 15,
-      "playTimeSeconds": 123961,
+      "playTimeSeconds": 124021,
       "money": 246339,
       "gold": 326,
       "fame": 1339,
       "rank": 5
     }
   ],
-  "updated": "2026-10-31T09:05:36.385Z"
+  "updated": "2026-10-31T09:06:36.399Z"
 }
