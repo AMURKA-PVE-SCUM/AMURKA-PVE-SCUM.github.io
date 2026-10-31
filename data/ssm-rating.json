@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 162160,
+      "playTimeSeconds": 162220,
       "money": 980519,
       "gold": 729,
       "fame": 3249,
@@ -14,27 +14,27 @@
       "rank": 2,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 160103,
+      "playTimeSeconds": 160119,
       "money": 2073113,
       "gold": 446,
       "fame": 3738,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 3,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 155109,
-      "money": 234227,
-      "gold": 366,
-      "fame": 1350,
+      "playTimeSeconds": 155169,
+      "money": 235227,
+      "gold": 371,
+      "fame": 1360,
       "isOnline": true
     },
     {
       "rank": 4,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 144617,
+      "playTimeSeconds": 144677,
       "money": 84585,
       "gold": 1295,
       "fame": 2644,
@@ -74,17 +74,17 @@
       "rank": 8,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 100474,
-      "money": 4205696,
+      "playTimeSeconds": 100534,
+      "money": 4305696,
       "gold": 3095,
-      "fame": 9333,
+      "fame": 9383,
       "isOnline": true
     },
     {
       "rank": 9,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 99238,
+      "playTimeSeconds": 99298,
       "money": 607387,
       "gold": 64,
       "fame": 1872,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198029476275",
       "name": "XEH",
-      "playTimeSeconds": 85182,
+      "playTimeSeconds": 85242,
       "money": 1146002,
       "gold": 620,
       "fame": 3595,
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561198877709613",
+      "name": "_RE_",
+      "playTimeSeconds": 73880,
+      "money": 748193,
+      "gold": 387,
+      "fame": 1986,
+      "isOnline": true
+    },
+    {
+      "rank": 16,
       "steamId": "76561198115245396",
       "name": "Хабаровчанин",
       "playTimeSeconds": 73820,
@@ -149,16 +159,6 @@
       "gold": 421,
       "fame": 2788,
       "isOnline": false
-    },
-    {
-      "rank": 16,
-      "steamId": "76561198877709613",
-      "name": "_RE_",
-      "playTimeSeconds": 73820,
-      "money": 748193,
-      "gold": 387,
-      "fame": 1986,
-      "isOnline": true
     },
     {
       "rank": 17,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-10-31T17:52:44.319Z"
+  "updated": "2026-10-31T17:53:44.328Z"
 }
