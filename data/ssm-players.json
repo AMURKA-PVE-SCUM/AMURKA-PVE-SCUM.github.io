@@ -1,71 +1,21 @@
 {
-  "online": 15,
+  "online": 10,
   "players": [
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 58265,
-      "playTimeSeconds": 193790,
+      "sessionSeconds": 58325,
+      "playTimeSeconds": 193850,
       "money": 2653929,
       "gold": 1380,
       "fame": 8827,
       "rank": 1
     },
     {
-      "steamId": "76561198071060590",
-      "name": "Sushi",
-      "sessionSeconds": 55374,
-      "playTimeSeconds": 70758,
-      "money": 1140124,
-      "gold": 530,
-      "fame": 9062,
-      "rank": 14
-    },
-    {
-      "steamId": "76561199480908551",
-      "name": "gv_61 rus",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 25055,
-      "money": 599260,
-      "gold": 602,
-      "fame": 1253,
-      "rank": 40
-    },
-    {
-      "steamId": "76561198084620275",
-      "name": "Денис",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 157293,
-      "money": 2073113,
-      "gold": 446,
-      "fame": 3737,
-      "rank": 2
-    },
-    {
-      "steamId": "76561199469647730",
-      "name": "eeddiikk",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 51344,
-      "money": 128713,
-      "gold": 95,
-      "fame": 325,
-      "rank": 26
-    },
-    {
-      "steamId": "76561199801792277",
-      "name": "Сол Хоггар",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 32612,
-      "money": 608601,
-      "gold": 191,
-      "fame": 2467,
-      "rank": 37
-    },
-    {
       "steamId": "76561198328189885",
       "name": "vlaD0S",
       "sessionSeconds": 15,
-      "playTimeSeconds": 59697,
+      "playTimeSeconds": 59757,
       "money": 3220705,
       "gold": 273,
       "fame": 11470,
@@ -75,7 +25,7 @@
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
       "sessionSeconds": 15,
-      "playTimeSeconds": 123541,
+      "playTimeSeconds": 123601,
       "money": 246339,
       "gold": 326,
       "fame": 1339,
@@ -85,57 +35,47 @@
       "steamId": "76561198994811901",
       "name": "Malina",
       "sessionSeconds": 15,
-      "playTimeSeconds": 48884,
+      "playTimeSeconds": 48944,
       "money": 99071,
       "gold": 140,
-      "fame": 510,
-      "rank": 28
+      "fame": 511,
+      "rank": 27
     },
     {
       "steamId": "76561199758816988",
       "name": "Nikolai",
       "sessionSeconds": 15,
-      "playTimeSeconds": 120619,
-      "money": 131297,
-      "gold": 75,
-      "fame": 657,
+      "playTimeSeconds": 120679,
+      "money": 132297,
+      "gold": 80,
+      "fame": 667,
       "rank": 6
-    },
-    {
-      "steamId": "76561198877709613",
-      "name": "_RE_",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 47868,
-      "money": 701426,
-      "gold": 352,
-      "fame": 1864,
-      "rank": 29
-    },
-    {
-      "steamId": "76561198298044403",
-      "name": "Петрович",
-      "sessionSeconds": 15,
-      "playTimeSeconds": 10152,
-      "money": 1900,
-      "gold": 10,
-      "fame": 147,
-      "rank": 66
     },
     {
       "steamId": "76561198115245396",
       "name": "Хабаровчанин",
       "sessionSeconds": 15,
-      "playTimeSeconds": 55115,
+      "playTimeSeconds": 55175,
       "money": 1220352,
       "gold": 396,
       "fame": 2591,
       "rank": 24
     },
     {
+      "steamId": "76561198335985629",
+      "name": "Lapis",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 24518,
+      "money": 61891,
+      "gold": 120,
+      "fame": 471,
+      "rank": 41
+    },
+    {
       "steamId": "76561199001555207",
       "name": "Вульва",
       "sessionSeconds": 15,
-      "playTimeSeconds": 7931,
+      "playTimeSeconds": 7991,
       "money": 263436,
       "gold": 50,
       "fame": 219,
@@ -145,12 +85,22 @@
       "steamId": "76561199569191127",
       "name": "Mira",
       "sessionSeconds": 15,
-      "playTimeSeconds": 31971,
+      "playTimeSeconds": 32031,
       "money": 1617476,
       "gold": 359,
       "fame": 6970,
       "rank": 38
+    },
+    {
+      "steamId": "76561199801792277",
+      "name": "Сол Хоггар",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 32672,
+      "money": 608601,
+      "gold": 191,
+      "fame": 2467,
+      "rank": 36
     }
   ],
-  "updated": "2026-10-31T08:58:36.315Z"
+  "updated": "2026-10-31T08:59:36.322Z"
 }
