@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 156633,
+      "playTimeSeconds": 156693,
       "money": 88585,
       "gold": 1315,
       "fame": 2693,
@@ -62,6 +62,16 @@
     },
     {
       "rank": 7,
+      "steamId": "76561198826257359",
+      "name": "XXXX",
+      "playTimeSeconds": 123980,
+      "money": 527186,
+      "gold": 99,
+      "fame": 1742,
+      "isOnline": true
+    },
+    {
+      "rank": 8,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
       "playTimeSeconds": 123937,
@@ -69,16 +79,6 @@
       "gold": 3125,
       "fame": 9661,
       "isOnline": false
-    },
-    {
-      "rank": 8,
-      "steamId": "76561198826257359",
-      "name": "XXXX",
-      "playTimeSeconds": 123928,
-      "money": 527186,
-      "gold": 99,
-      "fame": 1742,
-      "isOnline": true
     },
     {
       "rank": 9,
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561199552589497",
+      "name": "Raskalbasman",
+      "playTimeSeconds": 79190,
+      "money": 381740,
+      "gold": 432,
+      "fame": 2331,
+      "isOnline": true
+    },
+    {
+      "rank": 16,
       "steamId": "76561198877709613",
       "name": "_RE_",
       "playTimeSeconds": 79140,
@@ -149,16 +159,6 @@
       "gold": 392,
       "fame": 2000,
       "isOnline": false
-    },
-    {
-      "rank": 16,
-      "steamId": "76561199552589497",
-      "name": "Raskalbasman",
-      "playTimeSeconds": 79130,
-      "money": 381740,
-      "gold": 432,
-      "fame": 2331,
-      "isOnline": true
     },
     {
       "rank": 17,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-01T00:57:47.391Z"
+  "updated": "2026-11-01T00:58:47.399Z"
 }
