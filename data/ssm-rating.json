@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561198799249034",
       "name": "Pafka",
-      "playTimeSeconds": 106614,
+      "playTimeSeconds": 106674,
       "money": 13116,
       "gold": 315,
       "fame": 586,
@@ -152,6 +152,16 @@
     },
     {
       "rank": 16,
+      "steamId": "76561198115245396",
+      "name": "Хабаровчанин",
+      "playTimeSeconds": 79158,
+      "money": 1578551,
+      "gold": 431,
+      "fame": 2804,
+      "isOnline": true
+    },
+    {
+      "rank": 17,
       "steamId": "76561198877709613",
       "name": "_RE_",
       "playTimeSeconds": 79140,
@@ -159,16 +169,6 @@
       "gold": 392,
       "fame": 2000,
       "isOnline": false
-    },
-    {
-      "rank": 17,
-      "steamId": "76561198115245396",
-      "name": "Хабаровчанин",
-      "playTimeSeconds": 79098,
-      "money": 1578551,
-      "gold": 431,
-      "fame": 2804,
-      "isOnline": true
     },
     {
       "rank": 18,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-01T02:54:48.281Z"
+  "updated": "2026-11-01T02:55:48.282Z"
 }
