@@ -4,17 +4,17 @@
       "rank": 1,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 183029,
+      "playTimeSeconds": 183077,
       "money": 47428,
       "gold": 1350,
       "fame": 2787,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 2,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 179397,
+      "playTimeSeconds": 179458,
       "money": 360870,
       "gold": 401,
       "fame": 1257,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 176455,
+      "playTimeSeconds": 176516,
       "money": 2059778,
       "gold": 472,
       "fame": 4023,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 125922,
+      "playTimeSeconds": 125983,
       "money": 4329530,
       "gold": 3130,
       "fame": 9817,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561198071060590",
       "name": "Sushi",
-      "playTimeSeconds": 99492,
+      "playTimeSeconds": 99553,
       "money": 1333503,
       "gold": 572,
       "fame": 10233,
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
-      "playTimeSeconds": 88081,
+      "playTimeSeconds": 88142,
       "money": 398790,
       "gold": 447,
       "fame": 2436,
@@ -162,6 +162,16 @@
     },
     {
       "rank": 17,
+      "steamId": "76561198328189885",
+      "name": "vlaD0S",
+      "playTimeSeconds": 80543,
+      "money": 3658737,
+      "gold": 306,
+      "fame": 12876,
+      "isOnline": true
+    },
+    {
+      "rank": 18,
       "steamId": "76561198032084496",
       "name": "бродяга",
       "playTimeSeconds": 80511,
@@ -171,20 +181,10 @@
       "isOnline": false
     },
     {
-      "rank": 18,
-      "steamId": "76561198328189885",
-      "name": "vlaD0S",
-      "playTimeSeconds": 80482,
-      "money": 3658737,
-      "gold": 306,
-      "fame": 12876,
-      "isOnline": true
-    },
-    {
       "rank": 19,
       "steamId": "76561198848497080",
       "name": "BERENDEI",
-      "playTimeSeconds": 80236,
+      "playTimeSeconds": 80297,
       "money": 61668,
       "gold": 110,
       "fame": 399,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-01T08:52:50.817Z"
+  "updated": "2026-11-01T08:53:50.824Z"
 }
