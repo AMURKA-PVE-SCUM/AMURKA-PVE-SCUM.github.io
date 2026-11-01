@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 7,
   "players": [
     {
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "sessionSeconds": 113257,
-      "playTimeSeconds": 122598,
+      "sessionSeconds": 113316,
+      "playTimeSeconds": 122657,
       "money": 4319680,
       "gold": 3125,
       "fame": 9658,
@@ -14,18 +14,28 @@
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 112696,
-      "playTimeSeconds": 239484,
+      "sessionSeconds": 112756,
+      "playTimeSeconds": 239543,
       "money": 2666929,
       "gold": 1445,
       "fame": 9088,
       "rank": 1
     },
     {
+      "steamId": "76561198327689237",
+      "name": "Albert",
+      "sessionSeconds": 110834,
+      "playTimeSeconds": 130117,
+      "money": 6956210,
+      "gold": 420,
+      "fame": 2095,
+      "rank": 6
+    },
+    {
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "sessionSeconds": 10,
-      "playTimeSeconds": 120813,
+      "sessionSeconds": 9,
+      "playTimeSeconds": 120872,
       "money": 525386,
       "gold": 94,
       "fame": 1724,
@@ -34,8 +44,8 @@
     {
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
-      "sessionSeconds": 10,
-      "playTimeSeconds": 76015,
+      "sessionSeconds": 9,
+      "playTimeSeconds": 76074,
       "money": 377540,
       "gold": 427,
       "fame": 2292,
@@ -44,8 +54,8 @@
     {
       "steamId": "76561198140281063",
       "name": "NetrezvbIi_Kot",
-      "sessionSeconds": 10,
-      "playTimeSeconds": 42439,
+      "sessionSeconds": 9,
+      "playTimeSeconds": 42498,
       "money": 438302,
       "gold": 273,
       "fame": 1922,
@@ -54,13 +64,13 @@
     {
       "steamId": "76561199000739219",
       "name": "Yakytenok",
-      "sessionSeconds": 10,
-      "playTimeSeconds": 21788,
+      "sessionSeconds": 9,
+      "playTimeSeconds": 21847,
       "money": 73817,
       "gold": 30,
       "fame": 590,
       "rank": 49
     }
   ],
-  "updated": "2026-11-01T00:05:47.022Z"
+  "updated": "2026-11-01T00:06:47.025Z"
 }
