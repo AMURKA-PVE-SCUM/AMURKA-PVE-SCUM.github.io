@@ -1,41 +1,61 @@
 {
-  "online": 7,
+  "online": 9,
   "players": [
     {
       "steamId": "76561199000739219",
       "name": "Yakytenok",
       "sessionSeconds": 4,
-      "playTimeSeconds": 30976,
+      "playTimeSeconds": 31036,
       "money": 60109,
       "gold": 45,
-      "fame": 640,
+      "fame": 641,
       "rank": 44
     },
     {
       "steamId": "76561198156375337",
       "name": "Domo",
       "sessionSeconds": 4,
-      "playTimeSeconds": 9853,
+      "playTimeSeconds": 9913,
       "money": 2118956,
       "gold": 11445,
       "fame": 279,
       "rank": 77
     },
     {
+      "steamId": "76561198084620275",
+      "name": "Денис",
+      "sessionSeconds": 4,
+      "playTimeSeconds": 172201,
+      "money": 2178713,
+      "gold": 467,
+      "fame": 3996,
+      "rank": 4
+    },
+    {
+      "steamId": "76561199504735154",
+      "name": "BuHHu nyx",
+      "sessionSeconds": 4,
+      "playTimeSeconds": 64834,
+      "money": 1026218,
+      "gold": 194,
+      "fame": 2883,
+      "rank": 29
+    },
+    {
       "steamId": "76561198139995845",
       "name": "SeverGorod",
       "sessionSeconds": 4,
-      "playTimeSeconds": 3156,
+      "playTimeSeconds": 3216,
       "money": 2976799,
       "gold": 1960,
       "fame": 6766,
-      "rank": 93
+      "rank": 91
     },
     {
       "steamId": "76561198027274150",
       "name": "Hiltor",
       "sessionSeconds": 4,
-      "playTimeSeconds": 2164,
+      "playTimeSeconds": 2224,
       "money": 0,
       "gold": 0,
       "fame": 2,
@@ -45,7 +65,7 @@
       "steamId": "76561198372786557",
       "name": "Ma_Min",
       "sessionSeconds": 4,
-      "playTimeSeconds": 16718,
+      "playTimeSeconds": 16778,
       "money": 12406,
       "gold": 20,
       "fame": 169,
@@ -55,7 +75,7 @@
       "steamId": "76561198068992719",
       "name": "Alina",
       "sessionSeconds": 4,
-      "playTimeSeconds": 13868,
+      "playTimeSeconds": 13928,
       "money": 2122985,
       "gold": 610,
       "fame": 1347,
@@ -65,12 +85,12 @@
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
       "sessionSeconds": 4,
-      "playTimeSeconds": 83767,
+      "playTimeSeconds": 83827,
       "money": 394890,
       "gold": 442,
       "fame": 2395,
       "rank": 16
     }
   ],
-  "updated": "2026-11-01T07:40:50.314Z"
+  "updated": "2026-11-01T07:41:50.321Z"
 }
