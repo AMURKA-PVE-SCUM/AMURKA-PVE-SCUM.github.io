@@ -2,6 +2,16 @@
   "leaderboard": [
     {
       "rank": 1,
+      "steamId": "76561198352984050",
+      "name": "Vlad",
+      "playTimeSeconds": 212101,
+      "money": 60648,
+      "gold": 1390,
+      "fame": 2893,
+      "isOnline": true
+    },
+    {
+      "rank": 2,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
       "playTimeSeconds": 212072,
@@ -9,16 +19,6 @@
       "gold": 447,
       "fame": 1594,
       "isOnline": false
-    },
-    {
-      "rank": 2,
-      "steamId": "76561198352984050",
-      "name": "Vlad",
-      "playTimeSeconds": 212041,
-      "money": 60648,
-      "gold": 1390,
-      "fame": 2893,
-      "isOnline": true
     },
     {
       "rank": 3,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-02T01:34:02.110Z"
+  "updated": "2026-11-02T01:35:02.116Z"
 }
