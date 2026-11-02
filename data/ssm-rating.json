@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 193875,
+      "playTimeSeconds": 193935,
       "money": 2090174,
       "gold": 517,
       "fame": 4168,
@@ -92,6 +92,16 @@
     },
     {
       "rank": 10,
+      "steamId": "76561199552589497",
+      "name": "Raskalbasman",
+      "playTimeSeconds": 130092,
+      "money": 424425,
+      "gold": 502,
+      "fame": 2688,
+      "isOnline": true
+    },
+    {
+      "rank": 11,
       "steamId": "76561199758816988",
       "name": "Nikolai",
       "playTimeSeconds": 130058,
@@ -99,16 +109,6 @@
       "gold": 90,
       "fame": 703,
       "isOnline": false
-    },
-    {
-      "rank": 11,
-      "steamId": "76561199552589497",
-      "name": "Raskalbasman",
-      "playTimeSeconds": 130032,
-      "money": 424425,
-      "gold": 502,
-      "fame": 2688,
-      "isOnline": true
     },
     {
       "rank": 12,
@@ -124,10 +124,10 @@
       "rank": 13,
       "steamId": "76561199086334651",
       "name": "Soda",
-      "playTimeSeconds": 113451,
-      "money": 128366,
-      "gold": 95,
-      "fame": 716,
+      "playTimeSeconds": 113511,
+      "money": 129366,
+      "gold": 100,
+      "fame": 726,
       "isOnline": true
     },
     {
@@ -174,8 +174,8 @@
       "rank": 18,
       "steamId": "76561198115245396",
       "name": "Хабаровчанин",
-      "playTimeSeconds": 103927,
-      "money": 1732174,
+      "playTimeSeconds": 103987,
+      "money": 1731124,
       "gold": 467,
       "fame": 3103,
       "isOnline": true
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-02T12:13:10.961Z"
+  "updated": "2026-11-02T12:14:10.970Z"
 }
