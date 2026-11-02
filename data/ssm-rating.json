@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 218570,
+      "playTimeSeconds": 218630,
       "money": 1341363,
       "gold": 705,
       "fame": 3966,
@@ -62,6 +62,16 @@
     },
     {
       "rank": 7,
+      "steamId": "76561198071060590",
+      "name": "Sushi",
+      "playTimeSeconds": 142003,
+      "money": 1665407,
+      "gold": 437,
+      "fame": 10948,
+      "isOnline": true
+    },
+    {
+      "rank": 8,
       "steamId": "76561198327689237",
       "name": "Albert",
       "playTimeSeconds": 141963,
@@ -69,16 +79,6 @@
       "gold": 455,
       "fame": 2232,
       "isOnline": false
-    },
-    {
-      "rank": 8,
-      "steamId": "76561198071060590",
-      "name": "Sushi",
-      "playTimeSeconds": 141943,
-      "money": 1665407,
-      "gold": 437,
-      "fame": 10948,
-      "isOnline": true
     },
     {
       "rank": 9,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-02T09:54:05.860Z"
+  "updated": "2026-11-02T09:55:05.860Z"
 }
