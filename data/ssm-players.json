@@ -1,11 +1,11 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "sessionSeconds": 340036,
-      "playTimeSeconds": 193564,
+      "sessionSeconds": 340096,
+      "playTimeSeconds": 193624,
       "money": 5650681,
       "gold": 3363,
       "fame": 13138,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198799249034",
       "name": "Pafka",
-      "sessionSeconds": 270410,
-      "playTimeSeconds": 183950,
+      "sessionSeconds": 270470,
+      "playTimeSeconds": 184010,
       "money": 327981,
       "gold": 145,
       "fame": 768,
@@ -25,27 +25,27 @@
       "steamId": "76561198071060590",
       "name": "Sushi",
       "sessionSeconds": 11,
-      "playTimeSeconds": 174105,
+      "playTimeSeconds": 174165,
       "money": 1865745,
       "gold": 488,
-      "fame": 11698,
+      "fame": 11702,
       "rank": 9
     },
     {
       "steamId": "76561198922600933",
       "name": "Лися",
       "sessionSeconds": 11,
-      "playTimeSeconds": 10523,
+      "playTimeSeconds": 10583,
       "money": 2000,
       "gold": 10,
       "fame": 33,
-      "rank": 87
+      "rank": 86
     },
     {
       "steamId": "76561198994811901",
       "name": "Malina",
       "sessionSeconds": 11,
-      "playTimeSeconds": 83503,
+      "playTimeSeconds": 83563,
       "money": 2285851,
       "gold": 1660,
       "fame": 7596,
@@ -55,7 +55,7 @@
       "steamId": "76561199469647730",
       "name": "eeddiikk",
       "sessionSeconds": 11,
-      "playTimeSeconds": 90115,
+      "playTimeSeconds": 90175,
       "money": 146679,
       "gold": 155,
       "fame": 483,
@@ -65,7 +65,7 @@
       "steamId": "76561198156438506",
       "name": "Tema HANT",
       "sessionSeconds": 11,
-      "playTimeSeconds": 16425,
+      "playTimeSeconds": 16485,
       "money": 4000,
       "gold": 20,
       "fame": 159,
@@ -75,12 +75,22 @@
       "steamId": "76561198790887864",
       "name": "Roma",
       "sessionSeconds": 11,
-      "playTimeSeconds": 277305,
+      "playTimeSeconds": 277365,
       "money": 1560668,
       "gold": 788,
       "fame": 4956,
       "rank": 3
+    },
+    {
+      "steamId": "76561199071383311",
+      "name": "DERSKAYAシ",
+      "sessionSeconds": 11,
+      "playTimeSeconds": 37882,
+      "money": 47167,
+      "gold": 45,
+      "fame": 243,
+      "rank": 50
     }
   ],
-  "updated": "2026-11-03T15:05:26.501Z"
+  "updated": "2026-11-03T15:06:26.513Z"
 }
