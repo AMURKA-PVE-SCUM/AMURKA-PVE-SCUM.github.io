@@ -1,26 +1,66 @@
 {
-  "online": 2,
+  "online": 6,
   "players": [
     {
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "sessionSeconds": 339916,
-      "playTimeSeconds": 193445,
+      "sessionSeconds": 339976,
+      "playTimeSeconds": 193504,
       "money": 5650681,
       "gold": 3363,
       "fame": 13138,
       "rank": 6
     },
     {
+      "steamId": "76561198799249034",
+      "name": "Pafka",
+      "sessionSeconds": 270350,
+      "playTimeSeconds": 183890,
+      "money": 327981,
+      "gold": 145,
+      "fame": 768,
+      "rank": 8
+    },
+    {
       "steamId": "76561198071060590",
       "name": "Sushi",
       "sessionSeconds": 11,
-      "playTimeSeconds": 173985,
+      "playTimeSeconds": 174045,
       "money": 1865745,
       "gold": 488,
       "fame": 11698,
       "rank": 9
+    },
+    {
+      "steamId": "76561198922600933",
+      "name": "Лися",
+      "sessionSeconds": 11,
+      "playTimeSeconds": 10463,
+      "money": 2000,
+      "gold": 10,
+      "fame": 33,
+      "rank": 88
+    },
+    {
+      "steamId": "76561198994811901",
+      "name": "Malina",
+      "sessionSeconds": 11,
+      "playTimeSeconds": 83443,
+      "money": 2285851,
+      "gold": 1660,
+      "fame": 7596,
+      "rank": 27
+    },
+    {
+      "steamId": "76561199469647730",
+      "name": "eeddiikk",
+      "sessionSeconds": 11,
+      "playTimeSeconds": 90055,
+      "money": 146679,
+      "gold": 155,
+      "fame": 483,
+      "rank": 24
     }
   ],
-  "updated": "2026-11-03T15:03:26.476Z"
+  "updated": "2026-11-03T15:04:26.488Z"
 }
