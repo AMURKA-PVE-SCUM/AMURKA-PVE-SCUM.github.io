@@ -1,26 +1,66 @@
 {
-  "online": 2,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198327689237",
       "name": "Albert",
-      "sessionSeconds": 326632,
-      "playTimeSeconds": 187868,
+      "sessionSeconds": 326692,
+      "playTimeSeconds": 187930,
       "money": 7338578,
       "gold": 530,
       "fame": 2449,
       "rank": 6
     },
     {
+      "steamId": "76561198799249034",
+      "name": "Pafka",
+      "sessionSeconds": 259549,
+      "playTimeSeconds": 173183,
+      "money": 424049,
+      "gold": 180,
+      "fame": 711,
+      "rank": 8
+    },
+    {
       "steamId": "76561198328189885",
       "name": "vlaD0S",
-      "sessionSeconds": 162256,
-      "playTimeSeconds": 137793,
+      "sessionSeconds": 162316,
+      "playTimeSeconds": 137854,
       "money": 4490870,
       "gold": 387,
       "fame": 16104,
       "rank": 13
+    },
+    {
+      "steamId": "76561199877063571",
+      "name": "Mazay",
+      "sessionSeconds": 162260,
+      "playTimeSeconds": 304714,
+      "money": 2681835,
+      "gold": 1535,
+      "fame": 9417,
+      "rank": 1
+    },
+    {
+      "steamId": "76561198352984050",
+      "name": "Vlad",
+      "sessionSeconds": 25,
+      "playTimeSeconds": 268366,
+      "money": 84801,
+      "gold": 1465,
+      "fame": 3102,
+      "rank": 2
+    },
+    {
+      "steamId": "76561199218614720",
+      "name": "Демоница",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 77726,
+      "money": 15063,
+      "gold": 105,
+      "fame": 430,
+      "rank": 27
     }
   ],
-  "updated": "2026-11-03T12:03:25.214Z"
+  "updated": "2026-11-03T12:04:25.220Z"
 }
