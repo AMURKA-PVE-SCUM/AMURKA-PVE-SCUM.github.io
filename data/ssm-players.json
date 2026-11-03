@@ -1,11 +1,11 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198029476275",
       "name": "XEH",
-      "sessionSeconds": 349637,
-      "playTimeSeconds": 142489,
+      "sessionSeconds": 349697,
+      "playTimeSeconds": 142549,
       "money": 1288988,
       "gold": 700,
       "fame": 3830,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198327689237",
       "name": "Albert",
-      "sessionSeconds": 348535,
-      "playTimeSeconds": 203039,
+      "sessionSeconds": 348595,
+      "playTimeSeconds": 203099,
       "money": 7342578,
       "gold": 550,
       "fame": 2499,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "sessionSeconds": 184138,
-      "playTimeSeconds": 179569,
+      "sessionSeconds": 184198,
+      "playTimeSeconds": 179629,
       "money": 825732,
       "gold": 75,
       "fame": 1418,
@@ -34,9 +34,9 @@
     {
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
-      "sessionSeconds": 184096,
-      "playTimeSeconds": 114515,
-      "money": 1574146,
+      "sessionSeconds": 184156,
+      "playTimeSeconds": 114575,
+      "money": 1573946,
       "gold": 709,
       "fame": 5609,
       "rank": 21
@@ -45,12 +45,22 @@
       "steamId": "76561198846871689",
       "name": "THE_PAHA",
       "sessionSeconds": 27,
-      "playTimeSeconds": 15820,
+      "playTimeSeconds": 15880,
       "money": 4000,
       "gold": 20,
       "fame": 60,
       "rank": 76
+    },
+    {
+      "steamId": "76561199206600084",
+      "name": "Pod_Pivas",
+      "sessionSeconds": 22,
+      "playTimeSeconds": 19546,
+      "money": 6021,
+      "gold": 10,
+      "fame": 176,
+      "rank": 68
     }
   ],
-  "updated": "2026-11-03T18:08:27.798Z"
+  "updated": "2026-11-03T18:09:27.805Z"
 }
