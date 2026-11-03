@@ -2,6 +2,16 @@
   "leaderboard": [
     {
       "rank": 1,
+      "steamId": "76561198790887864",
+      "name": "Roma",
+      "playTimeSeconds": 288307,
+      "money": 1564668,
+      "gold": 808,
+      "fame": 5001,
+      "isOnline": true
+    },
+    {
+      "rank": 2,
       "steamId": "76561198352984050",
       "name": "Vlad",
       "playTimeSeconds": 288292,
@@ -9,16 +19,6 @@
       "gold": 1495,
       "fame": 3176,
       "isOnline": false
-    },
-    {
-      "rank": 2,
-      "steamId": "76561198790887864",
-      "name": "Roma",
-      "playTimeSeconds": 288247,
-      "money": 1564668,
-      "gold": 808,
-      "fame": 5001,
-      "isOnline": true
     },
     {
       "rank": 3,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 203519,
+      "playTimeSeconds": 203579,
       "money": 7342578,
       "gold": 550,
       "fame": 2500,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 180049,
+      "playTimeSeconds": 180109,
       "money": 825732,
       "gold": 75,
       "fame": 1419,
@@ -94,10 +94,10 @@
       "rank": 10,
       "steamId": "76561198328189885",
       "name": "vlaD0S",
-      "playTimeSeconds": 158776,
+      "playTimeSeconds": 158836,
       "money": 4915712,
       "gold": 412,
-      "fame": 17460,
+      "fame": 17461,
       "isOnline": true
     },
     {
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561198029476275",
       "name": "XEH",
-      "playTimeSeconds": 142969,
+      "playTimeSeconds": 143029,
       "money": 1288988,
       "gold": 700,
       "fame": 3831,
@@ -194,12 +194,12 @@
       "rank": 20,
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
-      "playTimeSeconds": 114995,
+      "playTimeSeconds": 115055,
       "money": 1573946,
       "gold": 709,
       "fame": 5609,
       "isOnline": true
     }
   ],
-  "updated": "2026-11-03T18:16:27.857Z"
+  "updated": "2026-11-03T18:17:27.864Z"
 }
