@@ -1,11 +1,11 @@
 {
-  "online": 9,
+  "online": 12,
   "players": [
     {
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "sessionSeconds": 340096,
-      "playTimeSeconds": 193624,
+      "sessionSeconds": 340156,
+      "playTimeSeconds": 193685,
       "money": 5650681,
       "gold": 3363,
       "fame": 13138,
@@ -14,18 +14,38 @@
     {
       "steamId": "76561198799249034",
       "name": "Pafka",
-      "sessionSeconds": 270470,
-      "playTimeSeconds": 184010,
+      "sessionSeconds": 270530,
+      "playTimeSeconds": 184071,
       "money": 327981,
       "gold": 145,
       "fame": 768,
       "rank": 8
     },
     {
+      "steamId": "76561198372320271",
+      "name": "ADA",
+      "sessionSeconds": 260412,
+      "playTimeSeconds": 118649,
+      "money": 2462302,
+      "gold": 229,
+      "fame": 6349,
+      "rank": 17
+    },
+    {
+      "steamId": "76561198826257359",
+      "name": "XXXX",
+      "sessionSeconds": 173277,
+      "playTimeSeconds": 168752,
+      "money": 780307,
+      "gold": 60,
+      "fame": 1447,
+      "rank": 10
+    },
+    {
       "steamId": "76561198071060590",
       "name": "Sushi",
       "sessionSeconds": 11,
-      "playTimeSeconds": 174165,
+      "playTimeSeconds": 174226,
       "money": 1865745,
       "gold": 488,
       "fame": 11702,
@@ -35,17 +55,17 @@
       "steamId": "76561198922600933",
       "name": "Лися",
       "sessionSeconds": 11,
-      "playTimeSeconds": 10583,
+      "playTimeSeconds": 10644,
       "money": 2000,
       "gold": 10,
       "fame": 33,
-      "rank": 86
+      "rank": 85
     },
     {
       "steamId": "76561198994811901",
       "name": "Malina",
       "sessionSeconds": 11,
-      "playTimeSeconds": 83563,
+      "playTimeSeconds": 83624,
       "money": 2285851,
       "gold": 1660,
       "fame": 7596,
@@ -55,7 +75,7 @@
       "steamId": "76561199469647730",
       "name": "eeddiikk",
       "sessionSeconds": 11,
-      "playTimeSeconds": 90175,
+      "playTimeSeconds": 90236,
       "money": 146679,
       "gold": 155,
       "fame": 483,
@@ -65,7 +85,7 @@
       "steamId": "76561198156438506",
       "name": "Tema HANT",
       "sessionSeconds": 11,
-      "playTimeSeconds": 16485,
+      "playTimeSeconds": 16546,
       "money": 4000,
       "gold": 20,
       "fame": 159,
@@ -75,22 +95,32 @@
       "steamId": "76561198790887864",
       "name": "Roma",
       "sessionSeconds": 11,
-      "playTimeSeconds": 277365,
-      "money": 1560668,
-      "gold": 788,
-      "fame": 4956,
+      "playTimeSeconds": 277426,
+      "money": 1561668,
+      "gold": 793,
+      "fame": 4967,
       "rank": 3
     },
     {
       "steamId": "76561199071383311",
       "name": "DERSKAYAシ",
       "sessionSeconds": 11,
-      "playTimeSeconds": 37882,
+      "playTimeSeconds": 37943,
       "money": 47167,
       "gold": 45,
       "fame": 243,
       "rank": 50
+    },
+    {
+      "steamId": "76561199218614720",
+      "name": "Демоница",
+      "sessionSeconds": 11,
+      "playTimeSeconds": 84231,
+      "money": 17178,
+      "gold": 60,
+      "fame": 480,
+      "rank": 26
     }
   ],
-  "updated": "2026-11-03T15:06:26.513Z"
+  "updated": "2026-11-03T15:07:26.523Z"
 }
