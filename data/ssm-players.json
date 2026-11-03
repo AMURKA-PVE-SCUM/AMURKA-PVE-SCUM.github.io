@@ -1,21 +1,11 @@
 {
-  "online": 5,
+  "online": 4,
   "players": [
-    {
-      "steamId": "76561199125649189",
-      "name": "HEADLESS",
-      "sessionSeconds": 23,
-      "playTimeSeconds": 212422,
-      "money": 5673456,
-      "gold": 3388,
-      "fame": 13453,
-      "rank": 5
-    },
     {
       "steamId": "76561198826257359",
       "name": "XXXX",
       "sessionSeconds": 23,
-      "playTimeSeconds": 198018,
+      "playTimeSeconds": 198078,
       "money": 911017,
       "gold": 100,
       "fame": 1293,
@@ -25,32 +15,32 @@
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "sessionSeconds": 23,
-      "playTimeSeconds": 106431,
-      "money": 462885,
+      "playTimeSeconds": 106491,
+      "money": 464770,
       "gold": 1849,
       "fame": 3870,
       "rank": 23
     },
     {
-      "steamId": "76561199877063571",
-      "name": "Mazay",
-      "sessionSeconds": 23,
-      "playTimeSeconds": 314162,
-      "money": 2683835,
-      "gold": 1545,
-      "fame": 9443,
-      "rank": 1
-    },
-    {
       "steamId": "76561198123537318",
       "name": "aloxa",
-      "sessionSeconds": 1,
-      "playTimeSeconds": 3199,
+      "sessionSeconds": 23,
+      "playTimeSeconds": 3258,
       "money": 246364,
       "gold": 60,
       "fame": 665,
       "rank": 107
+    },
+    {
+      "steamId": "76561199877063571",
+      "name": "Mazay",
+      "sessionSeconds": 23,
+      "playTimeSeconds": 314222,
+      "money": 2683835,
+      "gold": 1545,
+      "fame": 9443,
+      "rank": 1
     }
   ],
-  "updated": "2026-11-03T23:26:30.169Z"
+  "updated": "2026-11-03T23:27:30.179Z"
 }
