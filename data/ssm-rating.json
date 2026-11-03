@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 208228,
+      "playTimeSeconds": 208288,
       "money": 5672456,
       "gold": 3383,
       "fame": 13440,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 194387,
+      "playTimeSeconds": 194447,
       "money": 920428,
       "gold": 95,
       "fame": 1378,
@@ -152,6 +152,16 @@
     },
     {
       "rank": 16,
+      "steamId": "76561199562774415",
+      "name": "ALIGATOR",
+      "playTimeSeconds": 129210,
+      "money": 1757178,
+      "gold": 729,
+      "fame": 6008,
+      "isOnline": true
+    },
+    {
+      "rank": 17,
       "steamId": "76561198115245396",
       "name": "Хабаровчанин",
       "playTimeSeconds": 129179,
@@ -161,20 +171,10 @@
       "isOnline": false
     },
     {
-      "rank": 17,
-      "steamId": "76561199562774415",
-      "name": "ALIGATOR",
-      "playTimeSeconds": 129150,
-      "money": 1756278,
-      "gold": 729,
-      "fame": 6008,
-      "isOnline": true
-    },
-    {
       "rank": 18,
       "steamId": "76561199569191127",
       "name": "Mira",
-      "playTimeSeconds": 127887,
+      "playTimeSeconds": 127947,
       "money": 1796855,
       "gold": 469,
       "fame": 8222,
@@ -184,10 +184,10 @@
       "rank": 19,
       "steamId": "76561198037904934",
       "name": "Astaf",
-      "playTimeSeconds": 121301,
+      "playTimeSeconds": 121361,
       "money": 1259621,
       "gold": 406,
-      "fame": 2829,
+      "fame": 2830,
       "isOnline": true
     },
     {
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-03T22:16:29.632Z"
+  "updated": "2026-11-03T22:17:29.640Z"
 }
