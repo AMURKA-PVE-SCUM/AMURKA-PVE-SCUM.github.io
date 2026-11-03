@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198327689237",
       "name": "Albert",
-      "sessionSeconds": 315227,
-      "playTimeSeconds": 182825,
+      "sessionSeconds": 315287,
+      "playTimeSeconds": 182886,
       "money": 7288013,
       "gold": 510,
       "fame": 2373,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198099206226",
       "name": "Донской",
-      "sessionSeconds": 11,
-      "playTimeSeconds": 22101,
+      "sessionSeconds": 10,
+      "playTimeSeconds": 22162,
       "money": 94382,
       "gold": 95,
       "fame": 470,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198071060590",
       "name": "Sushi",
-      "sessionSeconds": 11,
-      "playTimeSeconds": 164940,
+      "sessionSeconds": 10,
+      "playTimeSeconds": 165001,
       "money": 1777516,
       "gold": 472,
       "fame": 11388,
@@ -34,8 +34,8 @@
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 11,
-      "playTimeSeconds": 257420,
+      "sessionSeconds": 10,
+      "playTimeSeconds": 257481,
       "money": 1510985,
       "gold": 762,
       "fame": 4652,
@@ -44,8 +44,8 @@
     {
       "steamId": "76561198084620275",
       "name": "Денис",
-      "sessionSeconds": 11,
-      "playTimeSeconds": 236033,
+      "sessionSeconds": 10,
+      "playTimeSeconds": 236094,
       "money": 2234163,
       "gold": 572,
       "fame": 4553,
@@ -54,8 +54,8 @@
     {
       "steamId": "76561199480908551",
       "name": "gv_61 rus",
-      "sessionSeconds": 11,
-      "playTimeSeconds": 45539,
+      "sessionSeconds": 10,
+      "playTimeSeconds": 45600,
       "money": 214457,
       "gold": 832,
       "fame": 1335,
@@ -64,13 +64,23 @@
     {
       "steamId": "76561198964027531",
       "name": "ОЛЕЖА",
-      "sessionSeconds": 11,
-      "playTimeSeconds": 15140,
+      "sessionSeconds": 10,
+      "playTimeSeconds": 15201,
       "money": 28430,
       "gold": 20,
       "fame": 182,
       "rank": 70
+    },
+    {
+      "steamId": "76561198611677089",
+      "name": "skum10872",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 31499,
+      "money": 44338,
+      "gold": 40,
+      "fame": 128,
+      "rank": 51
     }
   ],
-  "updated": "2026-11-03T08:53:19.841Z"
+  "updated": "2026-11-03T08:54:19.850Z"
 }
