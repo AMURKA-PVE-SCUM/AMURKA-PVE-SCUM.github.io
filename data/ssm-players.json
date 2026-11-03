@@ -1,11 +1,21 @@
 {
-  "online": 15,
+  "online": 16,
   "players": [
+    {
+      "steamId": "76561198029476275",
+      "name": "XEH",
+      "sessionSeconds": 346696,
+      "playTimeSeconds": 139840,
+      "money": 1296468,
+      "gold": 695,
+      "fame": 3818,
+      "rank": 15
+    },
     {
       "steamId": "76561198327689237",
       "name": "Albert",
-      "sessionSeconds": 345535,
-      "playTimeSeconds": 200045,
+      "sessionSeconds": 345595,
+      "playTimeSeconds": 200105,
       "money": 7341578,
       "gold": 545,
       "fame": 2488,
@@ -14,8 +24,8 @@
     {
       "steamId": "76561198799249034",
       "name": "Pafka",
-      "sessionSeconds": 278391,
-      "playTimeSeconds": 191918,
+      "sessionSeconds": 278451,
+      "playTimeSeconds": 191978,
       "money": 911098,
       "gold": 55,
       "fame": 809,
@@ -24,8 +34,8 @@
     {
       "steamId": "76561198328189885",
       "name": "vlaD0S",
-      "sessionSeconds": 181158,
-      "playTimeSeconds": 155945,
+      "sessionSeconds": 181218,
+      "playTimeSeconds": 156005,
       "money": 4820912,
       "gold": 412,
       "fame": 17147,
@@ -34,8 +44,8 @@
     {
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "sessionSeconds": 181137,
-      "playTimeSeconds": 176599,
+      "sessionSeconds": 181197,
+      "playTimeSeconds": 176659,
       "money": 841432,
       "gold": 70,
       "fame": 1403,
@@ -44,8 +54,8 @@
     {
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
-      "sessionSeconds": 181096,
-      "playTimeSeconds": 111794,
+      "sessionSeconds": 181156,
+      "playTimeSeconds": 111854,
       "money": 1569546,
       "gold": 704,
       "fame": 5577,
@@ -54,8 +64,8 @@
     {
       "steamId": "76561198790887864",
       "name": "Roma",
-      "sessionSeconds": 1,
-      "playTimeSeconds": 285273,
+      "sessionSeconds": 0,
+      "playTimeSeconds": 285333,
       "money": 1563668,
       "gold": 803,
       "fame": 4988,
@@ -64,8 +74,8 @@
     {
       "steamId": "76561199071383311",
       "name": "DERSKAYAシ",
-      "sessionSeconds": 1,
-      "playTimeSeconds": 45790,
+      "sessionSeconds": 0,
+      "playTimeSeconds": 45850,
       "money": 46020,
       "gold": 55,
       "fame": 298,
@@ -74,8 +84,8 @@
     {
       "steamId": "76561199218614720",
       "name": "Демоница",
-      "sessionSeconds": 1,
-      "playTimeSeconds": 92078,
+      "sessionSeconds": 0,
+      "playTimeSeconds": 92138,
       "money": 8708,
       "gold": 70,
       "fame": 515,
@@ -84,8 +94,8 @@
     {
       "steamId": "76561198450136639",
       "name": "AmadeusExe",
-      "sessionSeconds": 1,
-      "playTimeSeconds": 16322,
+      "sessionSeconds": 0,
+      "playTimeSeconds": 16382,
       "money": 4665,
       "gold": 20,
       "fame": 154,
@@ -94,18 +104,18 @@
     {
       "steamId": "76561199206600084",
       "name": "Pod_Pivas",
-      "sessionSeconds": 1,
-      "playTimeSeconds": 16851,
+      "sessionSeconds": 0,
+      "playTimeSeconds": 16911,
       "money": 767,
       "gold": 5,
       "fame": 164,
-      "rank": 71
+      "rank": 70
     },
     {
       "steamId": "76561198084620275",
       "name": "Денис",
-      "sessionSeconds": 1,
-      "playTimeSeconds": 264580,
+      "sessionSeconds": 0,
+      "playTimeSeconds": 264640,
       "money": 2244163,
       "gold": 612,
       "fame": 4663,
@@ -114,8 +124,8 @@
     {
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "sessionSeconds": 1,
-      "playTimeSeconds": 286036,
+      "sessionSeconds": 0,
+      "playTimeSeconds": 286096,
       "money": 78312,
       "gold": 1490,
       "fame": 3165,
@@ -124,8 +134,8 @@
     {
       "steamId": "76561199086334651",
       "name": "Soda",
-      "sessionSeconds": 1,
-      "playTimeSeconds": 146866,
+      "sessionSeconds": 0,
+      "playTimeSeconds": 146926,
       "money": 53482,
       "gold": 30,
       "fame": 1004,
@@ -134,8 +144,8 @@
     {
       "steamId": "76561198065319845",
       "name": "CAPITAN",
-      "sessionSeconds": 1,
-      "playTimeSeconds": 14589,
+      "sessionSeconds": 0,
+      "playTimeSeconds": 14649,
       "money": 30963,
       "gold": 20,
       "fame": 173,
@@ -144,13 +154,13 @@
     {
       "steamId": "76561198846871689",
       "name": "THE_PAHA",
-      "sessionSeconds": 1,
-      "playTimeSeconds": 12826,
+      "sessionSeconds": 0,
+      "playTimeSeconds": 12886,
       "money": 3000,
       "gold": 15,
       "fame": 48,
-      "rank": 83
+      "rank": 82
     }
   ],
-  "updated": "2026-11-03T17:18:27.387Z"
+  "updated": "2026-11-03T17:19:27.391Z"
 }
