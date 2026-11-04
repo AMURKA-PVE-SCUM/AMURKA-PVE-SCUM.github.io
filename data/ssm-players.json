@@ -1,11 +1,11 @@
 {
-  "online": 4,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198140281063",
       "name": "NetrezvbIi_Kot",
-      "sessionSeconds": 43915,
-      "playTimeSeconds": 89117,
+      "sessionSeconds": 43975,
+      "playTimeSeconds": 89177,
       "money": 585912,
       "gold": 341,
       "fame": 2896,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198328189885",
       "name": "vlaD0S",
-      "sessionSeconds": 22118,
-      "playTimeSeconds": 199236,
+      "sessionSeconds": 22178,
+      "playTimeSeconds": 199296,
       "money": 4129393,
       "gold": 473,
       "fame": 19285,
@@ -25,7 +25,7 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 3,
-      "playTimeSeconds": 300635,
+      "playTimeSeconds": 300695,
       "money": 97312,
       "gold": 1520,
       "fame": 3275,
@@ -35,12 +35,32 @@
       "steamId": "76561198379125401",
       "name": "Taeno",
       "sessionSeconds": 3,
-      "playTimeSeconds": 32123,
+      "playTimeSeconds": 32183,
       "money": 270839,
       "gold": 130,
       "fame": 570,
       "rank": 56
+    },
+    {
+      "steamId": "76561198639769972",
+      "name": "小茉莉",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 305,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "rank": 154
+    },
+    {
+      "steamId": "76561199125649189",
+      "name": "HEADLESS",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 235678,
+      "money": 6119357,
+      "gold": 3454,
+      "fame": 14882,
+      "rank": 7
     }
   ],
-  "updated": "2026-11-04T21:03:43.902Z"
+  "updated": "2026-11-04T21:04:43.915Z"
 }
