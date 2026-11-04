@@ -1,21 +1,31 @@
 {
-  "online": 8,
+  "online": 10,
   "players": [
     {
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "sessionSeconds": 30,
-      "playTimeSeconds": 217804,
+      "sessionSeconds": 90,
+      "playTimeSeconds": 217864,
       "money": 384712,
       "gold": 452,
       "fame": 1608,
       "rank": 6
     },
     {
+      "steamId": "76561198037904934",
+      "name": "Astaf",
+      "sessionSeconds": 14,
+      "playTimeSeconds": 126227,
+      "money": 1260621,
+      "gold": 411,
+      "fame": 2849,
+      "rank": 20
+    },
+    {
       "steamId": "76561199086334651",
       "name": "Soda",
       "sessionSeconds": 8,
-      "playTimeSeconds": 154089,
+      "playTimeSeconds": 154149,
       "money": 36132,
       "gold": 40,
       "fame": 1032,
@@ -25,7 +35,7 @@
       "steamId": "76561198790887864",
       "name": "Roma",
       "sessionSeconds": 8,
-      "playTimeSeconds": 302093,
+      "playTimeSeconds": 302153,
       "money": 1625867,
       "gold": 823,
       "fame": 5099,
@@ -35,7 +45,7 @@
       "steamId": "76561198084620275",
       "name": "Денис",
       "sessionSeconds": 8,
-      "playTimeSeconds": 272698,
+      "playTimeSeconds": 272758,
       "money": 2247163,
       "gold": 622,
       "fame": 4698,
@@ -45,7 +55,7 @@
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "sessionSeconds": 8,
-      "playTimeSeconds": 113996,
+      "playTimeSeconds": 114056,
       "money": 516405,
       "gold": 1854,
       "fame": 3948,
@@ -55,7 +65,7 @@
       "steamId": "76561198156375337",
       "name": "Domo",
       "sessionSeconds": 8,
-      "playTimeSeconds": 22734,
+      "playTimeSeconds": 22794,
       "money": 2122956,
       "gold": 11465,
       "fame": 331,
@@ -65,7 +75,7 @@
       "steamId": "76561199758816988",
       "name": "Nikolai",
       "sessionSeconds": 8,
-      "playTimeSeconds": 169022,
+      "playTimeSeconds": 169082,
       "money": 1149104,
       "gold": 145,
       "fame": 847,
@@ -75,12 +85,22 @@
       "steamId": "76561199857773373",
       "name": "DeD_Admural",
       "sessionSeconds": 8,
-      "playTimeSeconds": 3046,
+      "playTimeSeconds": 3106,
       "money": 365097,
       "gold": 115,
       "fame": 273,
       "rank": 109
+    },
+    {
+      "steamId": "76561199071383311",
+      "name": "DERSKAYAシ",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 54917,
+      "money": 45804,
+      "gold": 70,
+      "fame": 409,
+      "rank": 42
     }
   ],
-  "updated": "2026-11-04T06:36:33.388Z"
+  "updated": "2026-11-04T06:37:33.403Z"
 }
