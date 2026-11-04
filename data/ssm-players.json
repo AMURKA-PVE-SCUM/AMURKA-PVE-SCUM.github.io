@@ -1,11 +1,21 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
+    {
+      "steamId": "76561198140281063",
+      "name": "NetrezvbIi_Kot",
+      "sessionSeconds": 47456,
+      "playTimeSeconds": 92590,
+      "money": 728152,
+      "gold": 347,
+      "fame": 3219,
+      "rank": 27
+    },
     {
       "steamId": "76561198328189885",
       "name": "vlaD0S",
-      "sessionSeconds": 25599,
-      "playTimeSeconds": 202664,
+      "sessionSeconds": 25659,
+      "playTimeSeconds": 202724,
       "money": 3630393,
       "gold": 478,
       "fame": 19297,
@@ -15,7 +25,7 @@
       "steamId": "76561198639769972",
       "name": "小茉莉",
       "sessionSeconds": 28,
-      "playTimeSeconds": 3722,
+      "playTimeSeconds": 3782,
       "money": 1000,
       "gold": 5,
       "fame": 14,
@@ -25,7 +35,7 @@
       "steamId": "76561198037904934",
       "name": "Astaf",
       "sessionSeconds": 28,
-      "playTimeSeconds": 159487,
+      "playTimeSeconds": 159547,
       "money": 1780727,
       "gold": 457,
       "fame": 3181,
@@ -35,7 +45,7 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 28,
-      "playTimeSeconds": 304068,
+      "playTimeSeconds": 304128,
       "money": 98312,
       "gold": 1525,
       "fame": 3291,
@@ -45,12 +55,12 @@
       "steamId": "76561198327689237",
       "name": "Albert",
       "sessionSeconds": 28,
-      "playTimeSeconds": 244324,
+      "playTimeSeconds": 244384,
       "money": 7387402,
       "gold": 590,
       "fame": 2595,
       "rank": 6
     }
   ],
-  "updated": "2026-11-04T22:01:44.346Z"
+  "updated": "2026-11-04T22:02:44.352Z"
 }
