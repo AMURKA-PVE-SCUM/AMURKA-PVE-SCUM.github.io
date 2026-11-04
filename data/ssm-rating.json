@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 319309,
+      "playTimeSeconds": 319369,
       "money": 1639806,
       "gold": 848,
       "fame": 5260,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 300071,
+      "playTimeSeconds": 300131,
       "money": 2316833,
       "gold": 662,
       "fame": 4928,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 244918,
+      "playTimeSeconds": 244978,
       "money": 452368,
       "gold": 497,
       "fame": 1792,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 202873,
+      "playTimeSeconds": 202933,
       "money": 918267,
       "gold": 105,
       "fame": 1182,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561199758816988",
       "name": "Nikolai",
-      "playTimeSeconds": 196667,
+      "playTimeSeconds": 196727,
       "money": 1313676,
       "gold": 180,
       "fame": 947,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561198071060590",
       "name": "Sushi",
-      "playTimeSeconds": 196153,
+      "playTimeSeconds": 196213,
       "money": 2034605,
       "gold": 533,
       "fame": 11994,
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561199086334651",
       "name": "Soda",
-      "playTimeSeconds": 166636,
+      "playTimeSeconds": 166696,
       "money": 85530,
       "gold": 55,
       "fame": 1170,
@@ -172,6 +172,16 @@
     },
     {
       "rank": 18,
+      "steamId": "76561199569191127",
+      "name": "Mira",
+      "playTimeSeconds": 129724,
+      "money": 1797855,
+      "gold": 474,
+      "fame": 8238,
+      "isOnline": true
+    },
+    {
+      "rank": 19,
       "steamId": "76561198372320271",
       "name": "ADA",
       "playTimeSeconds": 129678,
@@ -179,16 +189,6 @@
       "gold": 244,
       "fame": 6375,
       "isOnline": false
-    },
-    {
-      "rank": 19,
-      "steamId": "76561199569191127",
-      "name": "Mira",
-      "playTimeSeconds": 129664,
-      "money": 1796855,
-      "gold": 469,
-      "fame": 8228,
-      "isOnline": true
     },
     {
       "rank": 20,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-04T14:34:41.135Z"
+  "updated": "2026-11-04T14:35:41.142Z"
 }
