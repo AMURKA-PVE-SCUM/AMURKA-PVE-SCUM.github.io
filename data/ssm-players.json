@@ -1,11 +1,11 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198327689237",
       "name": "Albert",
       "sessionSeconds": 0,
-      "playTimeSeconds": 220913,
+      "playTimeSeconds": 220973,
       "money": 7415590,
       "gold": 580,
       "fame": 2567,
@@ -15,7 +15,7 @@
       "steamId": "76561198799249034",
       "name": "Pafka",
       "sessionSeconds": 0,
-      "playTimeSeconds": 197212,
+      "playTimeSeconds": 197272,
       "money": 1442962,
       "gold": 25,
       "fame": 838,
@@ -25,7 +25,7 @@
       "steamId": "76561199758816988",
       "name": "Nikolai",
       "sessionSeconds": 0,
-      "playTimeSeconds": 160818,
+      "playTimeSeconds": 160878,
       "money": 1202939,
       "gold": 135,
       "fame": 820,
@@ -35,8 +35,8 @@
       "steamId": "76561199071383311",
       "name": "DERSKAYAシ",
       "sessionSeconds": 0,
-      "playTimeSeconds": 48679,
-      "money": 39436,
+      "playTimeSeconds": 48739,
+      "money": 40507,
       "gold": 60,
       "fame": 334,
       "rank": 46
@@ -45,12 +45,22 @@
       "steamId": "76561198790887864",
       "name": "Roma",
       "sessionSeconds": 0,
-      "playTimeSeconds": 293974,
+      "playTimeSeconds": 294034,
       "money": 1623867,
       "gold": 813,
       "fame": 5071,
       "rank": 2
+    },
+    {
+      "steamId": "76561198922600933",
+      "name": "Лися",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 16292,
+      "money": 4000,
+      "gold": 20,
+      "fame": 63,
+      "rank": 76
     }
   ],
-  "updated": "2026-11-04T04:18:32.377Z"
+  "updated": "2026-11-04T04:19:32.381Z"
 }
