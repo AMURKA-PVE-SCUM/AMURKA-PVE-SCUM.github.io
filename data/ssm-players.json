@@ -1,11 +1,11 @@
 {
-  "online": 5,
+  "online": 7,
   "players": [
     {
       "steamId": "76561198328189885",
       "name": "vlaD0S",
-      "sessionSeconds": 5570,
-      "playTimeSeconds": 176283,
+      "sessionSeconds": 5630,
+      "playTimeSeconds": 176343,
       "money": 3980054,
       "gold": 437,
       "fame": 17885,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "sessionSeconds": 2615,
-      "playTimeSeconds": 226545,
+      "sessionSeconds": 2675,
+      "playTimeSeconds": 226605,
       "money": 395624,
       "gold": 472,
       "fame": 1648,
@@ -24,18 +24,28 @@
     {
       "steamId": "76561198804609242",
       "name": "Немезида",
-      "sessionSeconds": 1487,
-      "playTimeSeconds": 1419,
+      "sessionSeconds": 1547,
+      "playTimeSeconds": 1479,
       "money": 0,
       "gold": 0,
       "fame": 3,
       "rank": 126
     },
     {
+      "steamId": "76561199038664626",
+      "name": "VeNoM",
+      "sessionSeconds": 939,
+      "playTimeSeconds": 3595,
+      "money": 1000,
+      "gold": 5,
+      "fame": 118,
+      "rank": 108
+    },
+    {
       "steamId": "76561198140281063",
       "name": "NetrezvbIi_Kot",
-      "sessionSeconds": 826,
-      "playTimeSeconds": 65994,
+      "sessionSeconds": 886,
+      "playTimeSeconds": 66054,
       "money": 575744,
       "gold": 306,
       "fame": 2679,
@@ -45,12 +55,22 @@
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 0,
-      "playTimeSeconds": 56282,
+      "playTimeSeconds": 56342,
       "money": 746940,
       "gold": 665,
       "fame": 1658,
       "rank": 42
+    },
+    {
+      "steamId": "76561198037904934",
+      "name": "Astaf",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 134666,
+      "money": 1263621,
+      "gold": 426,
+      "fame": 2900,
+      "rank": 17
     }
   ],
-  "updated": "2026-11-04T09:05:34.509Z"
+  "updated": "2026-11-04T09:06:34.520Z"
 }
