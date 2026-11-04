@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 317092,
+      "playTimeSeconds": 317152,
       "money": 1635606,
       "gold": 843,
       "fame": 5218,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 297854,
+      "playTimeSeconds": 297914,
       "money": 2315833,
       "gold": 657,
       "fame": 4915,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 242701,
+      "playTimeSeconds": 242761,
       "money": 455710,
       "gold": 497,
       "fame": 1778,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 200656,
+      "playTimeSeconds": 200716,
       "money": 911917,
       "gold": 105,
       "fame": 1255,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561199758816988",
       "name": "Nikolai",
-      "playTimeSeconds": 194450,
+      "playTimeSeconds": 194510,
       "money": 1317576,
       "gold": 180,
       "fame": 944,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561198071060590",
       "name": "Sushi",
-      "playTimeSeconds": 193936,
+      "playTimeSeconds": 193996,
       "money": 2033605,
       "gold": 528,
       "fame": 11982,
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561199086334651",
       "name": "Soda",
-      "playTimeSeconds": 164419,
+      "playTimeSeconds": 164479,
       "money": 42351,
       "gold": 55,
       "fame": 1169,
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561198115245396",
+      "name": "Хабаровчанин",
+      "playTimeSeconds": 144898,
+      "money": 2479835,
+      "gold": 523,
+      "fame": 3611,
+      "isOnline": true
+    },
+    {
+      "rank": 16,
       "steamId": "76561198037904934",
       "name": "Astaf",
       "playTimeSeconds": 144882,
@@ -151,20 +161,10 @@
       "isOnline": false
     },
     {
-      "rank": 16,
-      "steamId": "76561198115245396",
-      "name": "Хабаровчанин",
-      "playTimeSeconds": 144838,
-      "money": 2479835,
-      "gold": 523,
-      "fame": 3611,
-      "isOnline": true
-    },
-    {
       "rank": 17,
       "steamId": "76561199562774415",
       "name": "ALIGATOR",
-      "playTimeSeconds": 138689,
+      "playTimeSeconds": 138749,
       "money": 1788821,
       "gold": 744,
       "fame": 6115,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-04T13:57:40.868Z"
+  "updated": "2026-11-04T13:58:40.876Z"
 }
