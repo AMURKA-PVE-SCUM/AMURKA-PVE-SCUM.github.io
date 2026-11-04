@@ -1,11 +1,21 @@
 {
-  "online": 9,
+  "online": 11,
   "players": [
+    {
+      "steamId": "76561198707187491",
+      "name": "75iness",
+      "sessionSeconds": 647,
+      "playTimeSeconds": 2070,
+      "money": 0,
+      "gold": 0,
+      "fame": 3,
+      "rank": 123
+    },
     {
       "steamId": "76561198799249034",
       "name": "Pafka",
-      "sessionSeconds": 540,
-      "playTimeSeconds": 204985,
+      "sessionSeconds": 600,
+      "playTimeSeconds": 205045,
       "money": 1585445,
       "gold": 35,
       "fame": 865,
@@ -14,18 +24,28 @@
     {
       "steamId": "76561198198157306",
       "name": "alekx838",
-      "sessionSeconds": 215,
-      "playTimeSeconds": 20932,
+      "sessionSeconds": 275,
+      "playTimeSeconds": 20992,
       "money": 1115296,
       "gold": 325,
-      "fame": 2964,
+      "fame": 2965,
       "rank": 70
+    },
+    {
+      "steamId": "76561199812501532",
+      "name": "Эля75",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 3910,
+      "money": 1000,
+      "gold": 5,
+      "fame": 16,
+      "rank": 109
     },
     {
       "steamId": "76561198826257359",
       "name": "XXXX",
       "sessionSeconds": 2,
-      "playTimeSeconds": 204397,
+      "playTimeSeconds": 204457,
       "money": 919267,
       "gold": 110,
       "fame": 1145,
@@ -35,7 +55,7 @@
       "steamId": "76561198790887864",
       "name": "Roma",
       "sessionSeconds": 2,
-      "playTimeSeconds": 321032,
+      "playTimeSeconds": 321092,
       "money": 1638654,
       "gold": 848,
       "fame": 5261,
@@ -45,7 +65,7 @@
       "steamId": "76561199086334651",
       "name": "Soda",
       "sessionSeconds": 2,
-      "playTimeSeconds": 168373,
+      "playTimeSeconds": 168433,
       "money": 86530,
       "gold": 60,
       "fame": 1181,
@@ -55,7 +75,7 @@
       "steamId": "76561198689488321",
       "name": "KiTaY",
       "sessionSeconds": 2,
-      "playTimeSeconds": 32775,
+      "playTimeSeconds": 32835,
       "money": 2465,
       "gold": 45,
       "fame": 263,
@@ -65,7 +85,7 @@
       "steamId": "76561199857773373",
       "name": "DeD_Admural",
       "sessionSeconds": 2,
-      "playTimeSeconds": 31191,
+      "playTimeSeconds": 31251,
       "money": 1581118,
       "gold": 60,
       "fame": 514,
@@ -75,7 +95,7 @@
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
       "sessionSeconds": 2,
-      "playTimeSeconds": 246394,
+      "playTimeSeconds": 246454,
       "money": 453368,
       "gold": 502,
       "fame": 1803,
@@ -85,12 +105,12 @@
       "steamId": "76561199071383311",
       "name": "DERSKAYAシ",
       "sessionSeconds": 2,
-      "playTimeSeconds": 75464,
+      "playTimeSeconds": 75524,
       "money": 547139,
       "gold": 95,
       "fame": 563,
       "rank": 30
     }
   ],
-  "updated": "2026-11-04T15:03:41.348Z"
+  "updated": "2026-11-04T15:04:41.350Z"
 }
