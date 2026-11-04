@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198140281063",
       "name": "NetrezvbIi_Kot",
-      "sessionSeconds": 11511,
-      "playTimeSeconds": 76621,
+      "sessionSeconds": 11571,
+      "playTimeSeconds": 76681,
       "money": 582286,
       "gold": 321,
       "fame": 2786,
@@ -14,28 +14,18 @@
     {
       "steamId": "76561199071383311",
       "name": "DERSKAYAシ",
-      "sessionSeconds": 470,
-      "playTimeSeconds": 64894,
+      "sessionSeconds": 530,
+      "playTimeSeconds": 64955,
       "money": 329319,
       "gold": 80,
       "fame": 519,
       "rank": 39
     },
     {
-      "steamId": "76561199877063571",
-      "name": "Mazay",
-      "sessionSeconds": 16,
-      "playTimeSeconds": 316419,
-      "money": 2684835,
-      "gold": 1550,
-      "fame": 9454,
-      "rank": 1
-    },
-    {
       "steamId": "76561198115245396",
       "name": "Хабаровчанин",
       "sessionSeconds": 16,
-      "playTimeSeconds": 138007,
+      "playTimeSeconds": 138067,
       "money": 2477835,
       "gold": 513,
       "fame": 3585,
@@ -45,7 +35,7 @@
       "steamId": "76561198065319845",
       "name": "CAPITAN",
       "sessionSeconds": 16,
-      "playTimeSeconds": 17027,
+      "playTimeSeconds": 17087,
       "money": 30963,
       "gold": 20,
       "fame": 176,
@@ -55,7 +45,7 @@
       "steamId": "76561198327689237",
       "name": "Albert",
       "sessionSeconds": 16,
-      "playTimeSeconds": 228346,
+      "playTimeSeconds": 228406,
       "money": 7412790,
       "gold": 590,
       "fame": 2492,
@@ -64,13 +54,33 @@
     {
       "steamId": "76561199086334651",
       "name": "Soda",
-      "sessionSeconds": 11,
-      "playTimeSeconds": 157588,
+      "sessionSeconds": 16,
+      "playTimeSeconds": 157648,
       "money": 40182,
       "gold": 45,
       "fame": 1114,
       "rank": 14
+    },
+    {
+      "steamId": "76561199877063571",
+      "name": "Mazay",
+      "sessionSeconds": 16,
+      "playTimeSeconds": 316467,
+      "money": 2684835,
+      "gold": 1550,
+      "fame": 9454,
+      "rank": 1
+    },
+    {
+      "steamId": "76561199758816988",
+      "name": "Nikolai",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 187678,
+      "money": 1154255,
+      "gold": 170,
+      "fame": 917,
+      "rank": 11
     }
   ],
-  "updated": "2026-11-04T12:03:39.954Z"
+  "updated": "2026-11-04T12:04:39.969Z"
 }
