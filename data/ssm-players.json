@@ -1,11 +1,41 @@
 {
-  "online": 5,
+  "online": 8,
   "players": [
+    {
+      "steamId": "76561199877063571",
+      "name": "Mazay",
+      "sessionSeconds": 19,
+      "playTimeSeconds": 354408,
+      "money": 2690239,
+      "gold": 1605,
+      "fame": 9583,
+      "rank": 1
+    },
+    {
+      "steamId": "76561199480908551",
+      "name": "gv_61 rus",
+      "sessionSeconds": 19,
+      "playTimeSeconds": 75492,
+      "money": 221951,
+      "gold": 1072,
+      "fame": 1471,
+      "rank": 34
+    },
+    {
+      "steamId": "76561199206600084",
+      "name": "Pod_Pivas",
+      "sessionSeconds": 19,
+      "playTimeSeconds": 83366,
+      "money": 26542,
+      "gold": 10,
+      "fame": 322,
+      "rank": 29
+    },
     {
       "steamId": "76561199086334651",
       "name": "Soda",
       "sessionSeconds": 19,
-      "playTimeSeconds": 175659,
+      "playTimeSeconds": 175719,
       "money": 139321,
       "gold": 75,
       "fame": 1206,
@@ -15,7 +45,7 @@
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
       "sessionSeconds": 19,
-      "playTimeSeconds": 184952,
+      "playTimeSeconds": 185012,
       "money": 492025,
       "gold": 582,
       "fame": 2978,
@@ -25,7 +55,7 @@
       "steamId": "76561199218614720",
       "name": "Демоница",
       "sessionSeconds": 19,
-      "playTimeSeconds": 95633,
+      "playTimeSeconds": 95693,
       "money": 18618,
       "gold": 75,
       "fame": 527,
@@ -35,7 +65,7 @@
       "steamId": "76561199857773373",
       "name": "DeD_Admural",
       "sessionSeconds": 19,
-      "playTimeSeconds": 61256,
+      "playTimeSeconds": 61316,
       "money": 2152707,
       "gold": 100,
       "fame": 799,
@@ -45,12 +75,12 @@
       "steamId": "76561199000739219",
       "name": "Yakytenok",
       "sessionSeconds": 19,
-      "playTimeSeconds": 66183,
+      "playTimeSeconds": 66243,
       "money": 51732,
       "gold": 95,
-      "fame": 868,
+      "fame": 869,
       "rank": 44
     }
   ],
-  "updated": "2026-11-05T12:03:54.789Z"
+  "updated": "2026-11-05T12:04:54.793Z"
 }
