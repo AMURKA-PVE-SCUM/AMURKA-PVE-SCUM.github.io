@@ -1,11 +1,11 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198707187491",
       "name": "75iness",
-      "sessionSeconds": 54834,
-      "playTimeSeconds": 24651,
+      "sessionSeconds": 54894,
+      "playTimeSeconds": 24710,
       "money": 23977,
       "gold": 30,
       "fame": 142,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198799249034",
       "name": "Pafka",
-      "sessionSeconds": 54787,
-      "playTimeSeconds": 231036,
+      "sessionSeconds": 54847,
+      "playTimeSeconds": 231095,
       "money": 1513716,
       "gold": 70,
       "fame": 929,
@@ -25,7 +25,7 @@
       "steamId": "76561198065319845",
       "name": "CAPITAN",
       "sessionSeconds": 18,
-      "playTimeSeconds": 49595,
+      "playTimeSeconds": 49654,
       "money": 39963,
       "gold": 65,
       "fame": 300,
@@ -35,7 +35,7 @@
       "steamId": "76561198156438506",
       "name": "Tema HANT",
       "sessionSeconds": 18,
-      "playTimeSeconds": 24890,
+      "playTimeSeconds": 24949,
       "money": 6000,
       "gold": 30,
       "fame": 187,
@@ -45,7 +45,7 @@
       "steamId": "76561199480908551",
       "name": "gv_61 rus",
       "sessionSeconds": 18,
-      "playTimeSeconds": 56625,
+      "playTimeSeconds": 56684,
       "money": 428695,
       "gold": 847,
       "fame": 1386,
@@ -55,7 +55,7 @@
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
       "sessionSeconds": 18,
-      "playTimeSeconds": 256810,
+      "playTimeSeconds": 256869,
       "money": 454829,
       "gold": 117,
       "fame": 1844,
@@ -64,8 +64,8 @@
     {
       "steamId": "76561198922600933",
       "name": "Лися",
-      "sessionSeconds": 12,
-      "playTimeSeconds": 22623,
+      "sessionSeconds": 18,
+      "playTimeSeconds": 22682,
       "money": 6000,
       "gold": 30,
       "fame": 92,
@@ -74,13 +74,23 @@
     {
       "steamId": "76561198084620275",
       "name": "Денис",
-      "sessionSeconds": 10,
-      "playTimeSeconds": 321844,
+      "sessionSeconds": 18,
+      "playTimeSeconds": 321903,
       "money": 2338433,
       "gold": 692,
       "fame": 5110,
       "rank": 3
+    },
+    {
+      "steamId": "76561198028621423",
+      "name": "Lesnik",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 132701,
+      "money": 872354,
+      "gold": 1874,
+      "fame": 4035,
+      "rank": 22
     }
   ],
-  "updated": "2026-11-05T06:07:48.103Z"
+  "updated": "2026-11-05T06:08:48.107Z"
 }
