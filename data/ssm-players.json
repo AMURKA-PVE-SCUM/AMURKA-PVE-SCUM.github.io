@@ -1,11 +1,11 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198707187491",
       "name": "75iness",
-      "sessionSeconds": 52494,
-      "playTimeSeconds": 22453,
+      "sessionSeconds": 52554,
+      "playTimeSeconds": 22513,
       "money": 23977,
       "gold": 30,
       "fame": 140,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198799249034",
       "name": "Pafka",
-      "sessionSeconds": 52446,
-      "playTimeSeconds": 228762,
+      "sessionSeconds": 52506,
+      "playTimeSeconds": 228822,
       "money": 1524593,
       "gold": 65,
       "fame": 962,
@@ -25,17 +25,27 @@
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
       "sessionSeconds": 21,
-      "playTimeSeconds": 42216,
+      "playTimeSeconds": 42276,
       "money": 2200515,
       "gold": 1305,
       "fame": 31829,
       "rank": 52
     },
     {
+      "steamId": "76561199877063571",
+      "name": "Mazay",
+      "sessionSeconds": 21,
+      "playTimeSeconds": 340478,
+      "money": 2686239,
+      "gold": 1585,
+      "fame": 9535,
+      "rank": 1
+    },
+    {
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
       "sessionSeconds": 21,
-      "playTimeSeconds": 254890,
+      "playTimeSeconds": 254950,
       "money": 455368,
       "gold": 312,
       "fame": 1832,
@@ -45,7 +55,7 @@
       "steamId": "76561199038664626",
       "name": "VeNoM",
       "sessionSeconds": 21,
-      "playTimeSeconds": 28586,
+      "playTimeSeconds": 28646,
       "money": 19883,
       "gold": 40,
       "fame": 225,
@@ -55,7 +65,7 @@
       "steamId": "76561198084620275",
       "name": "Денис",
       "sessionSeconds": 21,
-      "playTimeSeconds": 319951,
+      "playTimeSeconds": 320011,
       "money": 2338433,
       "gold": 692,
       "fame": 5109,
@@ -65,7 +75,7 @@
       "steamId": "76561198156438506",
       "name": "Tema HANT",
       "sessionSeconds": 21,
-      "playTimeSeconds": 22598,
+      "playTimeSeconds": 22658,
       "money": 6000,
       "gold": 30,
       "fame": 186,
@@ -75,12 +85,12 @@
       "steamId": "76561198922600933",
       "name": "Лися",
       "sessionSeconds": 21,
-      "playTimeSeconds": 20544,
+      "playTimeSeconds": 20604,
       "money": 5000,
       "gold": 25,
       "fame": 81,
       "rank": 74
     }
   ],
-  "updated": "2026-11-05T05:28:47.810Z"
+  "updated": "2026-11-05T05:29:47.810Z"
 }
