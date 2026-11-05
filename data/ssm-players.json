@@ -1,21 +1,41 @@
 {
-  "online": 7,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198140281063",
       "name": "NetrezvbIi_Kot",
-      "sessionSeconds": 130390,
-      "playTimeSeconds": 113314,
+      "sessionSeconds": 130450,
+      "playTimeSeconds": 113374,
       "money": 1018772,
       "gold": 382,
       "fame": 3596,
       "rank": 24
     },
     {
+      "steamId": "76561198352984050",
+      "name": "Vlad",
+      "sessionSeconds": 43549,
+      "playTimeSeconds": 326761,
+      "money": 125312,
+      "gold": 1570,
+      "fame": 3428,
+      "rank": 4
+    },
+    {
+      "steamId": "76561198071060590",
+      "name": "Sushi",
+      "sessionSeconds": 5,
+      "playTimeSeconds": 218879,
+      "money": 2030324,
+      "gold": 558,
+      "fame": 12109,
+      "rank": 12
+    },
+    {
       "steamId": "76561199068619753",
       "name": "Fobos",
       "sessionSeconds": 5,
-      "playTimeSeconds": 20391,
+      "playTimeSeconds": 20451,
       "money": 19830,
       "gold": 25,
       "fame": 167,
@@ -25,7 +45,7 @@
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 5,
-      "playTimeSeconds": 384565,
+      "playTimeSeconds": 384625,
       "money": 2698239,
       "gold": 1645,
       "fame": 9686,
@@ -35,7 +55,7 @@
       "steamId": "76561198379125401",
       "name": "Taeno",
       "sessionSeconds": 5,
-      "playTimeSeconds": 54941,
+      "playTimeSeconds": 55001,
       "money": 353916,
       "gold": 165,
       "fame": 659,
@@ -45,32 +65,32 @@
       "steamId": "76561198029476275",
       "name": "XEH",
       "sessionSeconds": 5,
-      "playTimeSeconds": 192556,
+      "playTimeSeconds": 192616,
       "money": 1241981,
       "gold": 765,
       "fame": 4036,
       "rank": 14
     },
     {
-      "steamId": "76561198328189885",
-      "name": "vlaD0S",
-      "sessionSeconds": 5,
-      "playTimeSeconds": 227871,
-      "money": 2730365,
-      "gold": 514,
-      "fame": 19848,
-      "rank": 11
-    },
-    {
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
       "sessionSeconds": 5,
-      "playTimeSeconds": 209531,
+      "playTimeSeconds": 209591,
       "money": 515735,
       "gold": 617,
       "fame": 3172,
       "rank": 13
+    },
+    {
+      "steamId": "76561198328189885",
+      "name": "vlaD0S",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 227897,
+      "money": 2730365,
+      "gold": 514,
+      "fame": 19848,
+      "rank": 11
     }
   ],
-  "updated": "2026-11-05T21:04:58.805Z"
+  "updated": "2026-11-05T21:05:58.807Z"
 }
