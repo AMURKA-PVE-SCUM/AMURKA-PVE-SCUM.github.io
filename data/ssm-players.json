@@ -1,11 +1,11 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198707187491",
       "name": "75iness",
-      "sessionSeconds": 51894,
-      "playTimeSeconds": 21854,
+      "sessionSeconds": 51954,
+      "playTimeSeconds": 21914,
       "money": 23977,
       "gold": 30,
       "fame": 139,
@@ -14,18 +14,18 @@
     {
       "steamId": "76561198799249034",
       "name": "Pafka",
-      "sessionSeconds": 51846,
-      "playTimeSeconds": 228163,
+      "sessionSeconds": 51906,
+      "playTimeSeconds": 228223,
       "money": 1524593,
       "gold": 65,
-      "fame": 959,
+      "fame": 960,
       "rank": 8
     },
     {
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
       "sessionSeconds": 22,
-      "playTimeSeconds": 41617,
+      "playTimeSeconds": 41677,
       "money": 2199515,
       "gold": 1300,
       "fame": 31818,
@@ -35,7 +35,7 @@
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
       "sessionSeconds": 22,
-      "playTimeSeconds": 254291,
+      "playTimeSeconds": 254351,
       "money": 455368,
       "gold": 312,
       "fame": 1831,
@@ -45,12 +45,22 @@
       "steamId": "76561199038664626",
       "name": "VeNoM",
       "sessionSeconds": 22,
-      "playTimeSeconds": 27987,
+      "playTimeSeconds": 28047,
       "money": 19883,
       "gold": 40,
       "fame": 225,
       "rank": 62
+    },
+    {
+      "steamId": "76561198084620275",
+      "name": "Денис",
+      "sessionSeconds": 17,
+      "playTimeSeconds": 319412,
+      "money": 2337433,
+      "gold": 687,
+      "fame": 5099,
+      "rank": 3
     }
   ],
-  "updated": "2026-11-05T05:18:47.734Z"
+  "updated": "2026-11-05T05:19:47.737Z"
 }
