@@ -1,11 +1,11 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198707187491",
       "name": "75iness",
-      "sessionSeconds": 54714,
-      "playTimeSeconds": 24567,
+      "sessionSeconds": 54774,
+      "playTimeSeconds": 24590,
       "money": 23977,
       "gold": 30,
       "fame": 142,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198799249034",
       "name": "Pafka",
-      "sessionSeconds": 54667,
-      "playTimeSeconds": 230916,
+      "sessionSeconds": 54727,
+      "playTimeSeconds": 230976,
       "money": 1513716,
       "gold": 70,
       "fame": 929,
@@ -25,7 +25,7 @@
       "steamId": "76561198065319845",
       "name": "CAPITAN",
       "sessionSeconds": 18,
-      "playTimeSeconds": 49475,
+      "playTimeSeconds": 49535,
       "money": 39963,
       "gold": 65,
       "fame": 300,
@@ -35,7 +35,7 @@
       "steamId": "76561198156438506",
       "name": "Tema HANT",
       "sessionSeconds": 18,
-      "playTimeSeconds": 24770,
+      "playTimeSeconds": 24830,
       "money": 6000,
       "gold": 30,
       "fame": 187,
@@ -45,12 +45,22 @@
       "steamId": "76561199480908551",
       "name": "gv_61 rus",
       "sessionSeconds": 18,
-      "playTimeSeconds": 56505,
+      "playTimeSeconds": 56565,
       "money": 428695,
       "gold": 847,
       "fame": 1386,
       "rank": 44
+    },
+    {
+      "steamId": "76561198159265980",
+      "name": "Evelina_Live",
+      "sessionSeconds": 18,
+      "playTimeSeconds": 256750,
+      "money": 453829,
+      "gold": 112,
+      "fame": 1834,
+      "rank": 5
     }
   ],
-  "updated": "2026-11-05T06:05:48.081Z"
+  "updated": "2026-11-05T06:06:48.090Z"
 }
