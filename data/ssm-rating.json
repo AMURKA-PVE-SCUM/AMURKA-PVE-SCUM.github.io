@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 41985,
+      "playTimeSeconds": 42045,
       "money": 153475,
       "gold": 1745,
       "fame": 3628,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 38718,
+      "playTimeSeconds": 38778,
       "money": 2229115,
       "gold": 1554,
       "fame": 6823,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198328189885",
       "name": "vlaD0S",
-      "playTimeSeconds": 37455,
+      "playTimeSeconds": 37515,
       "money": 2678910,
       "gold": 569,
       "fame": 20019,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561198412294634",
       "name": "Ctivеn",
-      "playTimeSeconds": 34382,
+      "playTimeSeconds": 34442,
       "money": 10074,
       "gold": 45,
       "fame": 209,
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
-      "playTimeSeconds": 29944,
+      "playTimeSeconds": 30004,
       "money": 542485,
       "gold": 672,
       "fame": 3384,
@@ -122,6 +122,16 @@
     },
     {
       "rank": 13,
+      "steamId": "76561199125649189",
+      "name": "HEADLESS",
+      "playTimeSeconds": 29121,
+      "money": 6530795,
+      "gold": 3676,
+      "fame": 16272,
+      "isOnline": true
+    },
+    {
+      "rank": 14,
       "steamId": "76561199812501532",
       "name": "Эля75",
       "playTimeSeconds": 29096,
@@ -131,17 +141,17 @@
       "isOnline": false
     },
     {
-      "rank": 14,
-      "steamId": "76561199125649189",
-      "name": "HEADLESS",
-      "playTimeSeconds": 29061,
-      "money": 6530795,
-      "gold": 3676,
-      "fame": 16272,
+      "rank": 15,
+      "steamId": "76561199086334651",
+      "name": "Soda",
+      "playTimeSeconds": 24360,
+      "money": 244666,
+      "gold": 130,
+      "fame": 1356,
       "isOnline": true
     },
     {
-      "rank": 15,
+      "rank": 16,
       "steamId": "76561199480908551",
       "name": "gv_61 rus",
       "playTimeSeconds": 24314,
@@ -149,16 +159,6 @@
       "gold": 1107,
       "fame": 1653,
       "isOnline": false
-    },
-    {
-      "rank": 16,
-      "steamId": "76561199086334651",
-      "name": "Soda",
-      "playTimeSeconds": 24300,
-      "money": 244666,
-      "gold": 130,
-      "fame": 1356,
-      "isOnline": true
     },
     {
       "rank": 17,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-06T19:02:12.333Z"
+  "updated": "2026-11-06T19:03:12.347Z"
 }
