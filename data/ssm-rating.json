@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 12879,
+      "playTimeSeconds": 12939,
       "money": 145358,
       "gold": 1705,
       "fame": 3521,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199758816988",
       "name": "Nikolai",
-      "playTimeSeconds": 12437,
+      "playTimeSeconds": 12497,
       "money": 1066986,
       "gold": 255,
       "fame": 1187,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198027274150",
       "name": "Hiltor",
-      "playTimeSeconds": 11493,
+      "playTimeSeconds": 11553,
       "money": 42847,
       "gold": 55,
       "fame": 154,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561199812501532",
       "name": "Эля75",
-      "playTimeSeconds": 4915,
+      "playTimeSeconds": 4975,
       "money": 28059,
       "gold": 35,
       "fame": 123,
@@ -52,6 +52,16 @@
     },
     {
       "rank": 6,
+      "steamId": "76561198707187491",
+      "name": "75iness",
+      "playTimeSeconds": 3308,
+      "money": 29788,
+      "gold": 10,
+      "fame": 309,
+      "isOnline": true
+    },
+    {
+      "rank": 7,
       "steamId": "76561198826257359",
       "name": "XXXX",
       "playTimeSeconds": 3252,
@@ -59,16 +69,6 @@
       "gold": 160,
       "fame": 775,
       "isOnline": false
-    },
-    {
-      "rank": 7,
-      "steamId": "76561198707187491",
-      "name": "75iness",
-      "playTimeSeconds": 3248,
-      "money": 29788,
-      "gold": 10,
-      "fame": 309,
-      "isOnline": true
     },
     {
       "rank": 8,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561198824083852",
       "name": "Злой Корнишон",
-      "playTimeSeconds": 2462,
+      "playTimeSeconds": 2522,
       "money": 16344,
       "gold": 25,
       "fame": 101,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561199038664626",
       "name": "VeNoM",
-      "playTimeSeconds": 1990,
+      "playTimeSeconds": 2050,
       "money": 32419,
       "gold": 65,
       "fame": 294,
@@ -104,8 +104,8 @@
       "rank": 11,
       "steamId": "76561198065319845",
       "name": "CAPITAN",
-      "playTimeSeconds": 1600,
-      "money": 51263,
+      "playTimeSeconds": 1660,
+      "money": 42263,
       "gold": 115,
       "fame": 438,
       "isOnline": true
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561199206600084",
       "name": "Pod_Pivas",
-      "playTimeSeconds": 771,
+      "playTimeSeconds": 831,
       "money": 26542,
       "gold": 10,
       "fame": 324,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "playTimeSeconds": 206,
+      "playTimeSeconds": 266,
       "money": 99676,
       "gold": 695,
       "fame": 1738,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-06T04:38:02.088Z"
+  "updated": "2026-11-06T04:39:02.089Z"
 }
