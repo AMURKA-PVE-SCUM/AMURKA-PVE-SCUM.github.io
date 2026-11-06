@@ -2,39 +2,39 @@
   "leaderboard": [
     {
       "rank": 1,
-      "steamId": "76561198826257359",
-      "name": "XXXX",
-      "playTimeSeconds": 3217,
-      "money": 1165673,
-      "gold": 160,
-      "fame": 775,
+      "steamId": "76561198352984050",
+      "name": "Vlad",
+      "playTimeSeconds": 3277,
+      "money": 142358,
+      "gold": 1690,
+      "fame": 3485,
       "isOnline": true
     },
     {
       "rank": 2,
-      "steamId": "76561198352984050",
-      "name": "Vlad",
-      "playTimeSeconds": 3217,
-      "money": 142358,
-      "gold": 1690,
-      "fame": 3484,
-      "isOnline": true
-    },
-    {
-      "rank": 3,
       "steamId": "76561198027274150",
       "name": "Hiltor",
-      "playTimeSeconds": 3211,
+      "playTimeSeconds": 3271,
       "money": 47665,
       "gold": 45,
       "fame": 128,
       "isOnline": true
     },
     {
+      "rank": 3,
+      "steamId": "76561198826257359",
+      "name": "XXXX",
+      "playTimeSeconds": 3252,
+      "money": 1165673,
+      "gold": 160,
+      "fame": 775,
+      "isOnline": false
+    },
+    {
       "rank": 4,
       "steamId": "76561199758816988",
       "name": "Nikolai",
-      "playTimeSeconds": 3038,
+      "playTimeSeconds": 3098,
       "money": 1027260,
       "gold": 240,
       "fame": 1126,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-06T01:55:00.895Z"
+  "updated": "2026-11-06T01:56:00.906Z"
 }
