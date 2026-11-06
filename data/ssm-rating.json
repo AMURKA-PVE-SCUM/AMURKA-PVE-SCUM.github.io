@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 18008,
+      "playTimeSeconds": 18068,
       "money": 146475,
       "gold": 1710,
       "fame": 3534,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561199812501532",
       "name": "Эля75",
-      "playTimeSeconds": 10128,
+      "playTimeSeconds": 10188,
       "money": 29059,
       "gold": 40,
       "fame": 137,
@@ -44,17 +44,17 @@
       "rank": 5,
       "steamId": "76561198707187491",
       "name": "75iness",
-      "playTimeSeconds": 8443,
+      "playTimeSeconds": 8478,
       "money": 28406,
       "gold": 20,
       "fame": 337,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 6,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 8117,
+      "playTimeSeconds": 8177,
       "money": 1166178,
       "gold": 165,
       "fame": 789,
@@ -112,6 +112,16 @@
     },
     {
       "rank": 12,
+      "steamId": "76561198156438506",
+      "name": "Tema HANT",
+      "playTimeSeconds": 3477,
+      "money": 13900,
+      "gold": 70,
+      "fame": 304,
+      "isOnline": true
+    },
+    {
+      "rank": 13,
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "playTimeSeconds": 3474,
@@ -121,20 +131,10 @@
       "isOnline": false
     },
     {
-      "rank": 13,
-      "steamId": "76561198156438506",
-      "name": "Tema HANT",
-      "playTimeSeconds": 3417,
-      "money": 13900,
-      "gold": 70,
-      "fame": 304,
-      "isOnline": true
-    },
-    {
       "rank": 14,
       "steamId": "76561198922600933",
       "name": "Лися",
-      "playTimeSeconds": 3257,
+      "playTimeSeconds": 3317,
       "money": 13800,
       "gold": 70,
       "fame": 204,
@@ -174,7 +174,7 @@
       "rank": 18,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 71,
+      "playTimeSeconds": 131,
       "money": 1971903,
       "gold": 1067,
       "fame": 5367,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-06T06:05:02.719Z"
+  "updated": "2026-11-06T06:06:02.734Z"
 }
