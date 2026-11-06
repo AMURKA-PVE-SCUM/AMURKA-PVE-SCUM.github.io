@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 11201,
+      "playTimeSeconds": 11261,
       "money": 144358,
       "gold": 1700,
       "fame": 3510,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199758816988",
       "name": "Nikolai",
-      "playTimeSeconds": 10759,
+      "playTimeSeconds": 10819,
       "money": 1067548,
       "gold": 250,
       "fame": 1176,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198027274150",
       "name": "Hiltor",
-      "playTimeSeconds": 9815,
+      "playTimeSeconds": 9875,
       "money": 49665,
       "gold": 55,
       "fame": 153,
@@ -42,6 +42,16 @@
     },
     {
       "rank": 5,
+      "steamId": "76561199812501532",
+      "name": "Эля75",
+      "playTimeSeconds": 3297,
+      "money": 28059,
+      "gold": 35,
+      "fame": 122,
+      "isOnline": true
+    },
+    {
+      "rank": 6,
       "steamId": "76561198826257359",
       "name": "XXXX",
       "playTimeSeconds": 3252,
@@ -49,16 +59,6 @@
       "gold": 160,
       "fame": 775,
       "isOnline": false
-    },
-    {
-      "rank": 6,
-      "steamId": "76561199812501532",
-      "name": "Эля75",
-      "playTimeSeconds": 3237,
-      "money": 28059,
-      "gold": 35,
-      "fame": 122,
-      "isOnline": true
     },
     {
       "rank": 7,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198707187491",
       "name": "75iness",
-      "playTimeSeconds": 1570,
+      "playTimeSeconds": 1630,
       "money": 29788,
       "gold": 10,
       "fame": 307,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561198824083852",
       "name": "Злой Корнишон",
-      "playTimeSeconds": 784,
+      "playTimeSeconds": 844,
       "money": 7197,
       "gold": 25,
       "fame": 79,
@@ -94,10 +94,10 @@
       "rank": 10,
       "steamId": "76561199038664626",
       "name": "VeNoM",
-      "playTimeSeconds": 312,
+      "playTimeSeconds": 372,
       "money": 42219,
       "gold": 60,
-      "fame": 281,
+      "fame": 282,
       "isOnline": true
     },
     {
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-06T04:10:01.877Z"
+  "updated": "2026-11-06T04:11:01.886Z"
 }
