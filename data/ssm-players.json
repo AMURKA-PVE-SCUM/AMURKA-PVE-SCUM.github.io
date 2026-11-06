@@ -1,21 +1,21 @@
 {
-  "online": 5,
+  "online": 7,
   "players": [
     {
       "steamId": "76561198372786557",
       "name": "Ma_Min",
-      "sessionSeconds": 173530,
-      "playTimeSeconds": 4167,
+      "sessionSeconds": 173590,
+      "playTimeSeconds": 4227,
       "money": 81778,
       "gold": 15,
       "fame": 687,
-      "rank": 39
+      "rank": 38
     },
     {
       "steamId": "76561198689488321",
       "name": "KiTaY",
       "sessionSeconds": 17,
-      "playTimeSeconds": 4116,
+      "playTimeSeconds": 4176,
       "money": 3796,
       "gold": 20,
       "fame": 315,
@@ -25,17 +25,17 @@
       "steamId": "76561198877709613",
       "name": "_RE_",
       "sessionSeconds": 17,
-      "playTimeSeconds": 2091,
+      "playTimeSeconds": 2151,
       "money": 1036899,
       "gold": 398,
-      "fame": 2661,
+      "fame": 2662,
       "rank": 45
     },
     {
       "steamId": "76561199125649189",
       "name": "HEADLESS",
       "sessionSeconds": 17,
-      "playTimeSeconds": 15389,
+      "playTimeSeconds": 15449,
       "money": 6276407,
       "gold": 3486,
       "fame": 15367,
@@ -45,12 +45,32 @@
       "steamId": "76561198379125401",
       "name": "Taeno",
       "sessionSeconds": 17,
-      "playTimeSeconds": 9964,
+      "playTimeSeconds": 10024,
       "money": 277518,
       "gold": 190,
       "fame": 731,
       "rank": 31
+    },
+    {
+      "steamId": "76561199569191127",
+      "name": "Mira",
+      "sessionSeconds": 14,
+      "playTimeSeconds": 3766,
+      "money": 2004999,
+      "gold": 475,
+      "fame": 8774,
+      "rank": 42
+    },
+    {
+      "steamId": "76561198156438506",
+      "name": "Tema HANT",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 27265,
+      "money": 19900,
+      "gold": 100,
+      "fame": 386,
+      "rank": 7
     }
   ],
-  "updated": "2026-11-06T15:05:10.629Z"
+  "updated": "2026-11-06T15:06:10.632Z"
 }
