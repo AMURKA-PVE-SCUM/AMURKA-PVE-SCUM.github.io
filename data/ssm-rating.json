@@ -4,17 +4,17 @@
       "rank": 1,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 11381,
-      "money": 144358,
-      "gold": 1700,
-      "fame": 3510,
+      "playTimeSeconds": 11441,
+      "money": 145358,
+      "gold": 1705,
+      "fame": 3520,
       "isOnline": true
     },
     {
       "rank": 2,
       "steamId": "76561199758816988",
       "name": "Nikolai",
-      "playTimeSeconds": 10939,
+      "playTimeSeconds": 10999,
       "money": 1067548,
       "gold": 250,
       "fame": 1176,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198027274150",
       "name": "Hiltor",
-      "playTimeSeconds": 9995,
+      "playTimeSeconds": 10055,
       "money": 49665,
       "gold": 55,
       "fame": 153,
@@ -32,6 +32,16 @@
     },
     {
       "rank": 4,
+      "steamId": "76561199812501532",
+      "name": "Эля75",
+      "playTimeSeconds": 3477,
+      "money": 28059,
+      "gold": 35,
+      "fame": 122,
+      "isOnline": true
+    },
+    {
+      "rank": 5,
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "playTimeSeconds": 3474,
@@ -39,16 +49,6 @@
       "gold": 1889,
       "fame": 4096,
       "isOnline": false
-    },
-    {
-      "rank": 5,
-      "steamId": "76561199812501532",
-      "name": "Эля75",
-      "playTimeSeconds": 3417,
-      "money": 28059,
-      "gold": 35,
-      "fame": 122,
-      "isOnline": true
     },
     {
       "rank": 6,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198707187491",
       "name": "75iness",
-      "playTimeSeconds": 1750,
+      "playTimeSeconds": 1810,
       "money": 29788,
       "gold": 10,
       "fame": 307,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561198824083852",
       "name": "Злой Корнишон",
-      "playTimeSeconds": 964,
+      "playTimeSeconds": 1024,
       "money": 7197,
       "gold": 25,
       "fame": 79,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561199038664626",
       "name": "VeNoM",
-      "playTimeSeconds": 492,
+      "playTimeSeconds": 552,
       "money": 42219,
       "gold": 60,
       "fame": 282,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561198065319845",
       "name": "CAPITAN",
-      "playTimeSeconds": 102,
+      "playTimeSeconds": 162,
       "money": 42289,
       "gold": 115,
       "fame": 437,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-06T04:13:01.892Z"
+  "updated": "2026-11-06T04:14:01.898Z"
 }
