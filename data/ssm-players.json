@@ -1,41 +1,41 @@
 {
-  "online": 5,
+  "online": 9,
   "players": [
+    {
+      "steamId": "76561198352984050",
+      "name": "Vlad",
+      "sessionSeconds": 88555,
+      "playTimeSeconds": 27815,
+      "money": 149475,
+      "gold": 1725,
+      "fame": 3572,
+      "rank": 1
+    },
     {
       "steamId": "76561198065319845",
       "name": "CAPITAN",
       "sessionSeconds": 9,
-      "playTimeSeconds": 14220,
+      "playTimeSeconds": 14280,
       "money": 45263,
       "gold": 130,
       "fame": 475,
       "rank": 8
     },
     {
-      "steamId": "76561198412294634",
-      "name": "Ctivеn",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 5176,
-      "money": 0,
-      "gold": 0,
-      "fame": 6,
-      "rank": 27
-    },
-    {
       "steamId": "76561198328189885",
       "name": "vlaD0S",
       "sessionSeconds": 9,
-      "playTimeSeconds": 10785,
+      "playTimeSeconds": 10845,
       "money": 2722868,
       "gold": 529,
-      "fame": 19898,
+      "fame": 19899,
       "rank": 15
     },
     {
       "steamId": "76561198156438506",
       "name": "Tema HANT",
       "sessionSeconds": 9,
-      "playTimeSeconds": 9162,
+      "playTimeSeconds": 9222,
       "money": 14900,
       "gold": 75,
       "fame": 318,
@@ -45,12 +45,52 @@
       "steamId": "76561198922600933",
       "name": "Лися",
       "sessionSeconds": 9,
-      "playTimeSeconds": 9197,
+      "playTimeSeconds": 9257,
       "money": 14800,
       "gold": 75,
       "fame": 217,
       "rank": 17
+    },
+    {
+      "steamId": "76561198337811646",
+      "name": "VERSUS_65_",
+      "sessionSeconds": 9,
+      "playTimeSeconds": 14557,
+      "money": 148555,
+      "gold": 715,
+      "fame": 1789,
+      "rank": 7
+    },
+    {
+      "steamId": "76561199000739219",
+      "name": "Yakytenok",
+      "sessionSeconds": 9,
+      "playTimeSeconds": 7774,
+      "money": 90119,
+      "gold": 89,
+      "fame": 985,
+      "rank": 22
+    },
+    {
+      "steamId": "76561199038664626",
+      "name": "VeNoM",
+      "sessionSeconds": 8,
+      "playTimeSeconds": 16294,
+      "money": 58560,
+      "gold": 80,
+      "fame": 350,
+      "rank": 5
+    },
+    {
+      "steamId": "76561198412294634",
+      "name": "Ctivеn",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 5207,
+      "money": 0,
+      "gold": 0,
+      "fame": 6,
+      "rank": 27
     }
   ],
-  "updated": "2026-11-06T09:35:04.328Z"
+  "updated": "2026-11-06T09:36:04.335Z"
 }
