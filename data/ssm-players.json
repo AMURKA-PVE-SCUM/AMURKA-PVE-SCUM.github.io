@@ -1,11 +1,11 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "sessionSeconds": 68152,
-      "playTimeSeconds": 10361,
+      "sessionSeconds": 68212,
+      "playTimeSeconds": 10422,
       "money": 144358,
       "gold": 1700,
       "fame": 3509,
@@ -15,7 +15,7 @@
       "steamId": "76561198707187491",
       "name": "75iness",
       "sessionSeconds": 3,
-      "playTimeSeconds": 730,
+      "playTimeSeconds": 791,
       "money": 29788,
       "gold": 10,
       "fame": 307,
@@ -25,7 +25,7 @@
       "steamId": "76561199758816988",
       "name": "Nikolai",
       "sessionSeconds": 3,
-      "playTimeSeconds": 9919,
+      "playTimeSeconds": 9980,
       "money": 1067548,
       "gold": 250,
       "fame": 1175,
@@ -35,7 +35,7 @@
       "steamId": "76561199812501532",
       "name": "Эля75",
       "sessionSeconds": 3,
-      "playTimeSeconds": 2397,
+      "playTimeSeconds": 2458,
       "money": 27059,
       "gold": 30,
       "fame": 112,
@@ -45,12 +45,22 @@
       "steamId": "76561198027274150",
       "name": "Hiltor",
       "sessionSeconds": 3,
-      "playTimeSeconds": 8975,
-      "money": 48665,
-      "gold": 50,
-      "fame": 142,
+      "playTimeSeconds": 9036,
+      "money": 49665,
+      "gold": 55,
+      "fame": 152,
       "rank": 3
+    },
+    {
+      "steamId": "76561198824083852",
+      "name": "Злой Корнишон",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 5,
+      "money": 7197,
+      "gold": 25,
+      "fame": 78,
+      "rank": 10
     }
   ],
-  "updated": "2026-11-06T03:56:01.770Z"
+  "updated": "2026-11-06T03:57:01.780Z"
 }
