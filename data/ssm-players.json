@@ -1,31 +1,51 @@
 {
-  "online": 4,
+  "online": 10,
   "players": [
+    {
+      "steamId": "76561198198157306",
+      "name": "alekx838",
+      "sessionSeconds": 183846,
+      "playTimeSeconds": 11807,
+      "money": 1246431,
+      "gold": 365,
+      "fame": 3052,
+      "rank": 34
+    },
+    {
+      "steamId": "76561198352984050",
+      "name": "Vlad",
+      "sessionSeconds": 119042,
+      "playTimeSeconds": 38510,
+      "money": 152475,
+      "gold": 1740,
+      "fame": 3615,
+      "rank": 5
+    },
     {
       "steamId": "76561198117470287",
       "name": "MоrаlФuск",
       "sessionSeconds": 6,
-      "playTimeSeconds": 2211,
+      "playTimeSeconds": 2271,
       "money": 0,
       "gold": 0,
-      "fame": 3,
+      "fame": 4,
       "rank": 49
     },
     {
       "steamId": "76561198372320271",
       "name": "ADA",
       "sessionSeconds": 6,
-      "playTimeSeconds": 1667,
+      "playTimeSeconds": 1727,
       "money": 3093126,
       "gold": 240,
       "fame": 6775,
-      "rank": 53
+      "rank": 52
     },
     {
       "steamId": "76561198328189885",
       "name": "vlaD0S",
       "sessionSeconds": 6,
-      "playTimeSeconds": 33920,
+      "playTimeSeconds": 33980,
       "money": 2722910,
       "gold": 564,
       "fame": 20003,
@@ -35,12 +55,52 @@
       "steamId": "76561199071383311",
       "name": "DERSKAYAシ",
       "sessionSeconds": 6,
-      "playTimeSeconds": 5674,
+      "playTimeSeconds": 5734,
       "money": 527668,
       "gold": 120,
       "fame": 645,
       "rank": 41
+    },
+    {
+      "steamId": "76561199415997264",
+      "name": "Stark",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 908,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "rank": 56
+    },
+    {
+      "steamId": "76561197982773879",
+      "name": "МАЛЫХА",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 1767,
+      "money": 0,
+      "gold": 0,
+      "fame": 1,
+      "rank": 51
+    },
+    {
+      "steamId": "76561199086334651",
+      "name": "Soda",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 20825,
+      "money": 243666,
+      "gold": 125,
+      "fame": 1342,
+      "rank": 18
+    },
+    {
+      "steamId": "76561199569191127",
+      "name": "Mira",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 14347,
+      "money": 2085039,
+      "gold": 490,
+      "fame": 8878,
+      "rank": 26
     }
   ],
-  "updated": "2026-11-06T18:03:11.932Z"
+  "updated": "2026-11-06T18:04:11.940Z"
 }
