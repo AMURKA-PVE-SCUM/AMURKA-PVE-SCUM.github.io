@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 72500,
+      "playTimeSeconds": 72560,
       "money": 184196,
       "gold": 1795,
       "fame": 3780,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198707187491",
       "name": "75iness",
-      "playTimeSeconds": 59515,
+      "playTimeSeconds": 59575,
       "money": 49697,
       "gold": 5,
       "fame": 648,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198156438506",
       "name": "Tema HANT",
-      "playTimeSeconds": 46189,
+      "playTimeSeconds": 46249,
       "money": 24900,
       "gold": 125,
       "fame": 449,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561199812501532",
       "name": "Эля75",
-      "playTimeSeconds": 45084,
+      "playTimeSeconds": 45144,
       "money": 88501,
       "gold": 90,
       "fame": 272,
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561198922600933",
       "name": "Лися",
-      "playTimeSeconds": 40262,
+      "playTimeSeconds": 40322,
       "money": 19236,
       "gold": 115,
       "fame": 320,
@@ -172,6 +172,16 @@
     },
     {
       "rank": 18,
+      "steamId": "76561198037904934",
+      "name": "Astaf",
+      "playTimeSeconds": 26296,
+      "money": 2322049,
+      "gold": 248,
+      "fame": 3526,
+      "isOnline": true
+    },
+    {
+      "rank": 19,
       "steamId": "76561199569191127",
       "name": "Mira",
       "playTimeSeconds": 26280,
@@ -179,16 +189,6 @@
       "gold": 506,
       "fame": 9182,
       "isOnline": false
-    },
-    {
-      "rank": 19,
-      "steamId": "76561198037904934",
-      "name": "Astaf",
-      "playTimeSeconds": 26236,
-      "money": 2322049,
-      "gold": 248,
-      "fame": 3526,
-      "isOnline": true
     },
     {
       "rank": 20,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-07T08:01:18.164Z"
+  "updated": "2026-11-07T08:02:18.178Z"
 }
