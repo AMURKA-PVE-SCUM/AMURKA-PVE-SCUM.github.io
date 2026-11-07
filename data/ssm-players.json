@@ -1,21 +1,41 @@
 {
-  "online": 7,
+  "online": 10,
   "players": [
     {
       "steamId": "76561198072704902",
       "name": "hookzver",
-      "sessionSeconds": 18954,
-      "playTimeSeconds": 32749,
-      "money": 990064,
+      "sessionSeconds": 19014,
+      "playTimeSeconds": 32809,
+      "money": 983465,
       "gold": 264,
       "fame": 1941,
       "rank": 25
     },
     {
+      "steamId": "76561199224481909",
+      "name": "ⓋⓇⒺⒹⒾⓃⒶ",
+      "sessionSeconds": 16907,
+      "playTimeSeconds": 31479,
+      "money": 174582,
+      "gold": 60,
+      "fame": 327,
+      "rank": 27
+    },
+    {
+      "steamId": "76561198156199371",
+      "name": "Бабайка",
+      "sessionSeconds": 19,
+      "playTimeSeconds": 23924,
+      "money": 55357,
+      "gold": 30,
+      "fame": 87,
+      "rank": 39
+    },
+    {
       "steamId": "76561199125649189",
       "name": "HEADLESS",
       "sessionSeconds": 19,
-      "playTimeSeconds": 71360,
+      "playTimeSeconds": 71420,
       "money": 6105172,
       "gold": 3742,
       "fame": 17785,
@@ -25,7 +45,7 @@
       "steamId": "76561198846871689",
       "name": "THE_PAHA",
       "sessionSeconds": 19,
-      "playTimeSeconds": 10518,
+      "playTimeSeconds": 10578,
       "money": 58586,
       "gold": 55,
       "fame": 247,
@@ -35,8 +55,8 @@
       "steamId": "76561198689488321",
       "name": "KiTaY",
       "sessionSeconds": 19,
-      "playTimeSeconds": 33095,
-      "money": 304637,
+      "playTimeSeconds": 33155,
+      "money": 280541,
       "gold": 60,
       "fame": 554,
       "rank": 24
@@ -45,7 +65,7 @@
       "steamId": "76561198384962778",
       "name": "Рик",
       "sessionSeconds": 19,
-      "playTimeSeconds": 31280,
+      "playTimeSeconds": 31340,
       "money": 53673,
       "gold": 40,
       "fame": 265,
@@ -55,7 +75,7 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 19,
-      "playTimeSeconds": 106016,
+      "playTimeSeconds": 106076,
       "money": 186350,
       "gold": 1840,
       "fame": 3900,
@@ -65,12 +85,22 @@
       "steamId": "76561199069302468",
       "name": "vito",
       "sessionSeconds": 19,
-      "playTimeSeconds": 30233,
+      "playTimeSeconds": 30293,
       "money": 23319,
       "gold": 40,
       "fame": 221,
       "rank": 30
+    },
+    {
+      "steamId": "76561199206600084",
+      "name": "Pod_Pivas",
+      "sessionSeconds": 19,
+      "playTimeSeconds": 75616,
+      "money": 133422,
+      "gold": 30,
+      "fame": 465,
+      "rank": 6
     }
   ],
-  "updated": "2026-11-07T18:04:26.808Z"
+  "updated": "2026-11-07T18:05:26.814Z"
 }
