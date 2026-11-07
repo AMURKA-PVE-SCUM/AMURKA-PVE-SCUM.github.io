@@ -1,31 +1,51 @@
 {
-  "online": 5,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198804609242",
       "name": "Немезида",
-      "sessionSeconds": 258571,
-      "playTimeSeconds": 19021,
+      "sessionSeconds": 258631,
+      "playTimeSeconds": 19080,
       "money": 177076,
       "gold": 65,
       "fame": 276,
       "rank": 28
     },
     {
+      "steamId": "76561199356142588",
+      "name": "starik_andrey",
+      "sessionSeconds": 29,
+      "playTimeSeconds": 5975,
+      "money": 10264,
+      "gold": 190,
+      "fame": 543,
+      "rank": 55
+    },
+    {
+      "steamId": "76561198327689237",
+      "name": "Albert",
+      "sessionSeconds": 29,
+      "playTimeSeconds": 25948,
+      "money": 7454241,
+      "gold": 686,
+      "fame": 3119,
+      "rank": 21
+    },
+    {
       "steamId": "76561198325068343",
       "name": "BarmaleyZ",
       "sessionSeconds": 29,
-      "playTimeSeconds": 11924,
+      "playTimeSeconds": 11984,
       "money": 41666,
       "gold": 120,
-      "fame": 547,
+      "fame": 548,
       "rank": 44
     },
     {
       "steamId": "76561198156438506",
       "name": "Tema HANT",
       "sessionSeconds": 29,
-      "playTimeSeconds": 47928,
+      "playTimeSeconds": 47988,
       "money": 24900,
       "gold": 125,
       "fame": 449,
@@ -35,7 +55,7 @@
       "steamId": "76561198922600933",
       "name": "Лися",
       "sessionSeconds": 29,
-      "playTimeSeconds": 42001,
+      "playTimeSeconds": 42061,
       "money": 21236,
       "gold": 125,
       "fame": 340,
@@ -44,13 +64,33 @@
     {
       "steamId": "76561199038664626",
       "name": "VeNoM",
-      "sessionSeconds": 20,
-      "playTimeSeconds": 57260,
+      "sessionSeconds": 29,
+      "playTimeSeconds": 57319,
       "money": 303218,
       "gold": 140,
       "fame": 532,
       "rank": 3
+    },
+    {
+      "steamId": "76561199206600084",
+      "name": "Pod_Pivas",
+      "sessionSeconds": 29,
+      "playTimeSeconds": 45030,
+      "money": 15577,
+      "gold": 20,
+      "fame": 321,
+      "rank": 9
+    },
+    {
+      "steamId": "76561198071060590",
+      "name": "Sushi",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 20487,
+      "money": 852581,
+      "gold": 588,
+      "fame": 12206,
+      "rank": 27
     }
   ],
-  "updated": "2026-11-07T08:30:18.440Z"
+  "updated": "2026-11-07T08:31:18.448Z"
 }
