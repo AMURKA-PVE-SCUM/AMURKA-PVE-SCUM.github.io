@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 61030,
+      "playTimeSeconds": 61090,
       "money": 173475,
       "gold": 1780,
       "fame": 3743,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198707187491",
       "name": "75iness",
-      "playTimeSeconds": 47470,
+      "playTimeSeconds": 47530,
       "money": 17556,
       "gold": 70,
       "fame": 605,
@@ -32,6 +32,16 @@
     },
     {
       "rank": 4,
+      "steamId": "76561199038664626",
+      "name": "VeNoM",
+      "playTimeSeconds": 46236,
+      "money": 335810,
+      "gold": 125,
+      "fame": 491,
+      "isOnline": true
+    },
+    {
+      "rank": 5,
       "steamId": "76561199758816988",
       "name": "Nikolai",
       "playTimeSeconds": 46194,
@@ -39,16 +49,6 @@
       "gold": 300,
       "fame": 1342,
       "isOnline": false
-    },
-    {
-      "rank": 5,
-      "steamId": "76561199038664626",
-      "name": "VeNoM",
-      "playTimeSeconds": 46176,
-      "money": 334810,
-      "gold": 120,
-      "fame": 481,
-      "isOnline": true
     },
     {
       "rank": 6,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 42768,
+      "playTimeSeconds": 42828,
       "money": 2247065,
       "gold": 1564,
       "fame": 6906,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561199812501532",
       "name": "Эля75",
-      "playTimeSeconds": 32843,
+      "playTimeSeconds": 32903,
       "money": 85501,
       "gold": 75,
       "fame": 235,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-07T04:35:16.637Z"
+  "updated": "2026-11-07T04:36:16.648Z"
 }
