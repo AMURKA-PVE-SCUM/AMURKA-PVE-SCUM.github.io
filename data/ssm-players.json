@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198790887864",
       "name": "Roma",
       "sessionSeconds": 9,
-      "playTimeSeconds": 47741,
+      "playTimeSeconds": 47801,
       "money": 2248065,
       "gold": 1569,
       "fame": 6923,
@@ -15,27 +15,17 @@
       "steamId": "76561198327689237",
       "name": "Albert",
       "sessionSeconds": 9,
-      "playTimeSeconds": 23122,
+      "playTimeSeconds": 23182,
       "money": 7454241,
       "gold": 686,
       "fame": 3119,
       "rank": 24
     },
     {
-      "steamId": "76561198028621423",
-      "name": "Lesnik",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 16154,
-      "money": 574961,
-      "gold": 1909,
-      "fame": 4174,
-      "rank": 34
-    },
-    {
       "steamId": "76561199812501532",
       "name": "Эля75",
       "sessionSeconds": 9,
-      "playTimeSeconds": 37816,
+      "playTimeSeconds": 37876,
       "money": 86501,
       "gold": 80,
       "fame": 248,
@@ -45,32 +35,32 @@
       "steamId": "76561198707187491",
       "name": "75iness",
       "sessionSeconds": 9,
-      "playTimeSeconds": 52443,
+      "playTimeSeconds": 52503,
       "money": 556,
       "gold": 75,
       "fame": 619,
       "rank": 2
     },
     {
-      "steamId": "76561198156438506",
-      "name": "Tema HANT",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 39065,
-      "money": 22900,
-      "gold": 115,
-      "fame": 424,
-      "rank": 10
-    },
-    {
       "steamId": "76561198276254908",
       "name": "Завитинск",
       "sessionSeconds": 9,
-      "playTimeSeconds": 1010,
+      "playTimeSeconds": 1070,
       "money": 0,
       "gold": 10,
       "fame": 36,
-      "rank": 63
+      "rank": 62
+    },
+    {
+      "steamId": "76561198028621423",
+      "name": "Lesnik",
+      "sessionSeconds": 9,
+      "playTimeSeconds": 16214,
+      "money": 574961,
+      "gold": 1909,
+      "fame": 4174,
+      "rank": 34
     }
   ],
-  "updated": "2026-11-07T05:58:17.249Z"
+  "updated": "2026-11-07T05:59:17.250Z"
 }
