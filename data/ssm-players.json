@@ -1,11 +1,61 @@
 {
-  "online": 3,
+  "online": 8,
   "players": [
+    {
+      "steamId": "76561198412294634",
+      "name": "Ctivеn",
+      "sessionSeconds": 4,
+      "playTimeSeconds": 50870,
+      "money": 5791,
+      "gold": 65,
+      "fame": 259,
+      "rank": 16
+    },
+    {
+      "steamId": "76561198140281063",
+      "name": "NetrezvbIi_Kot",
+      "sessionSeconds": 4,
+      "playTimeSeconds": 9406,
+      "money": 1114936,
+      "gold": 407,
+      "fame": 4055,
+      "rank": 68
+    },
+    {
+      "steamId": "76561198826257359",
+      "name": "XXXX",
+      "sessionSeconds": 4,
+      "playTimeSeconds": 37703,
+      "money": 1195400,
+      "gold": 205,
+      "fame": 759,
+      "rank": 25
+    },
+    {
+      "steamId": "76561198029476275",
+      "name": "XEH",
+      "sessionSeconds": 4,
+      "playTimeSeconds": 53134,
+      "money": 293910,
+      "gold": 860,
+      "fame": 4312,
+      "rank": 15
+    },
+    {
+      "steamId": "76561198035839448",
+      "name": "Mad Alex173rus",
+      "sessionSeconds": 4,
+      "playTimeSeconds": 8732,
+      "money": 35852,
+      "gold": 25,
+      "fame": 182,
+      "rank": 71
+    },
     {
       "steamId": "76561198032084496",
       "name": "бродяга",
       "sessionSeconds": 4,
-      "playTimeSeconds": 11084,
+      "playTimeSeconds": 11144,
       "money": 1592304,
       "gold": 414,
       "fame": 1361,
@@ -15,7 +65,7 @@
       "steamId": "76561198084620275",
       "name": "Денис",
       "sessionSeconds": 4,
-      "playTimeSeconds": 46138,
+      "playTimeSeconds": 46198,
       "money": 1991713,
       "gold": 1127,
       "fame": 5556,
@@ -24,13 +74,13 @@
     {
       "steamId": "76561199480908551",
       "name": "gv_61 rus",
-      "sessionSeconds": 2,
-      "playTimeSeconds": 32476,
+      "sessionSeconds": 4,
+      "playTimeSeconds": 32537,
       "money": 446181,
       "gold": 1122,
       "fame": 1705,
       "rank": 31
     }
   ],
-  "updated": "2026-11-07T21:03:28.231Z"
+  "updated": "2026-11-07T21:04:28.237Z"
 }
