@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198707187491",
       "name": "75iness",
-      "playTimeSeconds": 52263,
+      "playTimeSeconds": 52323,
       "money": 556,
       "gold": 75,
       "fame": 619,
@@ -22,6 +22,16 @@
     },
     {
       "rank": 3,
+      "steamId": "76561199038664626",
+      "name": "VeNoM",
+      "playTimeSeconds": 51029,
+      "money": 336810,
+      "gold": 130,
+      "fame": 507,
+      "isOnline": true
+    },
+    {
+      "rank": 4,
       "steamId": "76561198328189885",
       "name": "vlaD0S",
       "playTimeSeconds": 50995,
@@ -31,20 +41,10 @@
       "isOnline": false
     },
     {
-      "rank": 4,
-      "steamId": "76561199038664626",
-      "name": "VeNoM",
-      "playTimeSeconds": 50969,
-      "money": 336810,
-      "gold": 130,
-      "fame": 507,
-      "isOnline": true
-    },
-    {
       "rank": 5,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 47561,
+      "playTimeSeconds": 47621,
       "money": 2248065,
       "gold": 1569,
       "fame": 6923,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561198156438506",
       "name": "Tema HANT",
-      "playTimeSeconds": 38885,
+      "playTimeSeconds": 38945,
       "money": 22900,
       "gold": 115,
       "fame": 424,
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561199812501532",
       "name": "Эля75",
-      "playTimeSeconds": 37636,
+      "playTimeSeconds": 37696,
       "money": 86501,
       "gold": 80,
       "fame": 248,
@@ -144,7 +144,7 @@
       "rank": 15,
       "steamId": "76561199086334651",
       "name": "Soda",
-      "playTimeSeconds": 31880,
+      "playTimeSeconds": 31940,
       "money": 246666,
       "gold": 140,
       "fame": 1381,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-07T05:55:17.231Z"
+  "updated": "2026-11-07T05:56:17.244Z"
 }
