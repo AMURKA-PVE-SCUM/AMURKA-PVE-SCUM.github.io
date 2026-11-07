@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 75317,
+      "playTimeSeconds": 75377,
       "money": 185196,
       "gold": 1800,
       "fame": 3791,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561199038664626",
       "name": "VeNoM",
-      "playTimeSeconds": 59161,
+      "playTimeSeconds": 59221,
       "money": 414351,
       "gold": 140,
       "fame": 543,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 52857,
+      "playTimeSeconds": 52917,
       "money": 2249065,
       "gold": 1574,
       "fame": 6940,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561199758816988",
       "name": "Nikolai",
-      "playTimeSeconds": 52204,
+      "playTimeSeconds": 52264,
       "money": 1039146,
       "gold": 310,
       "fame": 1378,
@@ -84,11 +84,11 @@
       "rank": 9,
       "steamId": "76561199206600084",
       "name": "Pod_Pivas",
-      "playTimeSeconds": 46738,
+      "playTimeSeconds": 46774,
       "money": 16577,
       "gold": 25,
       "fame": 332,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 10,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561199086334651",
       "name": "Soda",
-      "playTimeSeconds": 38662,
+      "playTimeSeconds": 38722,
       "money": 263666,
       "gold": 150,
       "fame": 1414,
@@ -162,6 +162,16 @@
     },
     {
       "rank": 17,
+      "steamId": "76561198327689237",
+      "name": "Albert",
+      "playTimeSeconds": 27989,
+      "money": 7506341,
+      "gold": 691,
+      "fame": 3160,
+      "isOnline": true
+    },
+    {
+      "rank": 18,
       "steamId": "76561198037904934",
       "name": "Astaf",
       "playTimeSeconds": 27952,
@@ -169,16 +179,6 @@
       "gold": 248,
       "fame": 3526,
       "isOnline": false
-    },
-    {
-      "rank": 18,
-      "steamId": "76561198327689237",
-      "name": "Albert",
-      "playTimeSeconds": 27929,
-      "money": 7506341,
-      "gold": 691,
-      "fame": 3160,
-      "isOnline": true
     },
     {
       "rank": 19,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-07T09:05:18.690Z"
+  "updated": "2026-11-07T09:06:18.701Z"
 }
