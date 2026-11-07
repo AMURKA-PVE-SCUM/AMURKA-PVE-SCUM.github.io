@@ -1,11 +1,51 @@
 {
-  "online": 6,
+  "online": 9,
   "players": [
+    {
+      "steamId": "76561199877063571",
+      "name": "Mazay",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 26564,
+      "money": 2706239,
+      "gold": 1685,
+      "fame": 9781,
+      "rank": 23
+    },
+    {
+      "steamId": "76561198327689237",
+      "name": "Albert",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 28821,
+      "money": 7506341,
+      "gold": 691,
+      "fame": 3161,
+      "rank": 21
+    },
+    {
+      "steamId": "76561199206700564",
+      "name": "_Adskiy_Yozhik_",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 242,
+      "money": 153108,
+      "gold": 205,
+      "fame": 638,
+      "rank": 76
+    },
+    {
+      "steamId": "76561199758816988",
+      "name": "Nikolai",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 60248,
+      "money": 428822,
+      "gold": 320,
+      "fame": 1408,
+      "rank": 6
+    },
     {
       "steamId": "76561198328189885",
       "name": "vlaD0S",
       "sessionSeconds": 2,
-      "playTimeSeconds": 60230,
+      "playTimeSeconds": 60290,
       "money": 2690912,
       "gold": 599,
       "fame": 20538,
@@ -15,52 +55,42 @@
       "steamId": "76561199244636054",
       "name": "_PsixichkA_",
       "sessionSeconds": 2,
-      "playTimeSeconds": 29,
+      "playTimeSeconds": 89,
       "money": 453318,
       "gold": 390,
-      "fame": 1149,
-      "rank": 79
-    },
-    {
-      "steamId": "76561199206600084",
-      "name": "Pod_Pivas",
-      "sessionSeconds": 2,
-      "playTimeSeconds": 54611,
-      "money": 4503,
-      "gold": 10,
-      "fame": 312,
-      "rank": 9
+      "fame": 1150,
+      "rank": 78
     },
     {
       "steamId": "76561198689488321",
       "name": "KiTaY",
       "sessionSeconds": 2,
-      "playTimeSeconds": 17785,
+      "playTimeSeconds": 17845,
       "money": 271905,
       "gold": 35,
       "fame": 471,
       "rank": 35
     },
     {
-      "steamId": "76561199071383311",
-      "name": "DERSKAYAシ",
-      "sessionSeconds": 2,
-      "playTimeSeconds": 20158,
-      "money": 578383,
-      "gold": 140,
-      "fame": 790,
-      "rank": 31
-    },
-    {
       "steamId": "76561198156199371",
       "name": "Бабайка",
       "sessionSeconds": 2,
-      "playTimeSeconds": 806,
+      "playTimeSeconds": 866,
       "money": 0,
       "gold": 0,
       "fame": 2,
       "rank": 72
+    },
+    {
+      "steamId": "76561199206600084",
+      "name": "Pod_Pivas",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 54671,
+      "money": 4503,
+      "gold": 10,
+      "fame": 312,
+      "rank": 9
     }
   ],
-  "updated": "2026-11-07T11:24:19.752Z"
+  "updated": "2026-11-07T11:25:19.761Z"
 }
