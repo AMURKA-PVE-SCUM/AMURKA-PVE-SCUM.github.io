@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 109190,
+      "playTimeSeconds": 109250,
       "money": 208174,
       "gold": 1845,
       "fame": 3912,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 80435,
+      "playTimeSeconds": 80495,
       "money": 1750683,
       "gold": 1614,
       "fame": 7339,
@@ -44,8 +44,8 @@
       "rank": 5,
       "steamId": "76561199206600084",
       "name": "Pod_Pivas",
-      "playTimeSeconds": 78730,
-      "money": 183422,
+      "playTimeSeconds": 78790,
+      "money": 181542,
       "gold": 31,
       "fame": 620,
       "isOnline": true
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561198877709613",
       "name": "_RE_",
-      "playTimeSeconds": 60117,
+      "playTimeSeconds": 60177,
       "money": 1188354,
       "gold": 479,
       "fame": 3267,
@@ -132,6 +132,16 @@
     },
     {
       "rank": 14,
+      "steamId": "76561199569191127",
+      "name": "Mira",
+      "playTimeSeconds": 50591,
+      "money": 1595183,
+      "gold": 541,
+      "fame": 9512,
+      "isOnline": true
+    },
+    {
+      "rank": 15,
       "steamId": "76561199000739219",
       "name": "Yakytenok",
       "playTimeSeconds": 50584,
@@ -139,16 +149,6 @@
       "gold": 150,
       "fame": 1268,
       "isOnline": false
-    },
-    {
-      "rank": 15,
-      "steamId": "76561199569191127",
-      "name": "Mira",
-      "playTimeSeconds": 50531,
-      "money": 1595183,
-      "gold": 541,
-      "fame": 9512,
-      "isOnline": true
     },
     {
       "rank": 16,
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561198412294634",
       "name": "Ctivеn",
-      "playTimeSeconds": 43318,
+      "playTimeSeconds": 43378,
       "money": 11074,
       "gold": 55,
       "fame": 236,
@@ -184,7 +184,7 @@
       "rank": 19,
       "steamId": "76561198084620275",
       "name": "Денис",
-      "playTimeSeconds": 38807,
+      "playTimeSeconds": 38867,
       "money": 1989713,
       "gold": 1117,
       "fame": 5526,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-07T18:57:27.224Z"
+  "updated": "2026-11-07T18:58:27.230Z"
 }
