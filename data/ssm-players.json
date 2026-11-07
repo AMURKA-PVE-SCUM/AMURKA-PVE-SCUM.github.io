@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "sessionSeconds": 3,
-      "playTimeSeconds": 7047,
+      "playTimeSeconds": 7107,
       "money": 1096008,
       "gold": 1894,
-      "fame": 4123,
+      "fame": 4124,
       "rank": 50
+    },
+    {
+      "steamId": "76561199801792277",
+      "name": "Сол Хоггар",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 11055,
+      "money": 901962,
+      "gold": 271,
+      "fame": 2939,
+      "rank": 44
     }
   ],
-  "updated": "2026-11-07T00:55:15.030Z"
+  "updated": "2026-11-07T00:56:15.043Z"
 }
