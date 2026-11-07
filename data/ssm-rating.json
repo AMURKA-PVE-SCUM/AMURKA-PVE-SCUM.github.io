@@ -8,17 +8,17 @@
       "money": 183196,
       "gold": 1790,
       "fame": 3766,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 2,
       "steamId": "76561198707187491",
       "name": "75iness",
-      "playTimeSeconds": 52683,
+      "playTimeSeconds": 52710,
       "money": 556,
       "gold": 75,
       "fame": 619,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 3,
@@ -44,11 +44,11 @@
       "rank": 5,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 47981,
+      "playTimeSeconds": 48008,
       "money": 2248065,
       "gold": 1569,
       "fame": 6923,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 6,
@@ -102,6 +102,16 @@
     },
     {
       "rank": 11,
+      "steamId": "76561199812501532",
+      "name": "Эля75",
+      "playTimeSeconds": 38083,
+      "money": 86501,
+      "gold": 80,
+      "fame": 248,
+      "isOnline": false
+    },
+    {
+      "rank": 12,
       "steamId": "76561198065319845",
       "name": "CAPITAN",
       "playTimeSeconds": 38061,
@@ -109,16 +119,6 @@
       "gold": 165,
       "fame": 561,
       "isOnline": false
-    },
-    {
-      "rank": 12,
-      "steamId": "76561199812501532",
-      "name": "Эля75",
-      "playTimeSeconds": 38056,
-      "money": 86501,
-      "gold": 80,
-      "fame": 248,
-      "isOnline": true
     },
     {
       "rank": 13,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-07T06:02:17.265Z"
+  "updated": "2026-11-07T06:03:17.269Z"
 }
