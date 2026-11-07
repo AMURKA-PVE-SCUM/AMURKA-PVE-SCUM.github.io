@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "sessionSeconds": 162548,
-      "playTimeSeconds": 65789,
+      "sessionSeconds": 162608,
+      "playTimeSeconds": 65849,
       "money": 183196,
       "gold": 1790,
       "fame": 3766,
@@ -15,7 +15,7 @@
       "steamId": "76561198156438506",
       "name": "Tema HANT",
       "sessionSeconds": 8,
-      "playTimeSeconds": 39478,
+      "playTimeSeconds": 39538,
       "money": 22900,
       "gold": 115,
       "fame": 424,
@@ -25,7 +25,7 @@
       "steamId": "76561199086334651",
       "name": "Soda",
       "sessionSeconds": 8,
-      "playTimeSeconds": 32404,
+      "playTimeSeconds": 32464,
       "money": 246666,
       "gold": 140,
       "fame": 1382,
@@ -35,7 +35,7 @@
       "steamId": "76561199812501532",
       "name": "Эля75",
       "sessionSeconds": 8,
-      "playTimeSeconds": 38373,
+      "playTimeSeconds": 38433,
       "money": 86501,
       "gold": 80,
       "fame": 249,
@@ -45,7 +45,7 @@
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "sessionSeconds": 8,
-      "playTimeSeconds": 16502,
+      "playTimeSeconds": 16562,
       "money": 592636,
       "gold": 1909,
       "fame": 4189,
@@ -55,7 +55,7 @@
       "steamId": "76561198276254908",
       "name": "Завитинск",
       "sessionSeconds": 8,
-      "playTimeSeconds": 1486,
+      "playTimeSeconds": 1546,
       "money": 0,
       "gold": 10,
       "fame": 37,
@@ -65,12 +65,22 @@
       "steamId": "76561198707187491",
       "name": "75iness",
       "sessionSeconds": 8,
-      "playTimeSeconds": 52931,
+      "playTimeSeconds": 52991,
       "money": 1556,
       "gold": 80,
       "fame": 629,
       "rank": 2
+    },
+    {
+      "steamId": "76561198790887864",
+      "name": "Roma",
+      "sessionSeconds": 8,
+      "playTimeSeconds": 48032,
+      "money": 2248065,
+      "gold": 1569,
+      "fame": 6923,
+      "rank": 5
     }
   ],
-  "updated": "2026-11-07T06:09:17.309Z"
+  "updated": "2026-11-07T06:10:17.314Z"
 }
