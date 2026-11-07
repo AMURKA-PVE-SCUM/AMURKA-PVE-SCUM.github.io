@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 61929,
+      "playTimeSeconds": 61989,
       "money": 174475,
       "gold": 1785,
       "fame": 3753,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198707187491",
       "name": "75iness",
-      "playTimeSeconds": 48369,
+      "playTimeSeconds": 48429,
       "money": 17556,
       "gold": 70,
       "fame": 606,
@@ -34,10 +34,10 @@
       "rank": 4,
       "steamId": "76561199038664626",
       "name": "VeNoM",
-      "playTimeSeconds": 47075,
+      "playTimeSeconds": 47135,
       "money": 335810,
       "gold": 125,
-      "fame": 491,
+      "fame": 492,
       "isOnline": true
     },
     {
@@ -52,6 +52,16 @@
     },
     {
       "rank": 6,
+      "steamId": "76561198790887864",
+      "name": "Roma",
+      "playTimeSeconds": 43727,
+      "money": 2247065,
+      "gold": 1564,
+      "fame": 6907,
+      "isOnline": true
+    },
+    {
+      "rank": 7,
       "steamId": "76561199206600084",
       "name": "Pod_Pivas",
       "playTimeSeconds": 43675,
@@ -59,16 +69,6 @@
       "gold": 20,
       "fame": 320,
       "isOnline": false
-    },
-    {
-      "rank": 7,
-      "steamId": "76561198790887864",
-      "name": "Roma",
-      "playTimeSeconds": 43667,
-      "money": 2247065,
-      "gold": 1564,
-      "fame": 6907,
-      "isOnline": true
     },
     {
       "rank": 8,
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561199812501532",
       "name": "Эля75",
-      "playTimeSeconds": 33742,
+      "playTimeSeconds": 33802,
       "money": 85501,
       "gold": 75,
       "fame": 236,
@@ -154,11 +154,11 @@
       "rank": 16,
       "steamId": "76561199086334651",
       "name": "Soda",
-      "playTimeSeconds": 28034,
+      "playTimeSeconds": 28045,
       "money": 245666,
       "gold": 135,
       "fame": 1369,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 17,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-07T04:50:16.747Z"
+  "updated": "2026-11-07T04:51:16.755Z"
 }
