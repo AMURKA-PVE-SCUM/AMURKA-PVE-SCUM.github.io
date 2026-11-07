@@ -1,11 +1,41 @@
 {
-  "online": 4,
+  "online": 7,
   "players": [
+    {
+      "steamId": "76561198072704902",
+      "name": "hookzver",
+      "sessionSeconds": 18954,
+      "playTimeSeconds": 32749,
+      "money": 990064,
+      "gold": 264,
+      "fame": 1941,
+      "rank": 25
+    },
+    {
+      "steamId": "76561199125649189",
+      "name": "HEADLESS",
+      "sessionSeconds": 19,
+      "playTimeSeconds": 71360,
+      "money": 6105172,
+      "gold": 3742,
+      "fame": 17785,
+      "rank": 8
+    },
+    {
+      "steamId": "76561198846871689",
+      "name": "THE_PAHA",
+      "sessionSeconds": 19,
+      "playTimeSeconds": 10518,
+      "money": 58586,
+      "gold": 55,
+      "fame": 247,
+      "rank": 62
+    },
     {
       "steamId": "76561198689488321",
       "name": "KiTaY",
       "sessionSeconds": 19,
-      "playTimeSeconds": 33033,
+      "playTimeSeconds": 33095,
       "money": 304637,
       "gold": 60,
       "fame": 554,
@@ -15,32 +45,32 @@
       "steamId": "76561198384962778",
       "name": "Рик",
       "sessionSeconds": 19,
-      "playTimeSeconds": 31218,
+      "playTimeSeconds": 31280,
       "money": 53673,
       "gold": 40,
       "fame": 265,
       "rank": 28
     },
     {
-      "steamId": "76561198846871689",
-      "name": "THE_PAHA",
-      "sessionSeconds": 3,
-      "playTimeSeconds": 10456,
-      "money": 58586,
-      "gold": 55,
-      "fame": 247,
-      "rank": 62
-    },
-    {
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "sessionSeconds": 3,
-      "playTimeSeconds": 105954,
+      "sessionSeconds": 19,
+      "playTimeSeconds": 106016,
       "money": 186350,
       "gold": 1840,
       "fame": 3900,
       "rank": 1
+    },
+    {
+      "steamId": "76561199069302468",
+      "name": "vito",
+      "sessionSeconds": 19,
+      "playTimeSeconds": 30233,
+      "money": 23319,
+      "gold": 40,
+      "fame": 221,
+      "rank": 30
     }
   ],
-  "updated": "2026-11-07T18:03:26.801Z"
+  "updated": "2026-11-07T18:04:26.808Z"
 }
