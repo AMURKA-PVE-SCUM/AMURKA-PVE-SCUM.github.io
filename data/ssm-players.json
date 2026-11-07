@@ -1,11 +1,11 @@
 {
-  "online": 2,
+  "online": 5,
   "players": [
     {
       "steamId": "76561198156438506",
       "name": "Tema HANT",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 39179,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 39239,
       "money": 22900,
       "gold": 115,
       "fame": 424,
@@ -14,13 +14,43 @@
     {
       "steamId": "76561199086334651",
       "name": "Soda",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 32105,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 32165,
       "money": 246666,
       "gold": 140,
       "fame": 1381,
       "rank": 15
+    },
+    {
+      "steamId": "76561199812501532",
+      "name": "Эля75",
+      "sessionSeconds": 8,
+      "playTimeSeconds": 38134,
+      "money": 86501,
+      "gold": 80,
+      "fame": 248,
+      "rank": 11
+    },
+    {
+      "steamId": "76561198028621423",
+      "name": "Lesnik",
+      "sessionSeconds": 8,
+      "playTimeSeconds": 16263,
+      "money": 574961,
+      "gold": 1909,
+      "fame": 4174,
+      "rank": 34
+    },
+    {
+      "steamId": "76561198707187491",
+      "name": "75iness",
+      "sessionSeconds": 8,
+      "playTimeSeconds": 52732,
+      "money": 556,
+      "gold": 75,
+      "fame": 619,
+      "rank": 2
     }
   ],
-  "updated": "2026-11-07T06:04:17.271Z"
+  "updated": "2026-11-07T06:05:17.274Z"
 }
