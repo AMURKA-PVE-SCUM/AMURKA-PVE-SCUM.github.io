@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 161313,
+      "playTimeSeconds": 161373,
       "money": 273038,
       "gold": 1925,
       "fame": 4150,
@@ -32,6 +32,16 @@
     },
     {
       "rank": 4,
+      "steamId": "76561198328189885",
+      "name": "vlaD0S",
+      "playTimeSeconds": 120779,
+      "money": 1280329,
+      "gold": 684,
+      "fame": 20939,
+      "isOnline": true
+    },
+    {
+      "rank": 5,
       "steamId": "76561198790887864",
       "name": "Roma",
       "playTimeSeconds": 120769,
@@ -39,16 +49,6 @@
       "gold": 1670,
       "fame": 8474,
       "isOnline": false
-    },
-    {
-      "rank": 5,
-      "steamId": "76561198328189885",
-      "name": "vlaD0S",
-      "playTimeSeconds": 120719,
-      "money": 1280329,
-      "gold": 684,
-      "fame": 20939,
-      "isOnline": true
     },
     {
       "rank": 6,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-08T22:52:43.643Z"
+  "updated": "2026-11-08T22:53:43.644Z"
 }
