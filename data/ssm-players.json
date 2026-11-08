@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561199069302468",
       "name": "vito",
-      "sessionSeconds": 8,
-      "playTimeSeconds": 35916,
+      "sessionSeconds": 19,
+      "playTimeSeconds": 35976,
       "money": 24319,
       "gold": 45,
       "fame": 243,
       "rank": 30
+    },
+    {
+      "steamId": "76561198156438506",
+      "name": "Tema HANT",
+      "sessionSeconds": 19,
+      "playTimeSeconds": 65185,
+      "money": 25711,
+      "gold": 150,
+      "fame": 515,
+      "rank": 11
     }
   ],
-  "updated": "2026-11-08T03:03:30.970Z"
+  "updated": "2026-11-08T03:04:30.984Z"
 }
