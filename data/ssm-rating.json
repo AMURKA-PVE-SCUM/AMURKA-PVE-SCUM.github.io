@@ -92,6 +92,16 @@
     },
     {
       "rank": 10,
+      "steamId": "76561199086334651",
+      "name": "Soda",
+      "playTimeSeconds": 65161,
+      "money": 270666,
+      "gold": 185,
+      "fame": 1520,
+      "isOnline": true
+    },
+    {
+      "rank": 11,
       "steamId": "76561198156438506",
       "name": "Tema HANT",
       "playTimeSeconds": 65135,
@@ -99,16 +109,6 @@
       "gold": 150,
       "fame": 515,
       "isOnline": false
-    },
-    {
-      "rank": 11,
-      "steamId": "76561199086334651",
-      "name": "Soda",
-      "playTimeSeconds": 65101,
-      "money": 270666,
-      "gold": 185,
-      "fame": 1520,
-      "isOnline": true
     },
     {
       "rank": 12,
@@ -174,10 +174,10 @@
       "rank": 18,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 52788,
+      "playTimeSeconds": 52848,
       "money": 1306235,
       "gold": 225,
-      "fame": 676,
+      "fame": 626,
       "isOnline": true
     },
     {
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-08T01:18:30.212Z"
+  "updated": "2026-11-08T01:19:30.215Z"
 }
