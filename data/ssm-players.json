@@ -1,11 +1,11 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198707187491",
       "name": "75iness",
-      "sessionSeconds": 10542,
-      "playTimeSeconds": 99978,
+      "sessionSeconds": 10662,
+      "playTimeSeconds": 100098,
       "money": 87733,
       "gold": 61,
       "fame": 1007,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561199812501532",
       "name": "Эля75",
-      "sessionSeconds": 8113,
-      "playTimeSeconds": 80883,
+      "sessionSeconds": 8233,
+      "playTimeSeconds": 81003,
       "money": 90616,
       "gold": 40,
       "fame": 468,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198384962778",
       "name": "Рик",
-      "sessionSeconds": 5881,
-      "playTimeSeconds": 43538,
+      "sessionSeconds": 6001,
+      "playTimeSeconds": 43658,
       "money": 78008,
       "gold": 60,
       "fame": 302,
@@ -35,7 +35,7 @@
       "steamId": "76561199069302468",
       "name": "vito",
       "sessionSeconds": 12,
-      "playTimeSeconds": 40830,
+      "playTimeSeconds": 40950,
       "money": 44291,
       "gold": 55,
       "fame": 268,
@@ -45,7 +45,7 @@
       "steamId": "76561198399306435",
       "name": "MasSawka",
       "sessionSeconds": 12,
-      "playTimeSeconds": 23401,
+      "playTimeSeconds": 23521,
       "money": 199870,
       "gold": 90,
       "fame": 481,
@@ -55,7 +55,7 @@
       "steamId": "76561198804609242",
       "name": "Немезида",
       "sessionSeconds": 12,
-      "playTimeSeconds": 39886,
+      "playTimeSeconds": 40006,
       "money": 143400,
       "gold": 95,
       "fame": 345,
@@ -65,7 +65,7 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 12,
-      "playTimeSeconds": 118408,
+      "playTimeSeconds": 118528,
       "money": 211174,
       "gold": 1860,
       "fame": 3949,
@@ -75,12 +75,22 @@
       "steamId": "76561198156438506",
       "name": "Tema HANT",
       "sessionSeconds": 12,
-      "playTimeSeconds": 69965,
+      "playTimeSeconds": 70085,
       "money": 9776,
       "gold": 155,
       "fame": 530,
       "rank": 10
+    },
+    {
+      "steamId": "76561199038664626",
+      "name": "VeNoM",
+      "sessionSeconds": 12,
+      "playTimeSeconds": 83606,
+      "money": 499837,
+      "gold": 90,
+      "fame": 636,
+      "rank": 5
     }
   ],
-  "updated": "2026-11-08T04:25:31.561Z"
+  "updated": "2026-11-08T04:27:31.576Z"
 }
