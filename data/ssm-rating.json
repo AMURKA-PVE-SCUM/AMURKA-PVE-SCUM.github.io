@@ -102,6 +102,16 @@
     },
     {
       "rank": 11,
+      "steamId": "76561199086334651",
+      "name": "Soda",
+      "playTimeSeconds": 64261,
+      "money": 270666,
+      "gold": 185,
+      "fame": 1519,
+      "isOnline": true
+    },
+    {
+      "rank": 12,
       "steamId": "76561198877709613",
       "name": "_RE_",
       "playTimeSeconds": 64255,
@@ -109,16 +119,6 @@
       "gold": 484,
       "fame": 3280,
       "isOnline": false
-    },
-    {
-      "rank": 12,
-      "steamId": "76561199086334651",
-      "name": "Soda",
-      "playTimeSeconds": 64201,
-      "money": 270666,
-      "gold": 185,
-      "fame": 1519,
-      "isOnline": true
     },
     {
       "rank": 13,
@@ -174,10 +174,10 @@
       "rank": 18,
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "playTimeSeconds": 51888,
+      "playTimeSeconds": 51948,
       "money": 1306235,
       "gold": 225,
-      "fame": 675,
+      "fame": 676,
       "isOnline": true
     },
     {
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-08T01:03:30.085Z"
+  "updated": "2026-11-08T01:04:30.097Z"
 }
