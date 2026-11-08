@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198707187491",
       "name": "75iness",
-      "sessionSeconds": 10182,
-      "playTimeSeconds": 99618,
+      "sessionSeconds": 10242,
+      "playTimeSeconds": 99678,
       "money": 87733,
       "gold": 61,
       "fame": 1006,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561199812501532",
       "name": "Эля75",
-      "sessionSeconds": 7753,
-      "playTimeSeconds": 80523,
+      "sessionSeconds": 7813,
+      "playTimeSeconds": 80583,
       "money": 90616,
       "gold": 40,
       "fame": 468,
@@ -24,9 +24,9 @@
     {
       "steamId": "76561198384962778",
       "name": "Рик",
-      "sessionSeconds": 5521,
-      "playTimeSeconds": 43178,
-      "money": 99661,
+      "sessionSeconds": 5581,
+      "playTimeSeconds": 43238,
+      "money": 103027,
       "gold": 55,
       "fame": 292,
       "rank": 20
@@ -35,7 +35,7 @@
       "steamId": "76561199069302468",
       "name": "vito",
       "sessionSeconds": 13,
-      "playTimeSeconds": 40470,
+      "playTimeSeconds": 40530,
       "money": 57791,
       "gold": 55,
       "fame": 268,
@@ -45,17 +45,17 @@
       "steamId": "76561198399306435",
       "name": "MasSawka",
       "sessionSeconds": 13,
-      "playTimeSeconds": 23041,
-      "money": 198870,
-      "gold": 85,
-      "fame": 471,
+      "playTimeSeconds": 23101,
+      "money": 199870,
+      "gold": 90,
+      "fame": 481,
       "rank": 45
     },
     {
       "steamId": "76561198804609242",
       "name": "Немезида",
       "sessionSeconds": 13,
-      "playTimeSeconds": 39526,
+      "playTimeSeconds": 39586,
       "money": 143400,
       "gold": 95,
       "fame": 345,
@@ -65,12 +65,22 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 13,
-      "playTimeSeconds": 118048,
+      "playTimeSeconds": 118108,
       "money": 211174,
       "gold": 1860,
       "fame": 3948,
       "rank": 1
+    },
+    {
+      "steamId": "76561198156438506",
+      "name": "Tema HANT",
+      "sessionSeconds": 13,
+      "playTimeSeconds": 69665,
+      "money": 9776,
+      "gold": 155,
+      "fame": 530,
+      "rank": 10
     }
   ],
-  "updated": "2026-11-08T04:19:31.521Z"
+  "updated": "2026-11-08T04:20:31.531Z"
 }
