@@ -1,31 +1,31 @@
 {
-  "online": 4,
+  "online": 5,
   "players": [
     {
       "steamId": "76561198399306435",
       "name": "MasSawka",
-      "sessionSeconds": 6419,
-      "playTimeSeconds": 19412,
-      "money": 179866,
-      "gold": 80,
-      "fame": 389,
-      "rank": 47
+      "sessionSeconds": 6479,
+      "playTimeSeconds": 19472,
+      "money": 180866,
+      "gold": 85,
+      "fame": 399,
+      "rank": 46
     },
     {
       "steamId": "76561198707187491",
       "name": "75iness",
-      "sessionSeconds": 4721,
-      "playTimeSeconds": 94395,
-      "money": 85733,
-      "gold": 51,
-      "fame": 983,
+      "sessionSeconds": 4781,
+      "playTimeSeconds": 94455,
+      "money": 86733,
+      "gold": 56,
+      "fame": 993,
       "rank": 2
     },
     {
       "steamId": "76561199812501532",
       "name": "Эля75",
-      "sessionSeconds": 2292,
-      "playTimeSeconds": 76996,
+      "sessionSeconds": 2352,
+      "playTimeSeconds": 77056,
       "money": 89616,
       "gold": 35,
       "fame": 456,
@@ -34,13 +34,23 @@
     {
       "steamId": "76561198384962778",
       "name": "Рик",
-      "sessionSeconds": 60,
-      "playTimeSeconds": 37939,
+      "sessionSeconds": 120,
+      "playTimeSeconds": 37999,
       "money": 54631,
       "gold": 50,
       "fame": 250,
       "rank": 26
+    },
+    {
+      "steamId": "76561199069302468",
+      "name": "vito",
+      "sessionSeconds": 28,
+      "playTimeSeconds": 35330,
+      "money": 24319,
+      "gold": 45,
+      "fame": 242,
+      "rank": 30
     }
   ],
-  "updated": "2026-11-08T02:48:30.839Z"
+  "updated": "2026-11-08T02:49:30.854Z"
 }
