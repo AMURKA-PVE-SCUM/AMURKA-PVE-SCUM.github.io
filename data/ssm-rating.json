@@ -14,17 +14,17 @@
       "rank": 2,
       "steamId": "76561198707187491",
       "name": "75iness",
-      "playTimeSeconds": 107458,
+      "playTimeSeconds": 107473,
       "money": 89733,
       "gold": 71,
       "fame": 1032,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 3,
       "steamId": "76561199038664626",
       "name": "VeNoM",
-      "playTimeSeconds": 93312,
+      "playTimeSeconds": 93372,
       "money": 484852,
       "gold": 100,
       "fame": 686,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561199812501532",
       "name": "Эля75",
-      "playTimeSeconds": 88629,
+      "playTimeSeconds": 88689,
       "money": 93616,
       "gold": 55,
       "fame": 503,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 87207,
+      "playTimeSeconds": 87267,
       "money": 1762043,
       "gold": 1624,
       "fame": 7440,
@@ -114,40 +114,40 @@
       "rank": 12,
       "steamId": "76561198877709613",
       "name": "_RE_",
-      "playTimeSeconds": 73103,
+      "playTimeSeconds": 73143,
       "money": 1353699,
       "gold": 494,
       "fame": 3437,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 13,
       "steamId": "76561199569191127",
       "name": "Mira",
-      "playTimeSeconds": 64194,
+      "playTimeSeconds": 64254,
       "money": 1702743,
       "gold": 557,
-      "fame": 9839,
+      "fame": 9840,
       "isOnline": true
     },
     {
       "rank": 14,
       "steamId": "76561198412294634",
       "name": "Ctivеn",
-      "playTimeSeconds": 60336,
+      "playTimeSeconds": 60396,
       "money": 12841,
       "gold": 80,
-      "fame": 392,
+      "fame": 393,
       "isOnline": true
     },
     {
       "rank": 15,
       "steamId": "76561198384962778",
       "name": "Рик",
-      "playTimeSeconds": 59578,
+      "playTimeSeconds": 59638,
       "money": 77231,
       "gold": 80,
-      "fame": 383,
+      "fame": 385,
       "isOnline": true
     },
     {
@@ -162,6 +162,16 @@
     },
     {
       "rank": 17,
+      "steamId": "76561198804609242",
+      "name": "Немезида",
+      "playTimeSeconds": 55127,
+      "money": 196841,
+      "gold": 131,
+      "fame": 594,
+      "isOnline": true
+    },
+    {
+      "rank": 18,
       "steamId": "76561198922600933",
       "name": "Лися",
       "playTimeSeconds": 55080,
@@ -169,16 +179,6 @@
       "gold": 140,
       "fame": 379,
       "isOnline": false
-    },
-    {
-      "rank": 18,
-      "steamId": "76561198804609242",
-      "name": "Немезида",
-      "playTimeSeconds": 55067,
-      "money": 196841,
-      "gold": 131,
-      "fame": 594,
-      "isOnline": true
     },
     {
       "rank": 19,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-08T08:59:33.461Z"
+  "updated": "2026-11-08T09:00:33.471Z"
 }
