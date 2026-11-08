@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 154101,
+      "playTimeSeconds": 154161,
       "money": 271038,
       "gold": 1915,
       "fame": 4124,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199206600084",
       "name": "Pod_Pivas",
-      "playTimeSeconds": 131455,
+      "playTimeSeconds": 131515,
       "money": 11464,
       "gold": 10,
       "fame": 871,
@@ -34,18 +34,18 @@
       "rank": 4,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 120736,
+      "playTimeSeconds": 120769,
       "money": 2091849,
       "gold": 1670,
       "fame": 8474,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 5,
       "steamId": "76561198328189885",
       "name": "vlaD0S",
-      "playTimeSeconds": 116674,
-      "money": 1273485,
+      "playTimeSeconds": 116734,
+      "money": 1279329,
       "gold": 679,
       "fame": 20926,
       "isOnline": true
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 115100,
+      "playTimeSeconds": 115160,
       "money": 6436633,
       "gold": 3784,
       "fame": 18829,
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561198071060590",
+      "name": "Sushi",
+      "playTimeSeconds": 76240,
+      "money": 1175796,
+      "gold": 489,
+      "fame": 12778,
+      "isOnline": true
+    },
+    {
+      "rank": 16,
       "steamId": "76561198922600933",
       "name": "Лися",
       "playTimeSeconds": 76228,
@@ -149,16 +159,6 @@
       "gold": 171,
       "fame": 712,
       "isOnline": false
-    },
-    {
-      "rank": 16,
-      "steamId": "76561198071060590",
-      "name": "Sushi",
-      "playTimeSeconds": 76180,
-      "money": 1175796,
-      "gold": 489,
-      "fame": 12778,
-      "isOnline": true
     },
     {
       "rank": 17,
@@ -174,7 +174,7 @@
       "rank": 18,
       "steamId": "76561198029476275",
       "name": "XEH",
-      "playTimeSeconds": 74894,
+      "playTimeSeconds": 74954,
       "money": 423014,
       "gold": 890,
       "fame": 4396,
@@ -194,12 +194,12 @@
       "rank": 20,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 73068,
+      "playTimeSeconds": 73128,
       "money": 7570425,
       "gold": 762,
       "fame": 3583,
       "isOnline": true
     }
   ],
-  "updated": "2026-11-08T20:45:42.715Z"
+  "updated": "2026-11-08T20:46:42.718Z"
 }
