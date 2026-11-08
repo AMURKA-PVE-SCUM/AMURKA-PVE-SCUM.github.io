@@ -1,21 +1,31 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198707187491",
       "name": "75iness",
-      "sessionSeconds": 8982,
-      "playTimeSeconds": 98420,
+      "sessionSeconds": 9042,
+      "playTimeSeconds": 98480,
       "money": 87733,
       "gold": 61,
       "fame": 1005,
       "rank": 2
     },
     {
+      "steamId": "76561199812501532",
+      "name": "Эля75",
+      "sessionSeconds": 6613,
+      "playTimeSeconds": 79384,
+      "money": 90616,
+      "gold": 40,
+      "fame": 467,
+      "rank": 7
+    },
+    {
       "steamId": "76561198384962778",
       "name": "Рик",
-      "sessionSeconds": 4321,
-      "playTimeSeconds": 41980,
+      "sessionSeconds": 4381,
+      "playTimeSeconds": 42040,
       "money": 58481,
       "gold": 55,
       "fame": 286,
@@ -25,7 +35,7 @@
       "steamId": "76561199069302468",
       "name": "vito",
       "sessionSeconds": 15,
-      "playTimeSeconds": 39272,
+      "playTimeSeconds": 39332,
       "money": 25319,
       "gold": 50,
       "fame": 257,
@@ -35,7 +45,7 @@
       "steamId": "76561198156438506",
       "name": "Tema HANT",
       "sessionSeconds": 15,
-      "playTimeSeconds": 68481,
+      "playTimeSeconds": 68541,
       "money": 26711,
       "gold": 155,
       "fame": 529,
@@ -45,7 +55,7 @@
       "steamId": "76561198399306435",
       "name": "MasSawka",
       "sessionSeconds": 15,
-      "playTimeSeconds": 21843,
+      "playTimeSeconds": 21903,
       "money": 180866,
       "gold": 85,
       "fame": 400,
@@ -55,7 +65,7 @@
       "steamId": "76561198804609242",
       "name": "Немезида",
       "sessionSeconds": 15,
-      "playTimeSeconds": 38328,
+      "playTimeSeconds": 38388,
       "money": 143400,
       "gold": 95,
       "fame": 343,
@@ -65,12 +75,12 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 15,
-      "playTimeSeconds": 116850,
+      "playTimeSeconds": 116910,
       "money": 210174,
       "gold": 1855,
       "fame": 3937,
       "rank": 1
     }
   ],
-  "updated": "2026-11-08T03:59:31.359Z"
+  "updated": "2026-11-08T04:00:31.369Z"
 }
