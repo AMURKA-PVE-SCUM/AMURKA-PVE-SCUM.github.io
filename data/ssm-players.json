@@ -2,10 +2,20 @@
   "online": 6,
   "players": [
     {
+      "steamId": "76561198399306435",
+      "name": "MasSawka",
+      "sessionSeconds": 58,
+      "playTimeSeconds": 13057,
+      "money": 160249,
+      "gold": 75,
+      "fame": 358,
+      "rank": 66
+    },
+    {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 23,
-      "playTimeSeconds": 39322,
+      "sessionSeconds": 25,
+      "playTimeSeconds": 39382,
       "money": 2710239,
       "gold": 1705,
       "fame": 9828,
@@ -14,8 +24,8 @@
     {
       "steamId": "76561198115245396",
       "name": "Хабаровчанин",
-      "sessionSeconds": 23,
-      "playTimeSeconds": 15393,
+      "sessionSeconds": 25,
+      "playTimeSeconds": 15453,
       "money": 2481725,
       "gold": 564,
       "fame": 3805,
@@ -24,43 +34,33 @@
     {
       "steamId": "76561199086334651",
       "name": "Soda",
-      "sessionSeconds": 23,
-      "playTimeSeconds": 64081,
+      "sessionSeconds": 25,
+      "playTimeSeconds": 64141,
       "money": 270666,
       "gold": 185,
-      "fame": 1518,
+      "fame": 1519,
       "rank": 12
     },
     {
       "steamId": "76561198826257359",
       "name": "XXXX",
-      "sessionSeconds": 23,
-      "playTimeSeconds": 51768,
+      "sessionSeconds": 25,
+      "playTimeSeconds": 51828,
       "money": 1306235,
       "gold": 225,
-      "fame": 725,
+      "fame": 675,
       "rank": 18
     },
     {
       "steamId": "76561198139995845",
       "name": "SeverGorod",
-      "sessionSeconds": 23,
-      "playTimeSeconds": 13642,
-      "money": 3110083,
+      "sessionSeconds": 25,
+      "playTimeSeconds": 13702,
+      "money": 3144497,
       "gold": 1690,
       "fame": 6847,
       "rank": 64
-    },
-    {
-      "steamId": "76561198399306435",
-      "name": "MasSawka",
-      "sessionSeconds": 23,
-      "playTimeSeconds": 12997,
-      "money": 160128,
-      "gold": 75,
-      "fame": 358,
-      "rank": 66
     }
   ],
-  "updated": "2026-11-08T01:01:30.067Z"
+  "updated": "2026-11-08T01:02:30.072Z"
 }
