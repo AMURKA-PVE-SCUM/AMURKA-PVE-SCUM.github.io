@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 172690,
+      "playTimeSeconds": 172750,
       "money": 277038,
       "gold": 1945,
       "fame": 4200,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198707187491",
       "name": "75iness",
-      "playTimeSeconds": 137815,
+      "playTimeSeconds": 137875,
       "money": 151856,
       "gold": 116,
       "fame": 1153,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198156438506",
       "name": "Tema HANT",
-      "playTimeSeconds": 107731,
+      "playTimeSeconds": 107791,
       "money": 177422,
       "gold": 210,
       "fame": 765,
@@ -112,6 +112,16 @@
     },
     {
       "rank": 12,
+      "steamId": "76561198384962778",
+      "name": "Рик",
+      "playTimeSeconds": 92220,
+      "money": 116325,
+      "gold": 26,
+      "fame": 765,
+      "isOnline": true
+    },
+    {
+      "rank": 13,
       "steamId": "76561198877709613",
       "name": "_RE_",
       "playTimeSeconds": 92196,
@@ -119,16 +129,6 @@
       "gold": 524,
       "fame": 3538,
       "isOnline": false
-    },
-    {
-      "rank": 13,
-      "steamId": "76561198384962778",
-      "name": "Рик",
-      "playTimeSeconds": 92160,
-      "money": 116325,
-      "gold": 26,
-      "fame": 765,
-      "isOnline": true
     },
     {
       "rank": 14,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 84065,
+      "playTimeSeconds": 84125,
       "money": 7570173,
       "gold": 777,
       "fame": 3651,
@@ -174,10 +174,10 @@
       "rank": 18,
       "steamId": "76561199069302468",
       "name": "vito",
-      "playTimeSeconds": 79590,
-      "money": 57079,
-      "gold": 105,
-      "fame": 520,
+      "playTimeSeconds": 79650,
+      "money": 58079,
+      "gold": 110,
+      "fame": 530,
       "isOnline": true
     },
     {
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-09T04:35:46.105Z"
+  "updated": "2026-11-09T04:36:46.111Z"
 }
