@@ -1,21 +1,51 @@
 {
-  "online": 5,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198140281063",
       "name": "NetrezvbIi_Kot",
-      "sessionSeconds": 78473,
-      "playTimeSeconds": 48901,
+      "sessionSeconds": 78533,
+      "playTimeSeconds": 48960,
       "money": 172569,
       "gold": 463,
       "fame": 4759,
       "rank": 36
     },
     {
+      "steamId": "76561198790887864",
+      "name": "Roma",
+      "sessionSeconds": 78104,
+      "playTimeSeconds": 132653,
+      "money": 2111214,
+      "gold": 1685,
+      "fame": 8668,
+      "rank": 5
+    },
+    {
+      "steamId": "76561198384962778",
+      "name": "Рик",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 117952,
+      "money": 117623,
+      "gold": 61,
+      "fame": 980,
+      "rank": 7
+    },
+    {
+      "steamId": "76561199069302468",
+      "name": "vito",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 97899,
+      "money": 60892,
+      "gold": 135,
+      "fame": 605,
+      "rank": 15
+    },
+    {
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
       "sessionSeconds": 3,
-      "playTimeSeconds": 85858,
+      "playTimeSeconds": 85917,
       "money": 620283,
       "gold": 317,
       "fame": 2436,
@@ -25,7 +55,7 @@
       "steamId": "76561198327689237",
       "name": "Albert",
       "sessionSeconds": 3,
-      "playTimeSeconds": 99324,
+      "playTimeSeconds": 99383,
       "money": 7133423,
       "gold": 802,
       "fame": 3796,
@@ -35,7 +65,7 @@
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
       "sessionSeconds": 3,
-      "playTimeSeconds": 71701,
+      "playTimeSeconds": 71760,
       "money": 538515,
       "gold": 727,
       "fame": 3670,
@@ -45,12 +75,22 @@
       "steamId": "76561199000739219",
       "name": "Yakytenok",
       "sessionSeconds": 3,
-      "playTimeSeconds": 103384,
+      "playTimeSeconds": 103443,
       "money": 219496,
       "gold": 225,
       "fame": 1434,
       "rank": 11
+    },
+    {
+      "steamId": "76561198068992719",
+      "name": "Alina",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 18913,
+      "money": 2162421,
+      "gold": 680,
+      "fame": 1538,
+      "rank": 65
     }
   ],
-  "updated": "2026-11-09T12:03:53.361Z"
+  "updated": "2026-11-09T12:04:53.371Z"
 }
