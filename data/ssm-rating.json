@@ -24,11 +24,11 @@
       "rank": 3,
       "steamId": "76561198707187491",
       "name": "75iness",
-      "playTimeSeconds": 142850,
+      "playTimeSeconds": 142877,
       "money": 152856,
       "gold": 121,
       "fame": 1177,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 4,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 132773,
+      "playTimeSeconds": 132833,
       "money": 2111214,
       "gold": 1685,
       "fame": 8668,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198384962778",
       "name": "Рик",
-      "playTimeSeconds": 118072,
+      "playTimeSeconds": 118132,
       "money": 117623,
       "gold": 61,
       "fame": 981,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561199086334651",
       "name": "Soda",
-      "playTimeSeconds": 107449,
+      "playTimeSeconds": 107509,
       "money": 211834,
       "gold": 245,
       "fame": 1710,
@@ -104,10 +104,10 @@
       "rank": 11,
       "steamId": "76561199000739219",
       "name": "Yakytenok",
-      "playTimeSeconds": 103563,
+      "playTimeSeconds": 103623,
       "money": 219496,
       "gold": 225,
-      "fame": 1434,
+      "fame": 1435,
       "isOnline": true
     },
     {
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 99503,
+      "playTimeSeconds": 99563,
       "money": 7133423,
       "gold": 802,
       "fame": 3796,
@@ -132,6 +132,16 @@
     },
     {
       "rank": 14,
+      "steamId": "76561199069302468",
+      "name": "vito",
+      "playTimeSeconds": 98079,
+      "money": 60892,
+      "gold": 135,
+      "fame": 605,
+      "isOnline": true
+    },
+    {
+      "rank": 15,
       "steamId": "76561199569191127",
       "name": "Mira",
       "playTimeSeconds": 98039,
@@ -139,16 +149,6 @@
       "gold": 607,
       "fame": 10321,
       "isOnline": false
-    },
-    {
-      "rank": 15,
-      "steamId": "76561199069302468",
-      "name": "vito",
-      "playTimeSeconds": 98019,
-      "money": 60892,
-      "gold": 135,
-      "fame": 605,
-      "isOnline": true
     },
     {
       "rank": 16,
@@ -174,7 +174,7 @@
       "rank": 18,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 86037,
+      "playTimeSeconds": 86097,
       "money": 620283,
       "gold": 317,
       "fame": 2436,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-09T12:06:53.395Z"
+  "updated": "2026-11-09T12:07:53.403Z"
 }
