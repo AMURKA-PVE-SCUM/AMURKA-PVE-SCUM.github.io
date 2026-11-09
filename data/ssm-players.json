@@ -1,26 +1,66 @@
 {
-  "online": 2,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198071060590",
       "name": "Sushi",
-      "sessionSeconds": 65665,
-      "playTimeSeconds": 77549,
+      "sessionSeconds": 65725,
+      "playTimeSeconds": 77609,
       "money": 1175796,
       "gold": 489,
       "fame": 12779,
       "rank": 20
     },
     {
+      "steamId": "76561199206600084",
+      "name": "Pod_Pivas",
+      "sessionSeconds": 18,
+      "playTimeSeconds": 136464,
+      "money": 12464,
+      "gold": 15,
+      "fame": 890,
+      "rank": 3
+    },
+    {
+      "steamId": "76561199069302468",
+      "name": "vito",
+      "sessionSeconds": 18,
+      "playTimeSeconds": 87223,
+      "money": 60079,
+      "gold": 120,
+      "fame": 562,
+      "rank": 17
+    },
+    {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
-      "sessionSeconds": 6,
-      "playTimeSeconds": 29145,
+      "sessionSeconds": 18,
+      "playTimeSeconds": 29205,
       "money": 310280,
       "gold": 735,
       "fame": 1843,
-      "rank": 50
+      "rank": 49
+    },
+    {
+      "steamId": "76561199801792277",
+      "name": "Сол Хоггар",
+      "sessionSeconds": 18,
+      "playTimeSeconds": 18664,
+      "money": 925579,
+      "gold": 281,
+      "fame": 2980,
+      "rank": 64
+    },
+    {
+      "steamId": "76561198083074543",
+      "name": "МужНаЧас",
+      "sessionSeconds": 18,
+      "playTimeSeconds": 19223,
+      "money": 8647,
+      "gold": 50,
+      "fame": 713,
+      "rank": 61
     }
   ],
-  "updated": "2026-11-09T09:03:48.040Z"
+  "updated": "2026-11-09T09:04:48.044Z"
 }
