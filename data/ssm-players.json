@@ -1,11 +1,21 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
+    {
+      "steamId": "76561199125649189",
+      "name": "HEADLESS",
+      "sessionSeconds": 27,
+      "playTimeSeconds": 127695,
+      "money": 6767889,
+      "gold": 3803,
+      "fame": 20180,
+      "rank": 7
+    },
     {
       "steamId": "76561198790887864",
       "name": "Roma",
       "sessionSeconds": 27,
-      "playTimeSeconds": 151625,
+      "playTimeSeconds": 151685,
       "money": 2190441,
       "gold": 1711,
       "fame": 9163,
@@ -15,7 +25,7 @@
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
       "sessionSeconds": 27,
-      "playTimeSeconds": 24238,
+      "playTimeSeconds": 24298,
       "money": 1981787,
       "gold": 1388,
       "fame": 32759,
@@ -25,7 +35,7 @@
       "steamId": "76561198327689237",
       "name": "Albert",
       "sessionSeconds": 27,
-      "playTimeSeconds": 110633,
+      "playTimeSeconds": 110693,
       "money": 7145043,
       "gold": 827,
       "fame": 3927,
@@ -35,7 +45,7 @@
       "steamId": "76561198071060590",
       "name": "Sushi",
       "sessionSeconds": 27,
-      "playTimeSeconds": 82830,
+      "playTimeSeconds": 82890,
       "money": 1128298,
       "gold": 494,
       "fame": 12919,
@@ -45,7 +55,7 @@
       "steamId": "76561198083074543",
       "name": "МужНаЧас",
       "sessionSeconds": 27,
-      "playTimeSeconds": 38500,
+      "playTimeSeconds": 38560,
       "money": 439614,
       "gold": 75,
       "fame": 747,
@@ -55,7 +65,7 @@
       "steamId": "76561199206600084",
       "name": "Pod_Pivas",
       "sessionSeconds": 27,
-      "playTimeSeconds": 163110,
+      "playTimeSeconds": 163170,
       "money": 9785,
       "gold": 55,
       "fame": 1016,
@@ -65,7 +75,7 @@
       "steamId": "76561198780187270",
       "name": "Ivanesa",
       "sessionSeconds": 27,
-      "playTimeSeconds": 46084,
+      "playTimeSeconds": 46144,
       "money": 35602,
       "gold": 5,
       "fame": 373,
@@ -75,12 +85,12 @@
       "steamId": "76561198198157306",
       "name": "alekx838",
       "sessionSeconds": 27,
-      "playTimeSeconds": 27681,
+      "playTimeSeconds": 27741,
       "money": 663881,
       "gold": 386,
       "fame": 3380,
       "rank": 55
     }
   ],
-  "updated": "2026-11-09T18:10:56.311Z"
+  "updated": "2026-11-09T18:11:56.323Z"
 }
