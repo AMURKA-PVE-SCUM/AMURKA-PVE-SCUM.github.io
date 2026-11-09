@@ -82,6 +82,16 @@
     },
     {
       "rank": 9,
+      "steamId": "76561198384962778",
+      "name": "Рик",
+      "playTimeSeconds": 103017,
+      "money": 119325,
+      "gold": 41,
+      "fame": 805,
+      "isOnline": true
+    },
+    {
+      "rank": 10,
       "steamId": "76561199812501532",
       "name": "Эля75",
       "playTimeSeconds": 102979,
@@ -89,16 +99,6 @@
       "gold": 70,
       "fame": 566,
       "isOnline": false
-    },
-    {
-      "rank": 10,
-      "steamId": "76561198384962778",
-      "name": "Рик",
-      "playTimeSeconds": 102957,
-      "money": 119325,
-      "gold": 41,
-      "fame": 805,
-      "isOnline": true
     },
     {
       "rank": 11,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561199000739219",
       "name": "Yakytenok",
-      "playTimeSeconds": 94679,
+      "playTimeSeconds": 94739,
       "money": 273734,
       "gold": 210,
       "fame": 1403,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561199758816988",
       "name": "Nikolai",
-      "playTimeSeconds": 92100,
+      "playTimeSeconds": 92160,
       "money": 384302,
       "gold": 366,
       "fame": 1750,
@@ -174,7 +174,7 @@
       "rank": 18,
       "steamId": "76561198922600933",
       "name": "Лися",
-      "playTimeSeconds": 80777,
+      "playTimeSeconds": 80837,
       "money": 189528,
       "gold": 177,
       "fame": 998,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-09T07:38:47.399Z"
+  "updated": "2026-11-09T07:39:47.406Z"
 }
