@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561199206600084",
       "name": "Pod_Pivas",
-      "playTimeSeconds": 134246,
+      "playTimeSeconds": 134306,
       "money": 12464,
       "gold": 15,
       "fame": 884,
@@ -64,17 +64,17 @@
       "rank": 7,
       "steamId": "76561198156438506",
       "name": "Tema HANT",
-      "playTimeSeconds": 115608,
+      "playTimeSeconds": 115623,
       "money": 178747,
       "gold": 220,
       "fame": 790,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 8,
       "steamId": "76561198384962778",
       "name": "Рик",
-      "playTimeSeconds": 105353,
+      "playTimeSeconds": 105413,
       "money": 114023,
       "gold": 46,
       "fame": 929,
@@ -112,6 +112,16 @@
     },
     {
       "rank": 12,
+      "steamId": "76561199000739219",
+      "name": "Yakytenok",
+      "playTimeSeconds": 97135,
+      "money": 271574,
+      "gold": 215,
+      "fame": 1425,
+      "isOnline": true
+    },
+    {
+      "rank": 13,
       "steamId": "76561199038664626",
       "name": "VeNoM",
       "playTimeSeconds": 97110,
@@ -121,20 +131,10 @@
       "isOnline": false
     },
     {
-      "rank": 13,
-      "steamId": "76561199000739219",
-      "name": "Yakytenok",
-      "playTimeSeconds": 97075,
-      "money": 271574,
-      "gold": 215,
-      "fame": 1424,
-      "isOnline": true
-    },
-    {
       "rank": 14,
       "steamId": "76561199758816988",
       "name": "Nikolai",
-      "playTimeSeconds": 94496,
+      "playTimeSeconds": 94556,
       "money": 384302,
       "gold": 366,
       "fame": 1756,
@@ -174,7 +174,7 @@
       "rank": 18,
       "steamId": "76561198922600933",
       "name": "Лися",
-      "playTimeSeconds": 83173,
+      "playTimeSeconds": 83233,
       "money": 190528,
       "gold": 182,
       "fame": 1010,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-09T08:18:47.727Z"
+  "updated": "2026-11-09T08:19:47.726Z"
 }
