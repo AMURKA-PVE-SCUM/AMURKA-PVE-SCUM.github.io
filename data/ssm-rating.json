@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198707187491",
       "name": "75iness",
-      "playTimeSeconds": 140969,
+      "playTimeSeconds": 141029,
       "money": 151856,
       "gold": 116,
       "fame": 1155,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561199206600084",
       "name": "Pod_Pivas",
-      "playTimeSeconds": 135205,
+      "playTimeSeconds": 135265,
       "money": 12464,
       "gold": 15,
       "fame": 884,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 120784,
+      "playTimeSeconds": 120845,
       "money": 2091849,
       "gold": 1670,
       "fame": 8473,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198156438506",
       "name": "Tema HANT",
-      "playTimeSeconds": 116522,
+      "playTimeSeconds": 116582,
       "money": 191112,
       "gold": 220,
       "fame": 791,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198384962778",
       "name": "Рик",
-      "playTimeSeconds": 106312,
+      "playTimeSeconds": 106372,
       "money": 114023,
       "gold": 46,
       "fame": 932,
@@ -102,6 +102,16 @@
     },
     {
       "rank": 11,
+      "steamId": "76561199000739219",
+      "name": "Yakytenok",
+      "playTimeSeconds": 98094,
+      "money": 271574,
+      "gold": 215,
+      "fame": 1426,
+      "isOnline": true
+    },
+    {
+      "rank": 12,
       "steamId": "76561199569191127",
       "name": "Mira",
       "playTimeSeconds": 98039,
@@ -109,16 +119,6 @@
       "gold": 607,
       "fame": 10321,
       "isOnline": false
-    },
-    {
-      "rank": 12,
-      "steamId": "76561199000739219",
-      "name": "Yakytenok",
-      "playTimeSeconds": 98034,
-      "money": 271574,
-      "gold": 215,
-      "fame": 1426,
-      "isOnline": true
     },
     {
       "rank": 13,
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561199758816988",
       "name": "Nikolai",
-      "playTimeSeconds": 95455,
+      "playTimeSeconds": 95515,
       "money": 385302,
       "gold": 371,
       "fame": 1767,
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561199069302468",
       "name": "vito",
-      "playTimeSeconds": 85709,
+      "playTimeSeconds": 85769,
       "money": 59079,
       "gold": 115,
       "fame": 550,
@@ -174,7 +174,7 @@
       "rank": 18,
       "steamId": "76561198922600933",
       "name": "Лися",
-      "playTimeSeconds": 84132,
+      "playTimeSeconds": 84192,
       "money": 190528,
       "gold": 182,
       "fame": 1011,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-09T08:34:47.811Z"
+  "updated": "2026-11-09T08:35:47.818Z"
 }
