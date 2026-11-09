@@ -1,16 +1,46 @@
 {
-  "online": 1,
+  "online": 4,
   "players": [
     {
       "steamId": "76561198156438506",
       "name": "Tema HANT",
       "sessionSeconds": 2,
-      "playTimeSeconds": 113007,
+      "playTimeSeconds": 113067,
       "money": 178422,
       "gold": 215,
       "fame": 778,
       "rank": 7
+    },
+    {
+      "steamId": "76561198922600933",
+      "name": "Лися",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 77789,
+      "money": 88628,
+      "gold": 171,
+      "fame": 713,
+      "rank": 19
+    },
+    {
+      "steamId": "76561198327689237",
+      "name": "Albert",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 89339,
+      "money": 7577773,
+      "gold": 787,
+      "fame": 3694,
+      "rank": 14
+    },
+    {
+      "steamId": "76561198159265980",
+      "name": "Evelina_Live",
+      "sessionSeconds": 2,
+      "playTimeSeconds": 64961,
+      "money": 651024,
+      "gold": 287,
+      "fame": 2419,
+      "rank": 26
     }
   ],
-  "updated": "2026-11-09T06:03:46.680Z"
+  "updated": "2026-11-09T06:04:46.683Z"
 }
