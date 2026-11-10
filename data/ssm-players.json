@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 16,
-      "playTimeSeconds": 208010,
+      "playTimeSeconds": 208070,
       "money": 326717,
       "gold": 2000,
       "fame": 4371,
@@ -15,7 +15,7 @@
       "steamId": "76561199024419736",
       "name": "CMEJIbIU",
       "sessionSeconds": 16,
-      "playTimeSeconds": 14976,
+      "playTimeSeconds": 15036,
       "money": 3136,
       "gold": 20,
       "fame": 161,
@@ -25,17 +25,17 @@
       "steamId": "76561198117979766",
       "name": "Хлебушек",
       "sessionSeconds": 16,
-      "playTimeSeconds": 83286,
+      "playTimeSeconds": 83346,
       "money": 1039666,
       "gold": 732,
-      "fame": 4981,
+      "fame": 4982,
       "rank": 24
     },
     {
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "sessionSeconds": 16,
-      "playTimeSeconds": 55859,
+      "playTimeSeconds": 55919,
       "money": 83376,
       "gold": 2974,
       "fame": 4705,
@@ -45,7 +45,7 @@
       "steamId": "76561198027274150",
       "name": "Hiltor",
       "sessionSeconds": 16,
-      "playTimeSeconds": 50518,
+      "playTimeSeconds": 50578,
       "money": 47607,
       "gold": 126,
       "fame": 645,
@@ -55,7 +55,7 @@
       "steamId": "76561198029476275",
       "name": "XEH",
       "sessionSeconds": 16,
-      "playTimeSeconds": 101968,
+      "playTimeSeconds": 102028,
       "money": 547180,
       "gold": 925,
       "fame": 4482,
@@ -65,12 +65,22 @@
       "steamId": "76561198707187491",
       "name": "75iness",
       "sessionSeconds": 16,
-      "playTimeSeconds": 162071,
+      "playTimeSeconds": 162131,
       "money": 177893,
       "gold": 146,
-      "fame": 1328,
+      "fame": 1331,
       "rank": 3
+    },
+    {
+      "steamId": "76561199069302468",
+      "name": "vito",
+      "sessionSeconds": 16,
+      "playTimeSeconds": 99483,
+      "money": 58929,
+      "gold": 135,
+      "fame": 606,
+      "rank": 17
     }
   ],
-  "updated": "2026-11-10T02:41:59.998Z"
+  "updated": "2026-11-10T02:43:00.012Z"
 }
