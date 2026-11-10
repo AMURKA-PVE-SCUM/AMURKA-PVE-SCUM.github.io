@@ -1,21 +1,31 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198027274150",
       "name": "Hiltor",
-      "sessionSeconds": 10,
-      "playTimeSeconds": 55253,
+      "sessionSeconds": 9,
+      "playTimeSeconds": 55312,
       "money": 48607,
       "gold": 131,
       "fame": 666,
       "rank": 38
     },
     {
+      "steamId": "76561199125649189",
+      "name": "HEADLESS",
+      "sessionSeconds": 9,
+      "playTimeSeconds": 139700,
+      "money": 7090061,
+      "gold": 3824,
+      "fame": 21757,
+      "rank": 7
+    },
+    {
       "steamId": "76561199024419736",
       "name": "CMEJIbIU",
-      "sessionSeconds": 10,
-      "playTimeSeconds": 19696,
+      "sessionSeconds": 9,
+      "playTimeSeconds": 19755,
       "money": 4136,
       "gold": 30,
       "fame": 178,
@@ -24,8 +34,8 @@
     {
       "steamId": "76561198707187491",
       "name": "75iness",
-      "sessionSeconds": 10,
-      "playTimeSeconds": 164096,
+      "sessionSeconds": 9,
+      "playTimeSeconds": 164155,
       "money": 178893,
       "gold": 151,
       "fame": 1342,
@@ -34,8 +44,8 @@
     {
       "steamId": "76561198050349091",
       "name": "Андрэ",
-      "sessionSeconds": 10,
-      "playTimeSeconds": 865,
+      "sessionSeconds": 9,
+      "playTimeSeconds": 924,
       "money": 0,
       "gold": 0,
       "fame": 2,
@@ -44,13 +54,13 @@
     {
       "steamId": "76561199069302468",
       "name": "vito",
-      "sessionSeconds": 10,
-      "playTimeSeconds": 103803,
+      "sessionSeconds": 9,
+      "playTimeSeconds": 103862,
       "money": 55699,
       "gold": 140,
       "fame": 622,
       "rank": 14
     }
   ],
-  "updated": "2026-11-10T04:01:00.575Z"
+  "updated": "2026-11-10T04:02:00.588Z"
 }
