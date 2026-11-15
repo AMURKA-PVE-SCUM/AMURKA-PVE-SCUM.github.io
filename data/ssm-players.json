@@ -1,11 +1,21 @@
 {
-  "online": 4,
+  "online": 8,
   "players": [
+    {
+      "steamId": "76561198430997104",
+      "name": "Владимир 2703",
+      "sessionSeconds": 31792,
+      "playTimeSeconds": 33013,
+      "money": 58654,
+      "gold": 46,
+      "fame": 732,
+      "rank": 80
+    },
     {
       "steamId": "76561198372320271",
       "name": "ADA",
-      "sessionSeconds": 24027,
-      "playTimeSeconds": 186655,
+      "sessionSeconds": 24087,
+      "playTimeSeconds": 186715,
       "money": 1830502,
       "gold": 234,
       "fame": 8077,
@@ -14,18 +24,38 @@
     {
       "steamId": "76561199569191127",
       "name": "Mira",
-      "sessionSeconds": 23726,
-      "playTimeSeconds": 195600,
+      "sessionSeconds": 23786,
+      "playTimeSeconds": 195660,
       "money": 2132109,
       "gold": 735,
       "fame": 11937,
       "rank": 17
     },
     {
+      "steamId": "76561198031988664",
+      "name": "tolgad",
+      "sessionSeconds": 22192,
+      "playTimeSeconds": 80049,
+      "money": 21500,
+      "gold": 110,
+      "fame": 400,
+      "rank": 45
+    },
+    {
+      "steamId": "76561198071060590",
+      "name": "Sushi",
+      "sessionSeconds": 21856,
+      "playTimeSeconds": 197351,
+      "money": 232584,
+      "gold": 616,
+      "fame": 14994,
+      "rank": 16
+    },
+    {
       "steamId": "76561198412294634",
       "name": "Ctivеn",
       "sessionSeconds": 9,
-      "playTimeSeconds": 87760,
+      "playTimeSeconds": 87820,
       "money": 46027,
       "gold": 115,
       "fame": 862,
@@ -35,12 +65,22 @@
       "steamId": "76561198029476275",
       "name": "XEH",
       "sessionSeconds": 9,
-      "playTimeSeconds": 154199,
+      "playTimeSeconds": 154259,
       "money": 457805,
       "gold": 971,
       "fame": 4860,
       "rank": 26
+    },
+    {
+      "steamId": "76561199249491194",
+      "name": "ww2_v1",
+      "sessionSeconds": 9,
+      "playTimeSeconds": 71620,
+      "money": 245006,
+      "gold": 98,
+      "fame": 899,
+      "rank": 52
     }
   ],
-  "updated": "2026-11-15T21:03:27.221Z"
+  "updated": "2026-11-15T21:04:27.230Z"
 }
