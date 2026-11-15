@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199206600084",
       "name": "Аврора",
-      "playTimeSeconds": 435623,
+      "playTimeSeconds": 435683,
       "money": 80014,
       "gold": 30,
       "fame": 1623,
@@ -84,11 +84,11 @@
       "rank": 9,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 258670,
+      "playTimeSeconds": 258726,
       "money": 9564188,
       "gold": 4095,
       "fame": 29791,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 10,
@@ -152,6 +152,16 @@
     },
     {
       "rank": 16,
+      "steamId": "76561198071060590",
+      "name": "Sushi",
+      "playTimeSeconds": 193610,
+      "money": 194955,
+      "gold": 611,
+      "fame": 14981,
+      "isOnline": true
+    },
+    {
+      "rank": 17,
       "steamId": "76561199569191127",
       "name": "Mira",
       "playTimeSeconds": 193555,
@@ -161,20 +171,10 @@
       "isOnline": false
     },
     {
-      "rank": 17,
-      "steamId": "76561198071060590",
-      "name": "Sushi",
-      "playTimeSeconds": 193550,
-      "money": 194955,
-      "gold": 611,
-      "fame": 14981,
-      "isOnline": true
-    },
-    {
       "rank": 18,
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
-      "playTimeSeconds": 189910,
+      "playTimeSeconds": 189970,
       "money": 583840,
       "gold": 867,
       "fame": 4227,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-15T20:00:26.743Z"
+  "updated": "2026-11-15T20:01:26.756Z"
 }
