@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199206600084",
       "name": "Аврора",
-      "playTimeSeconds": 431069,
+      "playTimeSeconds": 431129,
       "money": 79014,
       "gold": 25,
       "fame": 1608,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198328189885",
       "name": "vlaD0S",
-      "playTimeSeconds": 314654,
+      "playTimeSeconds": 314714,
       "money": 2471798,
       "gold": 67,
       "fame": 26602,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198384962778",
       "name": "Рик",
-      "playTimeSeconds": 296860,
+      "playTimeSeconds": 296920,
       "money": 1200769,
       "gold": 48,
       "fame": 3992,
@@ -82,6 +82,16 @@
     },
     {
       "rank": 9,
+      "steamId": "76561199125649189",
+      "name": "HEADLESS",
+      "playTimeSeconds": 254176,
+      "money": 10486888,
+      "gold": 4090,
+      "fame": 29566,
+      "isOnline": true
+    },
+    {
+      "rank": 10,
       "steamId": "76561198156438506",
       "name": "Tema HANT",
       "playTimeSeconds": 254164,
@@ -89,16 +99,6 @@
       "gold": 301,
       "fame": 2078,
       "isOnline": false
-    },
-    {
-      "rank": 10,
-      "steamId": "76561199125649189",
-      "name": "HEADLESS",
-      "playTimeSeconds": 254116,
-      "money": 10486888,
-      "gold": 4090,
-      "fame": 29566,
-      "isOnline": true
     },
     {
       "rank": 11,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561199569191127",
       "name": "Mira",
-      "playTimeSeconds": 189005,
+      "playTimeSeconds": 189065,
       "money": 2133806,
       "gold": 725,
       "fame": 11912,
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561198071060590",
       "name": "Sushi",
-      "playTimeSeconds": 188996,
+      "playTimeSeconds": 189056,
       "money": 193955,
       "gold": 606,
       "fame": 14966,
@@ -184,7 +184,7 @@
       "rank": 19,
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
-      "playTimeSeconds": 185356,
+      "playTimeSeconds": 185416,
       "money": 581340,
       "gold": 862,
       "fame": 4199,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-15T18:44:26.167Z"
+  "updated": "2026-11-15T18:45:26.175Z"
 }
