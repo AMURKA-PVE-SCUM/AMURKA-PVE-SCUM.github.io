@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 7,
   "players": [
     {
       "steamId": "76561198083018086",
       "name": "Fearless",
-      "sessionSeconds": 39225,
-      "playTimeSeconds": 115164,
+      "sessionSeconds": 39285,
+      "playTimeSeconds": 115224,
       "money": 997406,
       "gold": 265,
       "fame": 794,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198430997104",
       "name": "Владимир 2703",
-      "sessionSeconds": 38753,
-      "playTimeSeconds": 39965,
+      "sessionSeconds": 38813,
+      "playTimeSeconds": 40025,
       "money": 84212,
       "gold": 56,
       "fame": 769,
@@ -24,8 +24,8 @@
     {
       "steamId": "76561198031988664",
       "name": "tolgad",
-      "sessionSeconds": 29153,
-      "playTimeSeconds": 87001,
+      "sessionSeconds": 29213,
+      "playTimeSeconds": 87061,
       "money": 23500,
       "gold": 120,
       "fame": 425,
@@ -34,9 +34,9 @@
     {
       "steamId": "76561198140281063",
       "name": "NetrezvbIi_Kot",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 188052,
-      "money": 346108,
+      "sessionSeconds": 29,
+      "playTimeSeconds": 188112,
+      "money": 349252,
       "gold": 611,
       "fame": 7038,
       "rank": 21
@@ -44,8 +44,8 @@
     {
       "steamId": "76561198280304314",
       "name": "BOLOMUT",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 66711,
+      "sessionSeconds": 29,
+      "playTimeSeconds": 66771,
       "money": 32999,
       "gold": 90,
       "fame": 352,
@@ -54,13 +54,23 @@
     {
       "steamId": "76561198028621423",
       "name": "Lesnik",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 143164,
+      "sessionSeconds": 29,
+      "playTimeSeconds": 143224,
       "money": 1566597,
       "gold": 3008,
       "fame": 6181,
       "rank": 30
+    },
+    {
+      "steamId": "76561199356142588",
+      "name": "starik_andrey",
+      "sessionSeconds": 29,
+      "playTimeSeconds": 28580,
+      "money": 16264,
+      "gold": 220,
+      "fame": 617,
+      "rank": 85
     }
   ],
-  "updated": "2026-11-15T23:00:28.070Z"
+  "updated": "2026-11-15T23:01:28.079Z"
 }
