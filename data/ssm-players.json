@@ -1,11 +1,11 @@
 {
-  "online": 15,
+  "online": 16,
   "players": [
     {
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
       "sessionSeconds": 6,
-      "playTimeSeconds": 12049,
+      "playTimeSeconds": 12109,
       "money": 1151704,
       "gold": 569,
       "fame": 3639,
@@ -15,7 +15,7 @@
       "steamId": "76561198327689237",
       "name": "Albert",
       "sessionSeconds": 6,
-      "playTimeSeconds": 6784,
+      "playTimeSeconds": 6844,
       "money": 8093615,
       "gold": 1157,
       "fame": 6348,
@@ -25,7 +25,7 @@
       "steamId": "76561198412294634",
       "name": "Ctivеn",
       "sessionSeconds": 6,
-      "playTimeSeconds": 10114,
+      "playTimeSeconds": 10174,
       "money": 85531,
       "gold": 140,
       "fame": 941,
@@ -35,7 +35,7 @@
       "steamId": "76561199504735154",
       "name": "BuHHu nyx",
       "sessionSeconds": 6,
-      "playTimeSeconds": 11163,
+      "playTimeSeconds": 11223,
       "money": 1934006,
       "gold": 300,
       "fame": 3385,
@@ -45,7 +45,7 @@
       "steamId": "76561199206600084",
       "name": "Аврора",
       "sessionSeconds": 6,
-      "playTimeSeconds": 15539,
+      "playTimeSeconds": 15599,
       "money": 372030,
       "gold": 161,
       "fame": 1871,
@@ -55,17 +55,17 @@
       "steamId": "76561199758816988",
       "name": "Nikolai",
       "sessionSeconds": 6,
-      "playTimeSeconds": 3094,
+      "playTimeSeconds": 3154,
       "money": 978695,
       "gold": 512,
       "fame": 2527,
-      "rank": 22
+      "rank": 21
     },
     {
       "steamId": "76561198117979766",
       "name": "Хлебушек",
       "sessionSeconds": 6,
-      "playTimeSeconds": 9574,
+      "playTimeSeconds": 9634,
       "money": 1759532,
       "gold": 812,
       "fame": 7352,
@@ -75,7 +75,7 @@
       "steamId": "76561199024419736",
       "name": "CMEJIbIU",
       "sessionSeconds": 6,
-      "playTimeSeconds": 30903,
+      "playTimeSeconds": 30963,
       "money": 34604,
       "gold": 1020,
       "fame": 1668,
@@ -85,47 +85,37 @@
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 6,
-      "playTimeSeconds": 9065,
+      "playTimeSeconds": 9125,
       "money": 294544,
       "gold": 775,
       "fame": 1981,
       "rank": 13
     },
     {
-      "steamId": "76561198794536026",
-      "name": "Ayanakoji",
-      "sessionSeconds": 6,
-      "playTimeSeconds": 1445,
-      "money": 1970513,
-      "gold": 487,
-      "fame": 10657,
-      "rank": 29
-    },
-    {
       "steamId": "76561199480908551",
       "name": "gv_61 rus",
       "sessionSeconds": 6,
-      "playTimeSeconds": 1405,
+      "playTimeSeconds": 1465,
       "money": 1252657,
       "gold": 1047,
       "fame": 2349,
-      "rank": 30
+      "rank": 29
     },
     {
       "steamId": "76561199415997264",
       "name": "Stark",
       "sessionSeconds": 6,
-      "playTimeSeconds": 1165,
+      "playTimeSeconds": 1225,
       "money": 592751,
       "gold": 101,
       "fame": 516,
-      "rank": 33
+      "rank": 31
     },
     {
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "sessionSeconds": 6,
-      "playTimeSeconds": 13392,
+      "playTimeSeconds": 13452,
       "money": 23059,
       "gold": 4689,
       "fame": 6310,
@@ -135,7 +125,7 @@
       "steamId": "76561199106163291",
       "name": "Anna",
       "sessionSeconds": 6,
-      "playTimeSeconds": 2135,
+      "playTimeSeconds": 2195,
       "money": 13475,
       "gold": 35,
       "fame": 212,
@@ -145,12 +135,32 @@
       "steamId": "76561198280304314",
       "name": "BOLOMUT",
       "sessionSeconds": 6,
-      "playTimeSeconds": 2526,
+      "playTimeSeconds": 2586,
       "money": 29832,
       "gold": 100,
       "fame": 379,
       "rank": 23
+    },
+    {
+      "steamId": "76561198964027531",
+      "name": "ОЛЕЖА",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 26,
+      "money": 288145,
+      "gold": 55,
+      "fame": 488,
+      "rank": 37
+    },
+    {
+      "steamId": "76561198794536026",
+      "name": "Ayanakoji",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 1465,
+      "money": 1970513,
+      "gold": 487,
+      "fame": 10657,
+      "rank": 30
     }
   ],
-  "updated": "2026-11-16T09:58:39.628Z"
+  "updated": "2026-11-16T09:59:39.642Z"
 }
