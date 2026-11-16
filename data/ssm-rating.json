@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 5981,
+      "playTimeSeconds": 6041,
       "money": 1446479,
       "gold": 2710,
       "fame": 5655,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198031988664",
       "name": "tolgad",
-      "playTimeSeconds": 5981,
+      "playTimeSeconds": 6041,
       "money": 26400,
       "gold": 135,
       "fame": 472,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561199024419736",
       "name": "CMEJIbIU",
-      "playTimeSeconds": 5911,
+      "playTimeSeconds": 5971,
       "money": 577946,
       "gold": 335,
       "fame": 1480,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198106045037",
       "name": "Dem",
-      "playTimeSeconds": 5541,
+      "playTimeSeconds": 5601,
       "money": 17009,
       "gold": 15,
       "fame": 154,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198317515003",
       "name": "Sociopat",
-      "playTimeSeconds": 4321,
+      "playTimeSeconds": 4381,
       "money": 1000,
       "gold": 5,
       "fame": 19,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198054804619",
       "name": "Zephyr",
-      "playTimeSeconds": 751,
+      "playTimeSeconds": 811,
       "money": 114094,
       "gold": 45,
       "fame": 228,
@@ -72,6 +72,16 @@
     },
     {
       "rank": 8,
+      "steamId": "76561198384962778",
+      "name": "Рик",
+      "playTimeSeconds": 511,
+      "money": 1202769,
+      "gold": 53,
+      "fame": 4009,
+      "isOnline": true
+    },
+    {
+      "rank": 9,
       "steamId": "76561198118646763",
       "name": "Иствинд",
       "playTimeSeconds": 480,
@@ -79,16 +89,6 @@
       "gold": 241,
       "fame": 872,
       "isOnline": false
-    },
-    {
-      "rank": 9,
-      "steamId": "76561198384962778",
-      "name": "Рик",
-      "playTimeSeconds": 451,
-      "money": 1202769,
-      "gold": 53,
-      "fame": 4008,
-      "isOnline": true
     },
     {
       "rank": 10,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-16T02:41:29.754Z"
+  "updated": "2026-11-16T02:42:29.763Z"
 }
