@@ -4,8 +4,8 @@
       "rank": 1,
       "steamId": "76561199024419736",
       "name": "CMEJIbIU",
-      "playTimeSeconds": 17709,
-      "money": 734083,
+      "playTimeSeconds": 17768,
+      "money": 734161,
       "gold": 350,
       "fame": 1610,
       "isOnline": true
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198031988664",
       "name": "tolgad",
-      "playTimeSeconds": 17159,
+      "playTimeSeconds": 17218,
       "money": 29400,
       "gold": 150,
       "fame": 511,
@@ -34,11 +34,11 @@
       "rank": 4,
       "steamId": "76561198317515003",
       "name": "Sociopat",
-      "playTimeSeconds": 15832,
+      "playTimeSeconds": 15878,
       "money": 15140,
       "gold": 20,
       "fame": 75,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 5,
@@ -54,11 +54,11 @@
       "rank": 6,
       "steamId": "76561198028621423",
       "name": "Lesnik",
-      "playTimeSeconds": 11794,
+      "playTimeSeconds": 11850,
       "money": 22059,
       "gold": 4684,
       "fame": 6297,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 7,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 3364,
+      "playTimeSeconds": 3423,
       "money": 1149704,
       "gold": 559,
       "fame": 3612,
@@ -102,6 +102,16 @@
     },
     {
       "rank": 11,
+      "steamId": "76561199206600084",
+      "name": "Аврора",
+      "playTimeSeconds": 2080,
+      "money": 184014,
+      "gold": 241,
+      "fame": 1853,
+      "isOnline": false
+    },
+    {
+      "rank": 12,
       "steamId": "76561198695697712",
       "name": "Симон",
       "playTimeSeconds": 2059,
@@ -109,16 +119,6 @@
       "gold": 260,
       "fame": 896,
       "isOnline": false
-    },
-    {
-      "rank": 12,
-      "steamId": "76561199206600084",
-      "name": "Аврора",
-      "playTimeSeconds": 2024,
-      "money": 184014,
-      "gold": 241,
-      "fame": 1852,
-      "isOnline": true
     },
     {
       "rank": 13,
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561198869337858",
       "name": "Shelby",
-      "playTimeSeconds": 194,
+      "playTimeSeconds": 253,
       "money": 993708,
       "gold": 111,
       "fame": 4318,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-16T05:58:31.169Z"
+  "updated": "2026-11-16T05:59:31.183Z"
 }
