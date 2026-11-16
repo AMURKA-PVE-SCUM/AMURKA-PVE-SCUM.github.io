@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 53983,
+      "playTimeSeconds": 54043,
       "money": 1165487,
       "gold": 629,
       "fame": 3595,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 34821,
+      "playTimeSeconds": 34881,
       "money": 8281924,
       "gold": 1247,
       "fame": 6449,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561198117979766",
       "name": "Хлебушек",
-      "playTimeSeconds": 30549,
+      "playTimeSeconds": 30609,
       "money": 1958417,
       "gold": 837,
       "fame": 7762,
@@ -112,6 +112,16 @@
     },
     {
       "rank": 12,
+      "steamId": "76561199415997264",
+      "name": "Stark",
+      "playTimeSeconds": 26082,
+      "money": 2005113,
+      "gold": 137,
+      "fame": 913,
+      "isOnline": true
+    },
+    {
+      "rank": 13,
       "steamId": "76561199758816988",
       "name": "Nikolai",
       "playTimeSeconds": 26027,
@@ -119,16 +129,6 @@
       "gold": 542,
       "fame": 2612,
       "isOnline": false
-    },
-    {
-      "rank": 13,
-      "steamId": "76561199415997264",
-      "name": "Stark",
-      "playTimeSeconds": 26022,
-      "money": 2005113,
-      "gold": 137,
-      "fame": 913,
-      "isOnline": true
     },
     {
       "rank": 14,
@@ -144,18 +144,18 @@
       "rank": 15,
       "steamId": "76561198037904934",
       "name": "Astaf",
-      "playTimeSeconds": 24954,
+      "playTimeSeconds": 25014,
       "money": 4513434,
       "gold": 408,
-      "fame": 4746,
+      "fame": 4747,
       "isOnline": true
     },
     {
       "rank": 16,
       "steamId": "76561198068409227",
       "name": "Wesker",
-      "playTimeSeconds": 24410,
-      "money": 13746,
+      "playTimeSeconds": 24470,
+      "money": 15420,
       "gold": 30,
       "fame": 109,
       "isOnline": true
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-16T21:42:44.831Z"
+  "updated": "2026-11-16T21:43:44.841Z"
 }
