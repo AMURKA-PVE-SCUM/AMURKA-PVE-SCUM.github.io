@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198031988664",
       "name": "tolgad",
-      "playTimeSeconds": 18080,
+      "playTimeSeconds": 18140,
       "money": 29400,
       "gold": 150,
       "fame": 511,
@@ -22,6 +22,16 @@
     },
     {
       "rank": 3,
+      "steamId": "76561198317515003",
+      "name": "Sociopat",
+      "playTimeSeconds": 16728,
+      "money": 15140,
+      "gold": 20,
+      "fame": 77,
+      "isOnline": true
+    },
+    {
+      "rank": 4,
       "steamId": "76561198352984050",
       "name": "Vlad",
       "playTimeSeconds": 16708,
@@ -29,16 +39,6 @@
       "gold": 2725,
       "fame": 5693,
       "isOnline": false
-    },
-    {
-      "rank": 4,
-      "steamId": "76561198317515003",
-      "name": "Sociopat",
-      "playTimeSeconds": 16668,
-      "money": 15140,
-      "gold": 20,
-      "fame": 77,
-      "isOnline": true
     },
     {
       "rank": 5,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561199206600084",
       "name": "Аврора",
-      "playTimeSeconds": 2680,
+      "playTimeSeconds": 2740,
       "money": 184014,
       "gold": 241,
       "fame": 1853,
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561198037904934",
       "name": "Astaf",
-      "playTimeSeconds": 510,
+      "playTimeSeconds": 570,
       "money": 2242851,
       "gold": 148,
       "fame": 3614,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-16T06:16:38.089Z"
+  "updated": "2026-11-16T06:17:38.102Z"
 }
