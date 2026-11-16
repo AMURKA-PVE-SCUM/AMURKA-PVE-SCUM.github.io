@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561199024419736",
       "name": "CMEJIbIU",
-      "playTimeSeconds": 16391,
+      "playTimeSeconds": 16450,
       "money": 630380,
       "gold": 350,
       "fame": 1609,
@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561198031988664",
       "name": "tolgad",
-      "playTimeSeconds": 15841,
+      "playTimeSeconds": 15900,
       "money": 29400,
       "gold": 150,
       "fame": 510,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 15534,
+      "playTimeSeconds": 15593,
       "money": 1448479,
       "gold": 2720,
       "fame": 5682,
@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198317515003",
       "name": "Sociopat",
-      "playTimeSeconds": 14514,
+      "playTimeSeconds": 14573,
       "money": 16640,
       "gold": 20,
       "fame": 72,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198028621423",
       "name": "Lesnik",
-      "playTimeSeconds": 10476,
+      "playTimeSeconds": 10535,
       "money": 22059,
       "gold": 4684,
       "fame": 6295,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561198384962778",
       "name": "Рик",
-      "playTimeSeconds": 7265,
+      "playTimeSeconds": 7324,
       "money": 1325586,
       "gold": 64,
       "fame": 4276,
@@ -92,6 +92,16 @@
     },
     {
       "rank": 10,
+      "steamId": "76561198159265980",
+      "name": "Evelina_Live",
+      "playTimeSeconds": 2105,
+      "money": 1148704,
+      "gold": 554,
+      "fame": 3601,
+      "isOnline": true
+    },
+    {
+      "rank": 11,
       "steamId": "76561198695697712",
       "name": "Симон",
       "playTimeSeconds": 2059,
@@ -99,16 +109,6 @@
       "gold": 260,
       "fame": 896,
       "isOnline": false
-    },
-    {
-      "rank": 11,
-      "steamId": "76561198159265980",
-      "name": "Evelina_Live",
-      "playTimeSeconds": 2046,
-      "money": 1148704,
-      "gold": 554,
-      "fame": 3601,
-      "isOnline": true
     },
     {
       "rank": 12,
@@ -124,7 +124,7 @@
       "rank": 13,
       "steamId": "76561199206600084",
       "name": "Аврора",
-      "playTimeSeconds": 706,
+      "playTimeSeconds": 765,
       "money": 184014,
       "gold": 241,
       "fame": 1848,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-16T05:36:31.037Z"
+  "updated": "2026-11-16T05:37:31.050Z"
 }
