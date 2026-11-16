@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561199206600084",
       "name": "Аврора",
-      "playTimeSeconds": 42474,
+      "playTimeSeconds": 42534,
       "money": 23178,
       "gold": 196,
       "fame": 2040,
@@ -12,6 +12,16 @@
     },
     {
       "rank": 2,
+      "steamId": "76561198159265980",
+      "name": "Evelina_Live",
+      "playTimeSeconds": 41183,
+      "money": 1159704,
+      "gold": 609,
+      "fame": 3746,
+      "isOnline": true
+    },
+    {
+      "rank": 3,
       "steamId": "76561198384962778",
       "name": "Рик",
       "playTimeSeconds": 41135,
@@ -19,16 +29,6 @@
       "gold": 111,
       "fame": 5091,
       "isOnline": false
-    },
-    {
-      "rank": 3,
-      "steamId": "76561198159265980",
-      "name": "Evelina_Live",
-      "playTimeSeconds": 41123,
-      "money": 1159704,
-      "gold": 609,
-      "fame": 3746,
-      "isOnline": true
     },
     {
       "rank": 4,
@@ -64,7 +64,7 @@
       "rank": 7,
       "steamId": "76561199504735154",
       "name": "BuHHu nyx",
-      "playTimeSeconds": 33820,
+      "playTimeSeconds": 33880,
       "money": 2068266,
       "gold": 330,
       "fame": 3499,
@@ -84,7 +84,7 @@
       "rank": 9,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 29769,
+      "playTimeSeconds": 29829,
       "money": 8036515,
       "gold": 1237,
       "fame": 6425,
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561198083018086",
       "name": "Fearless",
-      "playTimeSeconds": 22560,
+      "playTimeSeconds": 22620,
       "money": 1019406,
       "gold": 310,
       "fame": 1013,
@@ -162,6 +162,16 @@
     },
     {
       "rank": 17,
+      "steamId": "76561198780187270",
+      "name": "Ivanesa",
+      "playTimeSeconds": 16593,
+      "money": 63163,
+      "gold": 5,
+      "fame": 814,
+      "isOnline": true
+    },
+    {
+      "rank": 18,
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "playTimeSeconds": 16576,
@@ -169,16 +179,6 @@
       "gold": 4694,
       "fame": 6326,
       "isOnline": false
-    },
-    {
-      "rank": 18,
-      "steamId": "76561198780187270",
-      "name": "Ivanesa",
-      "playTimeSeconds": 16533,
-      "money": 63163,
-      "gold": 5,
-      "fame": 814,
-      "isOnline": true
     },
     {
       "rank": 19,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-16T18:07:43.201Z"
+  "updated": "2026-11-16T18:08:43.209Z"
 }
