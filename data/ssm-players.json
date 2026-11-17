@@ -1,11 +1,11 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198083018086",
       "name": "Fearless",
-      "sessionSeconds": 146285,
-      "playTimeSeconds": 33777,
+      "sessionSeconds": 146345,
+      "playTimeSeconds": 33837,
       "money": 1022306,
       "gold": 325,
       "fame": 1052,
@@ -15,7 +15,7 @@
       "steamId": "76561198317515003",
       "name": "Sociopat",
       "sessionSeconds": 5,
-      "playTimeSeconds": 50865,
+      "playTimeSeconds": 50925,
       "money": 23240,
       "gold": 70,
       "fame": 110,
@@ -25,7 +25,7 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 5,
-      "playTimeSeconds": 42048,
+      "playTimeSeconds": 42108,
       "money": 1491783,
       "gold": 2760,
       "fame": 5782,
@@ -35,7 +35,7 @@
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 5,
-      "playTimeSeconds": 26932,
+      "playTimeSeconds": 26992,
       "money": 2796139,
       "gold": 1970,
       "fame": 10459,
@@ -45,7 +45,7 @@
       "steamId": "76561199206600084",
       "name": "Аврора",
       "sessionSeconds": 5,
-      "playTimeSeconds": 68753,
+      "playTimeSeconds": 68813,
       "money": 8692,
       "gold": 10,
       "fame": 2221,
@@ -55,7 +55,7 @@
       "steamId": "76561198029599248",
       "name": "DAI_DENEG",
       "sessionSeconds": 5,
-      "playTimeSeconds": 9865,
+      "playTimeSeconds": 9925,
       "money": 174991,
       "gold": 85,
       "fame": 488,
@@ -65,7 +65,7 @@
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 5,
-      "playTimeSeconds": 20924,
+      "playTimeSeconds": 20984,
       "money": 338598,
       "gold": 790,
       "fame": 2028,
@@ -75,12 +75,22 @@
       "steamId": "76561199356142588",
       "name": "starik_andrey",
       "sessionSeconds": 5,
-      "playTimeSeconds": 11874,
+      "playTimeSeconds": 11934,
       "money": 227183,
       "gold": 240,
       "fame": 664,
       "rank": 36
+    },
+    {
+      "steamId": "76561198027274150",
+      "name": "Hiltor",
+      "sessionSeconds": 5,
+      "playTimeSeconds": 1545,
+      "money": 669679,
+      "gold": 241,
+      "fame": 1236,
+      "rank": 67
     }
   ],
-  "updated": "2026-11-17T04:44:48.009Z"
+  "updated": "2026-11-17T04:45:48.023Z"
 }
