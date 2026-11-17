@@ -34,14 +34,24 @@
       "rank": 4,
       "steamId": "76561198083018086",
       "name": "Fearless",
-      "playTimeSeconds": 74113,
+      "playTimeSeconds": 74173,
       "money": 1053239,
       "gold": 380,
-      "fame": 1211,
+      "fame": 1212,
       "isOnline": true
     },
     {
       "rank": 5,
+      "steamId": "76561198117979766",
+      "name": "Хлебушек",
+      "playTimeSeconds": 69511,
+      "money": 2429031,
+      "gold": 895,
+      "fame": 10391,
+      "isOnline": true
+    },
+    {
+      "rank": 6,
       "steamId": "76561198317515003",
       "name": "Sociopat",
       "playTimeSeconds": 69483,
@@ -49,16 +59,6 @@
       "gold": 95,
       "fame": 89,
       "isOnline": false
-    },
-    {
-      "rank": 6,
-      "steamId": "76561198117979766",
-      "name": "Хлебушек",
-      "playTimeSeconds": 69451,
-      "money": 2429031,
-      "gold": 895,
-      "fame": 10391,
-      "isOnline": true
     },
     {
       "rank": 7,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561198037904934",
       "name": "Astaf",
-      "playTimeSeconds": 56796,
+      "playTimeSeconds": 56856,
       "money": 5552434,
       "gold": 573,
       "fame": 5301,
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
-      "playTimeSeconds": 55457,
+      "playTimeSeconds": 55517,
       "money": 543946,
       "gold": 942,
       "fame": 4621,
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561198068409227",
       "name": "Wesker",
-      "playTimeSeconds": 51287,
+      "playTimeSeconds": 51347,
       "money": 33800,
       "gold": 70,
       "fame": 281,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561198140281063",
       "name": "NetrezvbIi_Kot",
-      "playTimeSeconds": 44210,
+      "playTimeSeconds": 44270,
       "money": 453634,
       "gold": 681,
       "fame": 8018,
@@ -168,7 +168,7 @@
       "money": 2132065,
       "gold": 791,
       "fame": 12314,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 18,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-17T21:39:00.038Z"
+  "updated": "2026-11-17T21:40:00.049Z"
 }
