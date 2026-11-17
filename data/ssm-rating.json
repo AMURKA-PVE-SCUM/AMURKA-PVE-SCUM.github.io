@@ -14,7 +14,7 @@
       "rank": 2,
       "steamId": "76561199206600084",
       "name": "Аврора",
-      "playTimeSeconds": 53167,
+      "playTimeSeconds": 53227,
       "money": 84056,
       "gold": 211,
       "fame": 2143,
@@ -62,6 +62,16 @@
     },
     {
       "rank": 7,
+      "steamId": "76561198117979766",
+      "name": "Хлебушек",
+      "playTimeSeconds": 39289,
+      "money": 2007865,
+      "gold": 853,
+      "fame": 8537,
+      "isOnline": true
+    },
+    {
+      "rank": 8,
       "steamId": "76561198317515003",
       "name": "Sociopat",
       "playTimeSeconds": 39251,
@@ -69,16 +79,6 @@
       "gold": 55,
       "fame": 175,
       "isOnline": false
-    },
-    {
-      "rank": 8,
-      "steamId": "76561198117979766",
-      "name": "Хлебушек",
-      "playTimeSeconds": 39229,
-      "money": 2007865,
-      "gold": 853,
-      "fame": 8537,
-      "isOnline": true
     },
     {
       "rank": 9,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-17T00:12:45.864Z"
+  "updated": "2026-11-17T00:13:45.876Z"
 }
