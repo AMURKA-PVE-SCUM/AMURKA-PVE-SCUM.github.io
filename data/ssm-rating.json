@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561199206600084",
       "name": "Аврора",
-      "playTimeSeconds": 99284,
+      "playTimeSeconds": 99344,
       "money": 180270,
       "gold": 55,
       "fame": 2121,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561198083018086",
       "name": "Fearless",
-      "playTimeSeconds": 61490,
+      "playTimeSeconds": 61550,
       "money": 1049239,
       "gold": 360,
       "fame": 1150,
@@ -84,17 +84,17 @@
       "rank": 9,
       "steamId": "76561198117979766",
       "name": "Хлебушек",
-      "playTimeSeconds": 57175,
+      "playTimeSeconds": 57201,
       "money": 2221494,
       "gold": 879,
       "fame": 9603,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 10,
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
-      "playTimeSeconds": 50668,
+      "playTimeSeconds": 50728,
       "money": 2687587,
       "gold": 1734,
       "fame": 42624,
@@ -152,6 +152,16 @@
     },
     {
       "rank": 16,
+      "steamId": "76561198780187270",
+      "name": "Ivanesa",
+      "playTimeSeconds": 38941,
+      "money": 67772,
+      "gold": 35,
+      "fame": 879,
+      "isOnline": true
+    },
+    {
+      "rank": 17,
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "playTimeSeconds": 38905,
@@ -161,20 +171,10 @@
       "isOnline": false
     },
     {
-      "rank": 17,
-      "steamId": "76561198780187270",
-      "name": "Ivanesa",
-      "playTimeSeconds": 38881,
-      "money": 67772,
-      "gold": 35,
-      "fame": 879,
-      "isOnline": true
-    },
-    {
       "rank": 18,
       "steamId": "76561198068409227",
       "name": "Wesker",
-      "playTimeSeconds": 38624,
+      "playTimeSeconds": 38684,
       "money": 22630,
       "gold": 50,
       "fame": 188,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-17T18:06:58.469Z"
+  "updated": "2026-11-17T18:07:58.483Z"
 }
