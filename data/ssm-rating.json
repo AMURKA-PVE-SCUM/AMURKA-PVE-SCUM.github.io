@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561199206600084",
       "name": "Аврора",
-      "playTimeSeconds": 99404,
+      "playTimeSeconds": 99461,
       "money": 180270,
       "gold": 55,
       "fame": 2121,
@@ -62,6 +62,16 @@
     },
     {
       "rank": 7,
+      "steamId": "76561198083018086",
+      "name": "Fearless",
+      "playTimeSeconds": 61667,
+      "money": 1049239,
+      "gold": 360,
+      "fame": 1150,
+      "isOnline": true
+    },
+    {
+      "rank": 8,
       "steamId": "76561198384962778",
       "name": "Рик",
       "playTimeSeconds": 61621,
@@ -71,30 +81,20 @@
       "isOnline": false
     },
     {
-      "rank": 8,
-      "steamId": "76561198083018086",
-      "name": "Fearless",
-      "playTimeSeconds": 61610,
-      "money": 1049239,
-      "gold": 360,
-      "fame": 1150,
-      "isOnline": true
-    },
-    {
       "rank": 9,
       "steamId": "76561198117979766",
       "name": "Хлебушек",
-      "playTimeSeconds": 57261,
-      "money": 2221494,
-      "gold": 879,
-      "fame": 9603,
+      "playTimeSeconds": 57318,
+      "money": 2321494,
+      "gold": 880,
+      "fame": 9803,
       "isOnline": true
     },
     {
       "rank": 10,
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
-      "playTimeSeconds": 50788,
+      "playTimeSeconds": 50845,
       "money": 2687587,
       "gold": 1734,
       "fame": 42624,
@@ -154,10 +154,10 @@
       "rank": 16,
       "steamId": "76561198780187270",
       "name": "Ivanesa",
-      "playTimeSeconds": 39001,
+      "playTimeSeconds": 39058,
       "money": 67772,
       "gold": 35,
-      "fame": 879,
+      "fame": 880,
       "isOnline": true
     },
     {
@@ -174,7 +174,7 @@
       "rank": 18,
       "steamId": "76561198068409227",
       "name": "Wesker",
-      "playTimeSeconds": 38744,
+      "playTimeSeconds": 38801,
       "money": 22630,
       "gold": 50,
       "fame": 188,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-17T18:08:58.493Z"
+  "updated": "2026-11-17T18:09:58.506Z"
 }
