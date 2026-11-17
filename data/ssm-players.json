@@ -1,11 +1,21 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
+    {
+      "steamId": "76561198083018086",
+      "name": "Fearless",
+      "sessionSeconds": 146285,
+      "playTimeSeconds": 33777,
+      "money": 1022306,
+      "gold": 325,
+      "fame": 1052,
+      "rank": 10
+    },
     {
       "steamId": "76561198317515003",
       "name": "Sociopat",
       "sessionSeconds": 5,
-      "playTimeSeconds": 50806,
+      "playTimeSeconds": 50865,
       "money": 23240,
       "gold": 70,
       "fame": 110,
@@ -15,7 +25,7 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 5,
-      "playTimeSeconds": 41989,
+      "playTimeSeconds": 42048,
       "money": 1491783,
       "gold": 2760,
       "fame": 5782,
@@ -25,7 +35,7 @@
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 5,
-      "playTimeSeconds": 26873,
+      "playTimeSeconds": 26932,
       "money": 2796139,
       "gold": 1970,
       "fame": 10459,
@@ -35,7 +45,7 @@
       "steamId": "76561199206600084",
       "name": "Аврора",
       "sessionSeconds": 5,
-      "playTimeSeconds": 68694,
+      "playTimeSeconds": 68753,
       "money": 8692,
       "gold": 10,
       "fame": 2221,
@@ -45,7 +55,7 @@
       "steamId": "76561198029599248",
       "name": "DAI_DENEG",
       "sessionSeconds": 5,
-      "playTimeSeconds": 9806,
+      "playTimeSeconds": 9865,
       "money": 174991,
       "gold": 85,
       "fame": 488,
@@ -55,7 +65,7 @@
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 5,
-      "playTimeSeconds": 20865,
+      "playTimeSeconds": 20924,
       "money": 338598,
       "gold": 790,
       "fame": 2028,
@@ -65,12 +75,12 @@
       "steamId": "76561199356142588",
       "name": "starik_andrey",
       "sessionSeconds": 5,
-      "playTimeSeconds": 11815,
+      "playTimeSeconds": 11874,
       "money": 227183,
       "gold": 240,
       "fame": 664,
       "rank": 36
     }
   ],
-  "updated": "2026-11-17T04:43:48.009Z"
+  "updated": "2026-11-17T04:44:48.009Z"
 }
