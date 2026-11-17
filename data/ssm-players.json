@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198826257359",
       "name": "XXXX",
       "sessionSeconds": 28,
-      "playTimeSeconds": 5455,
+      "playTimeSeconds": 5515,
       "money": 1403480,
       "gold": 260,
       "fame": 119,
@@ -15,7 +15,7 @@
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
       "sessionSeconds": 28,
-      "playTimeSeconds": 80620,
+      "playTimeSeconds": 80680,
       "money": 1171487,
       "gold": 664,
       "fame": 3686,
@@ -25,7 +25,7 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 28,
-      "playTimeSeconds": 67105,
+      "playTimeSeconds": 67165,
       "money": 1516300,
       "gold": 2795,
       "fame": 5878,
@@ -35,7 +35,7 @@
       "steamId": "76561199000739219",
       "name": "Yakytenok",
       "sessionSeconds": 28,
-      "playTimeSeconds": 8245,
+      "playTimeSeconds": 8305,
       "money": 1624406,
       "gold": 344,
       "fame": 1221,
@@ -44,8 +44,8 @@
     {
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
-      "sessionSeconds": 26,
-      "playTimeSeconds": 31041,
+      "sessionSeconds": 28,
+      "playTimeSeconds": 31101,
       "money": 534246,
       "gold": 912,
       "fame": 4456,
@@ -54,8 +54,8 @@
     {
       "steamId": "76561198399306435",
       "name": "MasSawka",
-      "sessionSeconds": 26,
-      "playTimeSeconds": 13297,
+      "sessionSeconds": 28,
+      "playTimeSeconds": 13357,
       "money": 360066,
       "gold": 176,
       "fame": 1006,
@@ -64,13 +64,23 @@
     {
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
-      "sessionSeconds": 26,
-      "playTimeSeconds": 30947,
+      "sessionSeconds": 28,
+      "playTimeSeconds": 31007,
       "money": 2550730,
       "gold": 1701,
       "fame": 41359,
       "rank": 17
+    },
+    {
+      "steamId": "76561198092566518",
+      "name": "Astri",
+      "sessionSeconds": 28,
+      "playTimeSeconds": 1431,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "rank": 75
     }
   ],
-  "updated": "2026-11-17T12:04:56.022Z"
+  "updated": "2026-11-17T12:05:56.029Z"
 }
