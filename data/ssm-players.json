@@ -1,11 +1,11 @@
 {
-  "online": 4,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198317515003",
       "name": "Sociopat",
       "sessionSeconds": 28,
-      "playTimeSeconds": 55676,
+      "playTimeSeconds": 55736,
       "money": 24240,
       "gold": 75,
       "fame": 131,
@@ -15,7 +15,7 @@
       "steamId": "76561199877063571",
       "name": "Mazay",
       "sessionSeconds": 28,
-      "playTimeSeconds": 31683,
+      "playTimeSeconds": 31743,
       "money": 2797139,
       "gold": 1975,
       "fame": 10484,
@@ -25,7 +25,7 @@
       "steamId": "76561198117979766",
       "name": "Хлебушек",
       "sessionSeconds": 28,
-      "playTimeSeconds": 41594,
+      "playTimeSeconds": 41654,
       "money": 2016294,
       "gold": 853,
       "fame": 8559,
@@ -35,12 +35,32 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 28,
-      "playTimeSeconds": 46349,
+      "playTimeSeconds": 46409,
       "money": 1492783,
       "gold": 2765,
       "fame": 5796,
       "rank": 5
+    },
+    {
+      "steamId": "76561198337811646",
+      "name": "VERSUS_65_",
+      "sessionSeconds": 16,
+      "playTimeSeconds": 25005,
+      "money": 389699,
+      "gold": 795,
+      "fame": 2041,
+      "rank": 20
+    },
+    {
+      "steamId": "76561199803812414",
+      "name": "Pilligrim",
+      "sessionSeconds": 6,
+      "playTimeSeconds": 436,
+      "money": 2000,
+      "gold": 10,
+      "fame": 32,
+      "rank": 74
     }
   ],
-  "updated": "2026-11-17T06:08:48.599Z"
+  "updated": "2026-11-17T06:09:48.602Z"
 }
