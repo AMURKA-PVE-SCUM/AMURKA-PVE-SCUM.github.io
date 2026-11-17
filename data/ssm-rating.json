@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198083018086",
       "name": "Fearless",
-      "playTimeSeconds": 71854,
+      "playTimeSeconds": 71916,
       "money": 1052239,
       "gold": 375,
       "fame": 1200,
@@ -114,7 +114,7 @@
       "rank": 12,
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
-      "playTimeSeconds": 53158,
+      "playTimeSeconds": 53220,
       "money": 540246,
       "gold": 942,
       "fame": 4543,
@@ -134,7 +134,7 @@
       "rank": 14,
       "steamId": "76561198068409227",
       "name": "Wesker",
-      "playTimeSeconds": 48988,
+      "playTimeSeconds": 49050,
       "money": 32800,
       "gold": 65,
       "fame": 270,
@@ -144,7 +144,7 @@
       "rank": 15,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 44291,
+      "playTimeSeconds": 44353,
       "money": 9505340,
       "gold": 4178,
       "fame": 33090,
@@ -154,14 +154,24 @@
       "rank": 16,
       "steamId": "76561198140281063",
       "name": "NetrezvbIi_Kot",
-      "playTimeSeconds": 41961,
-      "money": 421109,
+      "playTimeSeconds": 42023,
+      "money": 429609,
       "gold": 676,
-      "fame": 7902,
+      "fame": 7907,
       "isOnline": true
     },
     {
       "rank": 17,
+      "steamId": "76561199569191127",
+      "name": "Mira",
+      "playTimeSeconds": 40983,
+      "money": 2132065,
+      "gold": 791,
+      "fame": 12314,
+      "isOnline": true
+    },
+    {
+      "rank": 18,
       "steamId": "76561198780187270",
       "name": "Ivanesa",
       "playTimeSeconds": 40974,
@@ -169,16 +179,6 @@
       "gold": 40,
       "fame": 931,
       "isOnline": false
-    },
-    {
-      "rank": 18,
-      "steamId": "76561199569191127",
-      "name": "Mira",
-      "playTimeSeconds": 40921,
-      "money": 2132065,
-      "gold": 791,
-      "fame": 12314,
-      "isOnline": true
     },
     {
       "rank": 19,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-17T20:59:59.768Z"
+  "updated": "2026-11-17T21:00:59.771Z"
 }
