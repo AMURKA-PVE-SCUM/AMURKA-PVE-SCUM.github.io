@@ -2,6 +2,16 @@
   "leaderboard": [
     {
       "rank": 1,
+      "steamId": "76561199206600084",
+      "name": "Аврора",
+      "playTimeSeconds": 62393,
+      "money": 37161,
+      "gold": 5,
+      "fame": 2235,
+      "isOnline": true
+    },
+    {
+      "rank": 2,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
       "playTimeSeconds": 62377,
@@ -11,20 +21,10 @@
       "isOnline": false
     },
     {
-      "rank": 2,
-      "steamId": "76561199206600084",
-      "name": "Аврора",
-      "playTimeSeconds": 62333,
-      "money": 37161,
-      "gold": 5,
-      "fame": 2235,
-      "isOnline": true
-    },
-    {
       "rank": 3,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 50224,
+      "playTimeSeconds": 50284,
       "money": 9261239,
       "gold": 1267,
       "fame": 6516,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198317515003",
       "name": "Sociopat",
-      "playTimeSeconds": 43965,
+      "playTimeSeconds": 44025,
       "money": 21540,
       "gold": 60,
       "fame": 188,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-17T02:45:47.139Z"
+  "updated": "2026-11-17T02:46:47.139Z"
 }
