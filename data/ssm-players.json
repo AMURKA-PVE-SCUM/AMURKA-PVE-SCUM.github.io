@@ -1,21 +1,21 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561199206600084",
       "name": "Аврора",
       "sessionSeconds": 15,
-      "playTimeSeconds": 62333,
+      "playTimeSeconds": 62393,
       "money": 37161,
       "gold": 5,
       "fame": 2235,
-      "rank": 2
+      "rank": 1
     },
     {
       "steamId": "76561198317515003",
       "name": "Sociopat",
       "sessionSeconds": 15,
-      "playTimeSeconds": 43965,
+      "playTimeSeconds": 44025,
       "money": 21540,
       "gold": 60,
       "fame": 188,
@@ -25,17 +25,17 @@
       "steamId": "76561198029599248",
       "name": "DAI_DENEG",
       "sessionSeconds": 15,
-      "playTimeSeconds": 4574,
+      "playTimeSeconds": 4634,
       "money": 156060,
       "gold": 75,
       "fame": 427,
-      "rank": 55
+      "rank": 54
     },
     {
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 15,
-      "playTimeSeconds": 15393,
+      "playTimeSeconds": 15453,
       "money": 337598,
       "gold": 785,
       "fame": 2008,
@@ -45,7 +45,7 @@
       "steamId": "76561198156375337",
       "name": "Domo",
       "sessionSeconds": 15,
-      "playTimeSeconds": 3024,
+      "playTimeSeconds": 3084,
       "money": 2145956,
       "gold": 11515,
       "fame": 243,
@@ -55,7 +55,7 @@
       "steamId": "76561198327689237",
       "name": "Albert",
       "sessionSeconds": 15,
-      "playTimeSeconds": 50224,
+      "playTimeSeconds": 50284,
       "money": 9261239,
       "gold": 1267,
       "fame": 6516,
@@ -65,12 +65,22 @@
       "steamId": "76561198328189885",
       "name": "vlaD0S",
       "sessionSeconds": 15,
-      "playTimeSeconds": 21884,
+      "playTimeSeconds": 21944,
       "money": 2606847,
       "gold": 198,
       "fame": 27327,
       "rank": 21
+    },
+    {
+      "steamId": "76561199877063571",
+      "name": "Mazay",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 20130,
+      "money": 2794139,
+      "gold": 1960,
+      "fame": 10424,
+      "rank": 24
     }
   ],
-  "updated": "2026-11-17T02:45:47.139Z"
+  "updated": "2026-11-17T02:46:47.139Z"
 }
