@@ -1,11 +1,11 @@
 {
-  "online": 3,
+  "online": 4,
   "players": [
     {
       "steamId": "76561199206600084",
       "name": "Аврора",
       "sessionSeconds": 21,
-      "playTimeSeconds": 57720,
+      "playTimeSeconds": 57781,
       "money": 80426,
       "gold": 216,
       "fame": 2199,
@@ -15,7 +15,7 @@
       "steamId": "76561198327689237",
       "name": "Albert",
       "sessionSeconds": 21,
-      "playTimeSeconds": 46701,
+      "playTimeSeconds": 46762,
       "money": 9260239,
       "gold": 1262,
       "fame": 6502,
@@ -25,12 +25,22 @@
       "steamId": "76561198317515003",
       "name": "Sociopat",
       "sessionSeconds": 21,
-      "playTimeSeconds": 39352,
+      "playTimeSeconds": 39413,
       "money": 20540,
       "gold": 55,
       "fame": 175,
       "rank": 8
+    },
+    {
+      "steamId": "76561198029599248",
+      "name": "DAI_DENEG",
+      "sessionSeconds": 21,
+      "playTimeSeconds": 22,
+      "money": 142603,
+      "gold": 70,
+      "fame": 382,
+      "rank": 78
     }
   ],
-  "updated": "2026-11-17T01:28:46.472Z"
+  "updated": "2026-11-17T01:29:46.479Z"
 }
