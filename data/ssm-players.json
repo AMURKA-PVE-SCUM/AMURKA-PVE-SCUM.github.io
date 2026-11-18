@@ -1,11 +1,11 @@
 {
-  "online": 8,
+  "online": 9,
   "players": [
     {
       "steamId": "76561198430997104",
       "name": "Владимир 2703",
-      "sessionSeconds": 241829,
-      "playTimeSeconds": 30307,
+      "sessionSeconds": 241889,
+      "playTimeSeconds": 30367,
       "money": 7846,
       "gold": 101,
       "fame": 880,
@@ -15,7 +15,7 @@
       "steamId": "76561198337811646",
       "name": "VERSUS_65_",
       "sessionSeconds": 24,
-      "playTimeSeconds": 43696,
+      "playTimeSeconds": 43756,
       "money": 409251,
       "gold": 820,
       "fame": 2119,
@@ -25,7 +25,7 @@
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
       "sessionSeconds": 24,
-      "playTimeSeconds": 96192,
+      "playTimeSeconds": 96252,
       "money": 1083714,
       "gold": 685,
       "fame": 3929,
@@ -35,17 +35,17 @@
       "steamId": "76561198115245396",
       "name": "Хабаровчанин",
       "sessionSeconds": 24,
-      "playTimeSeconds": 3432,
+      "playTimeSeconds": 3492,
       "money": 2495868,
       "gold": 570,
       "fame": 4202,
-      "rank": 80
+      "rank": 79
     },
     {
       "steamId": "76561199000739219",
       "name": "Yakytenok",
       "sessionSeconds": 24,
-      "playTimeSeconds": 40472,
+      "playTimeSeconds": 40532,
       "money": 1561655,
       "gold": 339,
       "fame": 1280,
@@ -55,7 +55,7 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 24,
-      "playTimeSeconds": 88938,
+      "playTimeSeconds": 88998,
       "money": 1494116,
       "gold": 2820,
       "fame": 5944,
@@ -65,7 +65,7 @@
       "steamId": "76561199504735154",
       "name": "BuHHu nyx",
       "sessionSeconds": 24,
-      "playTimeSeconds": 64567,
+      "playTimeSeconds": 64627,
       "money": 1960529,
       "gold": 376,
       "fame": 3760,
@@ -75,12 +75,22 @@
       "steamId": "76561198328189885",
       "name": "vlaD0S",
       "sessionSeconds": 24,
-      "playTimeSeconds": 52947,
+      "playTimeSeconds": 53007,
       "money": 2970920,
       "gold": 245,
       "fame": 28163,
       "rank": 15
+    },
+    {
+      "steamId": "76561199068619753",
+      "name": "Fobos",
+      "sessionSeconds": 24,
+      "playTimeSeconds": 18602,
+      "money": 283414,
+      "gold": 80,
+      "fame": 343,
+      "rank": 46
     }
   ],
-  "updated": "2026-11-18T07:25:04.568Z"
+  "updated": "2026-11-18T07:26:04.583Z"
 }
