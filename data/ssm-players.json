@@ -1,11 +1,21 @@
 {
-  "online": 12,
+  "online": 8,
   "players": [
+    {
+      "steamId": "76561198695697712",
+      "name": "Симон",
+      "sessionSeconds": 258996,
+      "playTimeSeconds": 37758,
+      "money": 190929,
+      "gold": 305,
+      "fame": 1029,
+      "rank": 33
+    },
     {
       "steamId": "76561198083018086",
       "name": "Fearless",
-      "sessionSeconds": 258927,
-      "playTimeSeconds": 95690,
+      "sessionSeconds": 258987,
+      "playTimeSeconds": 95732,
       "money": 1074239,
       "gold": 420,
       "fame": 1343,
@@ -14,113 +24,63 @@
     {
       "steamId": "76561198430997104",
       "name": "Владимир 2703",
-      "sessionSeconds": 258455,
-      "playTimeSeconds": 46833,
+      "sessionSeconds": 258515,
+      "playTimeSeconds": 46875,
       "money": 95030,
       "gold": 126,
       "fame": 1023,
       "rank": 22
     },
     {
+      "steamId": "76561199213350594",
+      "name": "Резвый",
+      "sessionSeconds": 257105,
+      "playTimeSeconds": 20772,
+      "money": 43094,
+      "gold": 200,
+      "fame": 367,
+      "rank": 46
+    },
+    {
+      "steamId": "76561199218614720",
+      "name": "Демоница",
+      "sessionSeconds": 253453,
+      "playTimeSeconds": 7252,
+      "money": 46140,
+      "gold": 170,
+      "fame": 1087,
+      "rank": 72
+    },
+    {
+      "steamId": "76561199569191127",
+      "name": "Mira",
+      "sessionSeconds": 250509,
+      "playTimeSeconds": 41262,
+      "money": 2132065,
+      "gold": 791,
+      "fame": 12314,
+      "rank": 25
+    },
+    {
       "steamId": "76561198031988664",
       "name": "tolgad",
-      "sessionSeconds": 248855,
-      "playTimeSeconds": 49229,
+      "sessionSeconds": 248915,
+      "playTimeSeconds": 49271,
       "money": 31126,
       "gold": 95,
       "fame": 626,
       "rank": 21
     },
     {
-      "steamId": "76561198826257359",
-      "name": "XXXX",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 44978,
-      "money": 1565930,
-      "gold": 717,
-      "fame": 337,
-      "rank": 23
-    },
-    {
-      "steamId": "76561199125649189",
-      "name": "HEADLESS",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 59151,
-      "money": 9727958,
-      "gold": 4210,
-      "fame": 34117,
-      "rank": 16
-    },
-    {
-      "steamId": "76561198159265980",
-      "name": "Evelina_Live",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 112431,
-      "money": 1128661,
-      "gold": 710,
-      "fame": 4019,
-      "rank": 2
-    },
-    {
-      "steamId": "76561199877063571",
-      "name": "Mazay",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 84677,
-      "money": 2812139,
-      "gold": 2050,
-      "fame": 10759,
-      "rank": 5
-    },
-    {
-      "steamId": "76561199000739219",
-      "name": "Yakytenok",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 52163,
-      "money": 1580963,
-      "gold": 354,
-      "fame": 1325,
-      "rank": 18
-    },
-    {
-      "steamId": "76561198775651698",
-      "name": "Добряк",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 14493,
-      "money": 4835747,
-      "gold": 245,
-      "fame": 15141,
-      "rank": 54
-    },
-    {
-      "steamId": "76561198117979766",
-      "name": "Хлебушек",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 75815,
-      "money": 2505451,
-      "gold": 905,
-      "fame": 10677,
-      "rank": 10
-    },
-    {
-      "steamId": "76561198202341588",
-      "name": "Mora",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 20866,
-      "money": 76414,
-      "gold": 25,
-      "fame": 265,
-      "rank": 45
-    },
-    {
-      "steamId": "76561198846814414",
-      "name": "Evgen",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 41714,
-      "money": 41294,
-      "gold": 55,
-      "fame": 328,
-      "rank": 24
+      "steamId": "76561198372320271",
+      "name": "ADA",
+      "sessionSeconds": 141108,
+      "playTimeSeconds": 39076,
+      "money": 1849783,
+      "gold": 194,
+      "fame": 8242,
+      "rank": 31
     }
   ],
-  "updated": "2026-11-18T12:02:10.477Z"
+  "updated": "2026-11-18T12:03:10.487Z"
 }
