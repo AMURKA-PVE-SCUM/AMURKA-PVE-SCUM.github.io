@@ -1,11 +1,11 @@
 {
-  "online": 2,
+  "online": 3,
   "players": [
     {
       "steamId": "76561198083018086",
       "name": "Fearless",
-      "sessionSeconds": 235101,
-      "playTimeSeconds": 86949,
+      "sessionSeconds": 235161,
+      "playTimeSeconds": 87009,
       "money": 1071239,
       "gold": 405,
       "fame": 1301,
@@ -14,13 +14,23 @@
     {
       "steamId": "76561198430997104",
       "name": "Владимир 2703",
-      "sessionSeconds": 234628,
-      "playTimeSeconds": 23325,
+      "sessionSeconds": 234688,
+      "playTimeSeconds": 23385,
       "money": 5846,
       "gold": 91,
       "fame": 855,
       "rank": 41
+    },
+    {
+      "steamId": "76561198352984050",
+      "name": "Vlad",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 84319,
+      "money": 1494116,
+      "gold": 2820,
+      "fame": 5941,
+      "rank": 4
     }
   ],
-  "updated": "2026-11-18T05:25:03.620Z"
+  "updated": "2026-11-18T05:26:03.636Z"
 }
