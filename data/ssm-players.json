@@ -1,31 +1,21 @@
 {
-  "online": 5,
+  "online": 7,
   "players": [
     {
       "steamId": "76561198252181596",
       "name": "Kot",
       "sessionSeconds": 27,
-      "playTimeSeconds": 9794,
+      "playTimeSeconds": 9852,
       "money": 31860,
       "gold": 20,
       "fame": 80,
       "rank": 81
     },
     {
-      "steamId": "76561198695697712",
-      "name": "Симон",
-      "sessionSeconds": 27,
-      "playTimeSeconds": 62968,
-      "money": 145752,
-      "gold": 340,
-      "fame": 1124,
-      "rank": 25
-    },
-    {
       "steamId": "76561198156375337",
       "name": "Domo",
       "sessionSeconds": 27,
-      "playTimeSeconds": 7196,
+      "playTimeSeconds": 7254,
       "money": 2146956,
       "gold": 11520,
       "fame": 256,
@@ -35,7 +25,7 @@
       "steamId": "76561198790887864",
       "name": "Roma",
       "sessionSeconds": 27,
-      "playTimeSeconds": 43024,
+      "playTimeSeconds": 43082,
       "money": 2781338,
       "gold": 1784,
       "fame": 10898,
@@ -44,13 +34,43 @@
     {
       "steamId": "76561198846871689",
       "name": "THE_PAHA",
-      "sessionSeconds": 5,
-      "playTimeSeconds": 31495,
+      "sessionSeconds": 27,
+      "playTimeSeconds": 31553,
       "money": 53457,
       "gold": 140,
       "fame": 502,
       "rank": 46
+    },
+    {
+      "steamId": "76561199000739219",
+      "name": "ЁБ ТЫГЫДЫК",
+      "sessionSeconds": 27,
+      "playTimeSeconds": 92503,
+      "money": 1758227,
+      "gold": 409,
+      "fame": 1598,
+      "rank": 14
+    },
+    {
+      "steamId": "76561198083018086",
+      "name": "Fearless",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 141599,
+      "money": 1406418,
+      "gold": 80,
+      "fame": 1529,
+      "rank": 2
+    },
+    {
+      "steamId": "76561198695697712",
+      "name": "Симон",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 63016,
+      "money": 145752,
+      "gold": 340,
+      "fame": 1124,
+      "rank": 25
     }
   ],
-  "updated": "2026-11-19T18:16:28.010Z"
+  "updated": "2026-11-19T18:17:28.015Z"
 }
