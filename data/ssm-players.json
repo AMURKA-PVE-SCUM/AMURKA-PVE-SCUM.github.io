@@ -1,21 +1,31 @@
 {
-  "online": 3,
+  "online": 4,
   "players": [
     {
       "steamId": "76561198083074543",
       "name": "МужНаЧас",
-      "sessionSeconds": 8271,
-      "playTimeSeconds": 29025,
+      "sessionSeconds": 8331,
+      "playTimeSeconds": 29085,
       "money": 102719,
       "gold": 160,
       "fame": 1021,
       "rank": 51
     },
     {
+      "steamId": "76561198695697712",
+      "name": "Симон",
+      "sessionSeconds": 5992,
+      "playTimeSeconds": 72465,
+      "money": 148922,
+      "gold": 350,
+      "fame": 1160,
+      "rank": 22
+    },
+    {
       "steamId": "76561198790887864",
       "name": "Roma",
       "sessionSeconds": 12,
-      "playTimeSeconds": 52415,
+      "playTimeSeconds": 52475,
       "money": 2818237,
       "gold": 1799,
       "fame": 11225,
@@ -25,12 +35,12 @@
       "steamId": "76561199136246088",
       "name": "ҀSTEBASLO_64",
       "sessionSeconds": 12,
-      "playTimeSeconds": 26125,
+      "playTimeSeconds": 26185,
       "money": 21427,
       "gold": 35,
       "fame": 245,
       "rank": 53
     }
   ],
-  "updated": "2026-11-19T21:04:29.224Z"
+  "updated": "2026-11-19T21:05:29.235Z"
 }
