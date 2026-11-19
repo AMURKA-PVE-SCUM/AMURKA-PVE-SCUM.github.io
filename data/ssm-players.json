@@ -1,26 +1,46 @@
 {
-  "online": 2,
+  "online": 4,
   "players": [
-    {
-      "steamId": "76561199125649189",
-      "name": "HEADLESS",
-      "sessionSeconds": 22,
-      "playTimeSeconds": 95730,
-      "money": 10351563,
-      "gold": 4137,
-      "fame": 37364,
-      "rank": 11
-    },
     {
       "steamId": "76561199569191127",
       "name": "Mira",
-      "sessionSeconds": 10,
-      "playTimeSeconds": 64376,
+      "sessionSeconds": 22,
+      "playTimeSeconds": 64436,
       "money": 2131600,
       "gold": 821,
       "fame": 12462,
       "rank": 24
+    },
+    {
+      "steamId": "76561199086334651",
+      "name": "Soda",
+      "sessionSeconds": 22,
+      "playTimeSeconds": 56161,
+      "money": 125554,
+      "gold": 426,
+      "fame": 2438,
+      "rank": 27
+    },
+    {
+      "steamId": "76561198202341588",
+      "name": "Mora",
+      "sessionSeconds": 22,
+      "playTimeSeconds": 53997,
+      "money": 70831,
+      "gold": 70,
+      "fame": 448,
+      "rank": 30
+    },
+    {
+      "steamId": "76561199487570874",
+      "name": "vivas7613",
+      "sessionSeconds": 0,
+      "playTimeSeconds": 4692,
+      "money": 11439,
+      "gold": 5,
+      "fame": 19,
+      "rank": 89
     }
   ],
-  "updated": "2026-11-19T15:36:26.545Z"
+  "updated": "2026-11-19T15:37:26.556Z"
 }
