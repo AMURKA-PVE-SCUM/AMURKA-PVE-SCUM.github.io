@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 8,
   "players": [
     {
       "steamId": "76561199086334651",
       "name": "Soda",
       "sessionSeconds": 22,
-      "playTimeSeconds": 56461,
+      "playTimeSeconds": 56521,
       "money": 126554,
       "gold": 431,
       "fame": 2448,
@@ -15,7 +15,7 @@
       "steamId": "76561199487570874",
       "name": "vivas7613",
       "sessionSeconds": 22,
-      "playTimeSeconds": 4992,
+      "playTimeSeconds": 5052,
       "money": 11439,
       "gold": 5,
       "fame": 20,
@@ -25,17 +25,17 @@
       "steamId": "76561198156375337",
       "name": "Domo",
       "sessionSeconds": 22,
-      "playTimeSeconds": 3311,
+      "playTimeSeconds": 3371,
       "money": 2145956,
       "gold": 11515,
-      "fame": 243,
+      "fame": 244,
       "rank": 94
     },
     {
       "steamId": "76561199206600084",
       "name": "Аврора",
       "sessionSeconds": 22,
-      "playTimeSeconds": 170711,
+      "playTimeSeconds": 170771,
       "money": 36460,
       "gold": 10,
       "fame": 2809,
@@ -44,23 +44,43 @@
     {
       "steamId": "76561198156438506",
       "name": "Tema HANT",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 391,
+      "sessionSeconds": 22,
+      "playTimeSeconds": 451,
       "money": 368496,
       "gold": 306,
       "fame": 2089,
-      "rank": 119
+      "rank": 117
     },
     {
-      "steamId": "76561199125649189",
-      "name": "HEADLESS",
+      "steamId": "76561198202341588",
+      "name": "Mora",
+      "sessionSeconds": 22,
+      "playTimeSeconds": 54297,
+      "money": 71831,
+      "gold": 75,
+      "fame": 458,
+      "rank": 30
+    },
+    {
+      "steamId": "76561198198157306",
+      "name": "alekx838",
+      "sessionSeconds": 20,
+      "playTimeSeconds": 21618,
+      "money": 759303,
+      "gold": 447,
+      "fame": 3819,
+      "rank": 60
+    },
+    {
+      "steamId": "76561198352984050",
+      "name": "Vlad",
       "sessionSeconds": 0,
-      "playTimeSeconds": 95780,
-      "money": 10351563,
-      "gold": 4137,
-      "fame": 37364,
-      "rank": 11
+      "playTimeSeconds": 135632,
+      "money": 1545894,
+      "gold": 2890,
+      "fame": 6111,
+      "rank": 4
     }
   ],
-  "updated": "2026-11-19T15:42:26.603Z"
+  "updated": "2026-11-19T15:43:26.608Z"
 }
