@@ -1,11 +1,11 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561198156375337",
       "name": "Domo",
       "sessionSeconds": 21,
-      "playTimeSeconds": 6288,
+      "playTimeSeconds": 6350,
       "money": 2145956,
       "gold": 11515,
       "fame": 245,
@@ -15,7 +15,7 @@
       "steamId": "76561198306951793",
       "name": "Maki",
       "sessionSeconds": 21,
-      "playTimeSeconds": 14773,
+      "playTimeSeconds": 14835,
       "money": 4000,
       "gold": 20,
       "fame": 72,
@@ -25,7 +25,7 @@
       "steamId": "76561198085989464",
       "name": "daimon",
       "sessionSeconds": 21,
-      "playTimeSeconds": 16154,
+      "playTimeSeconds": 16216,
       "money": 4000,
       "gold": 20,
       "fame": 69,
@@ -35,7 +35,7 @@
       "steamId": "76561198202341588",
       "name": "Mora",
       "sessionSeconds": 21,
-      "playTimeSeconds": 58147,
+      "playTimeSeconds": 58209,
       "money": 71831,
       "gold": 75,
       "fame": 460,
@@ -45,12 +45,22 @@
       "steamId": "76561198328189885",
       "name": "vlaD0S",
       "sessionSeconds": 21,
-      "playTimeSeconds": 104033,
+      "playTimeSeconds": 104095,
       "money": 3969949,
       "gold": 321,
       "fame": 31172,
       "rank": 9
+    },
+    {
+      "steamId": "76561199086334651",
+      "name": "Soda",
+      "sessionSeconds": 21,
+      "playTimeSeconds": 59091,
+      "money": 126554,
+      "gold": 431,
+      "fame": 2450,
+      "rank": 27
     }
   ],
-  "updated": "2026-11-19T16:49:27.168Z"
+  "updated": "2026-11-19T16:50:27.176Z"
 }
