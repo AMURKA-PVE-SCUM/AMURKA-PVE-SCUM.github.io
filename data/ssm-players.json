@@ -1,21 +1,21 @@
 {
-  "online": 4,
+  "online": 5,
   "players": [
     {
       "steamId": "76561198252181596",
       "name": "Kot",
       "sessionSeconds": 27,
-      "playTimeSeconds": 9674,
-      "money": 30860,
-      "gold": 15,
-      "fame": 69,
+      "playTimeSeconds": 9732,
+      "money": 31860,
+      "gold": 20,
+      "fame": 79,
       "rank": 81
     },
     {
       "steamId": "76561198695697712",
       "name": "Симон",
       "sessionSeconds": 27,
-      "playTimeSeconds": 62848,
+      "playTimeSeconds": 62906,
       "money": 145752,
       "gold": 340,
       "fame": 1124,
@@ -25,22 +25,32 @@
       "steamId": "76561198156375337",
       "name": "Domo",
       "sessionSeconds": 27,
-      "playTimeSeconds": 7076,
+      "playTimeSeconds": 7134,
       "money": 2146956,
       "gold": 11520,
       "fame": 256,
-      "rank": 87
+      "rank": 86
     },
     {
       "steamId": "76561198846871689",
       "name": "THE_PAHA",
       "sessionSeconds": 27,
-      "playTimeSeconds": 31394,
+      "playTimeSeconds": 31452,
       "money": 53457,
       "gold": 140,
       "fame": 502,
       "rank": 46
+    },
+    {
+      "steamId": "76561198790887864",
+      "name": "Roma",
+      "sessionSeconds": 27,
+      "playTimeSeconds": 42962,
+      "money": 2781338,
+      "gold": 1784,
+      "fame": 10898,
+      "rank": 36
     }
   ],
-  "updated": "2026-11-19T18:14:27.999Z"
+  "updated": "2026-11-19T18:15:28.003Z"
 }
