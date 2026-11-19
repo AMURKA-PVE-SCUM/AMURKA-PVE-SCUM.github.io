@@ -1,11 +1,11 @@
 {
-  "online": 7,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198306951793",
       "name": "Maki",
       "sessionSeconds": 20,
-      "playTimeSeconds": 15013,
+      "playTimeSeconds": 15075,
       "money": 4000,
       "gold": 20,
       "fame": 72,
@@ -15,17 +15,17 @@
       "steamId": "76561198085989464",
       "name": "daimon",
       "sessionSeconds": 20,
-      "playTimeSeconds": 16394,
+      "playTimeSeconds": 16456,
       "money": 4000,
       "gold": 20,
       "fame": 69,
-      "rank": 71
+      "rank": 70
     },
     {
       "steamId": "76561198202341588",
       "name": "Mora",
       "sessionSeconds": 20,
-      "playTimeSeconds": 58387,
+      "playTimeSeconds": 58449,
       "money": 71831,
       "gold": 75,
       "fame": 461,
@@ -35,7 +35,7 @@
       "steamId": "76561198328189885",
       "name": "vlaD0S",
       "sessionSeconds": 20,
-      "playTimeSeconds": 104273,
+      "playTimeSeconds": 104335,
       "money": 3969949,
       "gold": 321,
       "fame": 31173,
@@ -45,7 +45,7 @@
       "steamId": "76561199086334651",
       "name": "Soda",
       "sessionSeconds": 20,
-      "playTimeSeconds": 59269,
+      "playTimeSeconds": 59331,
       "money": 126554,
       "gold": 431,
       "fame": 2450,
@@ -55,7 +55,7 @@
       "steamId": "76561198846871689",
       "name": "THE_PAHA",
       "sessionSeconds": 20,
-      "playTimeSeconds": 29509,
+      "playTimeSeconds": 29571,
       "money": 53457,
       "gold": 140,
       "fame": 502,
@@ -65,12 +65,22 @@
       "steamId": "76561198352984050",
       "name": "Vlad",
       "sessionSeconds": 20,
-      "playTimeSeconds": 136236,
+      "playTimeSeconds": 136298,
       "money": 1545894,
       "gold": 2890,
       "fame": 6111,
       "rank": 4
+    },
+    {
+      "steamId": "76561199218614720",
+      "name": "Демоница",
+      "sessionSeconds": 20,
+      "playTimeSeconds": 10155,
+      "money": 47140,
+      "gold": 175,
+      "fame": 1098,
+      "rank": 79
     }
   ],
-  "updated": "2026-11-19T16:53:27.193Z"
+  "updated": "2026-11-19T16:54:27.194Z"
 }
