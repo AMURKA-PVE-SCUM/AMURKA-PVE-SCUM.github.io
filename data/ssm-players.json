@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "sessionSeconds": 0,
-      "playTimeSeconds": 95670,
+      "sessionSeconds": 22,
+      "playTimeSeconds": 95730,
       "money": 10351563,
       "gold": 4137,
       "fame": 37364,
       "rank": 11
+    },
+    {
+      "steamId": "76561199569191127",
+      "name": "Mira",
+      "sessionSeconds": 10,
+      "playTimeSeconds": 64376,
+      "money": 2131600,
+      "gold": 821,
+      "fame": 12462,
+      "rank": 24
     }
   ],
-  "updated": "2026-11-19T15:35:26.532Z"
+  "updated": "2026-11-19T15:36:26.545Z"
 }
