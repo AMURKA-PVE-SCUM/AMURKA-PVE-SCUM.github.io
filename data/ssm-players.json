@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 7,
   "players": [
     {
       "steamId": "76561198083074543",
       "name": "МужНаЧас",
-      "sessionSeconds": 15352,
-      "playTimeSeconds": 36095,
+      "sessionSeconds": 15412,
+      "playTimeSeconds": 36155,
       "money": 99081,
       "gold": 170,
       "fame": 1049,
@@ -14,9 +14,9 @@
     {
       "steamId": "76561198695697712",
       "name": "Симон",
-      "sessionSeconds": 13013,
-      "playTimeSeconds": 79475,
-      "money": 153704,
+      "sessionSeconds": 13073,
+      "playTimeSeconds": 79535,
+      "money": 186708,
       "gold": 220,
       "fame": 1193,
       "rank": 21
@@ -25,7 +25,7 @@
       "steamId": "76561199136246088",
       "name": "ҀSTEBASLO_64",
       "sessionSeconds": 3,
-      "playTimeSeconds": 33195,
+      "playTimeSeconds": 33255,
       "money": 34020,
       "gold": 45,
       "fame": 276,
@@ -35,7 +35,7 @@
       "steamId": "76561198028621423",
       "name": "Lesnik",
       "sessionSeconds": 3,
-      "playTimeSeconds": 70428,
+      "playTimeSeconds": 70488,
       "money": 227024,
       "gold": 5435,
       "fame": 7119,
@@ -45,7 +45,7 @@
       "steamId": "76561198110930486",
       "name": "GodMiller",
       "sessionSeconds": 3,
-      "playTimeSeconds": 24712,
+      "playTimeSeconds": 24772,
       "money": 83461,
       "gold": 30,
       "fame": 268,
@@ -55,12 +55,22 @@
       "steamId": "76561198855285765",
       "name": "AmosMoses",
       "sessionSeconds": 3,
-      "playTimeSeconds": 39051,
+      "playTimeSeconds": 39111,
       "money": 26222,
       "gold": 50,
       "fame": 250,
       "rank": 42
+    },
+    {
+      "steamId": "76561198444818708",
+      "name": "Contex",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 33,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "rank": 128
     }
   ],
-  "updated": "2026-11-19T23:02:30.124Z"
+  "updated": "2026-11-19T23:03:30.129Z"
 }
