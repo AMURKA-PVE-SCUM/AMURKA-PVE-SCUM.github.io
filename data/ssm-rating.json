@@ -14,11 +14,11 @@
       "rank": 2,
       "steamId": "76561198083018086",
       "name": "Fearless",
-      "playTimeSeconds": 151518,
+      "playTimeSeconds": 151562,
       "money": 1387794,
       "gold": 105,
       "fame": 1619,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 3,
@@ -142,6 +142,16 @@
     },
     {
       "rank": 15,
+      "steamId": "76561198695697712",
+      "name": "Симон",
+      "playTimeSeconds": 85758,
+      "money": 244508,
+      "gold": 230,
+      "fame": 1221,
+      "isOnline": true
+    },
+    {
+      "rank": 16,
       "steamId": "76561199486830797",
       "name": "yuriiermolenko861",
       "playTimeSeconds": 85704,
@@ -149,16 +159,6 @@
       "gold": 1286,
       "fame": 45867,
       "isOnline": false
-    },
-    {
-      "rank": 16,
-      "steamId": "76561198695697712",
-      "name": "Симон",
-      "playTimeSeconds": 85699,
-      "money": 244508,
-      "gold": 230,
-      "fame": 1221,
-      "isOnline": true
     },
     {
       "rank": 17,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-20T00:50:30.889Z"
+  "updated": "2026-11-20T00:51:30.889Z"
 }
