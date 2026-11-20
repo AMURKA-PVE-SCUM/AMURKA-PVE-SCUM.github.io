@@ -1,11 +1,11 @@
 {
-  "online": 5,
+  "online": 6,
   "players": [
     {
       "steamId": "76561199877063571",
       "name": "Mazay",
-      "sessionSeconds": 38582,
-      "playTimeSeconds": 123822,
+      "sessionSeconds": 38642,
+      "playTimeSeconds": 123882,
       "money": 2823139,
       "gold": 2105,
       "fame": 10950,
@@ -15,7 +15,7 @@
       "steamId": "76561198156375337",
       "name": "Domo",
       "sessionSeconds": 12,
-      "playTimeSeconds": 17165,
+      "playTimeSeconds": 17225,
       "money": 2148956,
       "gold": 11530,
       "fame": 286,
@@ -25,7 +25,7 @@
       "steamId": "76561198276254908",
       "name": "Завитинск",
       "sessionSeconds": 12,
-      "playTimeSeconds": 28270,
+      "playTimeSeconds": 28330,
       "money": 154757,
       "gold": 80,
       "fame": 278,
@@ -35,7 +35,7 @@
       "steamId": "76561198083018086",
       "name": "Fearless",
       "sessionSeconds": 12,
-      "playTimeSeconds": 160536,
+      "playTimeSeconds": 160596,
       "money": 1389794,
       "gold": 115,
       "fame": 1646,
@@ -45,12 +45,22 @@
       "steamId": "76561198384962778",
       "name": "Рик",
       "sessionSeconds": 12,
-      "playTimeSeconds": 118414,
+      "playTimeSeconds": 118474,
       "money": 2763395,
       "gold": 219,
       "fame": 6863,
       "rank": 7
+    },
+    {
+      "steamId": "76561198807010292",
+      "name": "CyxoB",
+      "sessionSeconds": 7,
+      "playTimeSeconds": 17,
+      "money": 0,
+      "gold": 0,
+      "fame": 0,
+      "rank": 131
     }
   ],
-  "updated": "2026-11-20T05:22:32.889Z"
+  "updated": "2026-11-20T05:23:32.895Z"
 }
