@@ -1,11 +1,11 @@
 {
-  "online": 14,
+  "online": 18,
   "players": [
     {
       "steamId": "76561198695697712",
       "name": "Симон",
-      "sessionSeconds": 60178,
-      "playTimeSeconds": 102557,
+      "sessionSeconds": 60238,
+      "playTimeSeconds": 102617,
       "money": 288131,
       "gold": 210,
       "fame": 1172,
@@ -14,18 +14,28 @@
     {
       "steamId": "76561198327689237",
       "name": "Albert",
-      "sessionSeconds": 3052,
-      "playTimeSeconds": 97957,
+      "sessionSeconds": 3112,
+      "playTimeSeconds": 98017,
       "money": 9446558,
       "gold": 1362,
       "fame": 6833,
       "rank": 15
     },
     {
+      "steamId": "76561199404896383",
+      "name": "Victor_Vilkouskas",
+      "sessionSeconds": 3032,
+      "playTimeSeconds": 34182,
+      "money": 1581468,
+      "gold": 579,
+      "fame": 6711,
+      "rank": 49
+    },
+    {
       "steamId": "76561198524584795",
       "name": "City cat",
-      "sessionSeconds": 2725,
-      "playTimeSeconds": 8122,
+      "sessionSeconds": 2785,
+      "playTimeSeconds": 8182,
       "money": 1850,
       "gold": 10,
       "fame": 33,
@@ -34,8 +44,8 @@
     {
       "steamId": "76561198110930486",
       "name": "GodMiller",
-      "sessionSeconds": 1562,
-      "playTimeSeconds": 36881,
+      "sessionSeconds": 1622,
+      "playTimeSeconds": 36941,
       "money": 61599,
       "gold": 50,
       "fame": 325,
@@ -44,8 +54,8 @@
     {
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 160823,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 160883,
       "money": 1076501,
       "gold": 775,
       "fame": 4150,
@@ -54,8 +64,8 @@
     {
       "steamId": "76561199136246088",
       "name": "ҀSTEBASLO_64",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 52664,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 52724,
       "money": 17203,
       "gold": 15,
       "fame": 463,
@@ -64,8 +74,8 @@
     {
       "steamId": "76561198068409227",
       "name": "Wesker",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 98686,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 98746,
       "money": 28677,
       "gold": 136,
       "fame": 777,
@@ -74,8 +84,8 @@
     {
       "steamId": "76561198092566518",
       "name": "Astri",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 24939,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 24999,
       "money": 2604,
       "gold": 30,
       "fame": 181,
@@ -84,8 +94,8 @@
     {
       "steamId": "76561198780187270",
       "name": "Ivanesa",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 54218,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 54278,
       "money": 49874,
       "gold": 60,
       "fame": 1025,
@@ -94,8 +104,8 @@
     {
       "steamId": "76561198202341588",
       "name": "Mora",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 70080,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 70140,
       "money": 128634,
       "gold": 85,
       "fame": 519,
@@ -104,8 +114,8 @@
     {
       "steamId": "76561198028621423",
       "name": "Lesnik",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 83672,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 83732,
       "money": 446195,
       "gold": 5450,
       "fame": 7295,
@@ -114,8 +124,8 @@
     {
       "steamId": "76561198813988306",
       "name": "GoodZ1Ra",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 43553,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 43613,
       "money": 171898,
       "gold": 80,
       "fame": 305,
@@ -124,8 +134,8 @@
     {
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "sessionSeconds": 9,
-      "playTimeSeconds": 158637,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 158697,
       "money": 1551894,
       "gold": 2920,
       "fame": 6198,
@@ -134,13 +144,43 @@
     {
       "steamId": "76561198065319845",
       "name": "CAPITAN",
-      "sessionSeconds": 7,
-      "playTimeSeconds": 4438,
+      "sessionSeconds": 8,
+      "playTimeSeconds": 4498,
       "money": 55796,
       "gold": 225,
       "fame": 745,
-      "rank": 96
+      "rank": 95
+    },
+    {
+      "steamId": "76561199206600084",
+      "name": "Аврора",
+      "sessionSeconds": 8,
+      "playTimeSeconds": 183849,
+      "money": 22405,
+      "gold": 25,
+      "fame": 2803,
+      "rank": 1
+    },
+    {
+      "steamId": "76561198276254908",
+      "name": "Завитинск",
+      "sessionSeconds": 8,
+      "playTimeSeconds": 35271,
+      "money": 111070,
+      "gold": 90,
+      "fame": 309,
+      "rank": 47
+    },
+    {
+      "steamId": "76561199812501532",
+      "name": "Эля75",
+      "sessionSeconds": 7,
+      "playTimeSeconds": 32461,
+      "money": 160916,
+      "gold": 180,
+      "fame": 903,
+      "rank": 54
     }
   ],
-  "updated": "2026-11-20T12:08:35.898Z"
+  "updated": "2026-11-20T12:09:35.901Z"
 }
