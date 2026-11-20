@@ -1,31 +1,61 @@
 {
-  "online": 4,
+  "online": 10,
   "players": [
+    {
+      "steamId": "76561198695697712",
+      "name": "Симон",
+      "sessionSeconds": 70740,
+      "playTimeSeconds": 113017,
+      "money": 290131,
+      "gold": 220,
+      "fame": 1206,
+      "rank": 10
+    },
+    {
+      "steamId": "76561198788795462",
+      "name": "EwKe_",
+      "sessionSeconds": 2116,
+      "playTimeSeconds": 3281,
+      "money": 0,
+      "gold": 0,
+      "fame": 5,
+      "rank": 100
+    },
     {
       "steamId": "76561199404896383",
       "name": "Victor_Vilkouskas",
-      "sessionSeconds": 1132,
-      "playTimeSeconds": 39027,
+      "sessionSeconds": 1192,
+      "playTimeSeconds": 39087,
       "money": 1582468,
       "gold": 584,
       "fame": 6726,
       "rank": 49
     },
     {
+      "steamId": "76561199033399385",
+      "name": "German",
+      "sessionSeconds": 1001,
+      "playTimeSeconds": 20250,
+      "money": 9389,
+      "gold": 25,
+      "fame": 171,
+      "rank": 70
+    },
+    {
       "steamId": "76561198775651698",
       "name": "Добряк",
       "sessionSeconds": 25,
-      "playTimeSeconds": 99409,
+      "playTimeSeconds": 99469,
       "money": 4572982,
       "gold": 365,
-      "fame": 15496,
+      "fame": 15497,
       "rank": 15
     },
     {
       "steamId": "76561199136246088",
       "name": "ҀSTEBASLO_64",
       "sessionSeconds": 25,
-      "playTimeSeconds": 62910,
+      "playTimeSeconds": 62970,
       "money": 94516,
       "gold": 31,
       "fame": 733,
@@ -35,12 +65,42 @@
       "steamId": "76561198362204899",
       "name": "Vladimir",
       "sessionSeconds": 25,
-      "playTimeSeconds": 48819,
+      "playTimeSeconds": 48879,
       "money": 76543,
       "gold": 150,
       "fame": 524,
       "rank": 39
+    },
+    {
+      "steamId": "76561198075815394",
+      "name": "Raiden",
+      "sessionSeconds": 25,
+      "playTimeSeconds": 24295,
+      "money": 84844,
+      "gold": 30,
+      "fame": 262,
+      "rank": 62
+    },
+    {
+      "steamId": "76561198855285765",
+      "name": "AmosMoses",
+      "sessionSeconds": 22,
+      "playTimeSeconds": 58978,
+      "money": 47194,
+      "gold": 80,
+      "fame": 346,
+      "rank": 32
+    },
+    {
+      "steamId": "76561198159265980",
+      "name": "Evelina_Live",
+      "sessionSeconds": 12,
+      "playTimeSeconds": 171293,
+      "money": 1079501,
+      "gold": 790,
+      "fame": 4191,
+      "rank": 3
     }
   ],
-  "updated": "2026-11-20T15:03:37.206Z"
+  "updated": "2026-11-20T15:04:37.213Z"
 }
