@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561199206600084",
       "name": "Аврора",
-      "playTimeSeconds": 175846,
+      "playTimeSeconds": 175907,
       "money": 4087,
       "gold": 15,
       "fame": 2822,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 152313,
+      "playTimeSeconds": 152374,
       "money": 1074501,
       "gold": 765,
       "fame": 4123,
@@ -34,17 +34,17 @@
       "rank": 4,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 150745,
-      "money": 1548894,
-      "gold": 2905,
-      "fame": 6158,
-      "isOnline": true
+      "playTimeSeconds": 150806,
+      "money": 1549894,
+      "gold": 2910,
+      "fame": 6168,
+      "isOnline": false
     },
     {
       "rank": 5,
       "steamId": "76561198384962778",
       "name": "Рик",
-      "playTimeSeconds": 130852,
+      "playTimeSeconds": 130913,
       "money": 2844852,
       "gold": 239,
       "fame": 7014,
@@ -74,7 +74,7 @@
       "rank": 8,
       "steamId": "76561199504735154",
       "name": "BuHHu nyx",
-      "playTimeSeconds": 111906,
+      "playTimeSeconds": 111967,
       "money": 3747694,
       "gold": 438,
       "fame": 4575,
@@ -122,6 +122,16 @@
     },
     {
       "rank": 13,
+      "steamId": "76561198695697712",
+      "name": "Симон",
+      "playTimeSeconds": 94118,
+      "money": 245508,
+      "gold": 235,
+      "fame": 1246,
+      "isOnline": true
+    },
+    {
+      "rank": 14,
       "steamId": "76561198068409227",
       "name": "Wesker",
       "playTimeSeconds": 94118,
@@ -131,20 +141,10 @@
       "isOnline": false
     },
     {
-      "rank": 14,
-      "steamId": "76561198695697712",
-      "name": "Симон",
-      "playTimeSeconds": 94057,
-      "money": 245508,
-      "gold": 235,
-      "fame": 1246,
-      "isOnline": true
-    },
-    {
       "rank": 15,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 93337,
+      "playTimeSeconds": 93398,
       "money": 9445558,
       "gold": 1357,
       "fame": 6820,
@@ -154,10 +154,10 @@
       "rank": 16,
       "steamId": "76561198775651698",
       "name": "Добряк",
-      "playTimeSeconds": 89446,
+      "playTimeSeconds": 89507,
       "money": 4569982,
       "gold": 350,
-      "fame": 15457,
+      "fame": 15455,
       "isOnline": true
     },
     {
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-20T09:46:34.846Z"
+  "updated": "2026-11-20T09:47:34.856Z"
 }
