@@ -1,11 +1,11 @@
 {
-  "online": 6,
+  "online": 8,
   "players": [
     {
       "steamId": "76561198695697712",
       "name": "Симон",
-      "sessionSeconds": 59938,
-      "playTimeSeconds": 102318,
+      "sessionSeconds": 59998,
+      "playTimeSeconds": 102377,
       "money": 288131,
       "gold": 210,
       "fame": 1172,
@@ -14,8 +14,8 @@
     {
       "steamId": "76561198327689237",
       "name": "Albert",
-      "sessionSeconds": 2812,
-      "playTimeSeconds": 97718,
+      "sessionSeconds": 2872,
+      "playTimeSeconds": 97777,
       "money": 9446558,
       "gold": 1362,
       "fame": 6832,
@@ -25,7 +25,7 @@
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
       "sessionSeconds": 9,
-      "playTimeSeconds": 160584,
+      "playTimeSeconds": 160643,
       "money": 1076501,
       "gold": 775,
       "fame": 4150,
@@ -35,17 +35,17 @@
       "steamId": "76561199136246088",
       "name": "ҀSTEBASLO_64",
       "sessionSeconds": 9,
-      "playTimeSeconds": 52425,
+      "playTimeSeconds": 52484,
       "money": 17203,
       "gold": 15,
-      "fame": 462,
+      "fame": 463,
       "rank": 34
     },
     {
       "steamId": "76561198068409227",
       "name": "Wesker",
       "sessionSeconds": 9,
-      "playTimeSeconds": 98447,
+      "playTimeSeconds": 98506,
       "money": 28677,
       "gold": 136,
       "fame": 777,
@@ -55,12 +55,32 @@
       "steamId": "76561198092566518",
       "name": "Astri",
       "sessionSeconds": 9,
-      "playTimeSeconds": 24700,
+      "playTimeSeconds": 24759,
       "money": 2604,
       "gold": 30,
       "fame": 181,
       "rank": 59
+    },
+    {
+      "steamId": "76561198780187270",
+      "name": "Ivanesa",
+      "sessionSeconds": 9,
+      "playTimeSeconds": 54038,
+      "money": 48874,
+      "gold": 55,
+      "fame": 1015,
+      "rank": 32
+    },
+    {
+      "steamId": "76561198202341588",
+      "name": "Mora",
+      "sessionSeconds": 9,
+      "playTimeSeconds": 69900,
+      "money": 128634,
+      "gold": 85,
+      "fame": 518,
+      "rank": 24
     }
   ],
-  "updated": "2026-11-20T12:04:35.863Z"
+  "updated": "2026-11-20T12:05:35.868Z"
 }
