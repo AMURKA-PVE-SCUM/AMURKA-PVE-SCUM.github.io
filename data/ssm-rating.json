@@ -34,7 +34,7 @@
       "rank": 4,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 138277,
+      "playTimeSeconds": 138337,
       "money": 1062781,
       "gold": 745,
       "fame": 4116,
@@ -42,6 +42,16 @@
     },
     {
       "rank": 5,
+      "steamId": "76561198384962778",
+      "name": "Рик",
+      "playTimeSeconds": 120062,
+      "money": 2768395,
+      "gold": 224,
+      "fame": 6902,
+      "isOnline": true
+    },
+    {
+      "rank": 6,
       "steamId": "76561198031988664",
       "name": "tolgad",
       "playTimeSeconds": 120041,
@@ -49,16 +59,6 @@
       "gold": 195,
       "fame": 899,
       "isOnline": false
-    },
-    {
-      "rank": 6,
-      "steamId": "76561198384962778",
-      "name": "Рик",
-      "playTimeSeconds": 120002,
-      "money": 2768395,
-      "gold": 224,
-      "fame": 6902,
-      "isOnline": true
     },
     {
       "rank": 7,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-20T05:49:33.106Z"
+  "updated": "2026-11-20T05:50:33.117Z"
 }
