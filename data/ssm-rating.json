@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561199206600084",
       "name": "Аврора",
-      "playTimeSeconds": 230328,
+      "playTimeSeconds": 230388,
       "money": 118829,
       "gold": 91,
       "fame": 3087,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198083018086",
       "name": "Fearless",
-      "playTimeSeconds": 195415,
+      "playTimeSeconds": 195475,
       "money": 1596248,
       "gold": 165,
       "fame": 1783,
@@ -44,8 +44,8 @@
       "rank": 5,
       "steamId": "76561198384962778",
       "name": "Рик",
-      "playTimeSeconds": 165955,
-      "money": 3059133,
+      "playTimeSeconds": 166015,
+      "money": 3074344,
       "gold": 290,
       "fame": 8015,
       "isOnline": true
@@ -72,6 +72,16 @@
     },
     {
       "rank": 8,
+      "steamId": "76561198695697712",
+      "name": "Симон",
+      "playTimeSeconds": 127050,
+      "money": 294131,
+      "gold": 240,
+      "fame": 1253,
+      "isOnline": true
+    },
+    {
+      "rank": 9,
       "steamId": "76561198037904934",
       "name": "Astaf",
       "playTimeSeconds": 127005,
@@ -79,16 +89,6 @@
       "gold": 604,
       "fame": 6369,
       "isOnline": false
-    },
-    {
-      "rank": 9,
-      "steamId": "76561198695697712",
-      "name": "Симон",
-      "playTimeSeconds": 126990,
-      "money": 294131,
-      "gold": 240,
-      "fame": 1253,
-      "isOnline": true
     },
     {
       "rank": 10,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-21T05:32:48.814Z"
+  "updated": "2026-11-21T05:33:48.827Z"
 }
