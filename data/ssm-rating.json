@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561199206600084",
       "name": "Аврора",
-      "playTimeSeconds": 233111,
+      "playTimeSeconds": 233171,
       "money": 119092,
       "gold": 96,
       "fame": 3102,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198083018086",
       "name": "Fearless",
-      "playTimeSeconds": 198460,
+      "playTimeSeconds": 198520,
       "money": 1597248,
       "gold": 170,
       "fame": 1796,
@@ -102,6 +102,16 @@
     },
     {
       "rank": 11,
+      "steamId": "76561198117979766",
+      "name": "Хлебушек",
+      "playTimeSeconds": 120058,
+      "money": 3464626,
+      "gold": 969,
+      "fame": 14883,
+      "isOnline": true
+    },
+    {
+      "rank": 12,
       "steamId": "76561198031988664",
       "name": "tolgad",
       "playTimeSeconds": 120041,
@@ -109,16 +119,6 @@
       "gold": 195,
       "fame": 899,
       "isOnline": false
-    },
-    {
-      "rank": 12,
-      "steamId": "76561198117979766",
-      "name": "Хлебушек",
-      "playTimeSeconds": 119998,
-      "money": 3464626,
-      "gold": 969,
-      "fame": 14883,
-      "isOnline": true
     },
     {
       "rank": 13,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-21T06:26:49.239Z"
+  "updated": "2026-11-21T06:27:49.248Z"
 }
