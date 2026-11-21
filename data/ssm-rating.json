@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198083018086",
       "name": "Fearless",
-      "playTimeSeconds": 257541,
+      "playTimeSeconds": 257600,
       "money": 1672649,
       "gold": 260,
       "fame": 2269,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561199125649189",
       "name": "HEADLESS",
-      "playTimeSeconds": 179137,
+      "playTimeSeconds": 179196,
       "money": 11850946,
       "gold": 4146,
       "fame": 42497,
@@ -122,6 +122,16 @@
     },
     {
       "rank": 13,
+      "steamId": "76561198037904934",
+      "name": "Astaf",
+      "playTimeSeconds": 134205,
+      "money": 4192047,
+      "gold": 630,
+      "fame": 6629,
+      "isOnline": true
+    },
+    {
+      "rank": 14,
       "steamId": "76561198826257359",
       "name": "XXXX",
       "playTimeSeconds": 134168,
@@ -129,16 +139,6 @@
       "gold": 642,
       "fame": 660,
       "isOnline": false
-    },
-    {
-      "rank": 14,
-      "steamId": "76561198037904934",
-      "name": "Astaf",
-      "playTimeSeconds": 134146,
-      "money": 4192047,
-      "gold": 630,
-      "fame": 6629,
-      "isOnline": true
     },
     {
       "rank": 15,
@@ -154,7 +154,7 @@
       "rank": 16,
       "steamId": "76561198775651698",
       "name": "Добряк",
-      "playTimeSeconds": 122348,
+      "playTimeSeconds": 122407,
       "money": 4666422,
       "gold": 395,
       "fame": 15600,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-21T23:04:00.595Z"
+  "updated": "2026-11-21T23:05:00.599Z"
 }
