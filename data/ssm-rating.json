@@ -4,7 +4,7 @@
       "rank": 1,
       "steamId": "76561198083018086",
       "name": "Fearless",
-      "playTimeSeconds": 282840,
+      "playTimeSeconds": 282900,
       "money": 1679649,
       "gold": 295,
       "fame": 2357,
@@ -24,7 +24,7 @@
       "rank": 3,
       "steamId": "76561198159265980",
       "name": "Evelina_Live",
-      "playTimeSeconds": 261992,
+      "playTimeSeconds": 262052,
       "money": 1094942,
       "gold": 920,
       "fame": 4548,
@@ -42,6 +42,16 @@
     },
     {
       "rank": 5,
+      "steamId": "76561198695697712",
+      "name": "Симон",
+      "playTimeSeconds": 192993,
+      "money": 234514,
+      "gold": 330,
+      "fame": 1423,
+      "isOnline": true
+    },
+    {
+      "rank": 6,
       "steamId": "76561198352984050",
       "name": "Vlad",
       "playTimeSeconds": 192954,
@@ -49,16 +59,6 @@
       "gold": 2965,
       "fame": 6313,
       "isOnline": false
-    },
-    {
-      "rank": 6,
-      "steamId": "76561198695697712",
-      "name": "Симон",
-      "playTimeSeconds": 192933,
-      "money": 234514,
-      "gold": 330,
-      "fame": 1423,
-      "isOnline": true
     },
     {
       "rank": 7,
@@ -94,7 +94,7 @@
       "rank": 10,
       "steamId": "76561199504735154",
       "name": "BuHHu nyx",
-      "playTimeSeconds": 156434,
+      "playTimeSeconds": 156494,
       "money": 4912584,
       "gold": 505,
       "fame": 5248,
@@ -104,7 +104,7 @@
       "rank": 11,
       "steamId": "76561199552589497",
       "name": "Raskalbasman",
-      "playTimeSeconds": 154058,
+      "playTimeSeconds": 154118,
       "money": 655056,
       "gold": 1083,
       "fame": 5356,
@@ -134,11 +134,11 @@
       "rank": 14,
       "steamId": "76561199136246088",
       "name": "ҀSTEBASLO_64",
-      "playTimeSeconds": 134805,
+      "playTimeSeconds": 134854,
       "money": 692196,
       "gold": 132,
       "fame": 2031,
-      "isOnline": false
+      "isOnline": true
     },
     {
       "rank": 15,
@@ -194,12 +194,12 @@
       "rank": 20,
       "steamId": "76561199086334651",
       "name": "Soda",
-      "playTimeSeconds": 122399,
+      "playTimeSeconds": 122459,
       "money": 277681,
       "gold": 516,
       "fame": 2641,
       "isOnline": true
     }
   ],
-  "updated": "2026-11-22T09:10:04.951Z"
+  "updated": "2026-11-22T09:11:04.966Z"
 }
