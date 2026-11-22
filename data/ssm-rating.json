@@ -2,6 +2,16 @@
   "leaderboard": [
     {
       "rank": 1,
+      "steamId": "76561198083018086",
+      "name": "Fearless",
+      "playTimeSeconds": 272321,
+      "money": 1676649,
+      "gold": 280,
+      "fame": 2318,
+      "isOnline": true
+    },
+    {
+      "rank": 2,
       "steamId": "76561199206600084",
       "name": "Аврора",
       "playTimeSeconds": 272314,
@@ -9,16 +19,6 @@
       "gold": 0,
       "fame": 4585,
       "isOnline": false
-    },
-    {
-      "rank": 2,
-      "steamId": "76561198083018086",
-      "name": "Fearless",
-      "playTimeSeconds": 272261,
-      "money": 1676649,
-      "gold": 280,
-      "fame": 2318,
-      "isOnline": true
     },
     {
       "rank": 3,
@@ -44,7 +44,7 @@
       "rank": 5,
       "steamId": "76561198695697712",
       "name": "Симон",
-      "playTimeSeconds": 186864,
+      "playTimeSeconds": 186924,
       "money": 214856,
       "gold": 320,
       "fame": 1390,
@@ -54,7 +54,7 @@
       "rank": 6,
       "steamId": "76561198352984050",
       "name": "Vlad",
-      "playTimeSeconds": 180966,
+      "playTimeSeconds": 181026,
       "money": 1606027,
       "gold": 2950,
       "fame": 6274,
@@ -164,7 +164,7 @@
       "rank": 17,
       "steamId": "76561199136246088",
       "name": "ҀSTEBASLO_64",
-      "playTimeSeconds": 122117,
+      "playTimeSeconds": 122177,
       "money": 636704,
       "gold": 111,
       "fame": 1641,
@@ -174,7 +174,7 @@
       "rank": 18,
       "steamId": "76561198790887864",
       "name": "Roma",
-      "playTimeSeconds": 121811,
+      "playTimeSeconds": 121871,
       "money": 3301800,
       "gold": 1895,
       "fame": 12453,
@@ -184,7 +184,7 @@
       "rank": 19,
       "steamId": "76561198328189885",
       "name": "vlaD0S",
-      "playTimeSeconds": 121421,
+      "playTimeSeconds": 121481,
       "money": 3805049,
       "gold": 346,
       "fame": 31627,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-22T05:24:03.321Z"
+  "updated": "2026-11-22T05:25:03.324Z"
 }
