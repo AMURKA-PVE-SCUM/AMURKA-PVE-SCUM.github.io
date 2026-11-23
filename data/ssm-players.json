@@ -1,16 +1,36 @@
 {
-  "online": 1,
+  "online": 3,
   "players": [
     {
       "steamId": "76561198085989464",
       "name": "daimon",
-      "sessionSeconds": 3,
-      "playTimeSeconds": 43373,
+      "sessionSeconds": 25,
+      "playTimeSeconds": 43433,
       "money": 24744,
       "gold": 55,
-      "fame": 185,
+      "fame": 186,
       "rank": 62
+    },
+    {
+      "steamId": "76561198327689237",
+      "name": "Albert",
+      "sessionSeconds": 25,
+      "playTimeSeconds": 184050,
+      "money": 233746,
+      "gold": 11362,
+      "fame": 7226,
+      "rank": 10
+    },
+    {
+      "steamId": "76561198813988306",
+      "name": "GoodZ1Ra",
+      "sessionSeconds": 3,
+      "playTimeSeconds": 129529,
+      "money": 155617,
+      "gold": 160,
+      "fame": 680,
+      "rank": 28
     }
   ],
-  "updated": "2026-11-23T12:03:22.869Z"
+  "updated": "2026-11-23T12:04:22.869Z"
 }
