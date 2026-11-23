@@ -48,7 +48,7 @@
       "money": 262854,
       "gold": 385,
       "fame": 1581,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 6,
@@ -58,7 +58,7 @@
       "money": 12450636,
       "gold": 4168,
       "fame": 44465,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 7,
@@ -114,11 +114,11 @@
       "rank": 12,
       "steamId": "76561198327689237",
       "name": "Albert",
-      "playTimeSeconds": 168675,
+      "playTimeSeconds": 168722,
       "money": 314145,
       "gold": 11342,
-      "fame": 7163,
-      "isOnline": false
+      "fame": 7162,
+      "isOnline": true
     },
     {
       "rank": 13,
@@ -128,7 +128,7 @@
       "money": 958524,
       "gold": 844,
       "fame": 10348,
-      "isOnline": true
+      "isOnline": false
     },
     {
       "rank": 14,
@@ -201,5 +201,5 @@
       "isOnline": false
     }
   ],
-  "updated": "2026-11-23T03:07:15.155Z"
+  "updated": "2026-11-23T03:08:15.158Z"
 }
