@@ -1,5 +1,26 @@
 {
-  "online": 0,
-  "players": [],
-  "updated": "2026-11-23T12:42:23.171Z"
+  "online": 2,
+  "players": [
+    {
+      "steamId": "76561198798682300",
+      "name": "Melburn",
+      "sessionSeconds": 5,
+      "playTimeSeconds": 37078,
+      "money": 23060,
+      "gold": 50,
+      "fame": 257,
+      "rank": 69
+    },
+    {
+      "steamId": "76561199086334651",
+      "name": "Soda",
+      "sessionSeconds": 5,
+      "playTimeSeconds": 140379,
+      "money": 510834,
+      "gold": 541,
+      "fame": 2709,
+      "rank": 22
+    }
+  ],
+  "updated": "2026-11-23T12:43:23.175Z"
 }
