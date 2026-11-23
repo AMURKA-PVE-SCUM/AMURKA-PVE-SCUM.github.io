@@ -1,16 +1,26 @@
 {
-  "online": 1,
+  "online": 2,
   "players": [
     {
       "steamId": "76561198083018086",
       "name": "Fearless",
       "sessionSeconds": 15,
-      "playTimeSeconds": 337859,
+      "playTimeSeconds": 337919,
       "money": 1743044,
       "gold": 376,
       "fame": 2674,
       "rank": 1
+    },
+    {
+      "steamId": "76561198121549932",
+      "name": "Prostyak",
+      "sessionSeconds": 15,
+      "playTimeSeconds": 55762,
+      "money": 1674320,
+      "gold": 80,
+      "fame": 1641,
+      "rank": 56
     }
   ],
-  "updated": "2026-11-23T01:56:14.710Z"
+  "updated": "2026-11-23T01:57:14.714Z"
 }
